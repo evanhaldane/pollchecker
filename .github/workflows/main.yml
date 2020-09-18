@@ -1,0 +1,38 @@
+# This is a basic workflow to help you get started with Actions
+
+name: check-polls
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  check-polls:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      - name: Decrypt large secret
+        run: ./decrypt_secret.sh
+        env:
+          ENCRYPT_PASSPHRASE: ${{ secrets.ENCRYPT_PASSPHRASE }}
+      - name: Run poll-checking script
+        run: python script.py
+        env:
+         ENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+         RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: Evan Haldane
+          author_email: evanhaldane@gmail.com
+          message: "Autocommit polls-initial.json"
+          add: "polls-initial.json"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
