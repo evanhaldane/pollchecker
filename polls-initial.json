@@ -1,5 +1,718 @@
 [
   {
+    "id": "129539",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-15",
+    "endDate": "2020-09-17",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "53.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "46.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "129526",
+    "subgroup": "All polls",
+    "sampleSize": "2818",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-17",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.77",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.27",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "129525",
+    "subgroup": "All polls",
+    "sampleSize": "2818",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-17",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.26",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.67",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "129533",
+    "subgroup": "All polls",
+    "sampleSize": "440",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://twitter.com/Nate_Cohn/status/1306898180055937024",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-16",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Maine",
+    "district": "2"
+  },
+  {
+    "id": "129508",
+    "subgroup": "All polls",
+    "sampleSize": "653",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/az-me-nc-0920-crosstabs/72d074246b272695/full.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-16",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "129507",
+    "subgroup": "All polls",
+    "sampleSize": "663",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/az-me-nc-0920-crosstabs/72d074246b272695/full.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-16",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "55.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "38.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Maine"
+  },
+  {
+    "id": "129505",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/wisconsin-presidential-election-tracking/",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-07",
+    "endDate": "2020-09-16",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Wisconsin"
+  },
+  {
+    "id": "129536",
+    "subgroup": "All polls",
+    "sampleSize": "809",
+    "population": "rv",
+    "grade": "B-",
+    "url": "https://docs.google.com/spreadsheets/d/1dGGzVgmSaesL4N8JeM07YIfMsT_BJ1yflf-29y_ejcQ/edit",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-15",
+    "endDate": "2020-09-15",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.81",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.21",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "129535",
+    "subgroup": "All polls",
+    "sampleSize": "901",
+    "population": "a",
+    "grade": "B-",
+    "url": "https://docs.google.com/spreadsheets/d/1dGGzVgmSaesL4N8JeM07YIfMsT_BJ1yflf-29y_ejcQ/edit",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-15",
+    "endDate": "2020-09-15",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.84",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.32",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "129506",
+    "subgroup": "All polls",
+    "sampleSize": "653",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/az-me-nc-0920-crosstabs/72d074246b272695/full.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-10",
+    "endDate": "2020-09-15",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "4.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
+    "id": "129530",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://www.woodtv.com/wp-content/uploads/sites/51/2020/09/September-Statewide-EPIC-MRA-poll-091820.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-10",
+    "endDate": "2020-09-15",
+    "pollster": "EPIC-MRA",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "129537",
+    "subgroup": "All polls",
+    "sampleSize": "1007",
+    "population": "rv",
+    "grade": "",
+    "url": "https://navigatorresearch.org/wp-content/uploads/2020/09/Navigator-Tracker-Topline-F09.15.20-PR.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-10",
+    "endDate": "2020-09-14",
+    "pollster": "Global Strategy Group/GBAO (Navigator Research)",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "129527",
+    "subgroup": "All polls",
+    "sampleSize": "2814",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-17",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.76"
+      },
+      {
+        "choice": "Rep",
+        "pct": "45.39"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "129538",
+    "subgroup": "All polls",
+    "sampleSize": "941",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://scottrasmussen.com/generic-ballot-democrats-46-republicans-41/",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-10",
+    "endDate": "2020-09-12",
+    "pollster": "RMG Research",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "46.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "41.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "129534",
+    "subgroup": "All polls",
+    "sampleSize": "663",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://twitter.com/Nate_Cohn/status/1306901222843187200",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-16",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Gideon",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Collins",
+        "pct": "40.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Linn",
+        "pct": "2.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Savage",
+        "pct": "2.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Maine"
+  },
+  {
+    "id": "129512",
+    "subgroup": "All polls",
+    "sampleSize": "653",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/az-me-nc-0920-crosstabs/72d074246b272695/full.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-16",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "37.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Bray",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hayes",
+        "pct": "1.0",
+        "party": "Con"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "129511",
+    "subgroup": "All polls",
+    "sampleSize": "663",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/az-me-nc-0920-crosstabs/72d074246b272695/full.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-16",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Gideon",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Collins",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Maine"
+  },
+  {
+    "id": "129510",
+    "subgroup": "All polls",
+    "sampleSize": "653",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/az-me-nc-0920-crosstabs/72d074246b272695/full.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-10",
+    "endDate": "2020-09-15",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
+    "id": "129531",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://www.woodtv.com/wp-content/uploads/sites/51/2020/09/September-Statewide-EPIC-MRA-poll-091820.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-10",
+    "endDate": "2020-09-15",
+    "pollster": "EPIC-MRA",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "129513",
+    "subgroup": "All polls",
+    "sampleSize": "440",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/az-me-nc-0920-crosstabs/72d074246b272695/full.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-16",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Golden",
+        "pct": "56.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Crafts",
+        "pct": "37.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Maine",
+    "district": "2"
+  },
+  {
+    "id": "129528",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://nmcdn.io/e186d21f8c7946a19faed23c3da2f0da/7c9798eaafd54081881797bf9a163295/files/research/MO-02-poll-091720.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-10",
+    "endDate": "2020-09-14",
+    "pollster": "Normington, Petts & Associates",
+    "answers": [
+      {
+        "choice": "Schupp",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Wagner",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Missouri",
+    "district": "2"
+  },
+  {
+    "id": "129509",
+    "subgroup": "All polls",
+    "sampleSize": "653",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/az-me-nc-0920-crosstabs/72d074246b272695/full.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-16",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "42.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "DiFiore",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Pisano",
+        "pct": "2.0",
+        "party": "Con"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "129480",
     "subgroup": "All polls",
     "sampleSize": "1500",
@@ -1076,6 +1789,38 @@
     "partisan": "REP",
     "state": "Pennsylvania",
     "district": "17"
+  },
+  {
+    "id": "129503",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/314action/status/1306753753131999233",
+    "created_at": "2020-09-17",
+    "startDate": "2020-07-29",
+    "endDate": "2020-08-03",
+    "pollster": "Global Strategy Group",
+    "answers": [
+      {
+        "choice": "Webb",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Good",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 5",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Virginia",
+    "district": "5"
   },
   {
     "id": "129501",
@@ -5315,431 +6060,5 @@
     "partisan": "DEM",
     "state": "Oklahoma",
     "district": "5"
-  },
-  {
-    "id": "129290",
-    "subgroup": "All polls",
-    "sampleSize": "1577",
-    "population": "a",
-    "grade": "B",
-    "url": "https://docs.cdn.yougov.com/ohyg0l1r6v/20200911_yahoo_election_toplines.pdf",
-    "created_at": "2020-09-12",
-    "startDate": "2020-09-09",
-    "endDate": "2020-09-11",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "41.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "51.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "129280",
-    "subgroup": "All polls",
-    "sampleSize": "684",
-    "population": "lv",
-    "grade": "C",
-    "url": "https://gravismarketing.com/wp-content/uploads/2020/09/Arizona-September-11-2020.pdf",
-    "created_at": "2020-09-12",
-    "startDate": "2020-09-10",
-    "endDate": "2020-09-11",
-    "pollster": "Gravis Marketing",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "50.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "48.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Arizona"
-  },
-  {
-    "id": "129277",
-    "subgroup": "All polls",
-    "sampleSize": "445",
-    "population": "lv",
-    "grade": "A+",
-    "url": "https://int.nyt.com/data/documenttools/crosstabs-mn-nh-nv-wi/aefa3a3ec36370e9/full.pdf",
-    "created_at": "2020-09-12",
-    "startDate": "2020-09-08",
-    "endDate": "2020-09-11",
-    "pollster": "Siena College/The New York Times Upshot",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "45.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Jorgensen",
-        "pct": "4.0",
-        "party": "Lib"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "New Hampshire"
-  },
-  {
-    "id": "129274",
-    "subgroup": "All polls",
-    "sampleSize": "2694",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-09-12",
-    "startDate": "2020-09-05",
-    "endDate": "2020-09-11",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "54.33",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "39.96",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "129273",
-    "subgroup": "All polls",
-    "sampleSize": "2694",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-09-12",
-    "startDate": "2020-09-05",
-    "endDate": "2020-09-11",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "52.82",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "40.62",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "129278",
-    "subgroup": "All polls",
-    "sampleSize": "760",
-    "population": "lv",
-    "grade": "A+",
-    "url": "https://int.nyt.com/data/documenttools/crosstabs-mn-nh-nv-wi/aefa3a3ec36370e9/full.pdf",
-    "created_at": "2020-09-12",
-    "startDate": "2020-09-08",
-    "endDate": "2020-09-10",
-    "pollster": "Siena College/The New York Times Upshot",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "48.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "43.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Jorgensen",
-        "pct": "2.0",
-        "party": "Lib"
-      },
-      {
-        "choice": "Hawkins",
-        "pct": "0.0",
-        "party": "Gre"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Wisconsin"
-  },
-  {
-    "id": "129276",
-    "subgroup": "All polls",
-    "sampleSize": "462",
-    "population": "lv",
-    "grade": "A+",
-    "url": "https://int.nyt.com/data/documenttools/crosstabs-mn-nh-nv-wi/aefa3a3ec36370e9/full.pdf",
-    "created_at": "2020-09-12",
-    "startDate": "2020-09-08",
-    "endDate": "2020-09-10",
-    "pollster": "Siena College/The New York Times Upshot",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "46.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Jorgensen",
-        "pct": "3.0",
-        "party": "Lib"
-      },
-      {
-        "choice": "Hawkins",
-        "pct": "0.0",
-        "party": "Gre"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Nevada"
-  },
-  {
-    "id": "129275",
-    "subgroup": "All polls",
-    "sampleSize": "814",
-    "population": "lv",
-    "grade": "A+",
-    "url": "https://int.nyt.com/data/documenttools/crosstabs-mn-nh-nv-wi/aefa3a3ec36370e9/full.pdf",
-    "created_at": "2020-09-12",
-    "startDate": "2020-09-08",
-    "endDate": "2020-09-10",
-    "pollster": "Siena College/The New York Times Upshot",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "50.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "41.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Jorgensen",
-        "pct": "2.0",
-        "party": "Lib"
-      },
-      {
-        "choice": "Hawkins",
-        "pct": "1.0",
-        "party": "Gre"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Minnesota"
-  },
-  {
-    "id": "129271",
-    "subgroup": "All polls",
-    "sampleSize": "797",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://morningconsult.com/form/wisconsin-presidential-election-tracking/",
-    "created_at": "2020-09-12",
-    "startDate": "2020-09-01",
-    "endDate": "2020-09-10",
-    "pollster": "Morning Consult",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "50.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "43.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Wisconsin"
-  },
-  {
-    "id": "129291",
-    "subgroup": "All polls",
-    "sampleSize": "1219",
-    "population": "rv",
-    "grade": "B",
-    "url": "https://docs.cdn.yougov.com/c97p828als/20200911_yahoo_coronavirus_crosstabs.pdf",
-    "created_at": "2020-09-12",
-    "startDate": "2020-09-09",
-    "endDate": "2020-09-11",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Dem",
-        "pct": "49.0"
-      },
-      {
-        "choice": "Rep",
-        "pct": "38.0"
-      }
-    ],
-    "type": "generic-ballot",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "129272",
-    "subgroup": "All polls",
-    "sampleSize": "2691",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-09-12",
-    "startDate": "2020-09-05",
-    "endDate": "2020-09-11",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Dem",
-        "pct": "51.49"
-      },
-      {
-        "choice": "Rep",
-        "pct": "43.5"
-      }
-    ],
-    "type": "generic-ballot",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "129281",
-    "subgroup": "All polls",
-    "sampleSize": "684",
-    "population": "lv",
-    "grade": "C",
-    "url": "https://gravismarketing.com/wp-content/uploads/2020/09/Arizona-September-11-2020.pdf",
-    "created_at": "2020-09-12",
-    "startDate": "2020-09-10",
-    "endDate": "2020-09-11",
-    "pollster": "Gravis Marketing",
-    "answers": [
-      {
-        "choice": "Kelly",
-        "pct": "48.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "McSally",
-        "pct": "43.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class III",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Arizona"
-  },
-  {
-    "id": "129279",
-    "subgroup": "All polls",
-    "sampleSize": "814",
-    "population": "lv",
-    "grade": "A+",
-    "url": "https://int.nyt.com/data/documenttools/crosstabs-mn-nh-nv-wi/aefa3a3ec36370e9/full.pdf",
-    "created_at": "2020-09-12",
-    "startDate": "2020-09-08",
-    "endDate": "2020-09-10",
-    "pollster": "Siena College/The New York Times Upshot",
-    "answers": [
-      {
-        "choice": "Smith",
-        "pct": "49.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Lewis",
-        "pct": "40.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class II",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Minnesota"
   }
 ]
