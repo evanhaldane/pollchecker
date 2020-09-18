@@ -22,6 +22,6 @@ if new_poll_found:
     print("sending email...")
     send_message()
     print("email sent")
-    with open("polls-initial.json", "w") as f:
+    with open("polls-initial.json", "wb") as f:
         f.write(r.content)
         print("saving new polls-initial.json")
