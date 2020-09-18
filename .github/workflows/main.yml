@@ -21,6 +21,12 @@ jobs:
         run: ./decrypt_secret.sh
         env:
           ENCRYPT_PASSPHRASE: ${{ secrets.ENCRYPT_PASSPHRASE }}
+      - name: Setup Python Environment
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install Requirements
+        run: pip install -r requirements.txt
       - name: Run poll-checking script
         run: python script.py
         env:
