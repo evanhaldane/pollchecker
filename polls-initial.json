@@ -1,5 +1,59 @@
 [
   {
+    "id": "129543",
+    "subgroup": "All polls",
+    "sampleSize": "826",
+    "population": "rv",
+    "grade": "B",
+    "url": "https://today.yougov.com/_pubapis/v5/us/trackers/donald-trump-approval-daily/download/",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-15",
+    "endDate": "2020-09-17",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "51.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "129542",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "a",
+    "grade": "B",
+    "url": "https://today.yougov.com/_pubapis/v5/us/trackers/donald-trump-approval-daily/download/",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-15",
+    "endDate": "2020-09-17",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "49.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "129539",
     "subgroup": "All polls",
     "sampleSize": "1500",
@@ -24,6 +78,234 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "129574",
+    "subgroup": "All polls",
+    "sampleSize": "1090",
+    "population": "rv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/2020_reuters_tracking_-_core_political_general_election_tracker_09_18_2020.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-15",
+    "endDate": "2020-09-17",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "42.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "55.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "129573",
+    "subgroup": "All polls",
+    "sampleSize": "1288",
+    "population": "a",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/2020_reuters_tracking_-_core_political_general_election_tracker_09_18_2020.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-15",
+    "endDate": "2020-09-17",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "129559",
+    "subgroup": "All polls",
+    "sampleSize": "723",
+    "population": "lv",
+    "grade": "A+",
+    "url": "http://maristpoll.marist.edu/wp-content/uploads/2020/09/NPR_PBS-NewsHour_Marist-Poll_USA-NOS-and-Tables_202009171415.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-16",
+    "pollster": "Marist College",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "43.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "129558",
+    "subgroup": "All polls",
+    "sampleSize": "964",
+    "population": "rv",
+    "grade": "A+",
+    "url": "http://maristpoll.marist.edu/wp-content/uploads/2020/09/NPR_PBS-NewsHour_Marist-Poll_USA-NOS-and-Tables_202009171415.pdff",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-16",
+    "pollster": "Marist College",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "42.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "129557",
+    "subgroup": "All polls",
+    "sampleSize": "1152",
+    "population": "a",
+    "grade": "A+",
+    "url": "http://maristpoll.marist.edu/wp-content/uploads/2020/09/NPR_PBS-NewsHour_Marist-Poll_USA-NOS-and-Tables_202009171415.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-16",
+    "pollster": "Marist College",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "40.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "52.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "129572",
+    "subgroup": "All polls",
+    "sampleSize": "834",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/2020_reuters_tracking_-_core_political_general_election_tracker_09_18_2020.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-15",
+    "endDate": "2020-09-17",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "129571",
+    "subgroup": "All polls",
+    "sampleSize": "1090",
+    "population": "rv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/2020_reuters_tracking_-_core_political_general_election_tracker_09_18_2020.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-15",
+    "endDate": "2020-09-17",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "129570",
+    "subgroup": "All polls",
+    "sampleSize": "1288",
+    "population": "a",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/2020_reuters_tracking_-_core_political_general_election_tracker_09_18_2020.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-15",
+    "endDate": "2020-09-17",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "37.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
     "state": "National"
   },
   {
@@ -87,6 +369,88 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "129565",
+    "subgroup": "All polls",
+    "sampleSize": "636",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/latest-us-swing-states-voting-intention-12-16-september/",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-16",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Wisconsin"
+  },
+  {
+    "id": "129560",
+    "subgroup": "All polls",
+    "sampleSize": "855",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/latest-us-swing-states-voting-intention-12-16-september/",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-16",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "129533",
@@ -193,6 +557,150 @@
     "state": "Maine"
   },
   {
+    "id": "129556",
+    "subgroup": "All polls",
+    "sampleSize": "723",
+    "population": "lv",
+    "grade": "A+",
+    "url": "http://maristpoll.marist.edu/wp-content/uploads/2020/09/NPR_PBS-NewsHour_Marist-Poll_USA-NOS-and-Tables_202009171415.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-16",
+    "pollster": "Marist College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "5.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "2.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "129555",
+    "subgroup": "All polls",
+    "sampleSize": "723",
+    "population": "lv",
+    "grade": "A+",
+    "url": "http://maristpoll.marist.edu/wp-content/uploads/2020/09/NPR_PBS-NewsHour_Marist-Poll_USA-NOS-and-Tables_202009171415.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-16",
+    "pollster": "Marist College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "129554",
+    "subgroup": "All polls",
+    "sampleSize": "964",
+    "population": "rv",
+    "grade": "A+",
+    "url": "http://maristpoll.marist.edu/wp-content/uploads/2020/09/NPR_PBS-NewsHour_Marist-Poll_USA-NOS-and-Tables_202009171415.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-16",
+    "pollster": "Marist College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "5.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "2.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "129553",
+    "subgroup": "All polls",
+    "sampleSize": "964",
+    "population": "rv",
+    "grade": "A+",
+    "url": "http://maristpoll.marist.edu/wp-content/uploads/2020/09/NPR_PBS-NewsHour_Marist-Poll_USA-NOS-and-Tables_202009171415.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-16",
+    "pollster": "Marist College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "129505",
     "subgroup": "All polls",
     "sampleSize": "800",
@@ -286,6 +794,175 @@
     "state": "National"
   },
   {
+    "id": "129563",
+    "subgroup": "All polls",
+    "sampleSize": "1092",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/latest-us-swing-states-voting-intention-12-16-september/",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-15",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "129547",
+    "subgroup": "All polls",
+    "sampleSize": "704",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://drive.google.com/file/d/1glYrDb6O5w2cJH2EjGjx9oIN7Z301b_I/view",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-15",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Wisconsin"
+  },
+  {
+    "id": "129546",
+    "subgroup": "All polls",
+    "sampleSize": "549",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://drive.google.com/file/d/1-sIWzRRaoTXBYsilhoKQwy0GjrBhtPi4/view",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-15",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "129545",
+    "subgroup": "All polls",
+    "sampleSize": "556",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://drive.google.com/file/d/1TYPFg4nrZYMUwC3cFX8-hMGWESa72wMh/view",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-15",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Ohio"
+  },
+  {
+    "id": "129544",
+    "subgroup": "All polls",
+    "sampleSize": "517",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://drive.google.com/file/d/1MnN8_rRNinle5U0mqlkF4Gs2XOhROk_w/view",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-15",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Michigan"
+  },
+  {
     "id": "129506",
     "subgroup": "All polls",
     "sampleSize": "653",
@@ -351,6 +1028,160 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
+  },
+  {
+    "id": "129564",
+    "subgroup": "All polls",
+    "sampleSize": "1036",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/latest-us-swing-states-voting-intention-12-16-september/",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-14",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "129562",
+    "subgroup": "All polls",
+    "sampleSize": "930",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/latest-us-swing-states-voting-intention-12-16-september/",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-14",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "129561",
+    "subgroup": "All polls",
+    "sampleSize": "1158",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/latest-us-swing-states-voting-intention-12-16-september/",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-14",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
+    "id": "129540",
+    "subgroup": "All polls",
+    "sampleSize": "1108",
+    "population": "a",
+    "grade": "",
+    "url": "https://apnorc.org/wp-content/uploads/2020/09/topline_september_campaign.pdf",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-14",
+    "pollster": "AP-NORC",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "129537",
@@ -438,6 +1269,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "129567",
+    "subgroup": "All polls",
+    "sampleSize": "855",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-12-16-september/",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-16",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "35.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "129534",
@@ -550,6 +1411,36 @@
     "state": "Maine"
   },
   {
+    "id": "129569",
+    "subgroup": "All polls",
+    "sampleSize": "1092",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-12-16-september/",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-15",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "38.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "129510",
     "subgroup": "All polls",
     "sampleSize": "653",
@@ -599,6 +1490,36 @@
       {
         "choice": "James",
         "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "129568",
+    "subgroup": "All polls",
+    "sampleSize": "930",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-12-16-september/",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-14",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "35.0",
         "party": "Rep"
       }
     ],
@@ -703,6 +1624,36 @@
         "choice": "Pisano",
         "pct": "2.0",
         "party": "Con"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "129566",
+    "subgroup": "All polls",
+    "sampleSize": "1092",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/latest-usa-swing-state-senate-and-governor-voting-intention-12-16-september/",
+    "created_at": "2020-09-18",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-15",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "55.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "36.0",
+        "party": "Rep"
       }
     ],
     "type": "governor",
@@ -1732,7 +2683,7 @@
     "sampleSize": "400",
     "population": "lv",
     "grade": "B",
-    "url": "https://twitter.com/AlexClearfield/status/1306701508436725762",
+    "url": "http://go2.nationaljournal.com/v/n0YG02Q02FTn0EE02o02kDw",
     "created_at": "2020-09-17",
     "startDate": "2020-09-04",
     "endDate": "2020-09-06",
