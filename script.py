@@ -25,3 +25,5 @@ if new_poll_found:
     with open("polls-initial.json", "wb") as f:
         f.write(r.content)
         print("saving new polls-initial.json")
+else:
+    print("No new polls found.")
