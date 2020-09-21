@@ -1,5 +1,366 @@
 [
   {
+    "id": "129673",
+    "subgroup": "All polls",
+    "sampleSize": "994",
+    "population": "rv",
+    "grade": "B",
+    "url": "https://americanresearchgroup.com/economy/",
+    "created_at": "2020-09-21",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-20",
+    "pollster": "American Research Group",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "35.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "60.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "129672",
+    "subgroup": "All polls",
+    "sampleSize": "1100",
+    "population": "a",
+    "grade": "B",
+    "url": "https://americanresearchgroup.com/economy/",
+    "created_at": "2020-09-21",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-20",
+    "pollster": "American Research Group",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "35.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "59.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "129669",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2020-09-21",
+    "startDate": "2020-09-16",
+    "endDate": "2020-09-20",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "51.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "48.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "129683",
+    "subgroup": "All polls",
+    "sampleSize": "233",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://assets.documentcloud.org/documents/7214149/MaineCrosstabs.pdf",
+    "created_at": "2020-09-21",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-20",
+    "pollster": "Suffolk University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.78",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.49",
+        "party": "Rep"
+      },
+      {
+        "choice": "De La Fuente",
+        "pct": "0.0",
+        "party": "Oth"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.43",
+        "party": "Gre"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "0.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Maine",
+    "district": "2"
+  },
+  {
+    "id": "129682",
+    "subgroup": "All polls",
+    "sampleSize": "233",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://assets.documentcloud.org/documents/7214149/MaineCrosstabs.pdf",
+    "created_at": "2020-09-21",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-20",
+    "pollster": "Suffolk University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.78",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.49",
+        "party": "Rep"
+      },
+      {
+        "choice": "De La Fuente",
+        "pct": "0.0",
+        "party": "Oth"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "0.43",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Maine",
+    "district": "2"
+  },
+  {
+    "id": "129681",
+    "subgroup": "All polls",
+    "sampleSize": "267",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://assets.documentcloud.org/documents/7214149/MaineCrosstabs.pdf",
+    "created_at": "2020-09-21",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-20",
+    "pollster": "Suffolk University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "55.43",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "33.71",
+        "party": "Rep"
+      },
+      {
+        "choice": "De La Fuente",
+        "pct": "0.37",
+        "party": "Oth"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "0.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Maine",
+    "district": "1"
+  },
+  {
+    "id": "129680",
+    "subgroup": "All polls",
+    "sampleSize": "267",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://assets.documentcloud.org/documents/7214149/MaineCrosstabs.pdf",
+    "created_at": "2020-09-21",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-20",
+    "pollster": "Suffolk University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.31",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "32.58",
+        "party": "Rep"
+      },
+      {
+        "choice": "De La Fuente",
+        "pct": "0.37",
+        "party": "Oth"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.37",
+        "party": "Gre"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.5",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Maine",
+    "district": "1"
+  },
+  {
+    "id": "129679",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://assets.documentcloud.org/documents/7214149/MaineCrosstabs.pdf",
+    "created_at": "2020-09-21",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-20",
+    "pollster": "Suffolk University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.2",
+        "party": "Rep"
+      },
+      {
+        "choice": "De La Fuente",
+        "pct": "0.2",
+        "party": "Oth"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.2",
+        "party": "Gre"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "0.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Maine"
+  },
+  {
+    "id": "129678",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://assets.documentcloud.org/documents/7214149/MaineCrosstabs.pdf",
+    "created_at": "2020-09-21",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-20",
+    "pollster": "Suffolk University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "38.6",
+        "party": "Rep"
+      },
+      {
+        "choice": "De La Fuente",
+        "pct": "0.2",
+        "party": "Oth"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.2",
+        "party": "Gre"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Maine"
+  },
+  {
     "id": "129656",
     "subgroup": "All polls",
     "sampleSize": "2589",
@@ -212,7 +573,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Georgia"
@@ -621,6 +982,42 @@
     "state": "National"
   },
   {
+    "id": "129663",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://consumerenergyalliance.org/cms/wp-content/uploads/2020/09/Louisiana-CEA-Track.pdf",
+    "created_at": "2020-09-21",
+    "startDate": "2020-09-02",
+    "endDate": "2020-09-05",
+    "pollster": "The Tyson Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Louisiana"
+  },
+  {
     "id": "129641",
     "subgroup": "All polls",
     "sampleSize": "2522",
@@ -807,6 +1204,37 @@
     "state": "National"
   },
   {
+    "id": "129664",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://consumerenergyalliance.org/cms/wp-content/uploads/2020/09/Mississippi-CEA-Track.pdf",
+    "created_at": "2020-09-21",
+    "startDate": "2020-08-28",
+    "endDate": "2020-08-30",
+    "pollster": "The Tyson Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "40.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Mississippi"
+  },
+  {
     "id": "129635",
     "subgroup": "All polls",
     "sampleSize": "2511",
@@ -960,6 +1388,37 @@
     "inAvg": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "129662",
+    "subgroup": "All polls",
+    "sampleSize": "906",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://consumerenergyalliance.org/cms/wp-content/uploads/2020/09/CEA-TEXAS-Track.pdf",
+    "created_at": "2020-09-21",
+    "startDate": "2020-08-20",
+    "endDate": "2020-08-25",
+    "pollster": "The Tyson Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Texas"
   },
   {
     "id": "129630",
@@ -1148,6 +1607,37 @@
     "state": "National"
   },
   {
+    "id": "129665",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://consumerenergyalliance.org/cms/wp-content/uploads/2020/09/CEA-AL-Track.pdf",
+    "created_at": "2020-09-21",
+    "startDate": "2020-08-17",
+    "endDate": "2020-08-19",
+    "pollster": "The Tyson Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Alabama"
+  },
+  {
     "id": "129624",
     "subgroup": "All polls",
     "sampleSize": "2098",
@@ -1241,6 +1731,42 @@
     "state": "National"
   },
   {
+    "id": "129666",
+    "subgroup": "All polls",
+    "sampleSize": "750",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://consumerenergyalliance.org/cms/wp-content/uploads/2020/09/CEA-FL-Track.pdf",
+    "created_at": "2020-09-21",
+    "startDate": "2020-08-11",
+    "endDate": "2020-08-15",
+    "pollster": "The Tyson Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
     "id": "129621",
     "subgroup": "All polls",
     "sampleSize": "2636",
@@ -1267,6 +1793,86 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "129677",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://assets.documentcloud.org/documents/7214149/MaineCrosstabs.pdf",
+    "created_at": "2020-09-21",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-20",
+    "pollster": "Suffolk University",
+    "answers": [
+      {
+        "choice": "Gideon",
+        "pct": "49.2",
+        "party": "Dem"
+      },
+      {
+        "choice": "Collins",
+        "pct": "42.2",
+        "party": "Rep"
+      },
+      {
+        "choice": "Linn",
+        "pct": "0.6",
+        "party": "Ind"
+      },
+      {
+        "choice": "Savage",
+        "pct": "0.4",
+        "party": "Ind"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Maine"
+  },
+  {
+    "id": "129676",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://assets.documentcloud.org/documents/7214149/MaineCrosstabs.pdf",
+    "created_at": "2020-09-21",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-20",
+    "pollster": "Suffolk University",
+    "answers": [
+      {
+        "choice": "Gideon",
+        "pct": "46.2",
+        "party": "Dem"
+      },
+      {
+        "choice": "Collins",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Linn",
+        "pct": "1.6",
+        "party": "Ind"
+      },
+      {
+        "choice": "Savage",
+        "pct": "3.8",
+        "party": "Ind"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Maine"
   },
   {
     "id": "129658",
@@ -1315,6 +1921,66 @@
     "state": "Georgia"
   },
   {
+    "id": "129668",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://consumerenergyalliance.org/cms/wp-content/uploads/2020/09/Mississippi-CEA-Track.pdf",
+    "created_at": "2020-09-21",
+    "startDate": "2020-08-28",
+    "endDate": "2020-08-30",
+    "pollster": "The Tyson Group",
+    "answers": [
+      {
+        "choice": "Espy",
+        "pct": "40.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Hyde-Smith",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Mississippi"
+  },
+  {
+    "id": "129667",
+    "subgroup": "All polls",
+    "sampleSize": "906",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://consumerenergyalliance.org/cms/wp-content/uploads/2020/09/CEA-TEXAS-Track.pdf",
+    "created_at": "2020-09-21",
+    "startDate": "2020-08-20",
+    "endDate": "2020-08-25",
+    "pollster": "The Tyson Group",
+    "answers": [
+      {
+        "choice": "Hegar",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Cornyn",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Texas"
+  },
+  {
     "id": "129657",
     "subgroup": "All polls",
     "sampleSize": "600",
@@ -1361,6 +2027,98 @@
     "state": "Georgia"
   },
   {
+    "id": "129674",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://consumerenergyalliance.org/cms/wp-content/uploads/2020/09/Mississippi-CEA-Track.pdf",
+    "created_at": "2020-09-21",
+    "startDate": "2020-03-10",
+    "endDate": "2020-03-12",
+    "pollster": "The Tyson Group",
+    "answers": [
+      {
+        "choice": "Espy",
+        "pct": "28.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Hyde-Smith",
+        "pct": "54.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Mississippi"
+  },
+  {
+    "id": "129671",
+    "subgroup": "All polls",
+    "sampleSize": "1005",
+    "population": "lv",
+    "grade": "",
+    "url": "https://consumerenergyalliance.org/cms/wp-content/uploads/2018/11/Florida-Energy-Production-Tables.pdf",
+    "created_at": "2020-09-21",
+    "startDate": "2018-10-25",
+    "endDate": "2018-10-31",
+    "pollster": "MWR Strategies",
+    "answers": [
+      {
+        "choice": "Nelson",
+        "pct": "40.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Scott",
+        "pct": "42.8",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class I",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2018",
+    "state": "Florida"
+  },
+  {
+    "id": "129661",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.politicspa.com/exclusive-gop-poll-fitzpatrick-52-finello-36/95862/",
+    "created_at": "2020-09-21",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-16",
+    "pollster": "American Viewpoint",
+    "answers": [
+      {
+        "choice": "Finello",
+        "pct": "36.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Fitzpatrick",
+        "pct": "52.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Pennsylvania",
+    "district": "1"
+  },
+  {
     "id": "129660",
     "subgroup": "All polls",
     "sampleSize": "759",
@@ -1391,6 +2149,36 @@
     "partisan": "REP",
     "state": "Illinois",
     "district": "3"
+  },
+  {
+    "id": "129670",
+    "subgroup": "All polls",
+    "sampleSize": "1005",
+    "population": "lv",
+    "grade": "",
+    "url": "https://consumerenergyalliance.org/cms/wp-content/uploads/2018/11/Florida-Energy-Production-Tables.pdf",
+    "created_at": "2020-09-21",
+    "startDate": "2018-10-25",
+    "endDate": "2018-10-31",
+    "pollster": "MWR Strategies",
+    "answers": [
+      {
+        "choice": "Gillum",
+        "pct": "41.3",
+        "party": "Dem"
+      },
+      {
+        "choice": "DeSantis",
+        "pct": "40.3",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2018",
+    "state": "Florida"
   },
   {
     "id": "129603",
