@@ -1,5 +1,871 @@
 [
   {
+    "id": "129827",
+    "subgroup": "All polls",
+    "sampleSize": "36454",
+    "population": "a",
+    "grade": "D-",
+    "url": "https://www.surveymonkey.com/curiosity/nbc-poll-covid-sept20/",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-20",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "44.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "54.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "129824",
+    "subgroup": "All polls",
+    "sampleSize": "5482",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-08",
+    "endDate": "2020-09-21",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.35",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.69",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "129823",
+    "subgroup": "All polls",
+    "sampleSize": "5482",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-08",
+    "endDate": "2020-09-21",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.42",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.87",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "129822",
+    "subgroup": "All polls",
+    "sampleSize": "5369",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-08",
+    "endDate": "2020-09-21",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.15",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.72",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "129828",
+    "subgroup": "All polls",
+    "sampleSize": "830",
+    "population": "lv",
+    "grade": "",
+    "url": "https://leger360.com/wp-content/uploads/2020/09/Legers-Weekly-Survey-September-21st-2020-min.pdf",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-20",
+    "pollster": "Léger",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "129839",
+    "subgroup": "All polls",
+    "sampleSize": "1150",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.ajc.com/politics/ajc-poll-race-for-president-senate-contests-in-georgia-too-close-to-call/FCIZO2M5ZNH2XAQBRMAXJLFQVE/",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-20",
+    "pollster": "University of Georgia",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.3",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.4",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "129829",
+    "subgroup": "All polls",
+    "sampleSize": "764",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-20",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "South Carolina"
+  },
+  {
+    "id": "129847",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.realclearpolitics.com/docs/2020/MRG_Michigan_September_2020.pdf",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-19",
+    "pollster": "Marketing Resource Group (MRG)",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "129845",
+    "subgroup": "All polls",
+    "sampleSize": "658",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://assets.documentcloud.org/documents/7215236/IowaPollMethodologyTrumpBiden.pdf",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-17",
+    "pollster": "Selzer & Co.",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
+    "id": "129842",
+    "subgroup": "All polls",
+    "sampleSize": "586",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://projects.vpr.org/vpr-vermont-pbs-2020-polls-september",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-03",
+    "endDate": "2020-09-15",
+    "pollster": "Braun Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "55.73",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "32.46",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Vermont"
+  },
+  {
+    "id": "129825",
+    "subgroup": "All polls",
+    "sampleSize": "5474",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-08",
+    "endDate": "2020-09-21",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.65"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.76"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "129841",
+    "subgroup": "All polls",
+    "sampleSize": "1150",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.ajc.com/politics/ajc-poll-race-for-president-senate-contests-in-georgia-too-close-to-call/FCIZO2M5ZNH2XAQBRMAXJLFQVE/",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-20",
+    "pollster": "University of Georgia",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "20.3",
+        "party": "Dem"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "23.5",
+        "party": "Rep"
+      },
+      {
+        "choice": "Collins",
+        "pct": "20.5",
+        "party": "Rep"
+      },
+      {
+        "choice": "Lieberman",
+        "pct": "10.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tarver",
+        "pct": "4.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Slowinski",
+        "pct": "2.9",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "129840",
+    "subgroup": "All polls",
+    "sampleSize": "1150",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.ajc.com/politics/ajc-poll-race-for-president-senate-contests-in-georgia-too-close-to-call/FCIZO2M5ZNH2XAQBRMAXJLFQVE/",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-20",
+    "pollster": "University of Georgia",
+    "answers": [
+      {
+        "choice": "Ossoff",
+        "pct": "44.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perdue",
+        "pct": "47.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Hazel",
+        "pct": "3.6",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "129838",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-20",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Hickenlooper",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Gardner",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Colorado"
+  },
+  {
+    "id": "129837",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-20",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Ossoff",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perdue",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "129836",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-20",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Jones",
+        "pct": "34.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tuberville",
+        "pct": "52.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Alabama"
+  },
+  {
+    "id": "129835",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-20",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Hegar",
+        "pct": "39.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Cornyn",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Texas"
+  },
+  {
+    "id": "129834",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-20",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "129833",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-20",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "McGrath",
+        "pct": "37.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McConnell",
+        "pct": "52.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Kentucky"
+  },
+  {
+    "id": "129832",
+    "subgroup": "All polls",
+    "sampleSize": "764",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-20",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Harrison",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Graham",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "South Carolina"
+  },
+  {
+    "id": "129831",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-20",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
+    "id": "129830",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020/09/22/majority-makers-south-carolina-senate-harrison-graham/",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-20",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "38.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "129848",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.realclearpolitics.com/docs/2020/MRG_Michigan_September_2020.pdf",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-19",
+    "pollster": "Marketing Resource Group (MRG)",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "129826",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.politico.com/f/?id=00000174-b2e8-d59c-a174-f6fc6db30000",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-16",
+    "pollster": "Fabrizio, Lee & Associates",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Arizona"
+  },
+  {
+    "id": "129844",
+    "subgroup": "All polls",
+    "sampleSize": "586",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://projects.vpr.org/vpr-vermont-pbs-2020-polls-september",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-03",
+    "endDate": "2020-09-15",
+    "pollster": "Braun Research",
+    "answers": [
+      {
+        "choice": "Welch",
+        "pct": "56.61",
+        "party": "Dem"
+      },
+      {
+        "choice": "Berry",
+        "pct": "17.58",
+        "party": "Rep"
+      },
+      {
+        "choice": "Becker",
+        "pct": "1.9",
+        "party": "Ind"
+      },
+      {
+        "choice": "Horne",
+        "pct": "1.23",
+        "party": "Ind"
+      },
+      {
+        "choice": "Orr",
+        "pct": "0.43",
+        "party": "Ind"
+      },
+      {
+        "choice": "Trudell",
+        "pct": "0.16",
+        "party": "Ind"
+      },
+      {
+        "choice": "Helali",
+        "pct": "0.67",
+        "party": "Com"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Vermont",
+    "district": "1"
+  },
+  {
+    "id": "129843",
+    "subgroup": "All polls",
+    "sampleSize": "586",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://projects.vpr.org/vpr-vermont-pbs-2020-polls-september",
+    "created_at": "2020-09-22",
+    "startDate": "2020-09-03",
+    "endDate": "2020-09-15",
+    "pollster": "Braun Research",
+    "answers": [
+      {
+        "choice": "Zuckerman",
+        "pct": "23.96",
+        "party": "Dem"
+      },
+      {
+        "choice": "Scott",
+        "pct": "55.33",
+        "party": "Rep"
+      },
+      {
+        "choice": "Billado",
+        "pct": "0.44",
+        "party": "Ind"
+      },
+      {
+        "choice": "Devost",
+        "pct": "0.43",
+        "party": "Ind"
+      },
+      {
+        "choice": "Dickerson",
+        "pct": "0.24",
+        "party": "Un"
+      },
+      {
+        "choice": "Hoyt",
+        "pct": "1.08",
+        "party": "Ind"
+      },
+      {
+        "choice": "Whitney",
+        "pct": "0.61",
+        "party": "Ind"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Vermont"
+  },
+  {
     "id": "129807",
     "subgroup": "All polls",
     "sampleSize": "2804",
@@ -3720,6 +4586,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
+  },
+  {
+    "id": "129821",
+    "subgroup": "All polls",
+    "sampleSize": "825",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://pollssurveys.com/wp-content/uploads/2020/06/2020-06-24-Wisconsin-Biden_Trump.pdf",
+    "created_at": "2020-09-21",
+    "startDate": "2020-06-20",
+    "endDate": "2020-06-24",
+    "pollster": "Ogden & Fry",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.2",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.4",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Wisconsin"
   },
   {
     "id": "129801",
@@ -8848,1350 +9745,5 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "North Carolina"
-  },
-  {
-    "id": "129458",
-    "subgroup": "All polls",
-    "sampleSize": "841",
-    "population": "rv",
-    "grade": "B",
-    "url": "https://docs.cdn.yougov.com/0yvk2ms1ly/tabs_Trump_Tweets_20200914.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-14",
-    "endDate": "2020-09-16",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "41.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "57.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "129457",
-    "subgroup": "All polls",
-    "sampleSize": "1000",
-    "population": "a",
-    "grade": "B",
-    "url": "https://docs.cdn.yougov.com/0yvk2ms1ly/tabs_Trump_Tweets_20200914.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-14",
-    "endDate": "2020-09-16",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "42.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "53.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "129433",
-    "subgroup": "All polls",
-    "sampleSize": "806",
-    "population": "rv",
-    "grade": "B",
-    "url": "https://docs.cdn.yougov.com/leup4mgcko/tabs_Trump_Tweets_20200913.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-13",
-    "endDate": "2020-09-16",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "42.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "57.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "129432",
-    "subgroup": "All polls",
-    "sampleSize": "1000",
-    "population": "a",
-    "grade": "B",
-    "url": "https://docs.cdn.yougov.com/leup4mgcko/tabs_Trump_Tweets_20200913.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-13",
-    "endDate": "2020-09-16",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "41.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "53.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "129414",
-    "subgroup": "All polls",
-    "sampleSize": "1062",
-    "population": "lv",
-    "grade": "B",
-    "url": "https://docs.cdn.yougov.com/t0hi1tcqs5/econTabReport.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-13",
-    "endDate": "2020-09-15",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "45.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "54.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "129413",
-    "subgroup": "All polls",
-    "sampleSize": "1192",
-    "population": "rv",
-    "grade": "B",
-    "url": "https://docs.cdn.yougov.com/t0hi1tcqs5/econTabReport.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-13",
-    "endDate": "2020-09-15",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "45.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "53.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "129412",
-    "subgroup": "All polls",
-    "sampleSize": "1500",
-    "population": "a",
-    "grade": "B",
-    "url": "https://docs.cdn.yougov.com/t0hi1tcqs5/econTabReport.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-13",
-    "endDate": "2020-09-15",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "45.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "51.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "129408",
-    "subgroup": "All polls",
-    "sampleSize": "1500",
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-13",
-    "endDate": "2020-09-15",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "52.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "46.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "129427",
-    "subgroup": "All polls",
-    "sampleSize": "859",
-    "population": "lv",
-    "grade": "B-",
-    "url": "https://fingfx.thomsonreuters.com/gfx/mkt/qzjvqnkqrpx/Topline%20Reuters%20General%20Election%20Tracker%2009%2015%202020.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-11",
-    "endDate": "2020-09-15",
-    "pollster": "Ipsos",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "43.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "56.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "129426",
-    "subgroup": "All polls",
-    "sampleSize": "1133",
-    "population": "rv",
-    "grade": "B-",
-    "url": "https://fingfx.thomsonreuters.com/gfx/mkt/qzjvqnkqrpx/Topline%20Reuters%20General%20Election%20Tracker%2009%2015%202020.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-11",
-    "endDate": "2020-09-15",
-    "pollster": "Ipsos",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "42.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "56.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "129425",
-    "subgroup": "All polls",
-    "sampleSize": "1358",
-    "population": "a",
-    "grade": "B-",
-    "url": "https://fingfx.thomsonreuters.com/gfx/mkt/qzjvqnkqrpx/Topline%20Reuters%20General%20Election%20Tracker%2009%2015%202020.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-11",
-    "endDate": "2020-09-15",
-    "pollster": "Ipsos",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "41.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "55.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "129403",
-    "subgroup": "All polls",
-    "sampleSize": "1991",
-    "population": "rv",
-    "grade": "B/C",
-    "url": "https://assets.morningconsult.com/wp-uploads/2020/09/16075444/200956_crosstabs_POLITICO_RVs_v1_LM.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-11",
-    "endDate": "2020-09-14",
-    "pollster": "Morning Consult",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "38.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "60.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "129402",
-    "subgroup": "All polls",
-    "sampleSize": "1007",
-    "population": "rv",
-    "grade": "",
-    "url": "https://navigatorresearch.org/wp-content/uploads/2020/09/Navigating-Coronavirus-Update-09.16.2020.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-10",
-    "endDate": "2020-09-14",
-    "pollster": "Global Strategy Group/GBAO (Navigator Research)",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "43.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "55.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "129411",
-    "subgroup": "All polls",
-    "sampleSize": "1019",
-    "population": "a",
-    "grade": "B",
-    "url": "https://news.gallup.com/poll/320303/trump-stuck-42-job-approval.aspx",
-    "created_at": "2020-09-16",
-    "startDate": "2020-08-31",
-    "endDate": "2020-09-13",
-    "pollster": "Gallup",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "42.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "56.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "129424",
-    "subgroup": "All polls",
-    "sampleSize": "1192",
-    "population": "rv",
-    "grade": "B",
-    "url": "https://docs.cdn.yougov.com/t0hi1tcqs5/econTabReport.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-13",
-    "endDate": "2020-09-15",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "50.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "41.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "129407",
-    "subgroup": "All polls",
-    "sampleSize": "1062",
-    "population": "lv",
-    "grade": "B",
-    "url": "https://docs.cdn.yougov.com/t0hi1tcqs5/econTabReport.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-13",
-    "endDate": "2020-09-15",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "51.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "129430",
-    "subgroup": "All polls",
-    "sampleSize": "859",
-    "population": "lv",
-    "grade": "B-",
-    "url": "https://fingfx.thomsonreuters.com/gfx/mkt/qzjvqnkqrpx/Topline%20Reuters%20General%20Election%20Tracker%2009%2015%202020.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-11",
-    "endDate": "2020-09-15",
-    "pollster": "Ipsos",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "50.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "41.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "129429",
-    "subgroup": "All polls",
-    "sampleSize": "1133",
-    "population": "rv",
-    "grade": "B-",
-    "url": "https://fingfx.thomsonreuters.com/gfx/mkt/qzjvqnkqrpx/Topline%20Reuters%20General%20Election%20Tracker%2009%2015%202020.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-11",
-    "endDate": "2020-09-15",
-    "pollster": "Ipsos",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "47.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "39.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "129428",
-    "subgroup": "All polls",
-    "sampleSize": "1358",
-    "population": "a",
-    "grade": "B-",
-    "url": "https://fingfx.thomsonreuters.com/gfx/mkt/qzjvqnkqrpx/Topline%20Reuters%20General%20Election%20Tracker%2009%2015%202020.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-11",
-    "endDate": "2020-09-15",
-    "pollster": "Ipsos",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "43.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "37.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "129434",
-    "subgroup": "All polls",
-    "sampleSize": "2500",
-    "population": "lv",
-    "grade": "C+",
-    "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_sep16",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-09",
-    "endDate": "2020-09-15",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "46.11",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "46.6",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "129460",
-    "subgroup": "All polls",
-    "sampleSize": "800",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://morningconsult.com/form/wisconsin-presidential-election-tracking/",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-06",
-    "endDate": "2020-09-15",
-    "pollster": "Morning Consult",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "51.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Wisconsin"
-  },
-  {
-    "id": "129444",
-    "subgroup": "All polls",
-    "sampleSize": "969",
-    "population": "lv",
-    "grade": "B+",
-    "url": "https://poll.qu.edu/kentucky/release-detail?ReleaseID=3673",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-10",
-    "endDate": "2020-09-14",
-    "pollster": "Quinnipiac University",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "45.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "51.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "South Carolina"
-  },
-  {
-    "id": "129443",
-    "subgroup": "All polls",
-    "sampleSize": "476",
-    "population": "lv",
-    "grade": "B+",
-    "url": "https://poll.qu.edu/kentucky/release-detail?ReleaseID=3673",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-10",
-    "endDate": "2020-09-14",
-    "pollster": "Quinnipiac University",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "53.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "44.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Maine",
-    "district": "2"
-  },
-  {
-    "id": "129442",
-    "subgroup": "All polls",
-    "sampleSize": "707",
-    "population": "lv",
-    "grade": "B+",
-    "url": "https://poll.qu.edu/kentucky/release-detail?ReleaseID=3673",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-10",
-    "endDate": "2020-09-14",
-    "pollster": "Quinnipiac University",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "64.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "32.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Maine",
-    "district": "1"
-  },
-  {
-    "id": "129441",
-    "subgroup": "All polls",
-    "sampleSize": "1183",
-    "population": "lv",
-    "grade": "B+",
-    "url": "https://poll.qu.edu/kentucky/release-detail?ReleaseID=3673",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-10",
-    "endDate": "2020-09-14",
-    "pollster": "Quinnipiac University",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "59.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "38.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Maine"
-  },
-  {
-    "id": "129440",
-    "subgroup": "All polls",
-    "sampleSize": "1164",
-    "population": "lv",
-    "grade": "B+",
-    "url": "https://poll.qu.edu/kentucky/release-detail?ReleaseID=3673",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-10",
-    "endDate": "2020-09-14",
-    "pollster": "Quinnipiac University",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "38.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "58.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Kentucky"
-  },
-  {
-    "id": "129431",
-    "subgroup": "All polls",
-    "sampleSize": "2065",
-    "population": "lv",
-    "grade": "",
-    "url": "https://www.brandwatch.com/qriously-data/us-election-poll-week-3-10-13-sept/",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-10",
-    "endDate": "2020-09-13",
-    "pollster": "Qriously",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "46.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Jorgensen",
-        "pct": "1.0",
-        "party": "Lib"
-      },
-      {
-        "choice": "Hawkins",
-        "pct": "0.0",
-        "party": "Gre"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "129401",
-    "subgroup": "All polls",
-    "sampleSize": "605",
-    "population": "lv",
-    "grade": "A+",
-    "url": "https://www.washingtonpost.com/context/sept-8-13-2020-washington-post-abc-news-poll-of-minnesota-and-wisconsin/8e5dbd4b-4746-4e45-821e-eb8c8645d5c1/",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-08",
-    "endDate": "2020-09-13",
-    "pollster": "ABC News/The Washington Post",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "52.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "46.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Wisconsin"
-  },
-  {
-    "id": "129400",
-    "subgroup": "All polls",
-    "sampleSize": "702",
-    "population": "rv",
-    "grade": "A+",
-    "url": "https://www.washingtonpost.com/context/sept-8-13-2020-washington-post-abc-news-poll-of-minnesota-and-wisconsin/8e5dbd4b-4746-4e45-821e-eb8c8645d5c1/",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-08",
-    "endDate": "2020-09-13",
-    "pollster": "ABC News/The Washington Post",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "50.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "46.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Wisconsin"
-  },
-  {
-    "id": "129399",
-    "subgroup": "All polls",
-    "sampleSize": "615",
-    "population": "lv",
-    "grade": "A+",
-    "url": "https://www.washingtonpost.com/context/sept-8-13-2020-washington-post-abc-news-poll-of-minnesota-and-wisconsin/8e5dbd4b-4746-4e45-821e-eb8c8645d5c1/",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-08",
-    "endDate": "2020-09-13",
-    "pollster": "ABC News/The Washington Post",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "57.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "41.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Minnesota"
-  },
-  {
-    "id": "129398",
-    "subgroup": "All polls",
-    "sampleSize": "705",
-    "population": "rv",
-    "grade": "A+",
-    "url": "https://www.washingtonpost.com/context/sept-8-13-2020-washington-post-abc-news-poll-of-minnesota-and-wisconsin/8e5dbd4b-4746-4e45-821e-eb8c8645d5c1/",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-08",
-    "endDate": "2020-09-13",
-    "pollster": "ABC News/The Washington Post",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "57.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "40.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Minnesota"
-  },
-  {
-    "id": "129459",
-    "subgroup": "All polls",
-    "sampleSize": "800",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://twitter.com/davidbinder/status/1298608653235294214",
-    "created_at": "2020-09-16",
-    "startDate": "2020-08-22",
-    "endDate": "2020-08-24",
-    "pollster": "David Binder Research",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "61.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "31.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "California"
-  },
-  {
-    "id": "129423",
-    "subgroup": "All polls",
-    "sampleSize": "1062",
-    "population": "lv",
-    "grade": "B",
-    "url": "https://docs.cdn.yougov.com/t0hi1tcqs5/econTabReport.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-13",
-    "endDate": "2020-09-15",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Dem",
-        "pct": "48.0"
-      },
-      {
-        "choice": "Rep",
-        "pct": "41.0"
-      }
-    ],
-    "type": "generic-ballot",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "129422",
-    "subgroup": "All polls",
-    "sampleSize": "1192",
-    "population": "rv",
-    "grade": "B",
-    "url": "https://docs.cdn.yougov.com/t0hi1tcqs5/econTabReport.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-13",
-    "endDate": "2020-09-15",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Dem",
-        "pct": "47.0"
-      },
-      {
-        "choice": "Rep",
-        "pct": "40.0"
-      }
-    ],
-    "type": "generic-ballot",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "129450",
-    "subgroup": "All polls",
-    "sampleSize": "969",
-    "population": "lv",
-    "grade": "B+",
-    "url": "https://poll.qu.edu/kentucky/release-detail?ReleaseID=3673",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-10",
-    "endDate": "2020-09-14",
-    "pollster": "Quinnipiac University",
-    "answers": [
-      {
-        "choice": "Harrison",
-        "pct": "48.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Graham",
-        "pct": "48.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class II",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "South Carolina"
-  },
-  {
-    "id": "129449",
-    "subgroup": "All polls",
-    "sampleSize": "1183",
-    "population": "lv",
-    "grade": "B+",
-    "url": "https://poll.qu.edu/kentucky/release-detail?ReleaseID=3673",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-10",
-    "endDate": "2020-09-14",
-    "pollster": "Quinnipiac University",
-    "answers": [
-      {
-        "choice": "Gideon",
-        "pct": "54.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Collins",
-        "pct": "42.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class II",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Maine"
-  },
-  {
-    "id": "129448",
-    "subgroup": "All polls",
-    "sampleSize": "1164",
-    "population": "lv",
-    "grade": "B+",
-    "url": "https://poll.qu.edu/kentucky/release-detail?ReleaseID=3673",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-10",
-    "endDate": "2020-09-14",
-    "pollster": "Quinnipiac University",
-    "answers": [
-      {
-        "choice": "McGrath",
-        "pct": "41.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "McConnell",
-        "pct": "53.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class II",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Kentucky"
-  },
-  {
-    "id": "129406",
-    "subgroup": "All polls",
-    "sampleSize": "600",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://f.hubspotusercontent40.net/hubfs/7453540/200908%20AZPOP/AZPOP%20Crosstabs%20-%20Senate.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-08",
-    "endDate": "2020-09-10",
-    "pollster": "OH Predictive Insights",
-    "answers": [
-      {
-        "choice": "Kelly",
-        "pct": "52.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "McSally",
-        "pct": "42.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class III",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Arizona"
-  },
-  {
-    "id": "129439",
-    "subgroup": "All polls",
-    "sampleSize": "496",
-    "population": "rv",
-    "grade": "",
-    "url": "https://twitter.com/BenWinslow/status/1306257899488862209",
-    "created_at": "2020-09-16",
-    "startDate": "2020-08-31",
-    "endDate": "2020-09-12",
-    "pollster": "Lighthouse Research",
-    "answers": [
-      {
-        "choice": "Parry",
-        "pct": "22.4",
-        "party": "Dem"
-      },
-      {
-        "choice": "Moore",
-        "pct": "48.6",
-        "party": "Rep"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 1",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Utah",
-    "district": "1"
-  },
-  {
-    "id": "129438",
-    "subgroup": "All polls",
-    "sampleSize": "496",
-    "population": "rv",
-    "grade": "",
-    "url": "https://twitter.com/BenWinslow/status/1306257899488862209",
-    "created_at": "2020-09-16",
-    "startDate": "2020-08-31",
-    "endDate": "2020-09-12",
-    "pollster": "Lighthouse Research",
-    "answers": [
-      {
-        "choice": "Weston",
-        "pct": "28.4",
-        "party": "Dem"
-      },
-      {
-        "choice": "Stewart",
-        "pct": "47.8",
-        "party": "Rep"
-      },
-      {
-        "choice": "Latham",
-        "pct": "6.5",
-        "party": "Lib"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 2",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Utah",
-    "district": "2"
-  },
-  {
-    "id": "129437",
-    "subgroup": "All polls",
-    "sampleSize": "496",
-    "population": "rv",
-    "grade": "",
-    "url": "https://twitter.com/BenWinslow/status/1306257899488862209",
-    "created_at": "2020-09-16",
-    "startDate": "2020-08-31",
-    "endDate": "2020-09-12",
-    "pollster": "Lighthouse Research",
-    "answers": [
-      {
-        "choice": "Thorpe",
-        "pct": "20.4",
-        "party": "Dem"
-      },
-      {
-        "choice": "Curtis",
-        "pct": "50.6",
-        "party": "Rep"
-      },
-      {
-        "choice": "McNeill",
-        "pct": "2.6",
-        "party": "Oth"
-      },
-      {
-        "choice": "Cummings",
-        "pct": "2.2",
-        "party": "Con"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 3",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Utah",
-    "district": "3"
-  },
-  {
-    "id": "129435",
-    "subgroup": "All polls",
-    "sampleSize": "498",
-    "population": "rv",
-    "grade": "",
-    "url": "https://twitter.com/BenWinslow/status/1306257899488862209",
-    "created_at": "2020-09-16",
-    "startDate": "2020-08-31",
-    "endDate": "2020-09-12",
-    "pollster": "Lighthouse Research",
-    "answers": [
-      {
-        "choice": "McAdams",
-        "pct": "47.2",
-        "party": "Dem"
-      },
-      {
-        "choice": "Owens",
-        "pct": "36.7",
-        "party": "Rep"
-      },
-      {
-        "choice": "Molnar",
-        "pct": "1.8",
-        "party": "Lib"
-      },
-      {
-        "choice": "Broderick",
-        "pct": "0.4",
-        "party": "Uni"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 4",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Utah",
-    "district": "4"
-  },
-  {
-    "id": "129397",
-    "subgroup": "All polls",
-    "sampleSize": "400",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://nmcdn.io/e186d21f8c7946a19faed23c3da2f0da/7c9798eaafd54081881797bf9a163295/files/research/MI-03-Poll-091520.pdf",
-    "created_at": "2020-09-16",
-    "startDate": "2020-09-08",
-    "endDate": "2020-09-10",
-    "pollster": "Global Strategy Group",
-    "answers": [
-      {
-        "choice": "Scholten",
-        "pct": "41.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Meijer",
-        "pct": "41.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 3",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "partisan": "DEM",
-    "state": "Michigan",
-    "district": "3"
-  },
-  {
-    "id": "129436",
-    "subgroup": "All polls",
-    "sampleSize": "504",
-    "population": "rv",
-    "grade": "",
-    "url": "https://twitter.com/BenWinslow/status/1306257899488862209",
-    "created_at": "2020-09-16",
-    "startDate": "2020-08-31",
-    "endDate": "2020-09-12",
-    "pollster": "Lighthouse Research",
-    "answers": [
-      {
-        "choice": "Peterson",
-        "pct": "19.6",
-        "party": "Dem"
-      },
-      {
-        "choice": "Cox",
-        "pct": "55.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Duerden",
-        "pct": "2.8",
-        "party": "Iap"
-      },
-      {
-        "choice": "Cottam",
-        "pct": "5.0",
-        "party": "Lib"
-      }
-    ],
-    "type": "governor",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Utah"
   }
 ]
