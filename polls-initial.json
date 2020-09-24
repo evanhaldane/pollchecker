@@ -1,5 +1,59 @@
 [
   {
+    "id": "130244",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2020-09-24",
+    "startDate": "2020-09-21",
+    "endDate": "2020-09-23",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "52.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "48.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130245",
+    "subgroup": "All polls",
+    "sampleSize": "2199",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://pac.org/wp-content/uploads/2020-Pulse-Survey-Crosstabs.pdf",
+    "created_at": "2020-09-24",
+    "startDate": "2020-08-19",
+    "endDate": "2020-08-21",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "54.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "129998",
     "subgroup": "All polls",
     "sampleSize": "5369",
@@ -91,6 +145,119 @@
     "inAvg": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "130248",
+    "subgroup": "All polls",
+    "sampleSize": "402",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmoutpoll_ia_092420.pdf/",
+    "created_at": "2020-09-24",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-22",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
+    "id": "130247",
+    "subgroup": "All polls",
+    "sampleSize": "402",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmoutpoll_ia_092420.pdf/",
+    "created_at": "2020-09-24",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-22",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
+    "id": "130246",
+    "subgroup": "All polls",
+    "sampleSize": "402",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmoutpoll_ia_092420.pdf/",
+    "created_at": "2020-09-24",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-22",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Iowa"
   },
   {
     "id": "129982",
@@ -485,7 +652,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wyoming"
   },
@@ -516,7 +683,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
   },
@@ -547,7 +714,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "West Virginia"
   },
@@ -578,7 +745,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Washington"
   },
@@ -609,7 +776,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Virginia"
   },
@@ -640,7 +807,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Vermont"
   },
@@ -671,7 +838,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Utah"
   },
@@ -702,7 +869,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Texas"
   },
@@ -733,7 +900,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Tennessee"
   },
@@ -764,7 +931,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "South Dakota"
   },
@@ -795,7 +962,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "South Carolina"
   },
@@ -826,7 +993,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Rhode Island"
   },
@@ -857,7 +1024,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -888,7 +1055,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Oregon"
   },
@@ -919,7 +1086,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Oklahoma"
   },
@@ -950,7 +1117,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Ohio"
   },
@@ -981,7 +1148,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Dakota"
   },
@@ -1012,7 +1179,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
   },
@@ -1043,7 +1210,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New York"
   },
@@ -1074,7 +1241,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New Mexico"
   },
@@ -1105,7 +1272,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New Jersey"
   },
@@ -1136,7 +1303,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New Hampshire"
   },
@@ -1167,7 +1334,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Nevada"
   },
@@ -1198,7 +1365,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Nebraska"
   },
@@ -1229,7 +1396,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Montana"
   },
@@ -1260,7 +1427,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Missouri"
   },
@@ -1291,7 +1458,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Mississippi"
   },
@@ -1322,7 +1489,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Minnesota"
   },
@@ -1353,7 +1520,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
   },
@@ -1384,7 +1551,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Massachusetts"
   },
@@ -1415,7 +1582,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Maryland"
   },
@@ -1446,7 +1613,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Maine"
   },
@@ -1477,7 +1644,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Louisiana"
   },
@@ -1508,7 +1675,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Kentucky"
   },
@@ -1539,7 +1706,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Kansas"
   },
@@ -1570,7 +1737,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Iowa"
   },
@@ -1601,7 +1768,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Indiana"
   },
@@ -1632,7 +1799,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Illinois"
   },
@@ -1663,7 +1830,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Idaho"
   },
@@ -1694,7 +1861,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Hawaii"
   },
@@ -1725,7 +1892,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Georgia"
   },
@@ -1756,7 +1923,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
   },
@@ -1787,7 +1954,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "District of Columbia"
   },
@@ -1818,7 +1985,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Delaware"
   },
@@ -1849,7 +2016,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Connecticut"
   },
@@ -1880,7 +2047,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Colorado"
   },
@@ -1911,7 +2078,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "California"
   },
@@ -1942,7 +2109,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arkansas"
   },
@@ -1973,7 +2140,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -2004,7 +2171,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Alaska"
   },
@@ -2035,7 +2202,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Alabama"
   },
@@ -2139,7 +2306,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Michigan"
@@ -2213,7 +2380,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Kentucky"
@@ -2287,7 +2454,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Kansas"
@@ -2361,7 +2528,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Georgia"
@@ -2393,7 +2560,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wyoming"
   },
@@ -2424,7 +2591,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
   },
@@ -2455,7 +2622,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "West Virginia"
   },
@@ -2486,7 +2653,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Washington"
   },
@@ -2517,7 +2684,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Virginia"
   },
@@ -2548,7 +2715,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Vermont"
   },
@@ -2579,7 +2746,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Utah"
   },
@@ -2610,7 +2777,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Texas"
   },
@@ -2641,7 +2808,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Tennessee"
   },
@@ -2672,7 +2839,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "South Dakota"
   },
@@ -2703,7 +2870,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "South Carolina"
   },
@@ -2734,7 +2901,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Rhode Island"
   },
@@ -2765,7 +2932,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -2796,7 +2963,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Oregon"
   },
@@ -2827,7 +2994,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Oklahoma"
   },
@@ -2858,7 +3025,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Ohio"
   },
@@ -2889,7 +3056,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Dakota"
   },
@@ -2920,7 +3087,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
   },
@@ -2951,7 +3118,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New York"
   },
@@ -2982,7 +3149,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New Mexico"
   },
@@ -3013,7 +3180,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New Jersey"
   },
@@ -3044,7 +3211,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New Hampshire"
   },
@@ -3075,7 +3242,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Nevada"
   },
@@ -3106,7 +3273,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Nebraska"
   },
@@ -3137,7 +3304,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Montana"
   },
@@ -3168,7 +3335,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Missouri"
   },
@@ -3199,7 +3366,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Mississippi"
   },
@@ -3230,7 +3397,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Minnesota"
   },
@@ -3261,7 +3428,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
   },
@@ -3292,7 +3459,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Massachusetts"
   },
@@ -3323,7 +3490,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Maryland"
   },
@@ -3354,7 +3521,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Maine"
   },
@@ -3385,7 +3552,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Louisiana"
   },
@@ -3416,7 +3583,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Kentucky"
   },
@@ -3447,7 +3614,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Kansas"
   },
@@ -3478,7 +3645,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Iowa"
   },
@@ -3509,7 +3676,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Indiana"
   },
@@ -3540,7 +3707,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Illinois"
   },
@@ -3571,7 +3738,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Idaho"
   },
@@ -3602,7 +3769,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Hawaii"
   },
@@ -3633,7 +3800,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Georgia"
   },
@@ -3664,7 +3831,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
   },
@@ -3695,7 +3862,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "District of Columbia"
   },
@@ -3726,7 +3893,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Delaware"
   },
@@ -3757,7 +3924,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Connecticut"
   },
@@ -3788,7 +3955,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Colorado"
   },
@@ -3819,7 +3986,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "California"
   },
@@ -3850,7 +4017,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arkansas"
   },
@@ -3881,7 +4048,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -3912,7 +4079,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Alaska"
   },
@@ -3943,7 +4110,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Alabama"
   },
@@ -4005,7 +4172,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wyoming"
   },
@@ -4036,7 +4203,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
   },
@@ -4067,7 +4234,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "West Virginia"
   },
@@ -4098,7 +4265,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Washington"
   },
@@ -4129,7 +4296,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Virginia"
   },
@@ -4160,7 +4327,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Vermont"
   },
@@ -4191,7 +4358,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Utah"
   },
@@ -4222,7 +4389,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Texas"
   },
@@ -4253,7 +4420,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Tennessee"
   },
@@ -4284,7 +4451,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "South Dakota"
   },
@@ -4315,7 +4482,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "South Carolina"
   },
@@ -4346,7 +4513,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Rhode Island"
   },
@@ -4377,7 +4544,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -4408,7 +4575,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Oregon"
   },
@@ -4439,7 +4606,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Oklahoma"
   },
@@ -4470,7 +4637,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Ohio"
   },
@@ -4501,7 +4668,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Dakota"
   },
@@ -4532,7 +4699,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
   },
@@ -4563,7 +4730,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New York"
   },
@@ -4594,7 +4761,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New Mexico"
   },
@@ -4625,7 +4792,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New Jersey"
   },
@@ -4656,7 +4823,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New Hampshire"
   },
@@ -4687,7 +4854,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Nevada"
   },
@@ -4718,7 +4885,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Nebraska"
   },
@@ -4749,7 +4916,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Montana"
   },
@@ -4780,7 +4947,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Missouri"
   },
@@ -4811,7 +4978,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Mississippi"
   },
@@ -4842,7 +5009,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Minnesota"
   },
@@ -4873,7 +5040,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
   },
@@ -4904,7 +5071,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Massachusetts"
   },
@@ -4935,7 +5102,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Maryland"
   },
@@ -4966,7 +5133,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Maine"
   },
@@ -4997,7 +5164,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Louisiana"
   },
@@ -5028,7 +5195,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Kentucky"
   },
@@ -5059,7 +5226,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Kansas"
   },
@@ -5090,7 +5257,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Iowa"
   },
@@ -5121,7 +5288,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Indiana"
   },
@@ -5152,7 +5319,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Illinois"
   },
@@ -5183,7 +5350,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Idaho"
   },
@@ -5214,7 +5381,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Hawaii"
   },
@@ -5245,7 +5412,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Georgia"
   },
@@ -5276,7 +5443,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
   },
@@ -5307,7 +5474,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "District of Columbia"
   },
@@ -5338,7 +5505,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Delaware"
   },
@@ -5369,7 +5536,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Connecticut"
   },
@@ -5400,7 +5567,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Colorado"
   },
@@ -5431,7 +5598,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "California"
   },
@@ -5462,7 +5629,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arkansas"
   },
@@ -5493,7 +5660,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -5524,7 +5691,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Alaska"
   },
@@ -5555,7 +5722,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Alabama"
   },
@@ -5617,7 +5784,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wyoming"
   },
@@ -5648,7 +5815,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
   },
@@ -5679,7 +5846,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "West Virginia"
   },
@@ -5710,7 +5877,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Washington"
   },
@@ -5741,7 +5908,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Virginia"
   },
@@ -5772,7 +5939,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Vermont"
   },
@@ -5803,7 +5970,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Utah"
   },
@@ -5834,7 +6001,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Texas"
   },
@@ -5865,7 +6032,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Tennessee"
   },
@@ -5896,7 +6063,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "South Dakota"
   },
@@ -5927,7 +6094,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "South Carolina"
   },
@@ -5958,7 +6125,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Rhode Island"
   },
@@ -5989,7 +6156,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -6020,7 +6187,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Oregon"
   },
@@ -6051,7 +6218,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Oklahoma"
   },
@@ -6082,7 +6249,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Ohio"
   },
@@ -6113,7 +6280,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Dakota"
   },
@@ -6144,7 +6311,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
   },
@@ -6175,7 +6342,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New York"
   },
@@ -6206,7 +6373,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New Mexico"
   },
@@ -6237,7 +6404,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New Jersey"
   },
@@ -6268,7 +6435,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New Hampshire"
   },
@@ -6299,7 +6466,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Nevada"
   },
@@ -6330,7 +6497,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Nebraska"
   },
@@ -6361,7 +6528,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Montana"
   },
@@ -6392,7 +6559,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Missouri"
   },
@@ -6423,7 +6590,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Mississippi"
   },
@@ -6454,7 +6621,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Minnesota"
   },
@@ -6485,7 +6652,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
   },
@@ -6516,7 +6683,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Massachusetts"
   },
@@ -6547,7 +6714,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Maryland"
   },
@@ -6578,7 +6745,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Maine"
   },
@@ -6609,7 +6776,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Louisiana"
   },
@@ -6640,7 +6807,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Kentucky"
   },
@@ -6671,7 +6838,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Kansas"
   },
@@ -6702,7 +6869,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Iowa"
   },
@@ -6733,7 +6900,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Indiana"
   },
@@ -6764,7 +6931,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Illinois"
   },
@@ -6795,7 +6962,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Idaho"
   },
@@ -6826,7 +6993,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Hawaii"
   },
@@ -6857,7 +7024,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Georgia"
   },
@@ -6888,7 +7055,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
   },
@@ -6919,7 +7086,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "District of Columbia"
   },
@@ -6950,7 +7117,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Delaware"
   },
@@ -6981,7 +7148,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Connecticut"
   },
@@ -7012,7 +7179,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Colorado"
   },
@@ -7043,7 +7210,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "California"
   },
@@ -7074,7 +7241,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arkansas"
   },
@@ -7105,7 +7272,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -7136,7 +7303,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Alaska"
   },
@@ -7167,7 +7334,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Alabama"
   },
@@ -7229,6 +7396,126 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "130251",
+    "subgroup": "All polls",
+    "sampleSize": "402",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmoutpoll_ia_092420.pdf/",
+    "created_at": "2020-09-24",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-22",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Greenfield",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ernst",
+        "pct": "47.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Stewart",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Herzog",
+        "pct": "0.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
+    "id": "130250",
+    "subgroup": "All polls",
+    "sampleSize": "402",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmoutpoll_ia_092420.pdf/",
+    "created_at": "2020-09-24",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-22",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Greenfield",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ernst",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Stewart",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Herzog",
+        "pct": "0.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
+    "id": "130249",
+    "subgroup": "All polls",
+    "sampleSize": "402",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmoutpoll_ia_092420.pdf/",
+    "created_at": "2020-09-24",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-22",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Greenfield",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ernst",
+        "pct": "47.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Stewart",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Herzog",
+        "pct": "0.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa"
   },
   {
     "id": "129986",
@@ -7429,12 +7716,12 @@
     "answers": [
       {
         "choice": "Peters",
-        "pct": "42.0",
+        "pct": "47.0",
         "party": "Dem"
       },
       {
         "choice": "James",
-        "pct": "47.0",
+        "pct": "42.0",
         "party": "Rep"
       }
     ],
@@ -7829,7 +8116,7 @@
     "sampleSize": "1230",
     "population": "rv",
     "grade": "",
-    "url": "https://navigatorresearch.org/wp-content/uploads/2020/09/Navigating-Coronavirus-Update-09.23.2020.pdf",
+    "url": "https://navigatorresearch.org/wp-content/uploads/2020/09/Navigating-Coronavirus-Full-Topline-F09.21.20.pdf",
     "created_at": "2020-09-23",
     "startDate": "2020-09-17",
     "endDate": "2020-09-21",
