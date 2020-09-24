@@ -332,12 +332,125 @@
     "state": "National"
   },
   {
+    "id": "130287",
+    "subgroup": "All polls",
+    "sampleSize": "910",
+    "population": "rv",
+    "grade": "A-",
+    "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Fox_September-20-23-2020_Complete_Pennsylvania_Topline_September-24-Rel....pdf",
+    "created_at": "2020-09-24",
+    "startDate": "2020-09-20",
+    "endDate": "2020-09-23",
+    "pollster": "Fox News",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "130286",
+    "subgroup": "All polls",
+    "sampleSize": "907",
+    "population": "rv",
+    "grade": "A-",
+    "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Fox_September-20-23-2020_Complete_Ohio_Topline_September-24-Release.pdf",
+    "created_at": "2020-09-24",
+    "startDate": "2020-09-20",
+    "endDate": "2020-09-23",
+    "pollster": "Fox News",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "2.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Ohio"
+  },
+  {
+    "id": "130285",
+    "subgroup": "All polls",
+    "sampleSize": "911",
+    "population": "rv",
+    "grade": "A-",
+    "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Fox_September-20-23-2020_Complete_Nevada_Topline_September-24-Release.pdf",
+    "created_at": "2020-09-24",
+    "startDate": "2020-09-20",
+    "endDate": "2020-09-23",
+    "pollster": "Fox News",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Nevada"
+  },
+  {
     "id": "130284",
     "subgroup": "All polls",
     "sampleSize": "856",
     "population": "lv",
     "grade": "A-",
-    "url": "https://www.foxnews.com/official-polls/fox-news-poll-tight-race-in-ohio-biden-tops-trump-in-nevada-and-pennsylvania",
+    "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Fox_September-20-23-2020_Complete_Pennsylvania_Topline_September-24-Rel....pdf",
     "created_at": "2020-09-24",
     "startDate": "2020-09-20",
     "endDate": "2020-09-23",
@@ -352,13 +465,18 @@
         "choice": "Trump",
         "pct": "44.0",
         "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
       }
     ],
     "type": "president-general",
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -368,7 +486,7 @@
     "sampleSize": "830",
     "population": "lv",
     "grade": "A-",
-    "url": "https://www.foxnews.com/official-polls/fox-news-poll-tight-race-in-ohio-biden-tops-trump-in-nevada-and-pennsylvania",
+    "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Fox_September-20-23-2020_Complete_Ohio_Topline_September-24-Release.pdf",
     "created_at": "2020-09-24",
     "startDate": "2020-09-20",
     "endDate": "2020-09-23",
@@ -383,13 +501,23 @@
         "choice": "Trump",
         "pct": "45.0",
         "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
       }
     ],
     "type": "president-general",
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Ohio"
   },
@@ -399,7 +527,7 @@
     "sampleSize": "810",
     "population": "lv",
     "grade": "A-",
-    "url": "https://www.foxnews.com/official-polls/fox-news-poll-tight-race-in-ohio-biden-tops-trump-in-nevada-and-pennsylvania",
+    "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Fox_September-20-23-2020_Complete_Nevada_Topline_September-24-Release.pdf",
     "created_at": "2020-09-24",
     "startDate": "2020-09-20",
     "endDate": "2020-09-23",
@@ -414,13 +542,18 @@
         "choice": "Trump",
         "pct": "41.0",
         "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
       }
     ],
     "type": "president-general",
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Nevada"
   },
