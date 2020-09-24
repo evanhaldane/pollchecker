@@ -27,6 +27,33 @@
     "state": "National"
   },
   {
+    "id": "130290",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/september-2020-biden-holds-his-lead-voters-split-on-supreme-court-nominee-timetable",
+    "created_at": "2020-09-24",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-23",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46.14"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "49.85"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "130244",
     "subgroup": "All polls",
     "sampleSize": "1500",
@@ -267,6 +294,37 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130289",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/september-2020-biden-holds-his-lead-voters-split-on-supreme-court-nominee-timetable",
+    "created_at": "2020-09-24",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-23",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.62",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.58",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
     "state": "National"
   },
   {
@@ -2876,6 +2934,48 @@
     "state": "Georgia"
   },
   {
+    "id": "130288",
+    "subgroup": "All polls",
+    "sampleSize": "505",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://algpolling.com/wp-content/uploads/2020/09/INTERESTED-PARTIES-NJ-CD-02-SEPT-SURVEY-MEMO-791x1024.jpg",
+    "created_at": "2020-09-24",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-17",
+    "pollster": "ALG Research",
+    "answers": [
+      {
+        "choice": "Kennedy",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Van Drew",
+        "pct": "42.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Ehrnstrom",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Harvey",
+        "pct": "1.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "New Jersey",
+    "district": "2"
+  },
+  {
     "id": "130280",
     "subgroup": "All polls",
     "sampleSize": "605",
@@ -5243,7 +5343,7 @@
     "sampleSize": "505",
     "population": "lv",
     "grade": "B/C",
-    "url": "https://newjerseyglobe.com/fr/amy-kennedy-internal-poll-has-her-five-points-in-front-of-van-drew-in-nj-2/",
+    "url": "https://algpolling.com/wp-content/uploads/2020/09/INTERESTED-PARTIES-NJ-CD-02-SEPT-SURVEY-MEMO-791x1024.jpg",
     "created_at": "2020-09-23",
     "startDate": "2020-09-14",
     "endDate": "2020-09-17",
