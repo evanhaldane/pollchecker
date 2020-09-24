@@ -243,12 +243,43 @@
     "state": "National"
   },
   {
+    "id": "130269",
+    "subgroup": "All polls",
+    "sampleSize": "1125",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/o6p3vjhvnt/20200924_yahoo_coronavirus_tabs.pdf",
+    "created_at": "2020-09-24",
+    "startDate": "2020-09-21",
+    "endDate": "2020-09-23",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "130263",
     "subgroup": "All polls",
     "sampleSize": "1284",
     "population": "rv",
     "grade": "B",
-    "url": "https://news.yahoo.com/yahoo-news-you-gov-poll-presidential-race-tightens-even-as-most-voters-oppose-go-ps-push-to-replace-ginsburg-162257005.html",
+    "url": "https://docs.cdn.yougov.com/o6p3vjhvnt/20200924_yahoo_coronavirus_tabs.pdf",
     "created_at": "2020-09-24",
     "startDate": "2020-09-21",
     "endDate": "2020-09-23",
@@ -7659,6 +7690,62 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "130268",
+    "subgroup": "All polls",
+    "sampleSize": "1124",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/o6p3vjhvnt/20200924_yahoo_coronavirus_tabs.pdf",
+    "created_at": "2020-09-24",
+    "startDate": "2020-09-21",
+    "endDate": "2020-09-23",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "40.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "130267",
+    "subgroup": "All polls",
+    "sampleSize": "1284",
+    "population": "rv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/o6p3vjhvnt/20200924_yahoo_coronavirus_tabs.pdf",
+    "created_at": "2020-09-24",
+    "startDate": "2020-09-21",
+    "endDate": "2020-09-23",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "40.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
     "cycle": "2020",
     "state": "National"
   },
