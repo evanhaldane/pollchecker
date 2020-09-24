@@ -1228,6 +1228,68 @@
     "state": "Arizona"
   },
   {
+    "id": "129978",
+    "subgroup": "All polls",
+    "sampleSize": "480",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.citizensvoice.com/news/election/new-f-m-poll-shows-biden-up-6-points-in-pennsylvania/article_8e3ef5b5-ecd4-597b-9f86-9af2928c3dc4.html",
+    "created_at": "2020-09-23",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-20",
+    "pollster": "Franklin & Marshall College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "129977",
+    "subgroup": "All polls",
+    "sampleSize": "625",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://www.citizensvoice.com/news/election/new-f-m-poll-shows-biden-up-6-points-in-pennsylvania/article_8e3ef5b5-ecd4-597b-9f86-9af2928c3dc4.html",
+    "created_at": "2020-09-23",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-20",
+    "pollster": "Franklin & Marshall College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
     "id": "129973",
     "subgroup": "All polls",
     "sampleSize": "820",
