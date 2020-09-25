@@ -27,6 +27,72 @@
     "state": "National"
   },
   {
+    "id": "130319",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2020/9_25_2020_marginals_pdftxt.pdf?la=en&hash=EA09FFF4A22FBF2A04A6A5776C86103A990C9C6A",
+    "created_at": "2020-09-25",
+    "startDate": "2020-09-20",
+    "endDate": "2020-09-24",
+    "pollster": "Suffolk University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.2",
+        "party": "Rep"
+      },
+      {
+        "choice": "De La Fuente",
+        "pct": "0.8",
+        "party": "Oth"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.4",
+        "party": "Gre"
+      },
+      {
+        "choice": "West",
+        "pct": "0.8",
+        "party": "Ind"
+      },
+      {
+        "choice": "Pierce",
+        "pct": "0.2",
+        "party": "Ind"
+      },
+      {
+        "choice": "La Riva",
+        "pct": "0.0",
+        "party": "Psl"
+      },
+      {
+        "choice": "Kennedy",
+        "pct": "0.0",
+        "party": "Swp"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.4",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Minnesota"
+  },
+  {
     "id": "130293",
     "subgroup": "All polls",
     "sampleSize": "5377",
@@ -376,7 +442,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Nevada"
@@ -501,6 +567,46 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "130318",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2020/9_25_2020_marginals_pdftxt.pdf?la=en&hash=EA09FFF4A22FBF2A04A6A5776C86103A990C9C6A",
+    "created_at": "2020-09-25",
+    "startDate": "2020-09-20",
+    "endDate": "2020-09-24",
+    "pollster": "Suffolk University",
+    "answers": [
+      {
+        "choice": "Smith",
+        "pct": "44.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Lewis",
+        "pct": "34.8",
+        "party": "Rep"
+      },
+      {
+        "choice": "O'Connor",
+        "pct": "2.2",
+        "party": "Oth"
+      },
+      {
+        "choice": "Steinberg",
+        "pct": "1.4",
+        "party": "Oth"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Minnesota"
   },
   {
     "id": "130302",
