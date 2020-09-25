@@ -27,6 +27,60 @@
     "state": "National"
   },
   {
+    "id": "130325",
+    "subgroup": "All polls",
+    "sampleSize": "1160",
+    "population": "rv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/2020_reuters_tracking_-_core_political_general_election_tracker_09_25_2020_.pdf",
+    "created_at": "2020-09-25",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-22",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "43.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "54.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130324",
+    "subgroup": "All polls",
+    "sampleSize": "1350",
+    "population": "a",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/2020_reuters_tracking_-_core_political_general_election_tracker_09_25_2020_.pdf",
+    "created_at": "2020-09-25",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-22",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "42.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "130319",
     "subgroup": "All polls",
     "sampleSize": "500",
@@ -186,6 +240,47 @@
     "state": "National"
   },
   {
+    "id": "130320",
+    "subgroup": "All polls",
+    "sampleSize": "2500",
+    "population": "rv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/latest-usa-voting-intention-september-22-23/",
+    "created_at": "2020-09-25",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-23",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "130301",
     "subgroup": "All polls",
     "sampleSize": "425",
@@ -279,6 +374,99 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Maine"
+  },
+  {
+    "id": "130323",
+    "subgroup": "All polls",
+    "sampleSize": "889",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/2020_reuters_tracking_-_core_political_general_election_tracker_09_25_2020_.pdf",
+    "created_at": "2020-09-25",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-22",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "130322",
+    "subgroup": "All polls",
+    "sampleSize": "1160",
+    "population": "rv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/2020_reuters_tracking_-_core_political_general_election_tracker_09_25_2020_.pdf",
+    "created_at": "2020-09-25",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-22",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "130321",
+    "subgroup": "All polls",
+    "sampleSize": "1350",
+    "population": "a",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/2020_reuters_tracking_-_core_political_general_election_tracker_09_25_2020_.pdf",
+    "created_at": "2020-09-25",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-22",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "130313",
