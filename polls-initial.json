@@ -1,5 +1,126 @@
 [
   {
+    "id": "130341",
+    "subgroup": "All polls",
+    "sampleSize": "5300",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-09-26",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-25",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.14",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.23",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "130340",
+    "subgroup": "All polls",
+    "sampleSize": "5300",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-09-26",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-25",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.34",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "130339",
+    "subgroup": "All polls",
+    "sampleSize": "5224",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-09-26",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-25",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.23",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.28",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "130338",
+    "subgroup": "All polls",
+    "sampleSize": "5322",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-09-26",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-25",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.97"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.76"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "130310",
     "subgroup": "All polls",
     "sampleSize": "1500",
@@ -161,7 +282,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -13314,625 +13435,5 @@
     "headToHead": false,
     "cycle": "2018",
     "state": "Florida"
-  },
-  {
-    "id": "129603",
-    "subgroup": "All polls",
-    "sampleSize": "1000",
-    "population": "rv",
-    "grade": "A-",
-    "url": "https://assets.documentcloud.org/documents/7213809/200625-NBCWSJ-September-Poll.pdf",
-    "created_at": "2020-09-20",
-    "startDate": "2020-09-13",
-    "endDate": "2020-09-16",
-    "pollster": "NBC News/The Wall Street Journal",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "45.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "53.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "129616",
-    "subgroup": "All polls",
-    "sampleSize": "717",
-    "population": "lv",
-    "grade": "A-",
-    "url": "https://emersonpolling.reportablenews.com/pr/north-carolina-2020-biden-and-trump-in-dead-heat",
-    "created_at": "2020-09-20",
-    "startDate": "2020-09-16",
-    "endDate": "2020-09-18",
-    "pollster": "Emerson College",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "50.81",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "49.19",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "North Carolina"
-  },
-  {
-    "id": "129607",
-    "subgroup": "All polls",
-    "sampleSize": "1140",
-    "population": "lv",
-    "grade": "B",
-    "url": "https://drive.google.com/file/d/1ZsMPYa9d2L2vg4YYk-DFcwlXosTMmMYP/view",
-    "created_at": "2020-09-20",
-    "startDate": "2020-09-15",
-    "endDate": "2020-09-18",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "46.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "48.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Texas"
-  },
-  {
-    "id": "129606",
-    "subgroup": "All polls",
-    "sampleSize": "1205",
-    "population": "lv",
-    "grade": "B",
-    "url": "https://drive.google.com/file/d/12KO6RXYt9519HgwvDB9SRlS5tqZ9OG8S/view",
-    "created_at": "2020-09-20",
-    "startDate": "2020-09-15",
-    "endDate": "2020-09-18",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "48.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "46.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Florida"
-  },
-  {
-    "id": "129614",
-    "subgroup": "All polls",
-    "sampleSize": "1006",
-    "population": "lv",
-    "grade": "C-",
-    "url": "https://drive.google.com/file/d/10w6DzQtjbRcFFqpnsGIwmRstjY7fDa5e/view",
-    "created_at": "2020-09-20",
-    "startDate": "2020-09-15",
-    "endDate": "2020-09-17",
-    "pollster": "Trafalgar Group",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "47.3",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "44.9",
-        "party": "Rep"
-      },
-      {
-        "choice": "Jorgensen",
-        "pct": "2.4",
-        "party": "Lib"
-      },
-      {
-        "choice": "Hawkins",
-        "pct": "1.0",
-        "party": "Gre"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Pennsylvania"
-  },
-  {
-    "id": "129610",
-    "subgroup": "All polls",
-    "sampleSize": "718",
-    "population": "lv",
-    "grade": "",
-    "url": "https://redfieldandwiltonstrategies.com/latest-georgia-and-minnesota-voting-intention-12-17-september/",
-    "created_at": "2020-09-20",
-    "startDate": "2020-09-12",
-    "endDate": "2020-09-17",
-    "pollster": "Redfield & Wilton Strategies",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "51.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Jorgensen",
-        "pct": "0.0",
-        "party": "Lib"
-      },
-      {
-        "choice": "Hawkins",
-        "pct": "0.0",
-        "party": "Gre"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Minnesota"
-  },
-  {
-    "id": "129594",
-    "subgroup": "All polls",
-    "sampleSize": "625",
-    "population": "lv",
-    "grade": "A+",
-    "url": "https://int.nyt.com/data/documenttools/mt-crosstabs/4da3e297acefb561/full.pdf",
-    "created_at": "2020-09-20",
-    "startDate": "2020-09-14",
-    "endDate": "2020-09-16",
-    "pollster": "Siena College/The New York Times Upshot",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "42.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "49.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Jorgensen",
-        "pct": "2.0",
-        "party": "Lib"
-      },
-      {
-        "choice": "Hawkins",
-        "pct": "1.0",
-        "party": "Gre"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Montana"
-  },
-  {
-    "id": "129605",
-    "subgroup": "All polls",
-    "sampleSize": "1000",
-    "population": "rv",
-    "grade": "A-",
-    "url": "https://assets.documentcloud.org/documents/7213809/200625-NBCWSJ-September-Poll.pdf",
-    "created_at": "2020-09-20",
-    "startDate": "2020-09-13",
-    "endDate": "2020-09-16",
-    "pollster": "NBC News/The Wall Street Journal",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "51.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "43.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "129609",
-    "subgroup": "All polls",
-    "sampleSize": "800",
-    "population": "lv",
-    "grade": "",
-    "url": "https://redfieldandwiltonstrategies.com/latest-georgia-and-minnesota-voting-intention-12-17-september/",
-    "created_at": "2020-09-20",
-    "startDate": "2020-09-12",
-    "endDate": "2020-09-16",
-    "pollster": "Redfield & Wilton Strategies",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "45.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "46.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Jorgensen",
-        "pct": "2.0",
-        "party": "Lib"
-      },
-      {
-        "choice": "Hawkins",
-        "pct": "1.0",
-        "party": "Gre"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Georgia"
-  },
-  {
-    "id": "129604",
-    "subgroup": "All polls",
-    "sampleSize": "1000",
-    "population": "rv",
-    "grade": "A-",
-    "url": "https://assets.documentcloud.org/documents/7213809/200625-NBCWSJ-September-Poll.pdf",
-    "created_at": "2020-09-20",
-    "startDate": "2020-09-13",
-    "endDate": "2020-09-16",
-    "pollster": "NBC News/The Wall Street Journal",
-    "answers": [
-      {
-        "choice": "Dem",
-        "pct": "49.0"
-      },
-      {
-        "choice": "Rep",
-        "pct": "42.0"
-      }
-    ],
-    "type": "generic-ballot",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "129608",
-    "subgroup": "All polls",
-    "sampleSize": "1129",
-    "population": "lv",
-    "grade": "B",
-    "url": "https://drive.google.com/file/d/1ZsMPYa9d2L2vg4YYk-DFcwlXosTMmMYP/view",
-    "created_at": "2020-09-20",
-    "startDate": "2020-09-15",
-    "endDate": "2020-09-18",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Hegar",
-        "pct": "41.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Cornyn",
-        "pct": "46.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class II",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Texas"
-  },
-  {
-    "id": "129613",
-    "subgroup": "All polls",
-    "sampleSize": "718",
-    "population": "lv",
-    "grade": "",
-    "url": "https://redfieldandwiltonstrategies.com/latest-georgia-and-minnesota-voting-intention-12-17-september/",
-    "created_at": "2020-09-20",
-    "startDate": "2020-09-12",
-    "endDate": "2020-09-17",
-    "pollster": "Redfield & Wilton Strategies",
-    "answers": [
-      {
-        "choice": "Smith",
-        "pct": "51.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Lewis",
-        "pct": "36.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class II",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Minnesota"
-  },
-  {
-    "id": "129596",
-    "subgroup": "All polls",
-    "sampleSize": "625",
-    "population": "lv",
-    "grade": "A+",
-    "url": "https://int.nyt.com/data/documenttools/mt-crosstabs/4da3e297acefb561/full.pdf",
-    "created_at": "2020-09-20",
-    "startDate": "2020-09-14",
-    "endDate": "2020-09-16",
-    "pollster": "Siena College/The New York Times Upshot",
-    "answers": [
-      {
-        "choice": "Bullock",
-        "pct": "44.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Daines",
-        "pct": "45.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Fredrickson",
-        "pct": "4.0",
-        "party": "Gre"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class II",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Montana"
-  },
-  {
-    "id": "129612",
-    "subgroup": "All polls",
-    "sampleSize": "800",
-    "population": "lv",
-    "grade": "",
-    "url": "https://redfieldandwiltonstrategies.com/latest-georgia-and-minnesota-voting-intention-12-17-september/",
-    "created_at": "2020-09-20",
-    "startDate": "2020-09-12",
-    "endDate": "2020-09-16",
-    "pollster": "Redfield & Wilton Strategies",
-    "answers": [
-      {
-        "choice": "Warnock",
-        "pct": "21.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Loeffler",
-        "pct": "26.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Collins",
-        "pct": "19.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Lieberman",
-        "pct": "15.0",
-        "party": "Dem"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class III",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Georgia"
-  },
-  {
-    "id": "129611",
-    "subgroup": "All polls",
-    "sampleSize": "800",
-    "population": "lv",
-    "grade": "",
-    "url": "https://redfieldandwiltonstrategies.com/latest-georgia-and-minnesota-voting-intention-12-17-september/",
-    "created_at": "2020-09-20",
-    "startDate": "2020-09-12",
-    "endDate": "2020-09-16",
-    "pollster": "Redfield & Wilton Strategies",
-    "answers": [
-      {
-        "choice": "Ossoff",
-        "pct": "43.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Perdue",
-        "pct": "43.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class II",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Georgia"
-  },
-  {
-    "id": "129615",
-    "subgroup": "All polls",
-    "sampleSize": "1149",
-    "population": "lv",
-    "grade": "C",
-    "url": "https://floridapolitics.com/archives/368376-mast-leading-keith",
-    "created_at": "2020-09-20",
-    "startDate": "2020-09-18",
-    "endDate": "2020-09-18",
-    "pollster": "St. Pete Polls",
-    "answers": [
-      {
-        "choice": "Keith",
-        "pct": "42.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Mast",
-        "pct": "50.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Miller",
-        "pct": "2.0",
-        "party": "Ind"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 18",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Florida",
-    "district": "18"
-  },
-  {
-    "id": "129597",
-    "subgroup": "All polls",
-    "sampleSize": "625",
-    "population": "lv",
-    "grade": "A+",
-    "url": "https://int.nyt.com/data/documenttools/mt-crosstabs/4da3e297acefb561/full.pdf",
-    "created_at": "2020-09-20",
-    "startDate": "2020-09-14",
-    "endDate": "2020-09-16",
-    "pollster": "Siena College/The New York Times Upshot",
-    "answers": [
-      {
-        "choice": "Williams",
-        "pct": "44.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Rosendale",
-        "pct": "41.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Gibney",
-        "pct": "2.0",
-        "party": "Gre"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 1",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Montana",
-    "district": "1"
-  },
-  {
-    "id": "129595",
-    "subgroup": "All polls",
-    "sampleSize": "625",
-    "population": "lv",
-    "grade": "A+",
-    "url": "https://int.nyt.com/data/documenttools/mt-crosstabs/4da3e297acefb561/full.pdf",
-    "created_at": "2020-09-20",
-    "startDate": "2020-09-14",
-    "endDate": "2020-09-16",
-    "pollster": "Siena College/The New York Times Upshot",
-    "answers": [
-      {
-        "choice": "Cooney",
-        "pct": "39.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Gianforte",
-        "pct": "45.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Bishop",
-        "pct": "4.0",
-        "party": "Lib"
-      },
-      {
-        "choice": "Barb",
-        "pct": "1.0",
-        "party": "Gre"
-      }
-    ],
-    "type": "governor",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Montana"
   }
 ]
