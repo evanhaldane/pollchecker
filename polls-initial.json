@@ -27,6 +27,60 @@
     "state": "National"
   },
   {
+    "id": "130334",
+    "subgroup": "All polls",
+    "sampleSize": "1088",
+    "population": "rv",
+    "grade": "B-",
+    "url": "https://www.westfargopioneer.com/news/government-and-politics/6679370-Sept.-22-24-polling-shows-Trump-Biden-divide-as-challenger-maintains-lead",
+    "created_at": "2020-09-25",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-24",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "43.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "55.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130333",
+    "subgroup": "All polls",
+    "sampleSize": "1297",
+    "population": "a",
+    "grade": "B-",
+    "url": "https://www.westfargopioneer.com/news/government-and-politics/6679370-Sept.-22-24-polling-shows-Trump-Biden-divide-as-challenger-maintains-lead",
+    "created_at": "2020-09-25",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-24",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "42.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "54.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "130325",
     "subgroup": "All polls",
     "sampleSize": "1160",
@@ -78,6 +132,99 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130337",
+    "subgroup": "All polls",
+    "sampleSize": "934",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.westfargopioneer.com/news/government-and-politics/6679370-Sept.-22-24-polling-shows-Trump-Biden-divide-as-challenger-maintains-lead",
+    "created_at": "2020-09-25",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-24",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "130336",
+    "subgroup": "All polls",
+    "sampleSize": "1088",
+    "population": "rv",
+    "grade": "B-",
+    "url": "https://www.westfargopioneer.com/news/government-and-politics/6679370-Sept.-22-24-polling-shows-Trump-Biden-divide-as-challenger-maintains-lead",
+    "created_at": "2020-09-25",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-24",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "130335",
+    "subgroup": "All polls",
+    "sampleSize": "1297",
+    "population": "a",
+    "grade": "B-",
+    "url": "https://www.westfargopioneer.com/news/government-and-politics/6679370-Sept.-22-24-polling-shows-Trump-Biden-divide-as-challenger-maintains-lead",
+    "created_at": "2020-09-25",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-24",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "37.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
     "state": "National"
   },
   {
@@ -243,7 +390,7 @@
     "id": "130320",
     "subgroup": "All polls",
     "sampleSize": "2500",
-    "population": "rv",
+    "population": "lv",
     "grade": "",
     "url": "https://redfieldandwiltonstrategies.com/latest-usa-voting-intention-september-22-23/",
     "created_at": "2020-09-25",
@@ -636,6 +783,166 @@
     "state": "Nevada"
   },
   {
+    "id": "130330",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.hrc.org/parts/HRC-Poll-917-202020.pdf",
+    "created_at": "2020-09-25",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-19",
+    "pollster": "Hart Research Associates",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Wisconsin"
+  },
+  {
+    "id": "130329",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.hrc.org/parts/HRC-Poll-917-202020.pdf",
+    "created_at": "2020-09-25",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-19",
+    "pollster": "Hart Research Associates",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "130328",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.hrc.org/parts/HRC-Poll-917-202020.pdf",
+    "created_at": "2020-09-25",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-19",
+    "pollster": "Hart Research Associates",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Michigan"
+  },
+  {
+    "id": "130327",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.hrc.org/parts/HRC-Poll-917-202020.pdf",
+    "created_at": "2020-09-25",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-19",
+    "pollster": "Hart Research Associates",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Florida"
+  },
+  {
+    "id": "130326",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.hrc.org/parts/HRC-Poll-917-202020.pdf",
+    "created_at": "2020-09-25",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-19",
+    "pollster": "Hart Research Associates",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Arizona"
+  },
+  {
     "id": "130309",
     "subgroup": "All polls",
     "sampleSize": "5942",
@@ -759,7 +1066,7 @@
   {
     "id": "130318",
     "subgroup": "All polls",
-    "sampleSize": "800",
+    "sampleSize": "500",
     "population": "lv",
     "grade": "A",
     "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2020/9_25_2020_marginals_pdftxt.pdf?la=en&hash=EA09FFF4A22FBF2A04A6A5776C86103A990C9C6A",
@@ -894,6 +1201,68 @@
     "tracking": false,
     "headToHead": false,
     "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
+    "id": "130332",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.hrc.org/parts/HRC-Poll-917-202020.pdf",
+    "created_at": "2020-09-25",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-19",
+    "pollster": "Hart Research Associates",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Michigan"
+  },
+  {
+    "id": "130331",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.hrc.org/parts/HRC-Poll-917-202020.pdf",
+    "created_at": "2020-09-25",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-19",
+    "pollster": "Hart Research Associates",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "55.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
     "state": "Arizona"
   },
   {
