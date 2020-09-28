@@ -93,7 +93,7 @@
   {
     "id": "130419",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "809",
     "population": "lv",
     "grade": "A+",
     "url": "https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_US_092820/",
@@ -127,7 +127,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -298,6 +298,37 @@
     "state": "Texas"
   },
   {
+    "id": "130421",
+    "subgroup": "All polls",
+    "sampleSize": "2768",
+    "population": "rv",
+    "grade": "C",
+    "url": "https://thehill.com/hilltv/what-americas-thinking/518605-what-americas-thinking-september-28-2020",
+    "created_at": "2020-09-28",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-25",
+    "pollster": "HarrisX",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "130408",
     "subgroup": "All polls",
     "sampleSize": "1018",
@@ -450,6 +481,62 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
+  },
+  {
+    "id": "130417",
+    "subgroup": "All polls",
+    "sampleSize": "809",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_092820/",
+    "created_at": "2020-09-28",
+    "startDate": "2020-09-24",
+    "endDate": "2020-09-27",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "130416",
+    "subgroup": "All polls",
+    "sampleSize": "809",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_092820/",
+    "created_at": "2020-09-28",
+    "startDate": "2020-09-24",
+    "endDate": "2020-09-27",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "130394",
@@ -642,6 +729,38 @@
     "cycle": "2020",
     "state": "Nebraska",
     "district": "2"
+  },
+  {
+    "id": "130420",
+    "subgroup": "All polls",
+    "sampleSize": "401",
+    "population": "lv",
+    "grade": "",
+    "url": "https://nmcdn.io/e186d21f8c7946a19faed23c3da2f0da/7c9798eaafd54081881797bf9a163295/files/research/PA-10-poll-092520.pdf",
+    "created_at": "2020-09-28",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-24",
+    "pollster": "Pennsylvania Survey Research",
+    "answers": [
+      {
+        "choice": "DePasquale",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perry",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 10",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Pennsylvania",
+    "district": "10"
   },
   {
     "id": "130413",
