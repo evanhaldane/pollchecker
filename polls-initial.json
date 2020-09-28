@@ -531,6 +531,37 @@
     "state": "Nevada"
   },
   {
+    "id": "130428",
+    "subgroup": "All polls",
+    "sampleSize": "3092",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://public.tableau.com/profile/surveymonkey#!/vizhome/Bidenvs_TrumpDashboard9_21/Biden-TrumpDashboard",
+    "created_at": "2020-09-28",
+    "startDate": "2020-09-01",
+    "endDate": "2020-09-25",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Ohio"
+  },
+  {
     "id": "130427",
     "subgroup": "All polls",
     "sampleSize": "602",
@@ -557,7 +588,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Alaska"
@@ -607,6 +638,68 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
+  },
+  {
+    "id": "130429",
+    "subgroup": "All polls",
+    "sampleSize": "3220",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://public.tableau.com/profile/surveymonkey#!/vizhome/Bidenvs_TrumpDashboard9_21/Biden-TrumpDashboard",
+    "created_at": "2020-09-28",
+    "startDate": "2020-08-01",
+    "endDate": "2020-08-31",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Ohio"
+  },
+  {
+    "id": "130430",
+    "subgroup": "All polls",
+    "sampleSize": "3694",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://public.tableau.com/profile/surveymonkey#!/vizhome/Bidenvs_TrumpDashboard9_21/Biden-TrumpDashboard",
+    "created_at": "2020-09-28",
+    "startDate": "2020-07-01",
+    "endDate": "2020-07-31",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "51.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Ohio"
   },
   {
     "id": "130417",
