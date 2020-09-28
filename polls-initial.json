@@ -27,6 +27,43 @@
     "state": "National"
   },
   {
+    "id": "130405",
+    "subgroup": "All polls",
+    "sampleSize": "420",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/ne020920-crosstabs/38a068b5366d4c08/full.pdf",
+    "created_at": "2020-09-28",
+    "startDate": "2020-09-25",
+    "endDate": "2020-09-27",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "4.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Nebraska",
+    "district": "2"
+  },
+  {
     "id": "130397",
     "subgroup": "All polls",
     "sampleSize": "5253",
@@ -152,6 +189,83 @@
     "state": "Texas"
   },
   {
+    "id": "130408",
+    "subgroup": "All polls",
+    "sampleSize": "1018",
+    "population": "lv",
+    "grade": "",
+    "url": "http://echeloninsights.com/wp-content/uploads/Omnibus_September-2020_Release1.pdf",
+    "created_at": "2020-09-28",
+    "startDate": "2020-09-19",
+    "endDate": "2020-09-25",
+    "pollster": "Echelon Insights",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      },
+      {
+        "choice": "West",
+        "pct": "1.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "130407",
+    "subgroup": "All polls",
+    "sampleSize": "1018",
+    "population": "lv",
+    "grade": "",
+    "url": "http://echeloninsights.com/wp-content/uploads/Omnibus_September-2020_Release1.pdf",
+    "created_at": "2020-09-28",
+    "startDate": "2020-09-19",
+    "endDate": "2020-09-25",
+    "pollster": "Echelon Insights",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "130403",
     "subgroup": "All polls",
     "sampleSize": "641",
@@ -178,7 +292,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Nevada"
   },
@@ -209,6 +323,100 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "130410",
+    "subgroup": "All polls",
+    "sampleSize": "1018",
+    "population": "lv",
+    "grade": "",
+    "url": "http://echeloninsights.com/wp-content/uploads/Omnibus_September-2020_Release1.pdf",
+    "created_at": "2020-09-28",
+    "startDate": "2020-09-19",
+    "endDate": "2020-09-25",
+    "pollster": "Echelon Insights",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "130404",
+    "subgroup": "All polls",
+    "sampleSize": "1047",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://drive.google.com/file/d/1TMFBeZQNL0acengHKAZru4D78kvB38e2/view",
+    "created_at": "2020-09-28",
+    "startDate": "2020-09-23",
+    "endDate": "2020-09-25",
+    "pollster": "Trafalgar Group",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "47.2",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "47.3",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "130406",
+    "subgroup": "All polls",
+    "sampleSize": "420",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/ne020920-crosstabs/38a068b5366d4c08/full.pdf",
+    "created_at": "2020-09-28",
+    "startDate": "2020-09-25",
+    "endDate": "2020-09-27",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Eastman",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Bacon",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Schaeffer",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Nebraska",
+    "district": "2"
   },
   {
     "id": "130369",
@@ -914,7 +1122,7 @@
   {
     "id": "130389",
     "subgroup": "All polls",
-    "sampleSize": "1775",
+    "sampleSize": "1885",
     "population": "lv",
     "grade": "",
     "url": "https://redfieldandwiltonstrategies.com/california-presidential-proposition-22-and-proposition-24-voting-intentions-19-21-september/",
