@@ -81,6 +81,68 @@
     "state": "National"
   },
   {
+    "id": "130391",
+    "subgroup": "All polls",
+    "sampleSize": "774",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.scribd.com/document/477721916/The-Federalist-TIPP-Pennsylvania-Poll-Sept-24-26-2020",
+    "created_at": "2020-09-27",
+    "startDate": "2020-09-24",
+    "endDate": "2020-09-26",
+    "pollster": "TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.7",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.7",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "130390",
+    "subgroup": "All polls",
+    "sampleSize": "909",
+    "population": "rv",
+    "grade": "A/B",
+    "url": "https://www.scribd.com/document/477721916/The-Federalist-TIPP-Pennsylvania-Poll-Sept-24-26-2020",
+    "created_at": "2020-09-27",
+    "startDate": "2020-09-24",
+    "endDate": "2020-09-26",
+    "pollster": "TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.6",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
     "id": "130367",
     "subgroup": "All polls",
     "sampleSize": "5257",
@@ -675,7 +737,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "California"
   },
