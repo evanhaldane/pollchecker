@@ -91,6 +91,88 @@
     "district": "2"
   },
   {
+    "id": "130419",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_US_092820/",
+    "created_at": "2020-09-28",
+    "startDate": "2020-09-24",
+    "endDate": "2020-09-27",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "130418",
+    "subgroup": "All polls",
+    "sampleSize": "809",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_US_092820/",
+    "created_at": "2020-09-28",
+    "startDate": "2020-09-24",
+    "endDate": "2020-09-27",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "130397",
     "subgroup": "All polls",
     "sampleSize": "5253",
@@ -365,7 +447,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
   },
@@ -454,6 +536,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Michigan"
+  },
+  {
+    "id": "130415",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://www.startribune.com/minnesota-poll-us-senate-tina-smith-jason-lewis-supreme-court-scotus-trump-ruth-bader-ginsburg-rbg-merrick-garland-amy-coney-barrett/572533201/",
+    "created_at": "2020-09-28",
+    "startDate": "2020-09-21",
+    "endDate": "2020-09-23",
+    "pollster": "Mason-Dixon Polling & Strategy",
+    "answers": [
+      {
+        "choice": "Smith",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Lewis",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Minnesota"
   },
   {
     "id": "130414",
