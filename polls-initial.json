@@ -27,6 +27,33 @@
     "state": "National"
   },
   {
+    "id": "130411",
+    "subgroup": "All polls",
+    "sampleSize": "1018",
+    "population": "lv",
+    "grade": "",
+    "url": "http://echeloninsights.com/wp-content/uploads/Omnibus_September-2020_Release1.pdf",
+    "created_at": "2020-09-28",
+    "startDate": "2020-09-19",
+    "endDate": "2020-09-25",
+    "pollster": "Echelon Insights",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "44.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "54.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "130405",
     "subgroup": "All polls",
     "sampleSize": "420",
@@ -261,7 +288,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -295,6 +322,52 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Nevada"
+  },
+  {
+    "id": "130412",
+    "subgroup": "All polls",
+    "sampleSize": "705",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://www.meredith.edu/assets/images/content/Meredith_College_Poll_Report_September_2020.pdf",
+    "created_at": "2020-09-28",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-22",
+    "pollster": "Meredith College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.7",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.4",
+        "party": "Rep"
+      },
+      {
+        "choice": "Blankenship",
+        "pct": "1.0",
+        "party": "Con"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.3",
+        "party": "Gre"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.6",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "130394",
@@ -383,6 +456,46 @@
     "state": "Michigan"
   },
   {
+    "id": "130414",
+    "subgroup": "All polls",
+    "sampleSize": "705",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://www.meredith.edu/assets/images/content/Meredith_College_Poll_Report_September_2020.pdf",
+    "created_at": "2020-09-28",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-22",
+    "pollster": "Meredith College",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "43.1",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "41.8",
+        "party": "Rep"
+      },
+      {
+        "choice": "Bray",
+        "pct": "3.8",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hayes",
+        "pct": "0.9",
+        "party": "Con"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "130406",
     "subgroup": "All polls",
     "sampleSize": "420",
@@ -417,6 +530,46 @@
     "cycle": "2020",
     "state": "Nebraska",
     "district": "2"
+  },
+  {
+    "id": "130413",
+    "subgroup": "All polls",
+    "sampleSize": "705",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://www.meredith.edu/assets/images/content/Meredith_College_Poll_Report_September_2020.pdf",
+    "created_at": "2020-09-28",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-22",
+    "pollster": "Meredith College",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "49.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "39.3",
+        "party": "Rep"
+      },
+      {
+        "choice": "Pisano",
+        "pct": "1.1",
+        "party": "Con"
+      },
+      {
+        "choice": "DiFiore",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "130369",
@@ -7195,37 +7348,6 @@
     "state": "Pennsylvania"
   },
   {
-    "id": "129958",
-    "subgroup": "All polls",
-    "sampleSize": "565",
-    "population": "lv",
-    "grade": "B-",
-    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/topline_reuters_arizona_state_poll_w1_09_23_2020.pdf",
-    "created_at": "2020-09-23",
-    "startDate": "2020-09-11",
-    "endDate": "2020-09-17",
-    "pollster": "Ipsos",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "47.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "46.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Arizona"
-  },
-  {
     "id": "129959",
     "subgroup": "All polls",
     "sampleSize": "586",
@@ -7255,6 +7377,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
+  },
+  {
+    "id": "129958",
+    "subgroup": "All polls",
+    "sampleSize": "565",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/topline_reuters_arizona_state_poll_w1_09_23_2020.pdf",
+    "created_at": "2020-09-23",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-16",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "129945",
@@ -7938,36 +8091,6 @@
     "state": "Arizona"
   },
   {
-    "id": "129957",
-    "subgroup": "All polls",
-    "sampleSize": "565",
-    "population": "lv",
-    "grade": "B-",
-    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/topline_reuters_arizona_state_poll_w1_09_23_2020.pdf",
-    "created_at": "2020-09-23",
-    "startDate": "2020-09-11",
-    "endDate": "2020-09-17",
-    "pollster": "Ipsos",
-    "answers": [
-      {
-        "choice": "Kelly",
-        "pct": "50.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "McSally",
-        "pct": "41.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class III",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Arizona"
-  },
-  {
     "id": "129947",
     "subgroup": "All polls",
     "sampleSize": "600",
@@ -7997,6 +8120,36 @@
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Georgia"
+  },
+  {
+    "id": "129957",
+    "subgroup": "All polls",
+    "sampleSize": "565",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/topline_reuters_arizona_state_poll_w1_09_23_2020.pdf",
+    "created_at": "2020-09-23",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-16",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "129942",
