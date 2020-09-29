@@ -54,6 +54,38 @@
     "state": "National"
   },
   {
+    "id": "130462",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://amgreatness.com/2020/09/29/trump-and-biden-tied-in-new-arizona-poll/",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-25",
+    "endDate": "2020-09-28",
+    "pollster": "Susquehanna Polling & Research Inc.",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Arizona"
+  },
+  {
     "id": "130444",
     "subgroup": "All polls",
     "sampleSize": "5260",
@@ -655,6 +687,37 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "130463",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://amgreatness.com/2020/09/29/trump-and-biden-tied-in-new-arizona-poll/",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-25",
+    "endDate": "2020-09-28",
+    "pollster": "Susquehanna Polling & Research Inc.",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Arizona"
   },
   {
     "id": "130456",
