@@ -179,7 +179,7 @@
     "state": "National"
   },
   {
-    "id": "130455",
+    "id": "130482",
     "subgroup": "All polls",
     "sampleSize": "12965",
     "population": "lv",
@@ -205,7 +205,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": true,
+    "inAvg": false,
     "cycle": "2020",
     "state": "National"
   },
@@ -282,7 +282,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Georgia"
   },
@@ -588,7 +588,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Texas"
   },
@@ -660,7 +660,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
   },
@@ -732,7 +732,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New Hampshire"
   },
