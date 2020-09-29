@@ -54,6 +54,37 @@
     "state": "National"
   },
   {
+    "id": "130483",
+    "subgroup": "All polls",
+    "sampleSize": "969",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://m.dailykos.com/stories/2020/9/29/1981768/-Warnock-surges-to-Georgia-Senate-special-election-lead-Dems-all-looking-good-Civiqs-poll",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-26",
+    "endDate": "2020-09-29",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
     "id": "130462",
     "subgroup": "All polls",
     "sampleSize": "500",
@@ -205,7 +236,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -980,6 +1011,206 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "130489",
+    "subgroup": "All polls",
+    "sampleSize": "969",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-26",
+    "endDate": "2020-09-29",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Collins",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "130488",
+    "subgroup": "All polls",
+    "sampleSize": "969",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-26",
+    "endDate": "2020-09-29",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Lieberman",
+        "pct": "38.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Collins",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "130487",
+    "subgroup": "All polls",
+    "sampleSize": "969",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-26",
+    "endDate": "2020-09-29",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "130486",
+    "subgroup": "All polls",
+    "sampleSize": "969",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-26",
+    "endDate": "2020-09-29",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Lieberman",
+        "pct": "39.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "130485",
+    "subgroup": "All polls",
+    "sampleSize": "969",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-26",
+    "endDate": "2020-09-29",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "38.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Collins",
+        "pct": "25.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "21.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Lieberman",
+        "pct": "5.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tarver",
+        "pct": "2.0",
+        "party": "Dem"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "130484",
+    "subgroup": "All polls",
+    "sampleSize": "969",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://civiqs.com/documents/Civiqs_DailyKos_GA_banner_book_2020_09_y983ce.pdf",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-26",
+    "endDate": "2020-09-29",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Ossoff",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perdue",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Hazel",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
   },
   {
     "id": "130463",
