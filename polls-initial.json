@@ -251,9 +251,40 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "130477",
+    "subgroup": "All polls",
+    "sampleSize": "1125",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/georgia/release-detail?ReleaseID=3676",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-23",
+    "endDate": "2020-09-27",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Georgia"
   },
   {
     "id": "130458",
@@ -488,6 +519,222 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "130471",
+    "subgroup": "All polls",
+    "sampleSize": "882",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.uml.edu/docs/2020-Texas-Sept-Topline_tcm18-330588.pdf",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-25",
+    "pollster": "University of Massachusetts Lowell",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Texas"
+  },
+  {
+    "id": "130470",
+    "subgroup": "All polls",
+    "sampleSize": "882",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.uml.edu/docs/2020-Texas-Sept-Topline_tcm18-330588.pdf",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-25",
+    "pollster": "University of Massachusetts Lowell",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Texas"
+  },
+  {
+    "id": "130467",
+    "subgroup": "All polls",
+    "sampleSize": "921",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.uml.edu/docs/2020-NC-Sept-Topline_tcm18-330590.pdf",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-25",
+    "pollster": "University of Massachusetts Lowell",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "130466",
+    "subgroup": "All polls",
+    "sampleSize": "921",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.uml.edu/docs/2020-NC-Sept-Topline_tcm18-330590.pdf",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-25",
+    "pollster": "University of Massachusetts Lowell",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "130469",
+    "subgroup": "All polls",
+    "sampleSize": "657",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.uml.edu/docs/2020-NH-Sept-Topline_tcm18-330589.pdf",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-25",
+    "pollster": "University of Massachusetts Lowell",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
+  },
+  {
+    "id": "130468",
+    "subgroup": "All polls",
+    "sampleSize": "657",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.uml.edu/docs/2020-NH-Sept-Topline_tcm18-330589.pdf",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-25",
+    "pollster": "University of Massachusetts Lowell",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "2.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
   },
   {
     "id": "130452",
@@ -766,6 +1013,171 @@
     "state": "Arizona"
   },
   {
+    "id": "130479",
+    "subgroup": "All polls",
+    "sampleSize": "1125",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/georgia/release-detail?ReleaseID=3676",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-23",
+    "endDate": "2020-09-27",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "31.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "23.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Collins",
+        "pct": "22.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Lieberman",
+        "pct": "9.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tarver",
+        "pct": "4.0",
+        "party": "Dem"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "130478",
+    "subgroup": "All polls",
+    "sampleSize": "1125",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/georgia/release-detail?ReleaseID=3676",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-23",
+    "endDate": "2020-09-27",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Ossoff",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perdue",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "130476",
+    "subgroup": "All polls",
+    "sampleSize": "882",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.uml.edu/docs/2020-Texas-Sept-Topline_tcm18-330588.pdf",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-25",
+    "pollster": "University of Massachusetts Lowell",
+    "answers": [
+      {
+        "choice": "Hegar",
+        "pct": "40.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Cornyn",
+        "pct": "50.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Texas"
+  },
+  {
+    "id": "130474",
+    "subgroup": "All polls",
+    "sampleSize": "921",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.uml.edu/docs/2020-NC-Sept-Topline_tcm18-330590.pdf",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-25",
+    "pollster": "University of Massachusetts Lowell",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "130475",
+    "subgroup": "All polls",
+    "sampleSize": "657",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.uml.edu/docs/2020-NH-Sept-Topline_tcm18-330589.pdf",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-25",
+    "pollster": "University of Massachusetts Lowell",
+    "answers": [
+      {
+        "choice": "Shaheen",
+        "pct": "56.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Messner",
+        "pct": "37.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
+  },
+  {
     "id": "130456",
     "subgroup": "All polls",
     "sampleSize": "614",
@@ -796,6 +1208,66 @@
     "partisan": "DEM",
     "state": "North Carolina",
     "district": "8"
+  },
+  {
+    "id": "130472",
+    "subgroup": "All polls",
+    "sampleSize": "921",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.uml.edu/docs/2020-NC-Sept-Topline_tcm18-330590.pdf",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-25",
+    "pollster": "University of Massachusetts Lowell",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "130473",
+    "subgroup": "All polls",
+    "sampleSize": "657",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.uml.edu/docs/2020-NH-Sept-Topline_tcm18-330589.pdf",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-25",
+    "pollster": "University of Massachusetts Lowell",
+    "answers": [
+      {
+        "choice": "Feltes",
+        "pct": "34.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Sununu",
+        "pct": "60.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
   },
   {
     "id": "130424",
