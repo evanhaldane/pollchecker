@@ -27,6 +27,33 @@
     "state": "National"
   },
   {
+    "id": "130515",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "a",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/nfqpl4l5da/tabs_Trump_Tweets_20200924.pdf",
+    "created_at": "2020-09-30",
+    "startDate": "2020-09-24",
+    "endDate": "2020-09-28",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "47.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "51.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "130511",
     "subgroup": "All polls",
     "sampleSize": "2200",
@@ -51,6 +78,118 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130514",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "a",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/bvs799jtj5/tabs_Trump_Tweets_20200923.pdf",
+    "created_at": "2020-09-30",
+    "startDate": "2020-09-23",
+    "endDate": "2020-09-27",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "43.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "57.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130516",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "a",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/kblgu12ikd/tabs_Trump_Tweets_20200922.pdf",
+    "created_at": "2020-09-30",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-25",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "44.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "50.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130517",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "a",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/6v4u5o6j9u/tabs_Trump_Tweets_20200921.pdf",
+    "created_at": "2020-09-30",
+    "startDate": "2020-09-21",
+    "endDate": "2020-09-24",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "44.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130518",
+    "subgroup": "All polls",
+    "sampleSize": "3000",
+    "population": "lv",
+    "grade": "C+",
+    "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_sep30",
+    "created_at": "2020-09-30",
+    "startDate": "2020-09-23",
+    "endDate": "2020-09-29",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
     "state": "National"
   },
   {
@@ -278,7 +417,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
