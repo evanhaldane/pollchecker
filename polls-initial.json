@@ -188,7 +188,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -357,6 +357,42 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "California"
+  },
+  {
+    "id": "130520",
+    "subgroup": "All polls",
+    "sampleSize": "972",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://scholars.unh.edu/survey_center_polls/610/",
+    "created_at": "2020-09-30",
+    "startDate": "2020-09-24",
+    "endDate": "2020-09-28",
+    "pollster": "University of New Hampshire",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
   },
   {
     "id": "130506",
