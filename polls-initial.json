@@ -27,6 +27,33 @@
     "state": "National"
   },
   {
+    "id": "130492",
+    "subgroup": "All polls",
+    "sampleSize": "1959",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://assets.morningconsult.com/wp-uploads/2020/09/29155809/2009119_crosstabs_ACA_RGB_RVs_v2_RG.pdf",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-24",
+    "endDate": "2020-09-27",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "43.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "56.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "130438",
     "subgroup": "All polls",
     "sampleSize": "48241",
@@ -206,6 +233,47 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "130490",
+    "subgroup": "All polls",
+    "sampleSize": "3000",
+    "population": "rv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/latest-usa-voting-intention-september-26-27/?utm_source=rss&utm_medium=rss&utm_campaign=latest-usa-voting-intention-september-26-27",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-26",
+    "endDate": "2020-09-27",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -519,6 +587,38 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
+  },
+  {
+    "id": "130491",
+    "subgroup": "All polls",
+    "sampleSize": "850",
+    "population": "lv",
+    "grade": "C+",
+    "url": "https://amgreatness.com/2020/09/29/biden-leads-in-new-hampshire-poll/",
+    "created_at": "2020-09-29",
+    "startDate": "2020-09-23",
+    "endDate": "2020-09-25",
+    "pollster": "Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "56.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "New Hampshire"
   },
   {
     "id": "130453",
