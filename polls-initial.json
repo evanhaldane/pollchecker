@@ -1,5 +1,32 @@
 [
   {
+    "id": "130523",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "a",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/ulprrj9kpd/tabs_Trump_Tweets_20200926.pdf",
+    "created_at": "2020-09-30",
+    "startDate": "2020-09-26",
+    "endDate": "2020-09-30",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "130510",
     "subgroup": "All polls",
     "sampleSize": "1500",
@@ -18,6 +45,33 @@
       {
         "choice": "Disapprove",
         "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130522",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "a",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/s01368e7o8/tabs_Trump_Tweets_20200925.pdf",
+    "created_at": "2020-09-30",
+    "startDate": "2020-09-25",
+    "endDate": "2020-09-29",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "44.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "55.0"
       }
     ],
     "type": "trump-approval",
@@ -436,6 +490,37 @@
     "state": "National"
   },
   {
+    "id": "130526",
+    "subgroup": "All polls",
+    "sampleSize": "1123",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/south-carolina/release-detail?ReleaseID=3677",
+    "created_at": "2020-09-30",
+    "startDate": "2020-09-23",
+    "endDate": "2020-09-27",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "South Carolina"
+  },
+  {
     "id": "130506",
     "subgroup": "All polls",
     "sampleSize": "794",
@@ -561,6 +646,36 @@
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Kansas"
+  },
+  {
+    "id": "130527",
+    "subgroup": "All polls",
+    "sampleSize": "1123",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/south-carolina/release-detail?ReleaseID=3677",
+    "created_at": "2020-09-30",
+    "startDate": "2020-09-23",
+    "endDate": "2020-09-27",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Harrison",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Graham",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "South Carolina"
   },
   {
     "id": "130507",
