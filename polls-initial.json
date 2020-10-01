@@ -1,5 +1,86 @@
 [
   {
+    "id": "130596",
+    "subgroup": "All polls",
+    "sampleSize": "1856",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://assets.morningconsult.com/wp-uploads/2020/10/01104326/2009150_crosstabs_POLITICO_RVs_v1.pdf",
+    "created_at": "2020-10-01",
+    "startDate": "2020-09-30",
+    "endDate": "2020-09-30",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "44.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "54.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130585",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2020-10-01",
+    "startDate": "2020-09-28",
+    "endDate": "2020-09-30",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "51.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130595",
+    "subgroup": "All polls",
+    "sampleSize": "31920",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
+    "created_at": "2020-10-01",
+    "startDate": "2020-09-23",
+    "endDate": "2020-09-29",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "42.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "130570",
     "subgroup": "All polls",
     "sampleSize": "1002",
@@ -18,6 +99,60 @@
       {
         "choice": "Disapprove",
         "pct": "57.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130594",
+    "subgroup": "All polls",
+    "sampleSize": "31920",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
+    "created_at": "2020-10-01",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-28",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130588",
+    "subgroup": "All polls",
+    "sampleSize": "1023",
+    "population": "a",
+    "grade": "B",
+    "url": "https://news.gallup.com/poll/321347/trump-pre-debate-job-approval-highest-may.aspx",
+    "created_at": "2020-10-01",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-28",
+    "pollster": "Gallup",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "52.0"
       }
     ],
     "type": "trump-approval",
@@ -54,6 +189,87 @@
     "state": "National"
   },
   {
+    "id": "130593",
+    "subgroup": "All polls",
+    "sampleSize": "31920",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
+    "created_at": "2020-10-01",
+    "startDate": "2020-09-21",
+    "endDate": "2020-09-27",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "42.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130592",
+    "subgroup": "All polls",
+    "sampleSize": "31920",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
+    "created_at": "2020-10-01",
+    "startDate": "2020-09-20",
+    "endDate": "2020-09-26",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130591",
+    "subgroup": "All polls",
+    "sampleSize": "31920",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
+    "created_at": "2020-10-01",
+    "startDate": "2020-09-19",
+    "endDate": "2020-09-25",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "130581",
     "subgroup": "All polls",
     "sampleSize": "1314",
@@ -68,6 +284,60 @@
       {
         "choice": "Approve",
         "pct": "47.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130590",
+    "subgroup": "All polls",
+    "sampleSize": "31920",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
+    "created_at": "2020-10-01",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-24",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "42.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130589",
+    "subgroup": "All polls",
+    "sampleSize": "31920",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
+    "created_at": "2020-10-01",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-23",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.0"
       },
       {
         "choice": "Disapprove",
@@ -132,6 +402,37 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130599",
+    "subgroup": "All polls",
+    "sampleSize": "925",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://www.cnbc.com/2020/10/01/biden-leads-polls-voters-say-he-beat-trump-in-first-debate.html",
+    "created_at": "2020-10-01",
+    "startDate": "2020-09-29",
+    "endDate": "2020-09-30",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
     "state": "National"
   },
   {
@@ -550,7 +851,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -581,7 +882,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Ohio"
   },
@@ -948,6 +1249,69 @@
     "cycle": "2020",
     "state": "Arizona",
     "district": "6"
+  },
+  {
+    "id": "130587",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "",
+    "url": "https://moedavisforcongress.com/media-alert-poll-shows-moe-davis-surging-to-lead-in-nc-11/",
+    "created_at": "2020-10-01",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-24",
+    "pollster": "EMC Research",
+    "answers": [
+      {
+        "choice": "Davis",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Cawthorn",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 11",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "North Carolina",
+    "district": "11"
+  },
+  {
+    "id": "130586",
+    "subgroup": "All polls",
+    "sampleSize": "414",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.muhlenberg.edu/aboutus/polling/surveys/election/2020-pa7thdistrictpoll/",
+    "created_at": "2020-10-01",
+    "startDate": "2020-09-21",
+    "endDate": "2020-09-24",
+    "pollster": "Muhlenberg College",
+    "answers": [
+      {
+        "choice": "Wild",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Scheller",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 7",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Pennsylvania",
+    "district": "7"
   },
   {
     "id": "130578",
