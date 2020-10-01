@@ -825,6 +825,38 @@
     "state": "Arizona"
   },
   {
+    "id": "130600",
+    "subgroup": "All polls",
+    "sampleSize": "822",
+    "population": "v",
+    "grade": "B/C",
+    "url": "https://04acb8ce-8717-494a-8b55-56f4a82a107c.usrfiles.com/ugd/04acb8_121df148ec7b4053b105c08f0221a51a.pdf",
+    "created_at": "2020-10-01",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-28",
+    "pollster": "ALG Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "North Carolina"
+  },
+  {
     "id": "130584",
     "subgroup": "All polls",
     "sampleSize": "500",
@@ -1188,6 +1220,37 @@
     "state": "Arizona"
   },
   {
+    "id": "130602",
+    "subgroup": "All polls",
+    "sampleSize": "822",
+    "population": "v",
+    "grade": "B/C",
+    "url": "https://04acb8ce-8717-494a-8b55-56f4a82a107c.usrfiles.com/ugd/04acb8_121df148ec7b4053b105c08f0221a51a.pdf",
+    "created_at": "2020-10-01",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-28",
+    "pollster": "ALG Research",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "North Carolina"
+  },
+  {
     "id": "130579",
     "subgroup": "All polls",
     "sampleSize": "400",
@@ -1344,6 +1407,37 @@
     "partisan": "DEM",
     "state": "Arizona",
     "district": "6"
+  },
+  {
+    "id": "130601",
+    "subgroup": "All polls",
+    "sampleSize": "822",
+    "population": "v",
+    "grade": "B/C",
+    "url": "https://04acb8ce-8717-494a-8b55-56f4a82a107c.usrfiles.com/ugd/04acb8_121df148ec7b4053b105c08f0221a51a.pdf",
+    "created_at": "2020-10-01",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-28",
+    "pollster": "ALG Research",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "North Carolina"
   },
   {
     "id": "130540",
