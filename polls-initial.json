@@ -413,6 +413,37 @@
     "state": "National"
   },
   {
+    "id": "130548",
+    "subgroup": "All polls",
+    "sampleSize": "944",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://civiqs.com/documents/Civiqs_DailyKos_OR_banner_book_2020_09_7b4xvh.pdf",
+    "created_at": "2020-09-30",
+    "startDate": "2020-09-26",
+    "endDate": "2020-09-29",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "56.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Oregon"
+  },
+  {
     "id": "130536",
     "subgroup": "All polls",
     "sampleSize": "677",
@@ -470,7 +501,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -873,6 +904,38 @@
     "state": "Iowa"
   },
   {
+    "id": "130549",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://thehill.com/homenews/campaign/519035-biden-leads-trump-by-8-points-in-michigan-poll",
+    "created_at": "2020-09-30",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-23",
+    "pollster": "ALG Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Michigan"
+  },
+  {
     "id": "130506",
     "subgroup": "All polls",
     "sampleSize": "794",
@@ -1018,6 +1081,46 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "130550",
+    "subgroup": "All polls",
+    "sampleSize": "944",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://civiqs.com/documents/Civiqs_DailyKos_OR_banner_book_2020_09_7b4xvh.pdf",
+    "created_at": "2020-09-30",
+    "startDate": "2020-09-26",
+    "endDate": "2020-09-29",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Merkley",
+        "pct": "55.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perkins",
+        "pct": "35.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Dye",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Taher",
+        "pct": "2.0",
+        "party": "Pg"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Oregon"
   },
   {
     "id": "130537",
