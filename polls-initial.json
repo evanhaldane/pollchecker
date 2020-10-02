@@ -513,6 +513,37 @@
     "state": "National"
   },
   {
+    "id": "130623",
+    "subgroup": "All polls",
+    "sampleSize": "700",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/new-hampshire-2020-biden-leads-trump-independents-splitting-their-ticket",
+    "created_at": "2020-10-01",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-01",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.1",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.3",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
+  },
+  {
     "id": "130621",
     "subgroup": "All polls",
     "sampleSize": "882",
@@ -3473,8 +3504,8 @@
   {
     "id": "130490",
     "subgroup": "All polls",
-    "sampleSize": "3000",
-    "population": "rv",
+    "sampleSize": "2445",
+    "population": "lv",
     "grade": "",
     "url": "https://redfieldandwiltonstrategies.com/latest-usa-voting-intention-september-26-27/?utm_source=rss&utm_medium=rss&utm_campaign=latest-usa-voting-intention-september-26-27",
     "created_at": "2020-09-29",
