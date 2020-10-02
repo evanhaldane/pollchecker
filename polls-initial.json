@@ -107,7 +107,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -316,6 +316,242 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "130655",
+    "subgroup": "All polls",
+    "sampleSize": "663",
+    "population": "rv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/latest-us-swing-states-voting-intention-23-27-september/",
+    "created_at": "2020-10-02",
+    "startDate": "2020-09-23",
+    "endDate": "2020-09-27",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Wisconsin"
+  },
+  {
+    "id": "130654",
+    "subgroup": "All polls",
+    "sampleSize": "785",
+    "population": "rv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/latest-us-swing-states-voting-intention-23-27-september/",
+    "created_at": "2020-10-02",
+    "startDate": "2020-09-23",
+    "endDate": "2020-09-26",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "130651",
+    "subgroup": "All polls",
+    "sampleSize": "1097",
+    "population": "rv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/latest-us-swing-states-voting-intention-23-27-september/",
+    "created_at": "2020-10-02",
+    "startDate": "2020-09-23",
+    "endDate": "2020-09-26",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "130650",
+    "subgroup": "All polls",
+    "sampleSize": "871",
+    "population": "rv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/latest-us-swing-states-voting-intention-23-27-september/",
+    "created_at": "2020-10-02",
+    "startDate": "2020-09-23",
+    "endDate": "2020-09-26",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
+    "id": "130653",
+    "subgroup": "All polls",
+    "sampleSize": "1015",
+    "population": "rv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/latest-us-swing-states-voting-intention-23-27-september/",
+    "created_at": "2020-10-02",
+    "startDate": "2020-09-23",
+    "endDate": "2020-09-25",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "0.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "130652",
+    "subgroup": "All polls",
+    "sampleSize": "1073",
+    "population": "rv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/latest-us-swing-states-voting-intention-23-27-september/",
+    "created_at": "2020-10-02",
+    "startDate": "2020-09-23",
+    "endDate": "2020-09-25",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Florida"
   },
   {
     "id": "130643",
