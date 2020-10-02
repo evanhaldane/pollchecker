@@ -1,5 +1,117 @@
 [
   {
+    "id": "130648",
+    "subgroup": "All polls",
+    "sampleSize": "1221",
+    "population": "rv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/politics/ibdtipp-poll-presidential-approval-direction-of-country/",
+    "created_at": "2020-10-02",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-01",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "49.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130647",
+    "subgroup": "All polls",
+    "sampleSize": "1300",
+    "population": "a",
+    "grade": "A/B",
+    "url": "https://www.investors.com/politics/ibdtipp-poll-presidential-approval-direction-of-country/",
+    "created_at": "2020-10-02",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-01",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "44.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "50.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130646",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2020-10-02",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-01",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "130649",
+    "subgroup": "All polls",
+    "sampleSize": "1021",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/news/joe-biden-lead-over-donald-trump-narrows-after-presidential-debate-ibd-tipp-poll/",
+    "created_at": "2020-10-02",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-01",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.9",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "130640",
     "subgroup": "All polls",
     "sampleSize": "4799",
@@ -98,7 +210,7 @@
     "sampleSize": "500",
     "population": "lv",
     "grade": "A",
-    "url": "https://www.azcentral.com/story/news/politics/elections/2020/10/02/joe-bidens-lead-over-donald-trump-holding-battleground-arizona/5880048002/",
+    "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2020/10_2_2020_tables_pdftxt.pdf?la=en&hash=092D976850EB75E3AD343E1F122E02FA8C57CEFC",
     "created_at": "2020-10-02",
     "startDate": "2020-09-26",
     "endDate": "2020-09-30",
@@ -211,7 +323,7 @@
     "sampleSize": "500",
     "population": "lv",
     "grade": "A",
-    "url": "https://www.azcentral.com/story/news/politics/elections/2020/10/02/joe-bidens-lead-over-donald-trump-holding-battleground-arizona/5880048002/",
+    "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2020/10_2_2020_tables_pdftxt.pdf?la=en&hash=092D976850EB75E3AD343E1F122E02FA8C57CEFC",
     "created_at": "2020-10-02",
     "startDate": "2020-09-26",
     "endDate": "2020-09-30",
@@ -599,7 +711,7 @@
     "sampleSize": "1002",
     "population": "rv",
     "grade": "",
-    "url": "https://navigatorresearch.org/wp-content/uploads/2020/10/Navigating-Coronavirus-Update-10.01.2020.pdf",
+    "url": "https://navigatorresearch.org/wp-content/uploads/2020/10/Navigator-Full-Topline-09.29.2020.pdf",
     "created_at": "2020-10-01",
     "startDate": "2020-09-26",
     "endDate": "2020-09-28",
@@ -1329,7 +1441,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Maine"
@@ -1371,7 +1483,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": true,
+    "inAvg": false,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Maine"
@@ -3897,7 +4009,6 @@
     "headToHead": false,
     "inAvg": true,
     "cycle": "2020",
-    "partisan": "REP",
     "state": "Arizona"
   },
   {
@@ -4248,7 +4359,6 @@
     "headToHead": false,
     "inAvg": true,
     "cycle": "2020",
-    "partisan": "REP",
     "state": "Florida"
   },
   {
@@ -4285,7 +4395,6 @@
     "headToHead": false,
     "inAvg": true,
     "cycle": "2020",
-    "partisan": "REP",
     "state": "Wisconsin"
   },
   {
@@ -4379,7 +4488,6 @@
     "headToHead": false,
     "inAvg": true,
     "cycle": "2020",
-    "partisan": "REP",
     "state": "New Hampshire"
   },
   {
@@ -5102,7 +5210,6 @@
     "tracking": false,
     "headToHead": false,
     "cycle": "2020",
-    "partisan": "REP",
     "state": "Arizona"
   },
   {
@@ -6797,7 +6904,6 @@
     "headToHead": false,
     "inAvg": true,
     "cycle": "2020",
-    "partisan": "REP",
     "state": "Nevada"
   },
   {
