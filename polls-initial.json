@@ -154,6 +154,37 @@
     "state": "National"
   },
   {
+    "id": "130667",
+    "subgroup": "All polls",
+    "sampleSize": "1146",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.dataforprogress.org/blog/2020/10/2/joe-biden-maintains-a-commanding-lead-in-the-presidential-race",
+    "created_at": "2020-10-02",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-01",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "130640",
     "subgroup": "All polls",
     "sampleSize": "4799",
@@ -360,6 +391,166 @@
     "state": "National"
   },
   {
+    "id": "130666",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none",
+    "created_at": "2020-10-02",
+    "startDate": "2020-09-24",
+    "endDate": "2020-09-27",
+    "pollster": "Hart Research Associates",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Texas"
+  },
+  {
+    "id": "130665",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none",
+    "created_at": "2020-10-02",
+    "startDate": "2020-09-24",
+    "endDate": "2020-09-27",
+    "pollster": "Hart Research Associates",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Ohio"
+  },
+  {
+    "id": "130664",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none",
+    "created_at": "2020-10-02",
+    "startDate": "2020-09-24",
+    "endDate": "2020-09-27",
+    "pollster": "Hart Research Associates",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "North Carolina"
+  },
+  {
+    "id": "130663",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none",
+    "created_at": "2020-10-02",
+    "startDate": "2020-09-24",
+    "endDate": "2020-09-27",
+    "pollster": "Hart Research Associates",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Iowa"
+  },
+  {
+    "id": "130662",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://hrc-prod-requests.s3-us-west-2.amazonaws.com/ME-13067-HRC-Issues-10-State-1.pdf?mtime=20201002132812&focal=none",
+    "created_at": "2020-10-02",
+    "startDate": "2020-09-24",
+    "endDate": "2020-09-27",
+    "pollster": "Hart Research Associates",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Georgia"
+  },
+  {
     "id": "130655",
     "subgroup": "All polls",
     "sampleSize": "663",
@@ -394,6 +585,47 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
+  },
+  {
+    "id": "130668",
+    "subgroup": "All polls",
+    "sampleSize": "789",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/latest-georgia-voting-intention-23-26-september/",
+    "created_at": "2020-10-02",
+    "startDate": "2020-09-23",
+    "endDate": "2020-09-26",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Georgia"
   },
   {
     "id": "130654",
@@ -763,6 +995,138 @@
     "district": "10"
   },
   {
+    "id": "130660",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "rv",
+    "grade": "",
+    "url": "https://www.elnuevodia.com/noticias/politica/notas/pedro-pierluisi-sobre-los-resultados-de-la-encuesta-yo-voy-a-prevalecer-por-un-margen-sustancial/",
+    "created_at": "2020-10-02",
+    "startDate": "2020-09-19",
+    "endDate": "2020-09-23",
+    "pollster": "El Nuevo Día/The Research Office",
+    "answers": [
+      {
+        "choice": "Acevedo Vilá",
+        "pct": "33.0",
+        "party": "Ppd"
+      },
+      {
+        "choice": "González",
+        "pct": "43.0",
+        "party": "Npp"
+      },
+      {
+        "choice": "Piñero",
+        "pct": "6.0",
+        "party": "Pri"
+      },
+      {
+        "choice": "Jordán Conde",
+        "pct": "11.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Henríquez",
+        "pct": "1.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Puerto Rico",
+    "district": "1"
+  },
+  {
+    "id": "130661",
+    "subgroup": "All polls",
+    "sampleSize": "803",
+    "population": "v",
+    "grade": "B/C",
+    "url": "https://www.puertorico-herald.org/issues2/2020/vol18n04/PRH%20Sept%202020%20Poll-%20Final%20Topline.pdf",
+    "created_at": "2020-10-02",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-18",
+    "pollster": "Beacon Research",
+    "answers": [
+      {
+        "choice": "Acevedo Vilá",
+        "pct": "18.0",
+        "party": "Ppd"
+      },
+      {
+        "choice": "González",
+        "pct": "51.0",
+        "party": "Npp"
+      },
+      {
+        "choice": "Jordán Conde",
+        "pct": "7.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Henríquez",
+        "pct": "3.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Puerto Rico",
+    "district": "1"
+  },
+  {
+    "id": "130659",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "rv",
+    "grade": "",
+    "url": "https://www.elnuevodia.com/noticias/politica/notas/pedro-pierluisi-sobre-los-resultados-de-la-encuesta-yo-voy-a-prevalecer-por-un-margen-sustancial/",
+    "created_at": "2020-10-02",
+    "startDate": "2020-09-19",
+    "endDate": "2020-09-23",
+    "pollster": "El Nuevo Día/The Research Office",
+    "answers": [
+      {
+        "choice": "Delgado Altieri",
+        "pct": "37.0",
+        "party": "Ppd"
+      },
+      {
+        "choice": "Pierluisi",
+        "pct": "38.0",
+        "party": "Npp"
+      },
+      {
+        "choice": "Lúgaro",
+        "pct": "13.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Dalmau Ramírez",
+        "pct": "6.0",
+        "party": "Pri"
+      },
+      {
+        "choice": "Vázquez",
+        "pct": "1.0",
+        "party": "Oth"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Puerto Rico"
+  },
+  {
     "id": "130631",
     "subgroup": "All polls",
     "sampleSize": "803",
@@ -795,7 +1159,7 @@
         "party": "Pri"
       },
       {
-        "choice": "Vazquez",
+        "choice": "Vázquez",
         "pct": "3.0",
         "party": "Oth"
       },
@@ -845,7 +1209,7 @@
         "party": "Pri"
       },
       {
-        "choice": "Vazquez",
+        "choice": "Vázquez",
         "pct": "2.0",
         "party": "Oth"
       }
