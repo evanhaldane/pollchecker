@@ -1,5 +1,41 @@
 [
   {
+    "id": "131409",
+    "subgroup": "All polls",
+    "sampleSize": "706",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/flpa-0930-crosstabs/16c21b7ab34ed4d1/full.pdf",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-02",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
     "id": "131406",
     "subgroup": "All polls",
     "sampleSize": "4707",
@@ -26,7 +62,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -57,7 +93,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -91,6 +127,78 @@
     "inAvg": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "131408",
+    "subgroup": "All polls",
+    "sampleSize": "710",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/flpa-0930-crosstabs/16c21b7ab34ed4d1/full.pdf",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-01",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
+    "id": "131407",
+    "subgroup": "All polls",
+    "sampleSize": "980",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://moscout.com/s/MOSCOUT-Statewide-General-Election-Survey-Deck-100220.pptx",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-01",
+    "pollster": "Remington Research Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "51.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Missouri"
   },
   {
     "id": "131198",
@@ -9605,6 +9713,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "131410",
+    "subgroup": "All polls",
+    "sampleSize": "980",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://moscout.com/s/MOSCOUT-Statewide-General-Election-Survey-Deck-100220.pptx",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-01",
+    "pollster": "Remington Research Group",
+    "answers": [
+      {
+        "choice": "Galloway",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Parson",
+        "pct": "51.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Missouri"
   },
   {
     "id": "130677",
