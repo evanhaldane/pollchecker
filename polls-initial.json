@@ -1,5 +1,59 @@
 [
   {
+    "id": "131580",
+    "subgroup": "All polls",
+    "sampleSize": "895",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/reaction-poll-trump-covid/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-03",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "40.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "58.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "131579",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/reaction-poll-trump-covid/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-03",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "40.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "58.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "131411",
     "subgroup": "All polls",
     "sampleSize": "1006",
@@ -135,69 +189,7 @@
     "state": "Pennsylvania"
   },
   {
-    "id": "131406",
-    "subgroup": "All polls",
-    "sampleSize": "4707",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-10-03",
-    "startDate": "2020-09-19",
-    "endDate": "2020-10-02",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "51.07",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "43.88",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "131405",
-    "subgroup": "All polls",
-    "sampleSize": "4707",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-10-03",
-    "startDate": "2020-09-19",
-    "endDate": "2020-10-02",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "51.65",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "43.58",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "131404",
+    "id": "131578",
     "subgroup": "All polls",
     "sampleSize": "4622",
     "population": "rv",
@@ -210,12 +202,12 @@
     "answers": [
       {
         "choice": "Biden",
-        "pct": "50.36",
+        "pct": "51.89",
         "party": "Dem"
       },
       {
         "choice": "Trump",
-        "pct": "43.22",
+        "pct": "41.69",
         "party": "Rep"
       }
     ],
@@ -224,6 +216,68 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131538",
+    "subgroup": "All polls",
+    "sampleSize": "4707",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-19",
+    "endDate": "2020-10-02",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.24",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.98",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131498",
+    "subgroup": "All polls",
+    "sampleSize": "4707",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-19",
+    "endDate": "2020-10-02",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.35",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -298,6 +352,2982 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Missouri"
+  },
+  {
+    "id": "131577",
+    "subgroup": "All polls",
+    "sampleSize": "4709",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-18",
+    "endDate": "2020-10-01",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.16",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.36",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131537",
+    "subgroup": "All polls",
+    "sampleSize": "4799",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-18",
+    "endDate": "2020-10-01",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.39",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.76",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131497",
+    "subgroup": "All polls",
+    "sampleSize": "4799",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-18",
+    "endDate": "2020-10-01",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.48",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.14",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131576",
+    "subgroup": "All polls",
+    "sampleSize": "4848",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-30",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.47",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131536",
+    "subgroup": "All polls",
+    "sampleSize": "4943",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-30",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.76",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.69",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131496",
+    "subgroup": "All polls",
+    "sampleSize": "4943",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-30",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.99",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.98",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131575",
+    "subgroup": "All polls",
+    "sampleSize": "4995",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-16",
+    "endDate": "2020-09-29",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.94",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.68",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131535",
+    "subgroup": "All polls",
+    "sampleSize": "5097",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-16",
+    "endDate": "2020-09-29",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.58",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.64",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131495",
+    "subgroup": "All polls",
+    "sampleSize": "5097",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-16",
+    "endDate": "2020-09-29",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.75",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.25",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131574",
+    "subgroup": "All polls",
+    "sampleSize": "5159",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-15",
+    "endDate": "2020-09-28",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.46",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.92",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131534",
+    "subgroup": "All polls",
+    "sampleSize": "5261",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-15",
+    "endDate": "2020-09-28",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.31",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.82",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131494",
+    "subgroup": "All polls",
+    "sampleSize": "5261",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-15",
+    "endDate": "2020-09-28",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.57",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.18",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131573",
+    "subgroup": "All polls",
+    "sampleSize": "5153",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-27",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.65",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.86",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131533",
+    "subgroup": "All polls",
+    "sampleSize": "5254",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-27",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.63",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.67",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131493",
+    "subgroup": "All polls",
+    "sampleSize": "5254",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-27",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.78",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.1",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131572",
+    "subgroup": "All polls",
+    "sampleSize": "5160",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-13",
+    "endDate": "2020-09-26",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.49",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.12",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131532",
+    "subgroup": "All polls",
+    "sampleSize": "5258",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-13",
+    "endDate": "2020-09-26",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.44",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.95",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131492",
+    "subgroup": "All polls",
+    "sampleSize": "5258",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-13",
+    "endDate": "2020-09-26",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.73",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.13",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131571",
+    "subgroup": "All polls",
+    "sampleSize": "5225",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-25",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.62",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.9",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131531",
+    "subgroup": "All polls",
+    "sampleSize": "5331",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-25",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.96",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131491",
+    "subgroup": "All polls",
+    "sampleSize": "5331",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-25",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.67",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.08",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131570",
+    "subgroup": "All polls",
+    "sampleSize": "5270",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-24",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.42",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.84",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131530",
+    "subgroup": "All polls",
+    "sampleSize": "5378",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-24",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.21",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.79",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131490",
+    "subgroup": "All polls",
+    "sampleSize": "5378",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-24",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.68",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.9",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131569",
+    "subgroup": "All polls",
+    "sampleSize": "5263",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-10",
+    "endDate": "2020-09-23",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.14",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.04",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131529",
+    "subgroup": "All polls",
+    "sampleSize": "5370",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-10",
+    "endDate": "2020-09-23",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.97",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.89",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131489",
+    "subgroup": "All polls",
+    "sampleSize": "5370",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-10",
+    "endDate": "2020-09-23",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.33",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.05",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131568",
+    "subgroup": "All polls",
+    "sampleSize": "5330",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-09",
+    "endDate": "2020-09-22",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.16",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.11",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131528",
+    "subgroup": "All polls",
+    "sampleSize": "5440",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-09",
+    "endDate": "2020-09-22",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.23",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.89",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131488",
+    "subgroup": "All polls",
+    "sampleSize": "5440",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-09",
+    "endDate": "2020-09-22",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.43",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.94",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131567",
+    "subgroup": "All polls",
+    "sampleSize": "5369",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-08",
+    "endDate": "2020-09-21",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.15",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.72",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131527",
+    "subgroup": "All polls",
+    "sampleSize": "5482",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-08",
+    "endDate": "2020-09-21",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.35",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.69",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131487",
+    "subgroup": "All polls",
+    "sampleSize": "5482",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-08",
+    "endDate": "2020-09-21",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.42",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.87",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131566",
+    "subgroup": "All polls",
+    "sampleSize": "5332",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-07",
+    "endDate": "2020-09-20",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.52",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.91",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131526",
+    "subgroup": "All polls",
+    "sampleSize": "5446",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-07",
+    "endDate": "2020-09-20",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.49",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.75",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131486",
+    "subgroup": "All polls",
+    "sampleSize": "5446",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-07",
+    "endDate": "2020-09-20",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.36",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.9",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131565",
+    "subgroup": "All polls",
+    "sampleSize": "5328",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-06",
+    "endDate": "2020-09-19",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.46",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131525",
+    "subgroup": "All polls",
+    "sampleSize": "5455",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-06",
+    "endDate": "2020-09-19",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.91",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.39",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131485",
+    "subgroup": "All polls",
+    "sampleSize": "5455",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-06",
+    "endDate": "2020-09-19",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.71",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.6",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131564",
+    "subgroup": "All polls",
+    "sampleSize": "5321",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-05",
+    "endDate": "2020-09-18",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.17",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.86",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131524",
+    "subgroup": "All polls",
+    "sampleSize": "5447",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-05",
+    "endDate": "2020-09-18",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.38",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.67",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131484",
+    "subgroup": "All polls",
+    "sampleSize": "5447",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-05",
+    "endDate": "2020-09-18",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.42",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.73",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131563",
+    "subgroup": "All polls",
+    "sampleSize": "5338",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-04",
+    "endDate": "2020-09-17",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.09",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.79",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131523",
+    "subgroup": "All polls",
+    "sampleSize": "5466",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-04",
+    "endDate": "2020-09-17",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.17",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.65",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131483",
+    "subgroup": "All polls",
+    "sampleSize": "5466",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-04",
+    "endDate": "2020-09-17",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.43",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.93",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131562",
+    "subgroup": "All polls",
+    "sampleSize": "5304",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-03",
+    "endDate": "2020-09-16",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.29",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.76",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131522",
+    "subgroup": "All polls",
+    "sampleSize": "5424",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-03",
+    "endDate": "2020-09-16",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.43",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.86",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131482",
+    "subgroup": "All polls",
+    "sampleSize": "5424",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-03",
+    "endDate": "2020-09-16",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.51",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.24",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131561",
+    "subgroup": "All polls",
+    "sampleSize": "5300",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-02",
+    "endDate": "2020-09-15",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.15",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.75",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131521",
+    "subgroup": "All polls",
+    "sampleSize": "5416",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-02",
+    "endDate": "2020-09-15",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.36",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.73",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131481",
+    "subgroup": "All polls",
+    "sampleSize": "5416",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-02",
+    "endDate": "2020-09-15",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.44",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.22",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131560",
+    "subgroup": "All polls",
+    "sampleSize": "5260",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-01",
+    "endDate": "2020-09-14",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.59",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.24",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131520",
+    "subgroup": "All polls",
+    "sampleSize": "5381",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-01",
+    "endDate": "2020-09-14",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.33",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.52",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131480",
+    "subgroup": "All polls",
+    "sampleSize": "5381",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-01",
+    "endDate": "2020-09-14",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.79",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.24",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131559",
+    "subgroup": "All polls",
+    "sampleSize": "5270",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-31",
+    "endDate": "2020-09-13",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.39",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.14",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131519",
+    "subgroup": "All polls",
+    "sampleSize": "5394",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-31",
+    "endDate": "2020-09-13",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.3",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.52",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131479",
+    "subgroup": "All polls",
+    "sampleSize": "5394",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-31",
+    "endDate": "2020-09-13",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.63",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.09",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131558",
+    "subgroup": "All polls",
+    "sampleSize": "5245",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-30",
+    "endDate": "2020-09-12",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.69",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.7",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131518",
+    "subgroup": "All polls",
+    "sampleSize": "5372",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-30",
+    "endDate": "2020-09-12",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.66",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.07",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131438",
+    "subgroup": "All polls",
+    "sampleSize": "5372",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-30",
+    "endDate": "2020-09-12",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.77",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.96",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131557",
+    "subgroup": "All polls",
+    "sampleSize": "5137",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-29",
+    "endDate": "2020-09-11",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.99",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.48",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131517",
+    "subgroup": "All polls",
+    "sampleSize": "5257",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-29",
+    "endDate": "2020-09-11",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.24",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.52",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131437",
+    "subgroup": "All polls",
+    "sampleSize": "5257",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-29",
+    "endDate": "2020-09-11",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.17",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.47",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131556",
+    "subgroup": "All polls",
+    "sampleSize": "5095",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-28",
+    "endDate": "2020-09-10",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.27",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.35",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131516",
+    "subgroup": "All polls",
+    "sampleSize": "5219",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-28",
+    "endDate": "2020-09-10",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.44",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.47",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131436",
+    "subgroup": "All polls",
+    "sampleSize": "5219",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-28",
+    "endDate": "2020-09-10",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.24",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.53",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131555",
+    "subgroup": "All polls",
+    "sampleSize": "5116",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-27",
+    "endDate": "2020-09-09",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.05",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.72",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131515",
+    "subgroup": "All polls",
+    "sampleSize": "5241",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-27",
+    "endDate": "2020-09-09",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.06",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.97",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131435",
+    "subgroup": "All polls",
+    "sampleSize": "5241",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-27",
+    "endDate": "2020-09-09",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.14",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.84",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131554",
+    "subgroup": "All polls",
+    "sampleSize": "5078",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-26",
+    "endDate": "2020-09-08",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.82",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.91",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131514",
+    "subgroup": "All polls",
+    "sampleSize": "5201",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-26",
+    "endDate": "2020-09-08",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.92",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.93",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131434",
+    "subgroup": "All polls",
+    "sampleSize": "5201",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-26",
+    "endDate": "2020-09-08",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.28",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.72",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131553",
+    "subgroup": "All polls",
+    "sampleSize": "5027",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-25",
+    "endDate": "2020-09-07",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.43",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.26",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131513",
+    "subgroup": "All polls",
+    "sampleSize": "5144",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-25",
+    "endDate": "2020-09-07",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.36",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.22",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131433",
+    "subgroup": "All polls",
+    "sampleSize": "5144",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-25",
+    "endDate": "2020-09-07",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.88",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.79",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131552",
+    "subgroup": "All polls",
+    "sampleSize": "5038",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-24",
+    "endDate": "2020-09-06",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.98",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131512",
+    "subgroup": "All polls",
+    "sampleSize": "5162",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-24",
+    "endDate": "2020-09-06",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.61",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.84",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131432",
+    "subgroup": "All polls",
+    "sampleSize": "5163",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-24",
+    "endDate": "2020-09-06",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.15",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.43",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131551",
+    "subgroup": "All polls",
+    "sampleSize": "5010",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-23",
+    "endDate": "2020-09-05",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.48",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.95",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131511",
+    "subgroup": "All polls",
+    "sampleSize": "5130",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-23",
+    "endDate": "2020-09-05",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.8",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131431",
+    "subgroup": "All polls",
+    "sampleSize": "5131",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-23",
+    "endDate": "2020-09-05",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.49",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131550",
+    "subgroup": "All polls",
+    "sampleSize": "5008",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-22",
+    "endDate": "2020-09-04",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.04",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.49",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131510",
+    "subgroup": "All polls",
+    "sampleSize": "5130",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-22",
+    "endDate": "2020-09-04",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.91",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.64",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131430",
+    "subgroup": "All polls",
+    "sampleSize": "5131",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-22",
+    "endDate": "2020-09-04",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.15",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.48",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131549",
+    "subgroup": "All polls",
+    "sampleSize": "4996",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-21",
+    "endDate": "2020-09-03",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.19",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.16",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131509",
+    "subgroup": "All polls",
+    "sampleSize": "5114",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-21",
+    "endDate": "2020-09-03",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.09",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.39",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131429",
+    "subgroup": "All polls",
+    "sampleSize": "5115",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-21",
+    "endDate": "2020-09-03",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.21",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.18",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131548",
+    "subgroup": "All polls",
+    "sampleSize": "4975",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-20",
+    "endDate": "2020-09-02",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.85",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.58",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131508",
+    "subgroup": "All polls",
+    "sampleSize": "5096",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-20",
+    "endDate": "2020-09-02",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.64",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.81",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131428",
+    "subgroup": "All polls",
+    "sampleSize": "5097",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-20",
+    "endDate": "2020-09-02",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.17",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.32",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131547",
+    "subgroup": "All polls",
+    "sampleSize": "4955",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-19",
+    "endDate": "2020-09-01",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.61",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.22",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131507",
+    "subgroup": "All polls",
+    "sampleSize": "5075",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-19",
+    "endDate": "2020-09-01",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.16",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.61",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131427",
+    "subgroup": "All polls",
+    "sampleSize": "5076",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-19",
+    "endDate": "2020-09-01",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.55",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.87",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131546",
+    "subgroup": "All polls",
+    "sampleSize": "4893",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-18",
+    "endDate": "2020-08-31",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.57",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.93",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131506",
+    "subgroup": "All polls",
+    "sampleSize": "5008",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-18",
+    "endDate": "2020-08-31",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.35",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.37",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131426",
+    "subgroup": "All polls",
+    "sampleSize": "5009",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-18",
+    "endDate": "2020-08-31",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.42",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.48",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "131198",
@@ -3460,6 +6490,657 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Wyoming"
+  },
+  {
+    "id": "131545",
+    "subgroup": "All polls",
+    "sampleSize": "4794",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-17",
+    "endDate": "2020-08-30",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.05",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.84",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131505",
+    "subgroup": "All polls",
+    "sampleSize": "4910",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-17",
+    "endDate": "2020-08-30",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.36",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.47",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131425",
+    "subgroup": "All polls",
+    "sampleSize": "4911",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-17",
+    "endDate": "2020-08-30",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.53",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.58",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131544",
+    "subgroup": "All polls",
+    "sampleSize": "4754",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-16",
+    "endDate": "2020-08-29",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.92",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131504",
+    "subgroup": "All polls",
+    "sampleSize": "4868",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-16",
+    "endDate": "2020-08-29",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.22",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.31",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131424",
+    "subgroup": "All polls",
+    "sampleSize": "4869",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-16",
+    "endDate": "2020-08-29",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.41",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.3",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131543",
+    "subgroup": "All polls",
+    "sampleSize": "4688",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-15",
+    "endDate": "2020-08-28",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.33",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.34",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131503",
+    "subgroup": "All polls",
+    "sampleSize": "4801",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-15",
+    "endDate": "2020-08-28",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.62",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.76",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131423",
+    "subgroup": "All polls",
+    "sampleSize": "4802",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-15",
+    "endDate": "2020-08-28",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.79",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.9",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131542",
+    "subgroup": "All polls",
+    "sampleSize": "4622",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-14",
+    "endDate": "2020-08-27",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.19",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.17",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131502",
+    "subgroup": "All polls",
+    "sampleSize": "4735",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-14",
+    "endDate": "2020-08-27",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.83",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.32",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131422",
+    "subgroup": "All polls",
+    "sampleSize": "4736",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-14",
+    "endDate": "2020-08-27",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.75",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.66",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131541",
+    "subgroup": "All polls",
+    "sampleSize": "4525",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-13",
+    "endDate": "2020-08-26",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.44",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.55",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131501",
+    "subgroup": "All polls",
+    "sampleSize": "4633",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-13",
+    "endDate": "2020-08-26",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.24",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.67",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131421",
+    "subgroup": "All polls",
+    "sampleSize": "4634",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-13",
+    "endDate": "2020-08-26",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.97",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.19",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131540",
+    "subgroup": "All polls",
+    "sampleSize": "4413",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-12",
+    "endDate": "2020-08-25",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.17",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.02",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131500",
+    "subgroup": "All polls",
+    "sampleSize": "4511",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-12",
+    "endDate": "2020-08-25",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.78",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.43",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131420",
+    "subgroup": "All polls",
+    "sampleSize": "4515",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-12",
+    "endDate": "2020-08-25",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.21",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.94",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131539",
+    "subgroup": "All polls",
+    "sampleSize": "4219",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-11",
+    "endDate": "2020-08-24",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.23",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.02",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131499",
+    "subgroup": "All polls",
+    "sampleSize": "4317",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-11",
+    "endDate": "2020-08-24",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.03",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.45",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131419",
+    "subgroup": "All polls",
+    "sampleSize": "4325",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-11",
+    "endDate": "2020-08-24",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.53",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.03",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "131300",
@@ -9814,7 +13495,7 @@
     "state": "National"
   },
   {
-    "id": "131403",
+    "id": "131478",
     "subgroup": "All polls",
     "sampleSize": "4704",
     "population": "lv",
@@ -9832,6 +13513,1098 @@
       {
         "choice": "Rep",
         "pct": "44.44"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131477",
+    "subgroup": "All polls",
+    "sampleSize": "4794",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-18",
+    "endDate": "2020-10-01",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.9"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.41"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131476",
+    "subgroup": "All polls",
+    "sampleSize": "4938",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-30",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.81"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.21"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131475",
+    "subgroup": "All polls",
+    "sampleSize": "5092",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-16",
+    "endDate": "2020-09-29",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.33"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.56"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131474",
+    "subgroup": "All polls",
+    "sampleSize": "5256",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-15",
+    "endDate": "2020-09-28",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.39"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.32"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131473",
+    "subgroup": "All polls",
+    "sampleSize": "5248",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-27",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.33"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.35"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131472",
+    "subgroup": "All polls",
+    "sampleSize": "5251",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-13",
+    "endDate": "2020-09-26",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.17"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.54"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131471",
+    "subgroup": "All polls",
+    "sampleSize": "5323",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-25",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.99"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.74"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131470",
+    "subgroup": "All polls",
+    "sampleSize": "5370",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-24",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.98"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.64"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131469",
+    "subgroup": "All polls",
+    "sampleSize": "5362",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-10",
+    "endDate": "2020-09-23",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.9"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.63"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131468",
+    "subgroup": "All polls",
+    "sampleSize": "5432",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-09",
+    "endDate": "2020-09-22",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.82"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.77"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131467",
+    "subgroup": "All polls",
+    "sampleSize": "5474",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-08",
+    "endDate": "2020-09-21",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.65"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.76"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131466",
+    "subgroup": "All polls",
+    "sampleSize": "5438",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-07",
+    "endDate": "2020-09-20",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.45"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.75"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131465",
+    "subgroup": "All polls",
+    "sampleSize": "5447",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-06",
+    "endDate": "2020-09-19",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.71"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.5"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131464",
+    "subgroup": "All polls",
+    "sampleSize": "5439",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-05",
+    "endDate": "2020-09-18",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.43"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.74"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131463",
+    "subgroup": "All polls",
+    "sampleSize": "5458",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-04",
+    "endDate": "2020-09-17",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.3"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.9"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131462",
+    "subgroup": "All polls",
+    "sampleSize": "5416",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-03",
+    "endDate": "2020-09-16",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.27"
+      },
+      {
+        "choice": "Rep",
+        "pct": "45.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131461",
+    "subgroup": "All polls",
+    "sampleSize": "5408",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-02",
+    "endDate": "2020-09-15",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.43"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.9"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131460",
+    "subgroup": "All polls",
+    "sampleSize": "5373",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-01",
+    "endDate": "2020-09-14",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.53"
+      },
+      {
+        "choice": "Rep",
+        "pct": "45.05"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131459",
+    "subgroup": "All polls",
+    "sampleSize": "5387",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-31",
+    "endDate": "2020-09-13",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.43"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.93"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131458",
+    "subgroup": "All polls",
+    "sampleSize": "5366",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-30",
+    "endDate": "2020-09-12",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.55"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.68"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131457",
+    "subgroup": "All polls",
+    "sampleSize": "5251",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-29",
+    "endDate": "2020-09-11",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.04"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.13"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131456",
+    "subgroup": "All polls",
+    "sampleSize": "5214",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-28",
+    "endDate": "2020-09-10",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.99"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.24"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131455",
+    "subgroup": "All polls",
+    "sampleSize": "5235",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-27",
+    "endDate": "2020-09-09",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.83"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.15"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131454",
+    "subgroup": "All polls",
+    "sampleSize": "5195",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-26",
+    "endDate": "2020-09-08",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.15"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.91"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131453",
+    "subgroup": "All polls",
+    "sampleSize": "5138",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-25",
+    "endDate": "2020-09-07",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.92"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.15"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131452",
+    "subgroup": "All polls",
+    "sampleSize": "5157",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-24",
+    "endDate": "2020-09-06",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.17"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131451",
+    "subgroup": "All polls",
+    "sampleSize": "5125",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-23",
+    "endDate": "2020-09-05",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.04"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.01"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131450",
+    "subgroup": "All polls",
+    "sampleSize": "5125",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-22",
+    "endDate": "2020-09-04",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.31"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.92"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131449",
+    "subgroup": "All polls",
+    "sampleSize": "5109",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-21",
+    "endDate": "2020-09-03",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.26"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.84"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131448",
+    "subgroup": "All polls",
+    "sampleSize": "5091",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-20",
+    "endDate": "2020-09-02",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.39"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.95"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131447",
+    "subgroup": "All polls",
+    "sampleSize": "5070",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-19",
+    "endDate": "2020-09-01",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.68"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.49"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131446",
+    "subgroup": "All polls",
+    "sampleSize": "5003",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-18",
+    "endDate": "2020-08-31",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.65"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.35"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131445",
+    "subgroup": "All polls",
+    "sampleSize": "4905",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-17",
+    "endDate": "2020-08-30",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.73"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.4"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131444",
+    "subgroup": "All polls",
+    "sampleSize": "4863",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-16",
+    "endDate": "2020-08-29",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.89"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.23"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131443",
+    "subgroup": "All polls",
+    "sampleSize": "4797",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-15",
+    "endDate": "2020-08-28",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.38"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.6"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131442",
+    "subgroup": "All polls",
+    "sampleSize": "4731",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-14",
+    "endDate": "2020-08-27",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.61"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.43"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131441",
+    "subgroup": "All polls",
+    "sampleSize": "4630",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-13",
+    "endDate": "2020-08-26",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.77"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.5"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131440",
+    "subgroup": "All polls",
+    "sampleSize": "4511",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-12",
+    "endDate": "2020-08-25",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.71"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.59"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131439",
+    "subgroup": "All polls",
+    "sampleSize": "4321",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-08-11",
+    "endDate": "2020-08-24",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.94"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.51"
       }
     ],
     "type": "generic-ballot",
@@ -10138,99 +14911,6 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "130640",
-    "subgroup": "All polls",
-    "sampleSize": "4799",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-10-02",
-    "startDate": "2020-09-18",
-    "endDate": "2020-10-01",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "51.28",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "43.34",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "130639",
-    "subgroup": "All polls",
-    "sampleSize": "4799",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-10-02",
-    "startDate": "2020-09-18",
-    "endDate": "2020-10-01",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "52.13",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "43.02",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "130638",
-    "subgroup": "All polls",
-    "sampleSize": "4709",
-    "population": "rv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-10-02",
-    "startDate": "2020-09-18",
-    "endDate": "2020-10-01",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "50.95",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.57",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": false,
     "cycle": "2020",
     "state": "National"
   },
@@ -14139,34 +18819,6 @@
     "state": "National"
   },
   {
-    "id": "130637",
-    "subgroup": "All polls",
-    "sampleSize": "4794",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-10-02",
-    "startDate": "2020-09-18",
-    "endDate": "2020-10-01",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Dem",
-        "pct": "51.9"
-      },
-      {
-        "choice": "Rep",
-        "pct": "44.41"
-      }
-    ],
-    "type": "generic-ballot",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
     "id": "130658",
     "subgroup": "All polls",
     "sampleSize": "746",
@@ -15474,99 +20126,6 @@
     "state": "National"
   },
   {
-    "id": "130574",
-    "subgroup": "All polls",
-    "sampleSize": "4943",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-10-01",
-    "startDate": "2020-09-17",
-    "endDate": "2020-09-30",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "51.1",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.87",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "130573",
-    "subgroup": "All polls",
-    "sampleSize": "4943",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-10-01",
-    "startDate": "2020-09-17",
-    "endDate": "2020-09-30",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "51.84",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.62",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "130572",
-    "subgroup": "All polls",
-    "sampleSize": "4848",
-    "population": "rv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-10-01",
-    "startDate": "2020-09-17",
-    "endDate": "2020-09-30",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "50.59",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.38",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
     "id": "130561",
     "subgroup": "All polls",
     "sampleSize": "824",
@@ -15986,34 +20545,6 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Ohio"
-  },
-  {
-    "id": "130571",
-    "subgroup": "All polls",
-    "sampleSize": "4938",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-10-01",
-    "startDate": "2020-09-17",
-    "endDate": "2020-09-30",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Dem",
-        "pct": "51.81"
-      },
-      {
-        "choice": "Rep",
-        "pct": "44.21"
-      }
-    ],
-    "type": "generic-ballot",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "National"
   },
   {
     "id": "130617",
@@ -17434,99 +21965,6 @@
     "state": "National"
   },
   {
-    "id": "130497",
-    "subgroup": "All polls",
-    "sampleSize": "5096",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-09-30",
-    "startDate": "2020-09-16",
-    "endDate": "2020-09-29",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "51.07",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.93",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "130496",
-    "subgroup": "All polls",
-    "sampleSize": "5096",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-09-30",
-    "startDate": "2020-09-16",
-    "endDate": "2020-09-29",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "51.87",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.35",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "130495",
-    "subgroup": "All polls",
-    "sampleSize": "4994",
-    "population": "rv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-09-30",
-    "startDate": "2020-09-16",
-    "endDate": "2020-09-29",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "50.2",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.41",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
     "id": "130509",
     "subgroup": "All polls",
     "sampleSize": "1042",
@@ -17890,34 +22328,6 @@
     "state": "National"
   },
   {
-    "id": "130493",
-    "subgroup": "All polls",
-    "sampleSize": "5091",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-09-30",
-    "startDate": "2020-09-16",
-    "endDate": "2020-09-29",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Dem",
-        "pct": "51.34"
-      },
-      {
-        "choice": "Rep",
-        "pct": "44.55"
-      }
-    ],
-    "type": "generic-ballot",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
     "id": "130550",
     "subgroup": "All polls",
     "sampleSize": "944",
@@ -18236,99 +22646,6 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
-  },
-  {
-    "id": "130444",
-    "subgroup": "All polls",
-    "sampleSize": "5260",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-09-29",
-    "startDate": "2020-09-15",
-    "endDate": "2020-09-28",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "51.07",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.68",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "130443",
-    "subgroup": "All polls",
-    "sampleSize": "5260",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-09-29",
-    "startDate": "2020-09-15",
-    "endDate": "2020-09-28",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "51.81",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.33",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "130442",
-    "subgroup": "All polls",
-    "sampleSize": "5158",
-    "population": "rv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-09-29",
-    "startDate": "2020-09-15",
-    "endDate": "2020-09-28",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "49.93",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.46",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "National"
   },
   {
     "id": "130490",
@@ -19181,34 +23498,6 @@
     "state": "North Dakota"
   },
   {
-    "id": "130441",
-    "subgroup": "All polls",
-    "sampleSize": "5255",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-09-29",
-    "startDate": "2020-09-15",
-    "endDate": "2020-09-28",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Dem",
-        "pct": "51.4"
-      },
-      {
-        "choice": "Rep",
-        "pct": "44.31"
-      }
-    ],
-    "type": "generic-ballot",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
     "id": "130489",
     "subgroup": "All polls",
     "sampleSize": "969",
@@ -19954,99 +24243,6 @@
     "state": "National"
   },
   {
-    "id": "130397",
-    "subgroup": "All polls",
-    "sampleSize": "5253",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-09-28",
-    "startDate": "2020-09-14",
-    "endDate": "2020-09-27",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "51.29",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.6",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "130396",
-    "subgroup": "All polls",
-    "sampleSize": "5253",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-09-28",
-    "startDate": "2020-09-14",
-    "endDate": "2020-09-27",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "52.12",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.18",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "130395",
-    "subgroup": "All polls",
-    "sampleSize": "5152",
-    "population": "rv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-09-28",
-    "startDate": "2020-09-14",
-    "endDate": "2020-09-27",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "50.13",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.38",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
     "id": "130401",
     "subgroup": "All polls",
     "sampleSize": "612",
@@ -20561,34 +24757,6 @@
       {
         "choice": "Rep",
         "pct": "46.0"
-      }
-    ],
-    "type": "generic-ballot",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "130394",
-    "subgroup": "All polls",
-    "sampleSize": "5247",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-09-28",
-    "startDate": "2020-09-14",
-    "endDate": "2020-09-27",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Dem",
-        "pct": "51.28"
-      },
-      {
-        "choice": "Rep",
-        "pct": "44.39"
       }
     ],
     "type": "generic-ballot",
