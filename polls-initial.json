@@ -1,5 +1,32 @@
 [
   {
+    "id": "131593",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "rv",
+    "grade": "A-",
+    "url": "https://assets.documentcloud.org/documents/7221894/200781-NBCWSJ-October-Post-Debate-Poll-1b.pdf",
+    "created_at": "2020-10-04",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-01",
+    "pollster": "NBC News/The Wall Street Journal",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "43.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "55.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "131592",
     "subgroup": "All polls",
     "sampleSize": "596",
@@ -120,6 +147,37 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131594",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "rv",
+    "grade": "A-",
+    "url": "https://assets.documentcloud.org/documents/7221894/200781-NBCWSJ-October-Post-Debate-Poll-1b.pdf",
+    "created_at": "2020-10-04",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-01",
+    "pollster": "NBC News/The Wall Street Journal",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
