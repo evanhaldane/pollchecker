@@ -27,6 +27,130 @@
     "state": "National"
   },
   {
+    "id": "131606",
+    "subgroup": "All polls",
+    "sampleSize": "1088",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/y0zw7c7mm7/20201003_yahoo_coronavirus_tabs.pdf",
+    "created_at": "2020-10-04",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-03",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131602",
+    "subgroup": "All polls",
+    "sampleSize": "1202",
+    "population": "rv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/y0zw7c7mm7/20201003_yahoo_coronavirus_tabs.pdf",
+    "created_at": "2020-10-04",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-03",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131600",
+    "subgroup": "All polls",
+    "sampleSize": "852",
+    "population": "rv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_with_write_up_reuters_trump_covid_diagnosis_10_04_2020.pdf",
+    "created_at": "2020-10-04",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-03",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131599",
+    "subgroup": "All polls",
+    "sampleSize": "1005",
+    "population": "a",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_with_write_up_reuters_trump_covid_diagnosis_10_04_2020.pdf",
+    "created_at": "2020-10-04",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-03",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "37.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "131592",
     "subgroup": "All polls",
     "sampleSize": "596",
@@ -151,6 +275,68 @@
     "state": "National"
   },
   {
+    "id": "131605",
+    "subgroup": "All polls",
+    "sampleSize": "1345",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/qmlxn6ghki/20201002_yahoo_coronavirus_tabs.pdf",
+    "created_at": "2020-10-04",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-02",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131601",
+    "subgroup": "All polls",
+    "sampleSize": "1505",
+    "population": "rv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/qmlxn6ghki/20201002_yahoo_coronavirus_tabs.pdf",
+    "created_at": "2020-10-04",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-02",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "37.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "131596",
     "subgroup": "All polls",
     "sampleSize": "1114",
@@ -177,7 +363,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Ohio"
   },
@@ -208,7 +394,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -244,6 +430,34 @@
     "state": "National"
   },
   {
+    "id": "131604",
+    "subgroup": "All polls",
+    "sampleSize": "1202",
+    "population": "rv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/y0zw7c7mm7/20201003_yahoo_coronavirus_tabs.pdf",
+    "created_at": "2020-10-04",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-03",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "39.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "131586",
     "subgroup": "All polls",
     "sampleSize": "4683",
@@ -270,6 +484,70 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "131603",
+    "subgroup": "All polls",
+    "sampleSize": "1505",
+    "population": "rv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/qmlxn6ghki/20201002_yahoo_coronavirus_tabs.pdf",
+    "created_at": "2020-10-04",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-02",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "45.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "41.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131598",
+    "subgroup": "All polls",
+    "sampleSize": "1015",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://floridapolitics.com/archives/371859-heres-brunch-a-pop-up-weekend-email-about-final-weeks-of-the-2020-campaign-10-4-20",
+    "created_at": "2020-10-04",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-02",
+    "pollster": "St. Pete Polls",
+    "answers": [
+      {
+        "choice": "Frankel",
+        "pct": "61.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Loomer",
+        "pct": "33.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Malkemus",
+        "pct": "2.0",
+        "party": "Npa"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 21",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Florida",
+    "district": "21"
   },
   {
     "id": "131591",
