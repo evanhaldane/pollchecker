@@ -1749,6 +1749,37 @@
     "state": "National"
   },
   {
+    "id": "131585",
+    "subgroup": "All polls",
+    "sampleSize": "501",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.cannabisbusinesstimes.com/article/brach-eichler-poll-shows-covid-19-impacted-view-new-jersey-voters-cannabis/",
+    "created_at": "2020-10-03",
+    "startDate": "2020-09-08",
+    "endDate": "2020-09-16",
+    "pollster": "DKC Analytics",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "38.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "New Jersey"
+  },
+  {
     "id": "131562",
     "subgroup": "All polls",
     "sampleSize": "5304",
