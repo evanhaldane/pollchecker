@@ -3,7 +3,7 @@
     "id": "131964",
     "subgroup": "All polls",
     "sampleSize": "1001",
-    "population": "lv",
+    "population": "rv",
     "grade": "B/C",
     "url": "http://cdn.cnn.com/cnn/2020/images/10/05/rel12a.-.coronavirus.pdf",
     "created_at": "2020-10-05",
@@ -449,6 +449,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "131969",
+    "subgroup": "All polls",
+    "sampleSize": "1072",
+    "population": "rv",
+    "grade": "",
+    "url": "https://www.aum.edu/aum-poll-tommy-tuberville-leads-doug-jones-by-12-points-in-closing-weeks-of-alabama-senate-race/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-03",
+    "pollster": "Auburn University at Montgomery",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "37.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "57.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Alabama"
   },
   {
     "id": "131647",
