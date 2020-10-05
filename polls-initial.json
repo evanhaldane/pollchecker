@@ -1,5 +1,32 @@
 [
   {
+    "id": "131624",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-04",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "131621",
     "subgroup": "All polls",
     "sampleSize": "4836",
@@ -26,7 +53,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -57,7 +84,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -89,6 +116,78 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131630",
+    "subgroup": "All polls",
+    "sampleSize": "847",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.udel.edu/udaily/2020/october/poll--democrats-lead-by-big-margins-in-delaware/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-21",
+    "endDate": "2020-09-27",
+    "pollster": "University of Delaware",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "33.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131629",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "rv",
+    "grade": "",
+    "url": "https://secularvoices2020.socioanalitica.com/report",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-08",
+    "endDate": "2020-09-10",
+    "pollster": "Socioanalítica Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -147,6 +246,163 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "131628",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.yorkdispatch.com/story/news/politics/2020/10/05/internal-poll-depasquale-up-6-10th-congressional-district-race/3621859001/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-02",
+    "pollster": "GBAO",
+    "answers": [
+      {
+        "choice": "DePasquale",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perry",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 10",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Pennsylvania",
+    "district": "10"
+  },
+  {
+    "id": "131627",
+    "subgroup": "All polls",
+    "sampleSize": "588",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_nj_100520/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-26",
+    "endDate": "2020-10-01",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Kennedy",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Van Drew",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Jersey",
+    "district": "2"
+  },
+  {
+    "id": "131626",
+    "subgroup": "All polls",
+    "sampleSize": "588",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_nj_100520/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-26",
+    "endDate": "2020-10-01",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Kennedy",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Van Drew",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Jersey",
+    "district": "2"
+  },
+  {
+    "id": "131625",
+    "subgroup": "All polls",
+    "sampleSize": "588",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_nj_100520/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-26",
+    "endDate": "2020-10-01",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Kennedy",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Van Drew",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Jersey",
+    "district": "2"
+  },
+  {
+    "id": "131623",
+    "subgroup": "All polls",
+    "sampleSize": "511",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/allymutnick/status/1313107823967047680",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-27",
+    "endDate": "2020-09-29",
+    "pollster": "ALG Research",
+    "answers": [
+      {
+        "choice": "Elliott",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Hill",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Arkansas",
+    "district": "2"
   },
   {
     "id": "131593",
