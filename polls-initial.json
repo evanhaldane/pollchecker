@@ -120,7 +120,7 @@
     "state": "National"
   },
   {
-    "id": "131630",
+    "id": "131632",
     "subgroup": "All polls",
     "sampleSize": "847",
     "population": "lv",
@@ -158,7 +158,7 @@
     "headToHead": false,
     "inAvg": false,
     "cycle": "2020",
-    "state": "National"
+    "state": "Delaware"
   },
   {
     "id": "131629",
@@ -246,6 +246,46 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "131633",
+    "subgroup": "All polls",
+    "sampleSize": "847",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.udel.edu/udaily/2020/october/poll--democrats-lead-by-big-margins-in-delaware/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-21",
+    "endDate": "2020-09-27",
+    "pollster": "University of Delaware",
+    "answers": [
+      {
+        "choice": "Coons",
+        "pct": "57.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Witzke",
+        "pct": "27.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Frost",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Turley",
+        "pct": "4.0",
+        "party": "Ip"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Delaware"
   },
   {
     "id": "131628",
@@ -378,7 +418,7 @@
     "sampleSize": "511",
     "population": "lv",
     "grade": "B/C",
-    "url": "https://twitter.com/allymutnick/status/1313107823967047680",
+    "url": "https://drive.google.com/file/d/1BYoJhPsx6NxpuOV9Ue3LPV-Ym1Yn04V3/view",
     "created_at": "2020-10-05",
     "startDate": "2020-09-27",
     "endDate": "2020-09-29",
@@ -403,6 +443,183 @@
     "partisan": "DEM",
     "state": "Arkansas",
     "district": "2"
+  },
+  {
+    "id": "131637",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://projects.fivethirtyeight.com/polls/20201005_FL_GSG.pdf",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-24",
+    "endDate": "2020-09-27",
+    "pollster": "Global Strategy Group",
+    "answers": [
+      {
+        "choice": "Good",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Buchanan",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 16",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Florida",
+    "district": "16"
+  },
+  {
+    "id": "131634",
+    "subgroup": "All polls",
+    "sampleSize": "847",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.udel.edu/udaily/2020/october/poll--democrats-lead-by-big-margins-in-delaware/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-21",
+    "endDate": "2020-09-27",
+    "pollster": "University of Delaware",
+    "answers": [
+      {
+        "choice": "Blunt Rochester",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Murphy",
+        "pct": "29.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Rogers",
+        "pct": "3.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Purcell",
+        "pct": "5.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Delaware",
+    "district": "1"
+  },
+  {
+    "id": "131635",
+    "subgroup": "All polls",
+    "sampleSize": "511",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://drive.google.com/file/d/1BYoJhPsx6NxpuOV9Ue3LPV-Ym1Yn04V3/view",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-09",
+    "endDate": "2020-09-13",
+    "pollster": "ALG Research",
+    "answers": [
+      {
+        "choice": "Elliott",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Hill",
+        "pct": "50.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Arkansas",
+    "district": "2"
+  },
+  {
+    "id": "131636",
+    "subgroup": "All polls",
+    "sampleSize": "511",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://drive.google.com/file/d/1BYoJhPsx6NxpuOV9Ue3LPV-Ym1Yn04V3/view",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-18",
+    "endDate": "2020-06-24",
+    "pollster": "ALG Research",
+    "answers": [
+      {
+        "choice": "Elliott",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Hill",
+        "pct": "50.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Arkansas",
+    "district": "2"
+  },
+  {
+    "id": "131631",
+    "subgroup": "All polls",
+    "sampleSize": "847",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.udel.edu/udaily/2020/october/poll--democrats-lead-by-big-margins-in-delaware/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-21",
+    "endDate": "2020-09-27",
+    "pollster": "University of Delaware",
+    "answers": [
+      {
+        "choice": "Carney",
+        "pct": "55.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Murray",
+        "pct": "26.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Machurek",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Dematteis",
+        "pct": "4.0",
+        "party": "Ide"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Delaware"
   },
   {
     "id": "131593",
