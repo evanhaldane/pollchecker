@@ -1,5 +1,32 @@
 [
   {
+    "id": "131964",
+    "subgroup": "All polls",
+    "sampleSize": "1001",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/05/rel12a.-.coronavirus.pdf",
+    "created_at": "2020-10-05",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-04",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "40.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "57.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "131624",
     "subgroup": "All polls",
     "sampleSize": "1500",
@@ -56,6 +83,68 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
+  },
+  {
+    "id": "131968",
+    "subgroup": "All polls",
+    "sampleSize": "605",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.reuters.com/article/us-usa-election-battlegrounds-poll/reuters-ipsos-poll-shows-biden-leading-in-pennsylvania-wisconsin-idUSKBN26Q2ZT",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-05",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "131967",
+    "subgroup": "All polls",
+    "sampleSize": "601",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.reuters.com/article/us-usa-election-battlegrounds-poll/reuters-ipsos-poll-shows-biden-leading-in-pennsylvania-wisconsin-idUSKBN26Q2ZT",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-05",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Wisconsin"
   },
   {
     "id": "131649",
@@ -115,7 +204,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Utah"
   },
@@ -326,7 +415,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -484,6 +573,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "131966",
+    "subgroup": "All polls",
+    "sampleSize": "460",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://www.northdakotavotersfirst.org/body/NDVF-Poll-2-Report-Website.pdf",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-26",
+    "endDate": "2020-09-29",
+    "pollster": "DFM Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "37.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "51.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "North Dakota"
   },
   {
     "id": "131643",
@@ -5045,6 +5165,36 @@
     "state": "Arizona"
   },
   {
+    "id": "131963",
+    "subgroup": "All polls",
+    "sampleSize": "1072",
+    "population": "rv",
+    "grade": "",
+    "url": "https://www.aum.edu/aum-poll-tommy-tuberville-leads-doug-jones-by-12-points-in-closing-weeks-of-alabama-senate-race/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-03",
+    "pollster": "Auburn University at Montgomery",
+    "answers": [
+      {
+        "choice": "Jones",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tuberville",
+        "pct": "54.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Alabama"
+  },
+  {
     "id": "131633",
     "subgroup": "All polls",
     "sampleSize": "847",
@@ -5115,6 +5265,38 @@
     "partisan": "DEM",
     "state": "Pennsylvania",
     "district": "10"
+  },
+  {
+    "id": "131965",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.tampabay.com/florida-politics/2020/10/05/buchanan-good-tout-differing-polls-in-race-for-florida-congressional-seat/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-01",
+    "pollster": "Data Targeting",
+    "answers": [
+      {
+        "choice": "Good",
+        "pct": "37.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Buchanan",
+        "pct": "53.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 16",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Florida",
+    "district": "16"
   },
   {
     "id": "131627",
@@ -5208,6 +5390,37 @@
     "cycle": "2020",
     "state": "New Jersey",
     "district": "2"
+  },
+  {
+    "id": "131813",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://projects.fivethirtyeight.com/polls/20201005_OK_ColeHargrave.pdf",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-25",
+    "endDate": "2020-09-30",
+    "pollster": "Cole Hargrave Snodgrass & Associates",
+    "answers": [
+      {
+        "choice": "Horn",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Bice",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 5",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Oklahoma",
+    "district": "5"
   },
   {
     "id": "131623",
