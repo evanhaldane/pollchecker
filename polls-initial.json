@@ -27,6 +27,68 @@
     "state": "National"
   },
   {
+    "id": "131666",
+    "subgroup": "All polls",
+    "sampleSize": "911",
+    "population": "v",
+    "grade": "B",
+    "url": "https://www.publicpolicypolling.com/wp-content/uploads/2020/10/NorthCarolinaResultsOctober2020.pdf",
+    "created_at": "2020-10-05",
+    "startDate": "2020-10-04",
+    "endDate": "2020-10-05",
+    "pollster": "Public Policy Polling",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "131649",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-04",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "131621",
     "subgroup": "All polls",
     "sampleSize": "4836",
@@ -156,7 +218,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Ohio"
   },
@@ -192,9 +254,195 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "131648",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-03",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131647",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-02",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131646",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-01",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131645",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-28",
+    "endDate": "2020-09-30",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131644",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-27",
+    "endDate": "2020-09-29",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131643",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-26",
+    "endDate": "2020-09-28",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "131632",
@@ -233,7 +481,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Delaware"
   },
@@ -323,6 +571,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "131668",
+    "subgroup": "All polls",
+    "sampleSize": "911",
+    "population": "v",
+    "grade": "B",
+    "url": "https://www.publicpolicypolling.com/wp-content/uploads/2020/10/NorthCarolinaResultsOctober2020.pdf",
+    "created_at": "2020-10-05",
+    "startDate": "2020-10-04",
+    "endDate": "2020-10-05",
+    "pollster": "Public Policy Polling",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "131639",
@@ -687,6 +965,36 @@
     "partisan": "DEM",
     "state": "Arkansas",
     "district": "2"
+  },
+  {
+    "id": "131667",
+    "subgroup": "All polls",
+    "sampleSize": "911",
+    "population": "v",
+    "grade": "B",
+    "url": "https://www.publicpolicypolling.com/wp-content/uploads/2020/10/NorthCarolinaResultsOctober2020.pdf",
+    "created_at": "2020-10-05",
+    "startDate": "2020-10-04",
+    "endDate": "2020-10-05",
+    "pollster": "Public Policy Polling",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "131631",
