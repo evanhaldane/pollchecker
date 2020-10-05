@@ -120,6 +120,83 @@
     "state": "National"
   },
   {
+    "id": "131640",
+    "subgroup": "All polls",
+    "sampleSize": "1035",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://drive.google.com/file/d/1Pbgf-ZdTuO5jKANMpQaJfPje6LUT2hNc/view",
+    "created_at": "2020-10-05",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-03",
+    "pollster": "Trafalgar Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "43.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.6",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.6",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Ohio"
+  },
+  {
+    "id": "131638",
+    "subgroup": "All polls",
+    "sampleSize": "655",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/az100120-crosstabs/a77605c32cd8f31e/full.pdf",
+    "created_at": "2020-10-05",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-03",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
     "id": "131632",
     "subgroup": "All polls",
     "sampleSize": "847",
@@ -246,6 +323,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "131639",
+    "subgroup": "All polls",
+    "sampleSize": "655",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/az100120-crosstabs/a77605c32cd8f31e/full.pdf",
+    "created_at": "2020-10-05",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-03",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "131633",
