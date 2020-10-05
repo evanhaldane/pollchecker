@@ -53,7 +53,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
   },
@@ -87,6 +87,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "131811",
+    "subgroup": "All polls",
+    "sampleSize": "1214",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.sltrib.com/news/politics/2020/10/05/new-utah-poll-has-trump/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-26",
+    "endDate": "2020-10-04",
+    "pollster": "Y2 Analytics",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "40.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Utah"
   },
   {
     "id": "131621",
@@ -257,6 +288,47 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "131810",
+    "subgroup": "All polls",
+    "sampleSize": "763",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://justthenews.com/politics-policy/polling/bidens-lead-over-trump-grows-following-debate-covid-diagnosis",
+    "created_at": "2020-10-05",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-03",
+    "pollster": "RMG Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "131648",
@@ -517,6 +589,34 @@
     "state": "National"
   },
   {
+    "id": "131809",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-04",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "131618",
     "subgroup": "All polls",
     "sampleSize": "4832",
@@ -545,6 +645,62 @@
     "state": "National"
   },
   {
+    "id": "131808",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-03",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131807",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-02",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "131622",
     "subgroup": "All polls",
     "sampleSize": "1146",
@@ -563,6 +719,4262 @@
       {
         "choice": "Rep",
         "pct": "40.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131806",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-01",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131805",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-28",
+    "endDate": "2020-09-30",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131804",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-27",
+    "endDate": "2020-09-29",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131803",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-26",
+    "endDate": "2020-09-28",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131802",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-25",
+    "endDate": "2020-09-27",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131801",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-24",
+    "endDate": "2020-09-26",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131800",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-23",
+    "endDate": "2020-09-25",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131799",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-24",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131798",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-21",
+    "endDate": "2020-09-23",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131797",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-20",
+    "endDate": "2020-09-22",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131796",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-19",
+    "endDate": "2020-09-21",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131795",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-18",
+    "endDate": "2020-09-20",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131794",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-17",
+    "endDate": "2020-09-19",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131793",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-16",
+    "endDate": "2020-09-18",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131792",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-15",
+    "endDate": "2020-09-17",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131791",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-14",
+    "endDate": "2020-09-16",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131790",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-13",
+    "endDate": "2020-09-15",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131789",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-14",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131788",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-13",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131787",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-10",
+    "endDate": "2020-09-12",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131786",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-09",
+    "endDate": "2020-09-11",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131785",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-08",
+    "endDate": "2020-09-10",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131784",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-07",
+    "endDate": "2020-09-09",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131783",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-06",
+    "endDate": "2020-09-08",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131782",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-05",
+    "endDate": "2020-09-07",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131781",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-04",
+    "endDate": "2020-09-06",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131780",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-03",
+    "endDate": "2020-09-05",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131779",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-02",
+    "endDate": "2020-09-04",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131778",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-01",
+    "endDate": "2020-09-03",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131777",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-31",
+    "endDate": "2020-09-02",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131776",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-30",
+    "endDate": "2020-09-01",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131775",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-29",
+    "endDate": "2020-08-31",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131774",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-28",
+    "endDate": "2020-08-30",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131773",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-27",
+    "endDate": "2020-08-29",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131772",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-26",
+    "endDate": "2020-08-28",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131771",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-25",
+    "endDate": "2020-08-27",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131770",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-24",
+    "endDate": "2020-08-26",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131769",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-23",
+    "endDate": "2020-08-25",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131768",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-22",
+    "endDate": "2020-08-24",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131767",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-21",
+    "endDate": "2020-08-23",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131766",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-20",
+    "endDate": "2020-08-22",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131765",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-19",
+    "endDate": "2020-08-21",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131764",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-18",
+    "endDate": "2020-08-20",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131763",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-17",
+    "endDate": "2020-08-19",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131762",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-16",
+    "endDate": "2020-08-18",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131761",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-15",
+    "endDate": "2020-08-17",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131760",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-14",
+    "endDate": "2020-08-16",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131759",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-13",
+    "endDate": "2020-08-15",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131758",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-12",
+    "endDate": "2020-08-14",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131757",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-11",
+    "endDate": "2020-08-13",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131756",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-10",
+    "endDate": "2020-08-12",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131755",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-09",
+    "endDate": "2020-08-11",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131754",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-08",
+    "endDate": "2020-08-10",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131753",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-07",
+    "endDate": "2020-08-09",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131752",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-06",
+    "endDate": "2020-08-08",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131751",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-05",
+    "endDate": "2020-08-07",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "41.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131750",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-04",
+    "endDate": "2020-08-06",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131749",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-03",
+    "endDate": "2020-08-05",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "41.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131748",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-02",
+    "endDate": "2020-08-04",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131747",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-08-01",
+    "endDate": "2020-08-03",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131746",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-31",
+    "endDate": "2020-08-02",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131745",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-30",
+    "endDate": "2020-08-01",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131744",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-29",
+    "endDate": "2020-07-31",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131743",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-28",
+    "endDate": "2020-07-30",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131742",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-27",
+    "endDate": "2020-07-29",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131741",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-26",
+    "endDate": "2020-07-28",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131740",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-25",
+    "endDate": "2020-07-27",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131739",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-24",
+    "endDate": "2020-07-26",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131738",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-23",
+    "endDate": "2020-07-25",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131737",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-22",
+    "endDate": "2020-07-24",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131736",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-21",
+    "endDate": "2020-07-23",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131735",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-20",
+    "endDate": "2020-07-22",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131734",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-19",
+    "endDate": "2020-07-21",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131733",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-18",
+    "endDate": "2020-07-20",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "41.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131732",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-17",
+    "endDate": "2020-07-19",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131731",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-16",
+    "endDate": "2020-07-18",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131730",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-15",
+    "endDate": "2020-07-17",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "47.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131729",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-14",
+    "endDate": "2020-07-16",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131728",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-13",
+    "endDate": "2020-07-15",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131727",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-12",
+    "endDate": "2020-07-14",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131726",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-11",
+    "endDate": "2020-07-13",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131725",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-10",
+    "endDate": "2020-07-12",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131724",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-09",
+    "endDate": "2020-07-11",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131723",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-08",
+    "endDate": "2020-07-10",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131722",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-07",
+    "endDate": "2020-07-09",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131721",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-06",
+    "endDate": "2020-07-08",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "41.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131720",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-05",
+    "endDate": "2020-07-07",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131719",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-04",
+    "endDate": "2020-07-06",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131718",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-03",
+    "endDate": "2020-07-05",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131717",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-02",
+    "endDate": "2020-07-04",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131716",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-07-01",
+    "endDate": "2020-07-03",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131715",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-30",
+    "endDate": "2020-07-02",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131714",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-29",
+    "endDate": "2020-07-01",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131713",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-28",
+    "endDate": "2020-06-30",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131712",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-27",
+    "endDate": "2020-06-29",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131711",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-26",
+    "endDate": "2020-06-28",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131710",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-25",
+    "endDate": "2020-06-27",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131709",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-24",
+    "endDate": "2020-06-26",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "41.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131708",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-23",
+    "endDate": "2020-06-25",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131707",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-22",
+    "endDate": "2020-06-24",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "41.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131706",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-21",
+    "endDate": "2020-06-23",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "41.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131705",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-20",
+    "endDate": "2020-06-22",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "41.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131704",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-19",
+    "endDate": "2020-06-21",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131703",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-18",
+    "endDate": "2020-06-20",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131702",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-17",
+    "endDate": "2020-06-19",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131701",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-16",
+    "endDate": "2020-06-18",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131700",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-15",
+    "endDate": "2020-06-17",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131699",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-14",
+    "endDate": "2020-06-16",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131698",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-13",
+    "endDate": "2020-06-15",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131697",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-12",
+    "endDate": "2020-06-14",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131696",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-11",
+    "endDate": "2020-06-13",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131695",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-10",
+    "endDate": "2020-06-12",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131694",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-09",
+    "endDate": "2020-06-11",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131693",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-08",
+    "endDate": "2020-06-10",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131692",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-07",
+    "endDate": "2020-06-09",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "41.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131691",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-06",
+    "endDate": "2020-06-08",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "41.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131690",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-05",
+    "endDate": "2020-06-07",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "41.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131689",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-04",
+    "endDate": "2020-06-06",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "41.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131688",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-03",
+    "endDate": "2020-06-05",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "41.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131687",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-02",
+    "endDate": "2020-06-04",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131686",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-06-01",
+    "endDate": "2020-06-03",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "41.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131685",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-31",
+    "endDate": "2020-06-02",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131684",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-30",
+    "endDate": "2020-06-01",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131683",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-29",
+    "endDate": "2020-05-31",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131682",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-28",
+    "endDate": "2020-05-30",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131681",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-27",
+    "endDate": "2020-05-29",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131680",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-26",
+    "endDate": "2020-05-28",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131679",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-25",
+    "endDate": "2020-05-27",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131678",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-24",
+    "endDate": "2020-05-26",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131677",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-23",
+    "endDate": "2020-05-25",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131676",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-22",
+    "endDate": "2020-05-24",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131675",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-21",
+    "endDate": "2020-05-23",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131674",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-20",
+    "endDate": "2020-05-22",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131673",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-19",
+    "endDate": "2020-05-21",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131672",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-18",
+    "endDate": "2020-05-20",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "47.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131671",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-17",
+    "endDate": "2020-05-19",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131665",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-16",
+    "endDate": "2020-05-18",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131664",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-15",
+    "endDate": "2020-05-17",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131663",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-14",
+    "endDate": "2020-05-16",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131662",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-13",
+    "endDate": "2020-05-15",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "47.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131661",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-12",
+    "endDate": "2020-05-14",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "47.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131660",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-11",
+    "endDate": "2020-05-13",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "47.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131659",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-10",
+    "endDate": "2020-05-12",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "47.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131658",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-09",
+    "endDate": "2020-05-11",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "47.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131657",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-08",
+    "endDate": "2020-05-10",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131656",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-07",
+    "endDate": "2020-05-09",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131655",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-06",
+    "endDate": "2020-05-08",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131654",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-05",
+    "endDate": "2020-05-07",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131653",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-04",
+    "endDate": "2020-05-06",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131652",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-03",
+    "endDate": "2020-05-05",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131651",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-02",
+    "endDate": "2020-05-04",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131650",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/2020-u-s-election-tracker/#section-5",
+    "created_at": "2020-10-05",
+    "startDate": "2020-05-01",
+    "endDate": "2020-05-03",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
       }
     ],
     "type": "generic-ballot",
@@ -995,6 +5407,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "North Carolina"
+  },
+  {
+    "id": "131812",
+    "subgroup": "All polls",
+    "sampleSize": "1214",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.sltrib.com/news/politics/2020/10/05/spencer-cox-holds-wide/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-26",
+    "endDate": "2020-10-04",
+    "pollster": "Y2 Analytics",
+    "answers": [
+      {
+        "choice": "Peterson",
+        "pct": "29.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Cox",
+        "pct": "57.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Utah"
   },
   {
     "id": "131631",
