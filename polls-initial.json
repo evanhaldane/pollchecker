@@ -342,6 +342,104 @@
     "state": "National"
   },
   {
+    "id": "131999",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_pa_100620.pdf/",
+    "created_at": "2020-10-06",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-04",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "131998",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_pa_100620.pdf/",
+    "created_at": "2020-10-06",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-04",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "131997",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_pa_100620.pdf/",
+    "created_at": "2020-10-06",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-04",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
     "id": "131988",
     "subgroup": "All polls",
     "sampleSize": "886",
@@ -466,6 +564,38 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "131996",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "",
+    "url": "https://projects.fivethirtyeight.com/polls/20201006_NC_Wick.pdf",
+    "created_at": "2020-10-06",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-02",
+    "pollster": "LOC Wick",
+    "answers": [
+      {
+        "choice": "Wallace",
+        "pct": "33.53",
+        "party": "Dem"
+      },
+      {
+        "choice": "Bishop",
+        "pct": "29.78",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 9",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "North Carolina",
+    "district": "9"
   },
   {
     "id": "131970",
