@@ -80,7 +80,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -304,6 +304,192 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "132014",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://changeresearch.com/post/states-of-play-battleground-wave-15/",
+    "created_at": "2020-10-06",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-04",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Wisconsin"
+  },
+  {
+    "id": "132013",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://changeresearch.com/post/states-of-play-battleground-wave-15/",
+    "created_at": "2020-10-06",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-04",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "132012",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://changeresearch.com/post/states-of-play-battleground-wave-15/",
+    "created_at": "2020-10-06",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-04",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "132011",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://changeresearch.com/post/states-of-play-battleground-wave-15/",
+    "created_at": "2020-10-06",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-04",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "132010",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://changeresearch.com/post/states-of-play-battleground-wave-15/",
+    "created_at": "2020-10-06",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-04",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
+    "id": "132009",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://changeresearch.com/post/states-of-play-battleground-wave-15/",
+    "created_at": "2020-10-06",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-04",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "131976",
@@ -584,6 +770,256 @@
     "state": "Pennsylvania"
   },
   {
+    "id": "132020",
+    "subgroup": "All polls",
+    "sampleSize": "234",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://drive.google.com/file/d/1rgOpdiCIcbEBjnt2pVvQO7ztkbfsNB90/view",
+    "created_at": "2020-10-06",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-04",
+    "pollster": "Critical Insights",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "41.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Maine",
+    "district": "2"
+  },
+  {
+    "id": "132019",
+    "subgroup": "All polls",
+    "sampleSize": "232",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://drive.google.com/file/d/1rgOpdiCIcbEBjnt2pVvQO7ztkbfsNB90/view",
+    "created_at": "2020-10-06",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-04",
+    "pollster": "Critical Insights",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "62.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "30.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Maine",
+    "district": "1"
+  },
+  {
+    "id": "132018",
+    "subgroup": "All polls",
+    "sampleSize": "466",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://drive.google.com/file/d/1rgOpdiCIcbEBjnt2pVvQO7ztkbfsNB90/view",
+    "created_at": "2020-10-06",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-04",
+    "pollster": "Critical Insights",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Maine"
+  },
+  {
+    "id": "132017",
+    "subgroup": "All polls",
+    "sampleSize": "248",
+    "population": "rv",
+    "grade": "C/D",
+    "url": "https://drive.google.com/file/d/1aNLin7vNNxFEK0dNKj8JYdfyz0wkGj6n/view",
+    "created_at": "2020-10-06",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-04",
+    "pollster": "Critical Insights",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "40.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Maine",
+    "district": "2"
+  },
+  {
+    "id": "132016",
+    "subgroup": "All polls",
+    "sampleSize": "243",
+    "population": "rv",
+    "grade": "C/D",
+    "url": "https://drive.google.com/file/d/1aNLin7vNNxFEK0dNKj8JYdfyz0wkGj6n/view",
+    "created_at": "2020-10-06",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-04",
+    "pollster": "Critical Insights",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "61.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "29.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Maine",
+    "district": "1"
+  },
+  {
+    "id": "132015",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "rv",
+    "grade": "C/D",
+    "url": "https://drive.google.com/file/d/1aNLin7vNNxFEK0dNKj8JYdfyz0wkGj6n/view",
+    "created_at": "2020-10-06",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-04",
+    "pollster": "Critical Insights",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Maine"
+  },
+  {
     "id": "131988",
     "subgroup": "All polls",
     "sampleSize": "886",
@@ -746,6 +1182,86 @@
     "state": "National"
   },
   {
+    "id": "132026",
+    "subgroup": "All polls",
+    "sampleSize": "466",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://drive.google.com/file/d/1rgOpdiCIcbEBjnt2pVvQO7ztkbfsNB90/view",
+    "created_at": "2020-10-06",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-04",
+    "pollster": "Critical Insights",
+    "answers": [
+      {
+        "choice": "Gideon",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Collins",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Savage",
+        "pct": "2.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Linn",
+        "pct": "1.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Maine"
+  },
+  {
+    "id": "132025",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "rv",
+    "grade": "C/D",
+    "url": "https://drive.google.com/file/d/1aNLin7vNNxFEK0dNKj8JYdfyz0wkGj6n/view",
+    "created_at": "2020-10-06",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-04",
+    "pollster": "Critical Insights",
+    "answers": [
+      {
+        "choice": "Gideon",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Collins",
+        "pct": "42.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Savage",
+        "pct": "2.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Linn",
+        "pct": "1.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Maine"
+  },
+  {
     "id": "132004",
     "subgroup": "All polls",
     "sampleSize": "600",
@@ -779,6 +1295,130 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "New Hampshire"
+  },
+  {
+    "id": "132024",
+    "subgroup": "All polls",
+    "sampleSize": "234",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://drive.google.com/file/d/1rgOpdiCIcbEBjnt2pVvQO7ztkbfsNB90/view",
+    "created_at": "2020-10-06",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-04",
+    "pollster": "Critical Insights",
+    "answers": [
+      {
+        "choice": "Golden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Crafts",
+        "pct": "34.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Maine",
+    "district": "2"
+  },
+  {
+    "id": "132023",
+    "subgroup": "All polls",
+    "sampleSize": "232",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://drive.google.com/file/d/1rgOpdiCIcbEBjnt2pVvQO7ztkbfsNB90/view",
+    "created_at": "2020-10-06",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-04",
+    "pollster": "Critical Insights",
+    "answers": [
+      {
+        "choice": "Pingree",
+        "pct": "58.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Allen",
+        "pct": "24.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Maine",
+    "district": "1"
+  },
+  {
+    "id": "132022",
+    "subgroup": "All polls",
+    "sampleSize": "248",
+    "population": "rv",
+    "grade": "C/D",
+    "url": "https://drive.google.com/file/d/1aNLin7vNNxFEK0dNKj8JYdfyz0wkGj6n/view",
+    "created_at": "2020-10-06",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-04",
+    "pollster": "Critical Insights",
+    "answers": [
+      {
+        "choice": "Golden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Crafts",
+        "pct": "33.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Maine",
+    "district": "2"
+  },
+  {
+    "id": "132021",
+    "subgroup": "All polls",
+    "sampleSize": "243",
+    "population": "rv",
+    "grade": "C/D",
+    "url": "https://drive.google.com/file/d/1aNLin7vNNxFEK0dNKj8JYdfyz0wkGj6n/view",
+    "created_at": "2020-10-06",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-04",
+    "pollster": "Critical Insights",
+    "answers": [
+      {
+        "choice": "Pingree",
+        "pct": "56.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Allen",
+        "pct": "23.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Maine",
+    "district": "1"
   },
   {
     "id": "131996",
