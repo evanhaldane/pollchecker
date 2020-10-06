@@ -368,7 +368,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -399,7 +399,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -507,6 +507,42 @@
     "state": "Arizona"
   },
   {
+    "id": "132002",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://americanresearchgroup.com/nhpoll/pres20/",
+    "created_at": "2020-10-06",
+    "startDate": "2020-09-25",
+    "endDate": "2020-09-28",
+    "pollster": "American Research Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
+  },
+  {
     "id": "131994",
     "subgroup": "All polls",
     "sampleSize": "2019",
@@ -566,6 +602,41 @@
     "state": "National"
   },
   {
+    "id": "132004",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://americanresearchgroup.com/nhpoll/senate20/",
+    "created_at": "2020-10-06",
+    "startDate": "2020-09-25",
+    "endDate": "2020-09-28",
+    "pollster": "American Research Group",
+    "answers": [
+      {
+        "choice": "Shaheen",
+        "pct": "56.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Messner",
+        "pct": "40.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "O'Donnell",
+        "pct": "0.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
+  },
+  {
     "id": "131996",
     "subgroup": "All polls",
     "sampleSize": "400",
@@ -596,6 +667,41 @@
     "partisan": "DEM",
     "state": "North Carolina",
     "district": "9"
+  },
+  {
+    "id": "132003",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://americanresearchgroup.com/nhpoll/nhgov20/",
+    "created_at": "2020-10-06",
+    "startDate": "2020-09-25",
+    "endDate": "2020-09-28",
+    "pollster": "American Research Group",
+    "answers": [
+      {
+        "choice": "Feltes",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Sununu",
+        "pct": "52.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Perry",
+        "pct": "1.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
   },
   {
     "id": "131970",
