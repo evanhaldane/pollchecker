@@ -1,5 +1,32 @@
 [
   {
+    "id": "132027",
+    "subgroup": "All polls",
+    "sampleSize": "2841",
+    "population": "rv",
+    "grade": "C",
+    "url": "https://thehill.com/hilltv/what-americas-thinking/519840-what-americas-thinking-october-6-2020",
+    "created_at": "2020-10-06",
+    "startDate": "2020-10-03",
+    "endDate": "2020-10-06",
+    "pollster": "HarrisX",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "54.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "131995",
     "subgroup": "All polls",
     "sampleSize": "1500",
@@ -304,6 +331,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "132028",
+    "subgroup": "All polls",
+    "sampleSize": "1232",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-of-likely-voters-in-north-carolina-biden-leads-trump-by-four-points-tillis-leads-cunningham-by-one-cooper-leads-forest-by-thirteen-points-other-statewide-races-competitive",
+    "created_at": "2020-10-06",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-04",
+    "pollster": "East Carolina University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.2",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "132014",
@@ -1182,6 +1240,36 @@
     "state": "National"
   },
   {
+    "id": "132030",
+    "subgroup": "All polls",
+    "sampleSize": "1232",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-of-likely-voters-in-north-carolina-biden-leads-trump-by-four-points-tillis-leads-cunningham-by-one-cooper-leads-forest-by-thirteen-points-other-statewide-races-competitive",
+    "created_at": "2020-10-06",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-04",
+    "pollster": "East Carolina University",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "46.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "46.7",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "132026",
     "subgroup": "All polls",
     "sampleSize": "466",
@@ -1451,6 +1539,36 @@
     "partisan": "DEM",
     "state": "North Carolina",
     "district": "9"
+  },
+  {
+    "id": "132029",
+    "subgroup": "All polls",
+    "sampleSize": "1232",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-of-likely-voters-in-north-carolina-biden-leads-trump-by-four-points-tillis-leads-cunningham-by-one-cooper-leads-forest-by-thirteen-points-other-statewide-races-competitive",
+    "created_at": "2020-10-06",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-04",
+    "pollster": "East Carolina University",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "54.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "40.5",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "132003",
