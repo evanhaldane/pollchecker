@@ -1,8 +1,62 @@
 [
   {
+    "id": "131970",
+    "subgroup": "All polls",
+    "sampleSize": "2200",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://assets.morningconsult.com/wp-uploads/2020/10/05133150/2009146_crosstabs_CORONAVIRUS_CONTENT_Adults_v2_JB.pdf",
+    "created_at": "2020-10-05",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-04",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "42.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "54.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "131972",
+    "subgroup": "All polls",
+    "sampleSize": "1205",
+    "population": "a",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/05/rel12a.-.coronavirus.pdf",
+    "created_at": "2020-10-05",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-04",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "40.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "57.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "131964",
     "subgroup": "All polls",
-    "sampleSize": "1001",
+    "sampleSize": "1095",
     "population": "rv",
     "grade": "B/C",
     "url": "http://cdn.cnn.com/cnn/2020/images/10/05/rel12a.-.coronavirus.pdf",
@@ -149,7 +203,7 @@
   {
     "id": "131649",
     "subgroup": "All polls",
-    "sampleSize": "12000",
+    "sampleSize": "15478",
     "population": "lv",
     "grade": "B/C",
     "url": "https://morningconsult.com/2020-presidential-election-tracker/",
@@ -174,6 +228,37 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "131974",
+    "subgroup": "All polls",
+    "sampleSize": "2600",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://twitter.com/ChangePolls/status/1313268257210667009?s=20",
+    "created_at": "2020-10-05",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-04",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
     "cycle": "2020",
     "state": "National"
   },
@@ -477,7 +562,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Alabama"
   },
@@ -5224,6 +5309,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Alabama"
+  },
+  {
+    "id": "131971",
+    "subgroup": "All polls",
+    "sampleSize": "1048",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020/10/05/arizona-senate-polling-martha-mcsally-mark-kelly/",
+    "created_at": "2020-10-05",
+    "startDate": "2020-09-22",
+    "endDate": "2020-10-01",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "38.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "131633",
