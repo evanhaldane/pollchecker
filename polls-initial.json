@@ -1,5 +1,86 @@
 [
   {
+    "id": "132081",
+    "subgroup": "All polls",
+    "sampleSize": "1364",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/1qb5j6pdqd/econTabReport.pdf",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-04",
+    "endDate": "2020-10-06",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "43.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "55.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "132080",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "rv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/1qb5j6pdqd/econTabReport.pdf",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-04",
+    "endDate": "2020-10-06",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "42.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "56.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "132079",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-04",
+    "endDate": "2020-10-06",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "44.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "54.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "132055",
     "subgroup": "All polls",
     "sampleSize": "1011",
@@ -107,7 +188,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -296,6 +377,38 @@
     "inAvg": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "132088",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://static1.squarespace.com/static/59015f4b37c581b2ce01e5b3/t/5f7da30aae0dc50f899426db/1602069258463/Garin+Hart+Yang+Recent+MO+statewide+survey+Memo_FINAL.pdf",
+    "created_at": "2020-10-07",
+    "startDate": "2020-09-28",
+    "endDate": "2020-10-02",
+    "pollster": "Garin-Hart-Yang Research Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Missouri"
   },
   {
     "id": "132070",
@@ -714,6 +827,37 @@
     "partisan": "DEM",
     "state": "California",
     "district": "22"
+  },
+  {
+    "id": "132089",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://static1.squarespace.com/static/59015f4b37c581b2ce01e5b3/t/5f7da30aae0dc50f899426db/1602069258463/Garin+Hart+Yang+Recent+MO+statewide+survey+Memo_FINAL.pdf",
+    "created_at": "2020-10-07",
+    "startDate": "2020-09-28",
+    "endDate": "2020-10-02",
+    "pollster": "Garin-Hart-Yang Research Group",
+    "answers": [
+      {
+        "choice": "Galloway",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Parson",
+        "pct": "50.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Missouri"
   },
   {
     "id": "132057",
