@@ -81,6 +81,33 @@
     "state": "National"
   },
   {
+    "id": "132131",
+    "subgroup": "All polls",
+    "sampleSize": "1107",
+    "population": "rv",
+    "grade": "A-",
+    "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Fox_October-3-6-2020_Complete_National_Topline_October-7-Release.pdf",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-03",
+    "endDate": "2020-10-06",
+    "pollster": "Fox News",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "47.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "52.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "132055",
     "subgroup": "All polls",
     "sampleSize": "1011",
@@ -288,8 +315,8 @@
   {
     "id": "132123",
     "subgroup": "All polls",
-    "sampleSize": "1012",
-    "population": "lv",
+    "sampleSize": "1107",
+    "population": "rv",
     "grade": "A-",
     "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Fox_October-3-6-2020_Complete_National_Topline_October-7-Release.pdf",
     "created_at": "2020-10-07",
@@ -343,7 +370,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -485,6 +512,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Ohio"
+  },
+  {
+    "id": "132132",
+    "subgroup": "All polls",
+    "sampleSize": "929",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://www.kaaltv.com/minnesota-news/minnesota-survey-usa-poll-elections-biden-up-7-points/5886995/",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-06",
+    "pollster": "SurveyUSA",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Minnesota"
   },
   {
     "id": "132093",
@@ -776,7 +834,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Texas"
@@ -818,7 +876,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "North Carolina"
@@ -860,7 +918,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Montana"
@@ -1825,6 +1883,38 @@
     "cycle": "2020",
     "state": "Arizona",
     "district": "6"
+  },
+  {
+    "id": "132130",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://projects.fivethirtyeight.com/polls/20201007_FL_GSG.pdf",
+    "created_at": "2020-10-07",
+    "startDate": "2020-07-07",
+    "endDate": "2020-07-12",
+    "pollster": "Global Strategy Group",
+    "answers": [
+      {
+        "choice": "Good",
+        "pct": "41.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Buchanan",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 16",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Florida",
+    "district": "16"
   },
   {
     "id": "132062",
