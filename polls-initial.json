@@ -286,6 +286,37 @@
     "state": "Iowa"
   },
   {
+    "id": "132093",
+    "subgroup": "All polls",
+    "sampleSize": "2500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_oct07",
+    "created_at": "2020-10-07",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-06",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "40.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "52.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "132061",
     "subgroup": "All polls",
     "sampleSize": "4999",
@@ -379,6 +410,42 @@
     "state": "National"
   },
   {
+    "id": "132090",
+    "subgroup": "All polls",
+    "sampleSize": "550",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.dataorbital.com/the-blog/breaking-in-az-us-senate-race-tightens-and-president-trump-down-45",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-03",
+    "endDate": "2020-10-05",
+    "pollster": "Data Orbital",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.7",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.2",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.7",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
     "id": "132088",
     "subgroup": "All polls",
     "sampleSize": "600",
@@ -405,7 +472,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Missouri"
@@ -471,6 +538,38 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "West Virginia"
+  },
+  {
+    "id": "132092",
+    "subgroup": "All polls",
+    "sampleSize": "604",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.flchamber.com/new-florida-chamber-political-poll-shows-a-divided-electorate/",
+    "created_at": "2020-10-07",
+    "startDate": "2020-09-23",
+    "endDate": "2020-09-29",
+    "pollster": "Cherry Communications",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Florida"
   },
   {
     "id": "132058",
@@ -610,6 +709,36 @@
     "cycle": "2020",
     "partisan": "REP",
     "state": "Michigan"
+  },
+  {
+    "id": "132091",
+    "subgroup": "All polls",
+    "sampleSize": "550",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.dataorbital.com/the-blog/breaking-in-az-us-senate-race-tightens-and-president-trump-down-45",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-03",
+    "endDate": "2020-10-05",
+    "pollster": "Data Orbital",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "49.2",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "43.7",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "132076",
