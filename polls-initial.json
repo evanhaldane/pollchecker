@@ -162,6 +162,68 @@
     "state": "National"
   },
   {
+    "id": "132117",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://graphics.reuters.com/USA-ELECTION/BATTLEGROUNDS/nmopawwakpa/index.html",
+    "created_at": "2020-10-07",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-07",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
+    "id": "132116",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://graphics.reuters.com/USA-ELECTION/BATTLEGROUNDS/nmopawwakpa/index.html",
+    "created_at": "2020-10-07",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-07",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
     "id": "132083",
     "subgroup": "All polls",
     "sampleSize": "1364",
@@ -549,7 +611,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -580,7 +642,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Iowa"
   },
@@ -611,7 +673,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
   },
@@ -913,6 +975,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "132118",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/en-us/news-polls/presidential_election_2020_AZ",
+    "created_at": "2020-10-07",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-07",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "132069",
@@ -1397,6 +1489,42 @@
     "partisan": "DEM",
     "state": "California",
     "district": "22"
+  },
+  {
+    "id": "132119",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/adamwren/status/1313910791071035393",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-04",
+    "endDate": "2020-10-05",
+    "pollster": "BK Strategies",
+    "answers": [
+      {
+        "choice": "Myers",
+        "pct": "21.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Holcomb",
+        "pct": "60.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Rainwater",
+        "pct": "6.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Indiana"
   },
   {
     "id": "132089",
