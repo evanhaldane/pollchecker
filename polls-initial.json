@@ -286,6 +286,83 @@
     "state": "Iowa"
   },
   {
+    "id": "132100",
+    "subgroup": "All polls",
+    "sampleSize": "660",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/oh-nv-crosstabs/d91c22da8b8953eb/full.pdf",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-06",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Nevada"
+  },
+  {
+    "id": "132099",
+    "subgroup": "All polls",
+    "sampleSize": "661",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/oh-nv-crosstabs/d91c22da8b8953eb/full.pdf",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-06",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Ohio"
+  },
+  {
     "id": "132093",
     "subgroup": "All polls",
     "sampleSize": "2500",
@@ -459,12 +536,12 @@
     "answers": [
       {
         "choice": "Biden",
-        "pct": "49.0",
+        "pct": "51.0",
         "party": "Dem"
       },
       {
         "choice": "Trump",
-        "pct": "37.0",
+        "pct": "38.0",
         "party": "Rep"
       },
       {
@@ -482,9 +559,45 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "132105",
+    "subgroup": "All polls",
+    "sampleSize": "700",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://twitter.com/MULawPoll/status/1313891408521068544?s=20",
+    "created_at": "2020-10-07",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-04",
+    "pollster": "Marquette Law School",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "4.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Wisconsin"
   },
   {
     "id": "132088",
@@ -545,7 +658,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Texas"
@@ -998,6 +1111,37 @@
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Pennsylvania",
+    "district": "1"
+  },
+  {
+    "id": "132098",
+    "subgroup": "All polls",
+    "sampleSize": "676",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/IvanMoore1/status/1313884720434880513",
+    "created_at": "2020-10-07",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-04",
+    "pollster": "Alaska Survey Research",
+    "answers": [
+      {
+        "choice": "Galvin",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Young",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Alaska",
     "district": "1"
   },
   {
