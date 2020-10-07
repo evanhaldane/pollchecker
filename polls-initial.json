@@ -1514,6 +1514,37 @@
     "state": "Maine"
   },
   {
+    "id": "132052",
+    "subgroup": "All polls",
+    "sampleSize": "676",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/IvanMoore1/status/1313648391750971393?s=20",
+    "created_at": "2020-10-06",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-04",
+    "pollster": "Alaska Survey Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Alaska"
+  },
+  {
     "id": "131988",
     "subgroup": "All polls",
     "sampleSize": "886",
