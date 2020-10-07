@@ -299,12 +299,12 @@
     "answers": [
       {
         "choice": "Biden",
-        "pct": "40.0",
+        "pct": "52.0",
         "party": "Dem"
       },
       {
         "choice": "Trump",
-        "pct": "52.0",
+        "pct": "40.0",
         "party": "Rep"
       }
     ],
@@ -312,7 +312,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -441,9 +441,50 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "132097",
+    "subgroup": "All polls",
+    "sampleSize": "2048",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.brandwatch.com/email/us-election-bulletin-006/",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-04",
+    "pollster": "Qriously",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "37.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "132088",
@@ -476,6 +517,38 @@
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Missouri"
+  },
+  {
+    "id": "132095",
+    "subgroup": "All polls",
+    "sampleSize": "848",
+    "population": "lv",
+    "grade": "",
+    "url": "https://twitter.com/ryangrim/status/1313862395379490817",
+    "created_at": "2020-10-07",
+    "startDate": "2020-09-27",
+    "endDate": "2020-10-02",
+    "pollster": "EMC Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Texas"
   },
   {
     "id": "132070",
@@ -566,7 +639,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "REP",
     "state": "Florida"
@@ -741,6 +814,36 @@
     "state": "Arizona"
   },
   {
+    "id": "132096",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://projects.fivethirtyeight.com/polls/20201007_AZ_HighGround.pdf",
+    "created_at": "2020-10-07",
+    "startDate": "2020-09-28",
+    "endDate": "2020-10-05",
+    "pollster": "HighGround Inc.",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "43.5",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
     "id": "132076",
     "subgroup": "All polls",
     "sampleSize": "396",
@@ -829,6 +932,41 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "132094",
+    "subgroup": "All polls",
+    "sampleSize": "886",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://nmpoliticalreport.com/2020/10/07/lujan-leads-ronchetti-by-10-points-in-open-u-s-senate-race/",
+    "created_at": "2020-10-07",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-01",
+    "pollster": "Public Policy Polling",
+    "answers": [
+      {
+        "choice": "Lujan",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ronchetti",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Walsh",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Mexico"
   },
   {
     "id": "132073",
@@ -2577,7 +2715,7 @@
     "id": "131988",
     "subgroup": "All polls",
     "sampleSize": "886",
-    "population": "v",
+    "population": "lv",
     "grade": "B",
     "url": "https://nmpoliticalreport.com/2020/10/06/biden-with-leads-trump-by-14-points-in-nm/",
     "created_at": "2020-10-06",
