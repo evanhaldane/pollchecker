@@ -54,6 +54,95 @@
     "state": "National"
   },
   {
+    "id": "132077",
+    "subgroup": "All polls",
+    "sampleSize": "2167",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://changeresearch.com/post/states-of-play-battleground-wave-15/",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-04",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "45.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "55.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "132083",
+    "subgroup": "All polls",
+    "sampleSize": "1364",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/1qb5j6pdqd/econTabReport.pdf",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-04",
+    "endDate": "2020-10-06",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "132082",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "rv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/1qb5j6pdqd/econTabReport.pdf",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-04",
+    "endDate": "2020-10-06",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "38.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "132067",
     "subgroup": "All polls",
     "sampleSize": "895",
@@ -235,7 +324,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Maryland"
   },
@@ -410,6 +499,96 @@
     "state": "Michigan"
   },
   {
+    "id": "132076",
+    "subgroup": "All polls",
+    "sampleSize": "396",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://changeresearch.com/post/states-of-play-battleground-wave-15/",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-04",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "132075",
+    "subgroup": "All polls",
+    "sampleSize": "676",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://changeresearch.com/post/states-of-play-battleground-wave-15/",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-04",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "132074",
+    "subgroup": "All polls",
+    "sampleSize": "296",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://changeresearch.com/post/states-of-play-battleground-wave-15/",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-02",
+    "endDate": "2020-10-04",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
     "id": "132073",
     "subgroup": "All polls",
     "sampleSize": "400",
@@ -440,6 +619,38 @@
     "partisan": "DEM",
     "state": "Pennsylvania",
     "district": "1"
+  },
+  {
+    "id": "132078",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/kirk_bado/status/1313829231479205888",
+    "created_at": "2020-10-07",
+    "startDate": "2020-09-26",
+    "endDate": "2020-09-29",
+    "pollster": "Garin-Hart-Yang Research Group",
+    "answers": [
+      {
+        "choice": "Tims",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Turner",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 10",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Ohio",
+    "district": "10"
   },
   {
     "id": "132072",
@@ -3039,7 +3250,7 @@
     "sampleSize": "2167",
     "population": "lv",
     "grade": "C-",
-    "url": "https://twitter.com/ChangePolls/status/1313268257210667009?s=20",
+    "url": "https://changeresearch.com/post/states-of-play-battleground-wave-15/",
     "created_at": "2020-10-05",
     "startDate": "2020-10-02",
     "endDate": "2020-10-04",
@@ -3054,6 +3265,16 @@
         "choice": "Trump",
         "pct": "42.0",
         "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
       }
     ],
     "type": "president-general",
