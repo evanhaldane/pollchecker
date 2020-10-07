@@ -523,6 +523,99 @@
     "state": "Arizona"
   },
   {
+    "id": "132109",
+    "subgroup": "All polls",
+    "sampleSize": "1211",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/florida/release-detail?ReleaseID=3678",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-05",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "132108",
+    "subgroup": "All polls",
+    "sampleSize": "1205",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/florida/release-detail?ReleaseID=3678",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-05",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
+    "id": "132107",
+    "subgroup": "All polls",
+    "sampleSize": "1256",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/florida/release-detail?ReleaseID=3678",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-05",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
     "id": "132097",
     "subgroup": "All polls",
     "sampleSize": "2048",
@@ -564,12 +657,12 @@
     "state": "National"
   },
   {
-    "id": "132105",
+    "id": "132106",
     "subgroup": "All polls",
-    "sampleSize": "700",
-    "population": "lv",
+    "sampleSize": "805",
+    "population": "rv",
     "grade": "A/B",
-    "url": "https://twitter.com/MULawPoll/status/1313891408521068544?s=20",
+    "url": "https://law.marquette.edu/poll/wp-content/uploads/2020/10/MLSP64ToplinesRV.html#q20a:_biden_vs_trump_vs_jorgensen,_lean",
     "created_at": "2020-10-07",
     "startDate": "2020-09-30",
     "endDate": "2020-10-04",
@@ -587,7 +680,7 @@
       },
       {
         "choice": "Jorgensen",
-        "pct": "4.0",
+        "pct": "5.0",
         "party": "Lib"
       }
     ],
@@ -596,6 +689,42 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": false,
+    "cycle": "2020",
+    "state": "Wisconsin"
+  },
+  {
+    "id": "132105",
+    "subgroup": "All polls",
+    "sampleSize": "700",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://law.marquette.edu/poll/wp-content/uploads/2020/10/MLSP64ToplinesLV.html#q20:_(combined):_biden_vs_trump_vs_jorgensen,_including_leaners",
+    "created_at": "2020-10-07",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-04",
+    "pollster": "Marquette Law School",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "4.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
   },
@@ -925,6 +1054,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "132110",
+    "subgroup": "All polls",
+    "sampleSize": "1205",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/florida/release-detail?ReleaseID=3678",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-05",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Greenfield",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ernst",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa"
   },
   {
     "id": "132096",
