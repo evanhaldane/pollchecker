@@ -1,5 +1,32 @@
 [
   {
+    "id": "132218",
+    "subgroup": "All polls",
+    "sampleSize": "1717",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://assets.morningconsult.com/wp-uploads/2020/10/08174514/201036_crosstabs_POLITICO_RVs_v1.pdf#page=16",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-08",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "43.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "56.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "132165",
     "subgroup": "All polls",
     "sampleSize": "1500",
@@ -679,9 +706,42 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New Hampshire"
+  },
+  {
+    "id": "132217",
+    "subgroup": "All polls",
+    "sampleSize": "450",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://thehill.com/homenews/campaign/520263-poll-shows-biden-leading-trump-tight-house-race-in-key-nebraska-district",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-04",
+    "pollster": "FM3 Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Nebraska",
+    "district": "2"
   },
   {
     "id": "132148",
@@ -1054,6 +1114,41 @@
     "state": "Arizona"
   },
   {
+    "id": "132215",
+    "subgroup": "All polls",
+    "sampleSize": "1147",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.anselm.edu/sites/default/files/Documents/NHIOP/Polls/October%202020%20FullResults.pdf",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-04",
+    "pollster": "Saint Anselm College",
+    "answers": [
+      {
+        "choice": "Shaheen",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Messner",
+        "pct": "39.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "O'Donnell",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
+  },
+  {
     "id": "132205",
     "subgroup": "All polls",
     "sampleSize": "3104",
@@ -1181,6 +1276,115 @@
     "cycle": "2020",
     "state": "Florida",
     "district": "4"
+  },
+  {
+    "id": "132213",
+    "subgroup": "All polls",
+    "sampleSize": "552",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.anselm.edu/sites/default/files/Documents/NHIOP/Polls/October%202020%20FullResults.pdf",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-04",
+    "pollster": "Saint Anselm College",
+    "answers": [
+      {
+        "choice": "Kuster",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Negron",
+        "pct": "38.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Olding",
+        "pct": "4.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Hampshire",
+    "district": "2"
+  },
+  {
+    "id": "132212",
+    "subgroup": "All polls",
+    "sampleSize": "595",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.anselm.edu/sites/default/files/Documents/NHIOP/Polls/October%202020%20FullResults.pdf",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-04",
+    "pollster": "Saint Anselm College",
+    "answers": [
+      {
+        "choice": "Pappas",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Mowers",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Dumont",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Hampshire",
+    "district": "1"
+  },
+  {
+    "id": "132214",
+    "subgroup": "All polls",
+    "sampleSize": "450",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://thehill.com/homenews/campaign/520263-poll-shows-biden-leading-trump-tight-house-race-in-key-nebraska-district",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-04",
+    "pollster": "FM3 Research",
+    "answers": [
+      {
+        "choice": "Eastman",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Bacon",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Schaeffer",
+        "pct": "6.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Nebraska",
+    "district": "2"
   },
   {
     "id": "132153",
@@ -1341,6 +1545,41 @@
     "cycle": "2020",
     "state": "Kansas",
     "district": "1"
+  },
+  {
+    "id": "132211",
+    "subgroup": "All polls",
+    "sampleSize": "1147",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.anselm.edu/sites/default/files/Documents/NHIOP/Polls/October%202020%20FullResults.pdf",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-04",
+    "pollster": "Saint Anselm College",
+    "answers": [
+      {
+        "choice": "Feltes",
+        "pct": "35.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Sununu",
+        "pct": "58.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Perry",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
   },
   {
     "id": "132154",
