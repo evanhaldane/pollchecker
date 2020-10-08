@@ -218,7 +218,7 @@
   {
     "id": "132174",
     "subgroup": "All polls",
-    "sampleSize": "12000",
+    "sampleSize": "17249",
     "population": "lv",
     "grade": "B/C",
     "url": "https://morningconsult.com/2020-presidential-election-tracker/",
@@ -242,7 +242,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -459,9 +459,41 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "132198",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://dfer.org/wp-content/uploads/2020/10/ERNA-Memo-Latino-Decisions-10.8.20.pdf",
+    "created_at": "2020-10-08",
+    "startDate": "2020-09-28",
+    "endDate": "2020-10-06",
+    "pollster": "Latino Decisions",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Arizona"
   },
   {
     "id": "132172",
@@ -490,7 +522,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -534,6 +566,68 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Maryland"
+  },
+  {
+    "id": "132197",
+    "subgroup": "All polls",
+    "sampleSize": "489",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "http://polls.saintleo.edu/new-saint-leo-u-survey-results-show-biden-ahead-of-trump-by-nearly-14-percentage-points-nationally-before-trumps-covid-diagnosis/",
+    "created_at": "2020-10-08",
+    "startDate": "2020-09-27",
+    "endDate": "2020-10-02",
+    "pollster": "Saint Leo University",
+    "answers": [
+      {
+        "choice": "Harris",
+        "pct": "46.7",
+        "party": "Dem"
+      },
+      {
+        "choice": "Pence",
+        "pct": "46.8",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
+    "id": "132196",
+    "subgroup": "All polls",
+    "sampleSize": "947",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "http://polls.saintleo.edu/new-saint-leo-u-survey-results-show-biden-ahead-of-trump-by-nearly-14-percentage-points-nationally-before-trumps-covid-diagnosis/",
+    "created_at": "2020-10-08",
+    "startDate": "2020-09-27",
+    "endDate": "2020-10-02",
+    "pollster": "Saint Leo University",
+    "answers": [
+      {
+        "choice": "Harris",
+        "pct": "48.3",
+        "party": "Dem"
+      },
+      {
+        "choice": "Pence",
+        "pct": "41.5",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "132163",
@@ -740,6 +834,37 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "132199",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://dfer.org/wp-content/uploads/2020/10/ERNA-Memo-Latino-Decisions-10.8.20.pdf",
+    "created_at": "2020-10-08",
+    "startDate": "2020-09-28",
+    "endDate": "2020-10-06",
+    "pollster": "Latino Decisions",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Arizona"
   },
   {
     "id": "132164",
@@ -2107,7 +2232,7 @@
     "sampleSize": "848",
     "population": "lv",
     "grade": "",
-    "url": "https://twitter.com/ryangrim/status/1313862395379490817",
+    "url": "https://www.dropbox.com/s/so4yw5zcnha3jy1/Blue%20Texas%20PAC%20Poll%2010.7.20.pdf",
     "created_at": "2020-10-07",
     "startDate": "2020-09-27",
     "endDate": "2020-10-02",
@@ -3517,7 +3642,7 @@
     "sampleSize": "601",
     "population": "lv",
     "grade": "B-",
-    "url": "https://www.devdiscourse.com/article/politics/1241692-poll-reutersipsos-poll-shows-biden-widening-lead-over-trump-in-michigan-tied-in-north-carolina",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline-reuters-north-carolina-state-poll-wave-2-100620_0.pdf",
     "created_at": "2020-10-06",
     "startDate": "2020-09-29",
     "endDate": "2020-10-06",
@@ -4831,7 +4956,7 @@
     "sampleSize": "601",
     "population": "lv",
     "grade": "B-",
-    "url": "https://www.reuters.com/article/idUSKBN26R3CW",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline-reuters-north-carolina-state-poll-wave-2-100620_0.pdf",
     "created_at": "2020-10-06",
     "startDate": "2020-09-29",
     "endDate": "2020-10-06",
@@ -5520,7 +5645,7 @@
     "sampleSize": "605",
     "population": "lv",
     "grade": "B-",
-    "url": "https://www.reuters.com/article/us-usa-election-battlegrounds-poll/reuters-ipsos-poll-shows-biden-leading-in-pennsylvania-wisconsin-idUSKBN26Q2ZT",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_pennsylvania_state_poll_w2_10_05_20.pdf",
     "created_at": "2020-10-05",
     "startDate": "2020-09-29",
     "endDate": "2020-10-05",
@@ -5551,7 +5676,7 @@
     "sampleSize": "601",
     "population": "lv",
     "grade": "B-",
-    "url": "https://www.reuters.com/article/us-usa-election-battlegrounds-poll/reuters-ipsos-poll-shows-biden-leading-in-pennsylvania-wisconsin-idUSKBN26Q2ZT",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline-reuters-wisconsin-state-poll-wave-2-100520.pdf",
     "created_at": "2020-10-05",
     "startDate": "2020-09-29",
     "endDate": "2020-10-05",
@@ -5958,7 +6083,7 @@
     "sampleSize": "1072",
     "population": "rv",
     "grade": "",
-    "url": "https://www.aum.edu/aum-poll-tommy-tuberville-leads-doug-jones-by-12-points-in-closing-weeks-of-alabama-senate-race/",
+    "url": "https://www.aum.edu/wp-content/uploads/2020/10/aum_poll_10042020_alabama1.pdf",
     "created_at": "2020-10-05",
     "startDate": "2020-09-30",
     "endDate": "2020-10-03",
@@ -5966,12 +6091,12 @@
     "answers": [
       {
         "choice": "Biden",
-        "pct": "37.0",
+        "pct": "37.2",
         "party": "Dem"
       },
       {
         "choice": "Trump",
-        "pct": "57.0",
+        "pct": "56.8",
         "party": "Rep"
       }
     ],
@@ -10703,7 +10828,7 @@
     "sampleSize": "1072",
     "population": "rv",
     "grade": "",
-    "url": "https://www.aum.edu/aum-poll-tommy-tuberville-leads-doug-jones-by-12-points-in-closing-weeks-of-alabama-senate-race/",
+    "url": "https://www.aum.edu/wp-content/uploads/2020/10/aum_poll_10042020_alabama1.pdf",
     "created_at": "2020-10-05",
     "startDate": "2020-09-30",
     "endDate": "2020-10-03",
@@ -10711,7 +10836,7 @@
     "answers": [
       {
         "choice": "Jones",
-        "pct": "42.0",
+        "pct": "42.1",
         "party": "Dem"
       },
       {
