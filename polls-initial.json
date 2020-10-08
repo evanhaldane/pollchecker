@@ -216,6 +216,74 @@
     "state": "National"
   },
   {
+    "id": "132202",
+    "subgroup": "All polls",
+    "sampleSize": "612",
+    "population": "v",
+    "grade": "B",
+    "url": "https://www.texasdemocrats.org/wp-content/uploads/2020/09/TexasResults-2.pdf",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-08",
+    "pollster": "Public Policy Polling",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Texas"
+  },
+  {
+    "id": "132203",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://hannity.com/media-room/hannity-exclusive-pollster-who-predicted-trumps-2016-win-shows-president-up-3-points-in-florida/?utm_source=socialflow",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-06",
+    "endDate": "2020-10-07",
+    "pollster": "InsiderAdvantage",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
     "id": "132174",
     "subgroup": "All polls",
     "sampleSize": "17249",
@@ -442,7 +510,7 @@
     "created_at": "2020-10-08",
     "startDate": "2020-10-05",
     "endDate": "2020-10-06",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "pollster": "Pulse Opinion Research",
     "answers": [
       {
         "choice": "Biden",
@@ -459,7 +527,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Texas"
   },
