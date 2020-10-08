@@ -34,7 +34,7 @@
     "grade": "B/C",
     "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
     "created_at": "2020-10-08",
-    "startDate": "2020-09-29",
+    "startDate": "2020-09-30",
     "endDate": "2020-10-06",
     "pollster": "Morning Consult",
     "answers": [
@@ -61,7 +61,7 @@
     "grade": "B/C",
     "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
     "created_at": "2020-10-08",
-    "startDate": "2020-09-28",
+    "startDate": "2020-09-29",
     "endDate": "2020-10-05",
     "pollster": "Morning Consult",
     "answers": [
@@ -115,7 +115,7 @@
     "grade": "B/C",
     "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
     "created_at": "2020-10-08",
-    "startDate": "2020-09-27",
+    "startDate": "2020-09-28",
     "endDate": "2020-10-04",
     "pollster": "Morning Consult",
     "answers": [
@@ -142,7 +142,7 @@
     "grade": "B/C",
     "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
     "created_at": "2020-10-08",
-    "startDate": "2020-09-26",
+    "startDate": "2020-09-27",
     "endDate": "2020-10-03",
     "pollster": "Morning Consult",
     "answers": [
@@ -169,7 +169,7 @@
     "grade": "B/C",
     "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
     "created_at": "2020-10-08",
-    "startDate": "2020-09-25",
+    "startDate": "2020-09-26",
     "endDate": "2020-10-02",
     "pollster": "Morning Consult",
     "answers": [
@@ -196,8 +196,35 @@
     "grade": "B/C",
     "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
     "created_at": "2020-10-08",
-    "startDate": "2020-09-24",
+    "startDate": "2020-09-25",
     "endDate": "2020-10-01",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "132204",
+    "subgroup": "All polls",
+    "sampleSize": "31920",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
+    "created_at": "2020-10-08",
+    "startDate": "2020-09-24",
+    "endDate": "2020-09-30",
     "pollster": "Morning Consult",
     "answers": [
       {
@@ -229,12 +256,12 @@
     "answers": [
       {
         "choice": "Biden",
-        "pct": "49.0",
+        "pct": "50.0",
         "party": "Dem"
       },
       {
         "choice": "Trump",
-        "pct": "48.0",
+        "pct": "49.0",
         "party": "Rep"
       }
     ],
@@ -242,7 +269,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Texas"
@@ -279,7 +306,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
   },
@@ -626,6 +653,37 @@
     "state": "National"
   },
   {
+    "id": "132210",
+    "subgroup": "All polls",
+    "sampleSize": "1147",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.anselm.edu/sites/default/files/Documents/NHIOP/Polls/October%202020%20FullResults.pdf",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-04",
+    "pollster": "Saint Anselm College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
+  },
+  {
     "id": "132148",
     "subgroup": "All polls",
     "sampleSize": "776",
@@ -944,7 +1002,7 @@
     "created_at": "2020-10-08",
     "startDate": "2020-10-05",
     "endDate": "2020-10-06",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "pollster": "Pulse Opinion Research",
     "answers": [
       {
         "choice": "Hegar",
@@ -996,6 +1054,36 @@
     "state": "Arizona"
   },
   {
+    "id": "132205",
+    "subgroup": "All polls",
+    "sampleSize": "3104",
+    "population": "lv",
+    "grade": "",
+    "url": "https://projects.fivethirtyeight.com/polls/20201008_KS.pdf",
+    "created_at": "2020-10-08",
+    "startDate": "2020-09-29",
+    "endDate": "2020-09-30",
+    "pollster": "VCreek/AMG",
+    "answers": [
+      {
+        "choice": "Bollier",
+        "pct": "45.39",
+        "party": "Dem"
+      },
+      {
+        "choice": "Marshall",
+        "pct": "41.87",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Kansas"
+  },
+  {
     "id": "132164",
     "subgroup": "All polls",
     "sampleSize": "800",
@@ -1037,7 +1125,7 @@
     "sampleSize": "644",
     "population": "lv",
     "grade": "",
-    "url": "https://twitter.com/kirk_bado/status/1314184133384572928?s=20",
+    "url": "https://perma.cc/6CAV-FUEB",
     "created_at": "2020-10-08",
     "startDate": "2020-10-03",
     "endDate": "2020-10-06",
@@ -1129,6 +1217,130 @@
     "cycle": "2020",
     "state": "New York",
     "district": "22"
+  },
+  {
+    "id": "132209",
+    "subgroup": "All polls",
+    "sampleSize": "739",
+    "population": "lv",
+    "grade": "",
+    "url": "https://projects.fivethirtyeight.com/polls/20201008_KS.pdf",
+    "created_at": "2020-10-08",
+    "startDate": "2020-09-29",
+    "endDate": "2020-09-30",
+    "pollster": "VCreek/AMG",
+    "answers": [
+      {
+        "choice": "De La Isla",
+        "pct": "36.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "LaTurner",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Kansas",
+    "district": "2"
+  },
+  {
+    "id": "132208",
+    "subgroup": "All polls",
+    "sampleSize": "842",
+    "population": "lv",
+    "grade": "",
+    "url": "https://projects.fivethirtyeight.com/polls/20201008_KS.pdf",
+    "created_at": "2020-10-08",
+    "startDate": "2020-09-29",
+    "endDate": "2020-09-30",
+    "pollster": "VCreek/AMG",
+    "answers": [
+      {
+        "choice": "Lombard",
+        "pct": "37.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Estes",
+        "pct": "51.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 4",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Kansas",
+    "district": "4"
+  },
+  {
+    "id": "132207",
+    "subgroup": "All polls",
+    "sampleSize": "712",
+    "population": "lv",
+    "grade": "",
+    "url": "https://projects.fivethirtyeight.com/polls/20201008_KS.pdf",
+    "created_at": "2020-10-08",
+    "startDate": "2020-09-29",
+    "endDate": "2020-09-30",
+    "pollster": "VCreek/AMG",
+    "answers": [
+      {
+        "choice": "Davids",
+        "pct": "56.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Adkins",
+        "pct": "36.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 3",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Kansas",
+    "district": "3"
+  },
+  {
+    "id": "132206",
+    "subgroup": "All polls",
+    "sampleSize": "761",
+    "population": "lv",
+    "grade": "",
+    "url": "https://projects.fivethirtyeight.com/polls/20201008_KS.pdf",
+    "created_at": "2020-10-08",
+    "startDate": "2020-09-29",
+    "endDate": "2020-09-30",
+    "pollster": "VCreek/AMG",
+    "answers": [
+      {
+        "choice": "Barnett",
+        "pct": "25.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Mann",
+        "pct": "56.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Kansas",
+    "district": "1"
   },
   {
     "id": "132154",
