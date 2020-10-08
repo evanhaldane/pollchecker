@@ -189,6 +189,37 @@
     "state": "National"
   },
   {
+    "id": "132135",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/montana-2020-republicans-hold-advantages-in-presidential-us-senate-and-governor-races",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-07",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "43.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "56.4",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Montana"
+  },
+  {
     "id": "132117",
     "subgroup": "All polls",
     "sampleSize": "633",
@@ -540,7 +571,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Minnesota"
   },
@@ -1285,6 +1316,36 @@
     "state": "National"
   },
   {
+    "id": "132137",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/montana-2020-republicans-hold-advantages-in-presidential-us-senate-and-governor-races",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-07",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Bullock",
+        "pct": "42.7",
+        "party": "Dem"
+      },
+      {
+        "choice": "Daines",
+        "pct": "51.8",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Montana"
+  },
+  {
     "id": "132118",
     "subgroup": "All polls",
     "sampleSize": "633",
@@ -1586,12 +1647,12 @@
       },
       {
         "choice": "Daines",
-        "pct": "46.0",
+        "pct": "47.0",
         "party": "Rep"
       },
       {
         "choice": "Fredrickson",
-        "pct": "0.0",
+        "pct": "1.0",
         "party": "Gre"
       }
     ],
@@ -1759,6 +1820,38 @@
     "state": "New Mexico"
   },
   {
+    "id": "132133",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://www.washingtonexaminer.com/news/ortiz-jones-just-one-point-ahead-of-gonzales-in-texas-house-race-despite-cash-advantage-poll",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-03",
+    "endDate": "2020-10-05",
+    "pollster": "Public Opinion Strategies",
+    "answers": [
+      {
+        "choice": "Ortiz Jones",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Gonzales",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 23",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Texas",
+    "district": "23"
+  },
+  {
     "id": "132073",
     "subgroup": "All polls",
     "sampleSize": "400",
@@ -1827,7 +1920,7 @@
     "sampleSize": "400",
     "population": "lv",
     "grade": "B/C",
-    "url": "https://twitter.com/kirk_bado/status/1313829231479205888",
+    "url": "https://drive.google.com/file/d/1AAHrJVbe5XA9cT7W9SNMQnMkXHUZYov2/view",
     "created_at": "2020-10-07",
     "startDate": "2020-09-26",
     "endDate": "2020-09-29",
@@ -1947,6 +2040,36 @@
     "partisan": "DEM",
     "state": "California",
     "district": "22"
+  },
+  {
+    "id": "132136",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/montana-2020-republicans-hold-advantages-in-presidential-us-senate-and-governor-races",
+    "created_at": "2020-10-07",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-07",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Cooney",
+        "pct": "41.3",
+        "party": "Dem"
+      },
+      {
+        "choice": "Gianforte",
+        "pct": "53.6",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Montana"
   },
   {
     "id": "132119",
