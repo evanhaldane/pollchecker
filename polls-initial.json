@@ -27,6 +27,60 @@
     "state": "National"
   },
   {
+    "id": "132171",
+    "subgroup": "All polls",
+    "sampleSize": "31920",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
+    "created_at": "2020-10-08",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-06",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "54.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "132170",
+    "subgroup": "All polls",
+    "sampleSize": "31920",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
+    "created_at": "2020-10-08",
+    "startDate": "2020-09-28",
+    "endDate": "2020-10-05",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "132156",
     "subgroup": "All polls",
     "sampleSize": "1003",
@@ -51,6 +105,145 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "132169",
+    "subgroup": "All polls",
+    "sampleSize": "31920",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
+    "created_at": "2020-10-08",
+    "startDate": "2020-09-27",
+    "endDate": "2020-10-04",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "54.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "132168",
+    "subgroup": "All polls",
+    "sampleSize": "31920",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
+    "created_at": "2020-10-08",
+    "startDate": "2020-09-26",
+    "endDate": "2020-10-03",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "54.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "132167",
+    "subgroup": "All polls",
+    "sampleSize": "31920",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
+    "created_at": "2020-10-08",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-02",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "132166",
+    "subgroup": "All polls",
+    "sampleSize": "31920",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
+    "created_at": "2020-10-08",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-01",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "132174",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-07",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
     "state": "National"
   },
   {
@@ -240,6 +433,68 @@
     "state": "National"
   },
   {
+    "id": "132173",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-04",
+    "endDate": "2020-10-06",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "132172",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-03",
+    "endDate": "2020-10-05",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "132148",
     "subgroup": "All polls",
     "sampleSize": "776",
@@ -307,7 +562,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "South Carolina"
@@ -375,6 +630,34 @@
     "state": "National"
   },
   {
+    "id": "132180",
+    "subgroup": "All polls",
+    "sampleSize": "17249",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-07",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "132152",
     "subgroup": "All polls",
     "sampleSize": "5107",
@@ -393,6 +676,62 @@
       {
         "choice": "Rep",
         "pct": "44.26"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "132179",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-04",
+    "endDate": "2020-10-06",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "132178",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-03",
+    "endDate": "2020-10-05",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
       }
     ],
     "type": "generic-ballot",
