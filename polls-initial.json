@@ -330,6 +330,37 @@
     "state": "National"
   },
   {
+    "id": "132259",
+    "subgroup": "All polls",
+    "sampleSize": "2841",
+    "population": "rv",
+    "grade": "C",
+    "url": "https://thehill.com/hilltv/what-americas-thinking/520381-what-americas-thinking-october-9-2020",
+    "created_at": "2020-10-09",
+    "startDate": "2020-10-03",
+    "endDate": "2020-10-06",
+    "pollster": "HarrisX",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "132235",
     "subgroup": "All polls",
     "sampleSize": "1106",
@@ -1065,10 +1096,10 @@
   {
     "id": "132202",
     "subgroup": "All polls",
-    "sampleSize": "612",
+    "sampleSize": "721",
     "population": "v",
     "grade": "B",
-    "url": "https://www.texasdemocrats.org/wp-content/uploads/2020/09/TexasResults-2.pdf",
+    "url": "https://www.texasdemocrats.org/wp-content/uploads/2020/10/TexasResults1.pdf",
     "created_at": "2020-10-08",
     "startDate": "2020-10-07",
     "endDate": "2020-10-08",
