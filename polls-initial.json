@@ -338,6 +338,37 @@
     "state": "Florida"
   },
   {
+    "id": "132225",
+    "subgroup": "All polls",
+    "sampleSize": "716",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/michigan-2020-democrats-hold-10-point-leads-in-presidential-and-us-senate-races",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-06",
+    "endDate": "2020-10-07",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.2",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.4",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
     "id": "132174",
     "subgroup": "All polls",
     "sampleSize": "17249",
@@ -615,6 +646,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "132224",
+    "subgroup": "All polls",
+    "sampleSize": "1021",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://www.9news.com/article/news/local/local-politics/election-2020-9news-colorado-politics-poll-biden-hickenlooper-gardner-trump-prop-115-ballot/73-9b4f6099-72df-4836-8d62-d81eceb981ec",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-06",
+    "pollster": "SurveyUSA",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Colorado"
   },
   {
     "id": "132198",
@@ -1053,6 +1115,36 @@
     "state": "National"
   },
   {
+    "id": "132228",
+    "subgroup": "All polls",
+    "sampleSize": "716",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/michigan-2020-democrats-hold-10-point-leads-in-presidential-and-us-senate-races",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-06",
+    "endDate": "2020-10-07",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "50.7",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "41.1",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
     "id": "132201",
     "subgroup": "All polls",
     "sampleSize": "1000",
@@ -1081,6 +1173,66 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Texas"
+  },
+  {
+    "id": "132227",
+    "subgroup": "All polls",
+    "sampleSize": "1021",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://www.9news.com/article/news/local/local-politics/election-2020-9news-colorado-politics-poll-biden-hickenlooper-gardner-trump-prop-115-ballot/73-9b4f6099-72df-4836-8d62-d81eceb981ec",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-06",
+    "pollster": "SurveyUSA",
+    "answers": [
+      {
+        "choice": "Hickenlooper",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Gardner",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Colorado"
+  },
+  {
+    "id": "132226",
+    "subgroup": "All polls",
+    "sampleSize": "929",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://www.kaaltv.com/minnesota-news/surveyusa-poll/5888415/?cat=10151",
+    "created_at": "2020-10-08",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-06",
+    "pollster": "SurveyUSA",
+    "answers": [
+      {
+        "choice": "Smith",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Lewis",
+        "pct": "37.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Minnesota"
   },
   {
     "id": "132199",
@@ -1169,6 +1321,11 @@
         "choice": "Marshall",
         "pct": "41.87",
         "party": "Rep"
+      },
+      {
+        "choice": "Buckley",
+        "pct": "1.58",
+        "party": "Lib"
       }
     ],
     "type": "senate",
