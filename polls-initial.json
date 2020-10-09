@@ -330,6 +330,42 @@
     "state": "National"
   },
   {
+    "id": "132266",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://assets.documentcloud.org/documents/7224570/WSB-Landmark-Senate-Poll-10-9-20.pdf",
+    "created_at": "2020-10-09",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-07",
+    "pollster": "Landmark Communications",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.6",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "0.7",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
     "id": "132265",
     "subgroup": "All polls",
     "sampleSize": "688",
@@ -571,7 +607,7 @@
     "sampleSize": "2841",
     "population": "rv",
     "grade": "C",
-    "url": "https://thehill.com/hilltv/what-americas-thinking/520381-what-americas-thinking-october-9-2020",
+    "url": "https://thehill.com/hilltv/what-americas-thinking/520377-poll-trump-trails-biden-by-5-points-nationally",
     "created_at": "2020-10-09",
     "startDate": "2020-10-03",
     "endDate": "2020-10-06",
