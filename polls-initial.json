@@ -1,5 +1,32 @@
 [
   {
+    "id": "132248",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2020-10-09",
+    "startDate": "2020-10-06",
+    "endDate": "2020-10-08",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "52.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "132246",
     "subgroup": "All polls",
     "sampleSize": "833",
@@ -25,6 +52,42 @@
     "tracking": false,
     "headToHead": false,
     "state": "National"
+  },
+  {
+    "id": "132253",
+    "subgroup": "All polls",
+    "sampleSize": "1087",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://drive.google.com/file/d/1qUONKYDJqkz2Nk1F3BKTR_NW-wOqiZ9l/view",
+    "created_at": "2020-10-09",
+    "startDate": "2020-10-06",
+    "endDate": "2020-10-08",
+    "pollster": "Trafalgar Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "43.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.8",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.2",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "132244",
@@ -226,6 +289,68 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "132251",
+    "subgroup": "All polls",
+    "sampleSize": "736",
+    "population": "rv",
+    "grade": "A/B",
+    "url": "http://publicmind.fdu.edu/2020/201009/final.pdf",
+    "created_at": "2020-10-09",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-05",
+    "pollster": "Fairleigh Dickinson University (PublicMind)",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "35.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "New Jersey"
+  },
+  {
+    "id": "132250",
+    "subgroup": "All polls",
+    "sampleSize": "582",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "http://publicmind.fdu.edu/2020/201009/final.pdf",
+    "created_at": "2020-10-09",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-05",
+    "pollster": "Fairleigh Dickinson University (PublicMind)",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "38.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "New Jersey"
   },
   {
     "id": "132236",
@@ -447,6 +572,78 @@
     "partisan": "DEM",
     "state": "Illinois",
     "district": "13"
+  },
+  {
+    "id": "132249",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://thehill.com/homenews/campaign/520314-internal-poll-shows-tight-race-in-virginia-house-race",
+    "created_at": "2020-10-09",
+    "startDate": "2020-09-27",
+    "endDate": "2020-10-01",
+    "pollster": "Global Strategy Group",
+    "answers": [
+      {
+        "choice": "Webb",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Good",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 5",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Virginia",
+    "district": "5"
+  },
+  {
+    "id": "132252",
+    "subgroup": "All polls",
+    "sampleSize": "450",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://wvmetronews.com/2020/10/09/justice-has-wide-lead-over-salango-west-virginia-poll-shows/",
+    "created_at": "2020-10-09",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-06",
+    "pollster": "Research America Inc.",
+    "answers": [
+      {
+        "choice": "Salango",
+        "pct": "34.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Justice",
+        "pct": "53.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Kolenich",
+        "pct": "5.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Lutz",
+        "pct": "2.0",
+        "party": "Mtp"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "West Virginia"
   },
   {
     "id": "132218",
