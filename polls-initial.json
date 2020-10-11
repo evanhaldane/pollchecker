@@ -200,7 +200,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Iowa"
   },
@@ -231,7 +231,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Nevada"
   },
@@ -262,7 +262,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
   },
@@ -575,6 +575,47 @@
     "state": "Michigan"
   },
   {
+    "id": "132313",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "C+",
+    "url": "https://zogbyanalytics.com/trends-over-time/940-2020-presidential-election-trump-vs-biden",
+    "created_at": "2020-10-11",
+    "startDate": "2020-08-17",
+    "endDate": "2020-08-19",
+    "pollster": "Zogby Analytics",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "5.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "2.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "132304",
     "subgroup": "All polls",
     "sampleSize": "5091",
@@ -601,6 +642,37 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "132314",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://237995-729345-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/10/Arkansas-Senate-Frequency-Counts.pdf",
+    "created_at": "2020-10-11",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-09",
+    "pollster": "American Research Group",
+    "answers": [
+      {
+        "choice": "Cotton",
+        "pct": "49.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Harrington",
+        "pct": "38.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "LIB",
+    "state": "Arkansas"
   },
   {
     "id": "132312",
