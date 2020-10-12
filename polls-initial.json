@@ -27,6 +27,37 @@
     "state": "National"
   },
   {
+    "id": "132340",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "B",
+    "url": "https://news.yahoo.com/poll-as-opposition-to-trumps-pandemic-approach-grows-most-voters-want-senate-to-pass-stimulus-before-considering-barrett-195359351.html",
+    "created_at": "2020-10-12",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-11",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "132335",
     "subgroup": "All polls",
     "sampleSize": "789",
@@ -202,7 +233,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -233,7 +264,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
   },
@@ -491,6 +522,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "132341",
+    "subgroup": "All polls",
+    "sampleSize": "669",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://wwwcache.wral.com/asset/news/state/nccapitol/2020/10/12/19332468/PollPrint-DMID1-5ohw9o5y4.pdf",
+    "created_at": "2020-10-12",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "SurveyUSA",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "132336",
