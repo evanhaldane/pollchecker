@@ -176,6 +176,68 @@
     "state": "Michigan"
   },
   {
+    "id": "132339",
+    "subgroup": "All polls",
+    "sampleSize": "622",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.reuters.com/article/us-usa-election-battlegrounds-poll/reuters-ipsos-poll-shows-biden-lead-over-trump-growing-in-wisconsin-pennsylvania-idUSKBN26X2I8",
+    "created_at": "2020-10-12",
+    "startDate": "2020-10-06",
+    "endDate": "2020-10-11",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "132338",
+    "subgroup": "All polls",
+    "sampleSize": "577",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.reuters.com/article/us-usa-election-battlegrounds-poll/reuters-ipsos-poll-shows-biden-lead-over-trump-growing-in-wisconsin-pennsylvania-idUSKBN26X2I8",
+    "created_at": "2020-10-12",
+    "startDate": "2020-10-06",
+    "endDate": "2020-10-11",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Wisconsin"
+  },
+  {
     "id": "132319",
     "subgroup": "All polls",
     "sampleSize": "5073",
