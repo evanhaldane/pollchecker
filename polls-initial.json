@@ -223,6 +223,37 @@
     "state": "Montana"
   },
   {
+    "id": "132328",
+    "subgroup": "All polls",
+    "sampleSize": "517",
+    "population": "lv",
+    "grade": "",
+    "url": "https://wins-csip.com/wp-content/uploads/2020/10/Whitman-Insight-Strategies-Pennsylvania-Likely-Voter-Survey-10.12.2020.pdf",
+    "created_at": "2020-10-12",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-09",
+    "pollster": "Whitman Insight Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
     "id": "132316",
     "subgroup": "All polls",
     "sampleSize": "5065",
