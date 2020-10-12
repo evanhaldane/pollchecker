@@ -1,8 +1,66 @@
 [
   {
+    "id": "132325",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2020-10-12",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-11",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "50.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "132326",
+    "subgroup": "All polls",
+    "sampleSize": "851",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/news/joe-biden-leads-donald-trump-ibd-tipp-2020-election-tracking-poll-oct-12/",
+    "created_at": "2020-10-12",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-11",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.7",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.3",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "132324",
     "subgroup": "All polls",
-    "sampleSize": "1000",
+    "sampleSize": "851",
     "population": "lv",
     "grade": "A/B",
     "url": "https://www.investors.com/politics/ibd-tipp-presidential-election-tracking-poll-2020/",
@@ -287,6 +345,38 @@
     "district": "8"
   },
   {
+    "id": "132327",
+    "subgroup": "All polls",
+    "sampleSize": "390",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://dccc.org/dccc-polling-memo-cohn-franklin-statistically-tied-in-fl-15/",
+    "created_at": "2020-10-12",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-04",
+    "pollster": "DCCC Targeting and Analytics Department",
+    "answers": [
+      {
+        "choice": "Cohn",
+        "pct": "39.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Franklin",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 15",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Florida",
+    "district": "15"
+  },
+  {
     "id": "132303",
     "subgroup": "All polls",
     "sampleSize": "1014",
@@ -343,7 +433,7 @@
   {
     "id": "132293",
     "subgroup": "All polls",
-    "sampleSize": "752",
+    "sampleSize": "725",
     "population": "lv",
     "grade": "A+",
     "url": "https://www.langerresearch.com/wp-content/uploads/1218a12020ElectionUpdate.pdf",
