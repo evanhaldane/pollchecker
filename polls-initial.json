@@ -249,9 +249,40 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
+  },
+  {
+    "id": "132329",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "rv",
+    "grade": "C/D",
+    "url": "http://polls.saintleo.edu/recent-saint-leo-university-polling-results-for-florida-give-biden-an-edge-over-trump/",
+    "created_at": "2020-10-12",
+    "startDate": "2020-09-27",
+    "endDate": "2020-10-02",
+    "pollster": "Saint Leo University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.2",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.4",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Florida"
   },
   {
     "id": "132316",
@@ -349,7 +380,7 @@
     "sampleSize": "433",
     "population": "lv",
     "grade": "B/C",
-    "url": "https://www.politico.com/f/?id=00000175-1a3f-d951-a77f-7bff312b0000",
+    "url": "https://dccc.org/dccc-polling-memo-patricia-timmons-goodson-leads-congressman-hudson-in-nc-08/",
     "created_at": "2020-10-12",
     "startDate": "2020-10-05",
     "endDate": "2020-10-06",
