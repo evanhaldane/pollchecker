@@ -1,5 +1,32 @@
 [
   {
+    "id": "132396",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-12",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "51.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "132347",
     "subgroup": "All polls",
     "sampleSize": "66877",
@@ -29,10 +56,10 @@
   {
     "id": "132394",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "1034",
     "population": "lv",
     "grade": "C-",
-    "url": "https://twitter.com/RobertCahaly/status/1316000421085933568?s=20",
+    "url": "https://drive.google.com/file/d/1zZdYPhVEQQ9ZATepZLjVA-RZbwMCoLuQ/view",
     "created_at": "2020-10-13",
     "startDate": "2020-10-10",
     "endDate": "2020-10-12",
@@ -58,7 +85,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -755,6 +782,37 @@
     "state": "National"
   },
   {
+    "id": "132398",
+    "subgroup": "All polls",
+    "sampleSize": "931",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://www.dropbox.com/s/8k0pvsrbbzcy8p6/slu-poll-october2020-toplineresults.pdf?dl=0",
+    "created_at": "2020-10-13",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-07",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "43.2",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "51.8",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Missouri"
+  },
+  {
     "id": "132390",
     "subgroup": "All polls",
     "sampleSize": "833",
@@ -1386,6 +1444,68 @@
     "partisan": "DEM",
     "state": "Pennsylvania",
     "district": "1"
+  },
+  {
+    "id": "132397",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://www.politico.com/news/2020/10/13/house-republicans-2020-outlook-429130",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-07",
+    "pollster": "GQR Research",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "55.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Mace",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "South Carolina",
+    "district": "1"
+  },
+  {
+    "id": "132399",
+    "subgroup": "All polls",
+    "sampleSize": "931",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://www.dropbox.com/s/8k0pvsrbbzcy8p6/slu-poll-october2020-toplineresults.pdf?dl=0",
+    "created_at": "2020-10-13",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-07",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Galloway",
+        "pct": "43.7",
+        "party": "Dem"
+      },
+      {
+        "choice": "Parson",
+        "pct": "49.7",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Missouri"
   },
   {
     "id": "132325",
