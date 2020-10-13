@@ -27,6 +27,33 @@
     "state": "National"
   },
   {
+    "id": "132425",
+    "subgroup": "All polls",
+    "sampleSize": "2003",
+    "population": "a",
+    "grade": "",
+    "url": "https://www.opinium.com/resource-center/biden-extends-lead-over-trump-to-17-points/",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-12",
+    "pollster": "Opinium",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "42.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "132347",
     "subgroup": "All polls",
     "sampleSize": "66877",
@@ -52,6 +79,187 @@
     "tracking": false,
     "headToHead": false,
     "state": "National"
+  },
+  {
+    "id": "132429",
+    "subgroup": "All polls",
+    "sampleSize": "2200",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://assets.morningconsult.com/wp-uploads/2020/10/12135446/201033_crosstabs_CORONAVIRUS_CONTENT_Adults_v1_YW.pdf",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-10",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "43.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "55.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "132435",
+    "subgroup": "All polls",
+    "sampleSize": "660",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_north_carolina_state_poll_w3_10_13_20.pdf",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-13",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "West",
+        "pct": "0.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "132434",
+    "subgroup": "All polls",
+    "sampleSize": "620",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_michigan_state_poll_w3_10_13_2020.pdf",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-13",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "West",
+        "pct": "1.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "132431",
+    "subgroup": "All polls",
+    "sampleSize": "660",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_north_carolina_state_poll_w3_10_13_20.pdf",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-13",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "132430",
+    "subgroup": "All polls",
+    "sampleSize": "620",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_michigan_state_poll_w3_10_13_2020.pdf",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-13",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Michigan"
   },
   {
     "id": "132394",
@@ -88,6 +296,42 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
+  },
+  {
+    "id": "132433",
+    "subgroup": "All polls",
+    "sampleSize": "899",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=1617&context=survey_center_polls",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-12",
+    "pollster": "University of New Hampshire",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "55.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "0.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
   },
   {
     "id": "132408",
@@ -346,6 +590,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "132432",
+    "subgroup": "All polls",
+    "sampleSize": "669",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://wwwcache.wral.com/asset/news/state/nccapitol/2020/10/13/19334272/PollPrint-DMID1-5oiabcwp9.pdf",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "SurveyUSA",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "132415",
@@ -1060,7 +1335,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "West Virginia"
   },
@@ -1133,6 +1408,34 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "132426",
+    "subgroup": "All polls",
+    "sampleSize": "1747",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.opinium.com/resource-center/biden-extends-lead-over-trump-to-17-points/",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-12",
+    "pollster": "Opinium",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "40.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
     "cycle": "2020",
     "state": "National"
   },
