@@ -1065,6 +1065,37 @@
     "state": "National"
   },
   {
+    "id": "132422",
+    "subgroup": "All polls",
+    "sampleSize": "2006",
+    "population": "a",
+    "grade": "B-",
+    "url": "https://www.americansurveycenter.org/wp-content/uploads/2020/10/APS-September-2020-Topline-Questionnaire.pdf",
+    "created_at": "2020-10-13",
+    "startDate": "2020-09-11",
+    "endDate": "2020-09-21",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "37.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "132356",
     "subgroup": "All polls",
     "sampleSize": "5081",
@@ -1573,7 +1604,7 @@
   {
     "id": "132389",
     "subgroup": "All polls",
-    "sampleSize": "599",
+    "sampleSize": "2555",
     "population": "lv",
     "grade": "B/C",
     "url": "https://morningconsult.com/2020/10/13/senate-graham-harrison-supreme-court-polling/",
@@ -1584,12 +1615,12 @@
     "answers": [
       {
         "choice": "Hegar",
-        "pct": "38.0",
+        "pct": "38.45",
         "party": "Dem"
       },
       {
         "choice": "Cornyn",
-        "pct": "45.0",
+        "pct": "44.95",
         "party": "Rep"
       }
     ],
@@ -1603,7 +1634,7 @@
   {
     "id": "132388",
     "subgroup": "All polls",
-    "sampleSize": "599",
+    "sampleSize": "782",
     "population": "lv",
     "grade": "B/C",
     "url": "https://morningconsult.com/2020/10/13/senate-graham-harrison-supreme-court-polling/",
@@ -1614,12 +1645,12 @@
     "answers": [
       {
         "choice": "Harrison",
-        "pct": "46.0",
+        "pct": "45.59",
         "party": "Dem"
       },
       {
         "choice": "Graham",
-        "pct": "45.0",
+        "pct": "44.9",
         "party": "Rep"
       }
     ],
@@ -1633,7 +1664,7 @@
   {
     "id": "132387",
     "subgroup": "All polls",
-    "sampleSize": "599",
+    "sampleSize": "1664",
     "population": "lv",
     "grade": "B/C",
     "url": "https://morningconsult.com/2020/10/13/senate-graham-harrison-supreme-court-polling/",
@@ -1644,12 +1675,12 @@
     "answers": [
       {
         "choice": "Cunningham",
-        "pct": "46.0",
+        "pct": "45.56",
         "party": "Dem"
       },
       {
         "choice": "Tillis",
-        "pct": "39.0",
+        "pct": "39.11",
         "party": "Rep"
       }
     ],
@@ -1663,7 +1694,7 @@
   {
     "id": "132386",
     "subgroup": "All polls",
-    "sampleSize": "599",
+    "sampleSize": "1451",
     "population": "lv",
     "grade": "B/C",
     "url": "https://morningconsult.com/2020/10/13/senate-graham-harrison-supreme-court-polling/",
@@ -1674,12 +1705,12 @@
     "answers": [
       {
         "choice": "Peters",
-        "pct": "48.0",
+        "pct": "47.6",
         "party": "Dem"
       },
       {
         "choice": "James",
-        "pct": "40.0",
+        "pct": "39.7",
         "party": "Rep"
       }
     ],
@@ -1693,7 +1724,7 @@
   {
     "id": "132385",
     "subgroup": "All polls",
-    "sampleSize": "599",
+    "sampleSize": "1402",
     "population": "lv",
     "grade": "B/C",
     "url": "https://morningconsult.com/2020/10/13/senate-graham-harrison-supreme-court-polling/",
@@ -1704,12 +1735,12 @@
     "answers": [
       {
         "choice": "Ossoff",
-        "pct": "43.0",
+        "pct": "42.63",
         "party": "Dem"
       },
       {
         "choice": "Perdue",
-        "pct": "43.0",
+        "pct": "43.15",
         "party": "Rep"
       }
     ],
@@ -1734,12 +1765,12 @@
     "answers": [
       {
         "choice": "Hickenlooper",
-        "pct": "46.0",
+        "pct": "45.82",
         "party": "Dem"
       },
       {
         "choice": "Gardner",
-        "pct": "44.0",
+        "pct": "43.61",
         "party": "Rep"
       }
     ],
@@ -1753,7 +1784,7 @@
   {
     "id": "132383",
     "subgroup": "All polls",
-    "sampleSize": "599",
+    "sampleSize": "900",
     "population": "lv",
     "grade": "B/C",
     "url": "https://morningconsult.com/2020/10/13/senate-graham-harrison-supreme-court-polling/",
@@ -1764,12 +1795,12 @@
     "answers": [
       {
         "choice": "Kelly",
-        "pct": "48.0",
+        "pct": "48.15",
         "party": "Dem"
       },
       {
         "choice": "McSally",
-        "pct": "41.0",
+        "pct": "40.9",
         "party": "Rep"
       }
     ],
@@ -1779,6 +1810,38 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "132423",
+    "subgroup": "All polls",
+    "sampleSize": "402",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://drive.google.com/file/d/14IbgTqLYzn5nArgrOZhqnSr6EPjagaF1/view",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-08",
+    "pollster": "GQR Research",
+    "answers": [
+      {
+        "choice": "Goroff",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Zeldin",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "New York",
+    "district": "1"
   },
   {
     "id": "132395",
