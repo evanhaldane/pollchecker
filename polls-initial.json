@@ -27,6 +27,42 @@
     "state": "National"
   },
   {
+    "id": "132394",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://twitter.com/RobertCahaly/status/1316000421085933568?s=20",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-10",
+    "endDate": "2020-10-12",
+    "pollster": "Trafalgar Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.1",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.1",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
     "id": "132393",
     "subgroup": "All polls",
     "sampleSize": "937",
@@ -94,7 +130,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -1318,6 +1354,38 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "132395",
+    "subgroup": "All polls",
+    "sampleSize": "569",
+    "population": "v",
+    "grade": "B",
+    "url": "https://nmcdn.io/e186d21f8c7946a19faed23c3da2f0da/7c9798eaafd54081881797bf9a163295/files/research/PA1Results.pdf",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-06",
+    "endDate": "2020-10-07",
+    "pollster": "Public Policy Polling",
+    "answers": [
+      {
+        "choice": "Finello",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Fitzpatrick",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Pennsylvania",
+    "district": "1"
   },
   {
     "id": "132325",
