@@ -348,6 +348,114 @@
     "state": "National"
   },
   {
+    "id": "132415",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_101320.pdf/",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "132414",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_101320.pdf/",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "132413",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_101320.pdf/",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      },
+      {
+        "choice": "Blankenship",
+        "pct": "0.0",
+        "party": "Con"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "132412",
     "subgroup": "All polls",
     "sampleSize": "512",
@@ -1153,6 +1261,106 @@
     "state": "National"
   },
   {
+    "id": "132421",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_101320.pdf/",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "132420",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_101320.pdf/",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "132419",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_101320.pdf/",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Bray",
+        "pct": "3.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hayes",
+        "pct": "0.0",
+        "party": "Con"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "132382",
     "subgroup": "All polls",
     "sampleSize": "3455",
@@ -1883,6 +2091,106 @@
     "cycle": "2020",
     "state": "Missouri",
     "district": "1"
+  },
+  {
+    "id": "132418",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_101320.pdf/",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "132417",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_101320.pdf/",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "132416",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_101320.pdf/",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "DiFiore",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Pisano",
+        "pct": "0.0",
+        "party": "Con"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "132399",
