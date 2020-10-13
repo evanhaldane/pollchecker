@@ -53,9 +53,40 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
+  },
+  {
+    "id": "132343",
+    "subgroup": "All polls",
+    "sampleSize": "591",
+    "population": "lv",
+    "grade": "A",
+    "url": "http://www.surveyusa.com/client/PollReport.aspx?g=544b4e4e-7820-4e83-b51a-41423dda3b8a",
+    "created_at": "2020-10-12",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-12",
+    "pollster": "SurveyUSA",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "55.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "34.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Washington"
   },
   {
     "id": "132340",
@@ -238,12 +269,104 @@
     "state": "Michigan"
   },
   {
+    "id": "132346",
+    "subgroup": "All polls",
+    "sampleSize": "622",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_pennsylvania_state_poll_w3_10_12_20.pdf",
+    "created_at": "2020-10-12",
+    "startDate": "2020-10-06",
+    "endDate": "2020-10-11",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "West",
+        "pct": "0.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "132345",
+    "subgroup": "All polls",
+    "sampleSize": "577",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_wisconsin_state_poll_w3_10_12_20.pdf",
+    "created_at": "2020-10-12",
+    "startDate": "2020-10-06",
+    "endDate": "2020-10-11",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "West",
+        "pct": "0.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Wisconsin"
+  },
+  {
     "id": "132339",
     "subgroup": "All polls",
     "sampleSize": "622",
     "population": "lv",
     "grade": "B-",
-    "url": "https://www.reuters.com/article/us-usa-election-battlegrounds-poll/reuters-ipsos-poll-shows-biden-lead-over-trump-growing-in-wisconsin-pennsylvania-idUSKBN26X2I8",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_pennsylvania_state_poll_w3_10_12_20.pdf",
     "created_at": "2020-10-12",
     "startDate": "2020-10-06",
     "endDate": "2020-10-11",
@@ -274,7 +397,7 @@
     "sampleSize": "577",
     "population": "lv",
     "grade": "B-",
-    "url": "https://www.reuters.com/article/us-usa-election-battlegrounds-poll/reuters-ipsos-poll-shows-biden-lead-over-trump-growing-in-wisconsin-pennsylvania-idUSKBN26X2I8",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_wisconsin_state_poll_w3_10_12_20.pdf",
     "created_at": "2020-10-12",
     "startDate": "2020-10-06",
     "endDate": "2020-10-11",
@@ -754,6 +877,36 @@
     "partisan": "DEM",
     "state": "Florida",
     "district": "15"
+  },
+  {
+    "id": "132344",
+    "subgroup": "All polls",
+    "sampleSize": "591",
+    "population": "lv",
+    "grade": "A",
+    "url": "http://www.surveyusa.com/client/PollReport.aspx?g=544b4e4e-7820-4e83-b51a-41423dda3b8a",
+    "created_at": "2020-10-12",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-12",
+    "pollster": "SurveyUSA",
+    "answers": [
+      {
+        "choice": "Inslee",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Culp",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Washington"
   },
   {
     "id": "132303",
