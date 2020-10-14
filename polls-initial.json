@@ -1078,6 +1078,68 @@
     "state": "Pennsylvania"
   },
   {
+    "id": "132893",
+    "subgroup": "All polls",
+    "sampleSize": "801",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/memos/2020-senate-project/week-4/SC.pdf",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "52.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "South Carolina"
+  },
+  {
+    "id": "132892",
+    "subgroup": "All polls",
+    "sampleSize": "782",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/memos/2020-senate-project/week-4/GA.pdf",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
     "id": "132847",
     "subgroup": "All polls",
     "sampleSize": "500",
@@ -1651,6 +1713,166 @@
       {
         "choice": "Perdue",
         "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "132898",
+    "subgroup": "All polls",
+    "sampleSize": "782",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/memos/2020-senate-project/week-4/GA-special.pdf",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Lieberman",
+        "pct": "41.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "132897",
+    "subgroup": "All polls",
+    "sampleSize": "782",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/memos/2020-senate-project/week-4/GA-special.pdf",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "132896",
+    "subgroup": "All polls",
+    "sampleSize": "801",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/memos/2020-senate-project/week-4/SC.pdf",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Harrison",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Graham",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "South Carolina"
+  },
+  {
+    "id": "132895",
+    "subgroup": "All polls",
+    "sampleSize": "782",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/memos/2020-senate-project/week-4/GA-special.pdf",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "30.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Collins",
+        "pct": "22.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "22.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Lieberman",
+        "pct": "10.0",
+        "party": "Dem"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "132894",
+    "subgroup": "All polls",
+    "sampleSize": "782",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/memos/2020-senate-project/week-4/GA.pdf",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Ossoff",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perdue",
+        "pct": "46.0",
         "party": "Rep"
       }
     ],
