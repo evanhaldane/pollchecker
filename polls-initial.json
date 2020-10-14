@@ -188,7 +188,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -222,6 +222,42 @@
     "inAvg": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "132854",
+    "subgroup": "All polls",
+    "sampleSize": "1051",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://drive.google.com/file/d/1Qu-33_lbge1B0e2q1viGRZzVQpQkFqSq/view",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-11",
+    "endDate": "2020-10-13",
+    "pollster": "Trafalgar Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.1",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.4",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.8",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Florida"
   },
   {
     "id": "132825",
@@ -389,6 +425,37 @@
     "state": "National"
   },
   {
+    "id": "132856",
+    "subgroup": "All polls",
+    "sampleSize": "2215",
+    "population": "lv",
+    "grade": "C",
+    "url": "http://stpetepolls.org/files/StPetePolls_2020_State_President_October12_H5NX8.pdf",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-11",
+    "endDate": "2020-10-12",
+    "pollster": "St. Pete Polls",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.2",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.2",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
     "id": "132826",
     "subgroup": "All polls",
     "sampleSize": "677",
@@ -554,7 +621,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
   },
@@ -593,6 +660,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Louisiana"
+  },
+  {
+    "id": "132851",
+    "subgroup": "All polls",
+    "sampleSize": "1615",
+    "population": "lv",
+    "grade": "",
+    "url": "https://helpslab.montana.edu/documents/treasure_state_2020_election_surveys/President_Overview_Final_11Oct2020.pdf",
+    "created_at": "2020-10-14",
+    "startDate": "2020-09-14",
+    "endDate": "2020-10-02",
+    "pollster": "Montana State University Bozeman",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "51.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Montana"
   },
   {
     "id": "132842",
@@ -819,12 +917,42 @@
     "state": "North Carolina"
   },
   {
+    "id": "132853",
+    "subgroup": "All polls",
+    "sampleSize": "1615",
+    "population": "lv",
+    "grade": "",
+    "url": "https://helpslab.montana.edu/documents/treasure_state_2020_election_surveys/Senate_Overview_Final_11Oct2020.pdf",
+    "created_at": "2020-10-14",
+    "startDate": "2020-09-14",
+    "endDate": "2020-10-02",
+    "pollster": "Montana State University Bozeman",
+    "answers": [
+      {
+        "choice": "Bullock",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Daines",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Montana"
+  },
+  {
     "id": "132829",
     "subgroup": "All polls",
     "sampleSize": "400",
     "population": "lv",
     "grade": "B/C",
-    "url": "http://subscriber.politicopro.com/newsletter/2020/10/republicans-hammer-north-carolinas-cunningham-over-affair-but-voters-so-far-shrug-it-off-790970",
+    "url": "https://twitter.com/allymutnick/status/1316374237385494531",
     "created_at": "2020-10-14",
     "startDate": "2020-10-10",
     "endDate": "2020-10-12",
@@ -849,6 +977,52 @@
     "partisan": "DEM",
     "state": "Virginia",
     "district": "10"
+  },
+  {
+    "id": "132850",
+    "subgroup": "All polls",
+    "sampleSize": "2041",
+    "population": "a",
+    "grade": "",
+    "url": "https://www.elvocero.com/politica/intenci-n-del-voto-est-con-gonz-lez/article_fb262344-0dd1-11eb-816e-7b6f8319ab15.html",
+    "created_at": "2020-10-14",
+    "startDate": "2020-09-01",
+    "endDate": "2020-10-06",
+    "pollster": "Gaither International",
+    "answers": [
+      {
+        "choice": "González",
+        "pct": "44.0",
+        "party": "Npp"
+      },
+      {
+        "choice": "Acevedo Vilá",
+        "pct": "16.0",
+        "party": "Ppd"
+      },
+      {
+        "choice": "Piñero",
+        "pct": "3.0",
+        "party": "Pri"
+      },
+      {
+        "choice": "Jordán Conde",
+        "pct": "5.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Henríquez",
+        "pct": "3.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Puerto Rico",
+    "district": "1"
   },
   {
     "id": "132830",
@@ -881,6 +1055,37 @@
     "partisan": "DEM",
     "state": "Virginia",
     "district": "5"
+  },
+  {
+    "id": "132855",
+    "subgroup": "All polls",
+    "sampleSize": "1615",
+    "population": "lv",
+    "grade": "",
+    "url": "https://helpslab.montana.edu/documents/treasure_state_2020_election_surveys/House_Overview_Final_11Oct2020.pdf",
+    "created_at": "2020-10-14",
+    "startDate": "2020-09-14",
+    "endDate": "2020-10-02",
+    "pollster": "Montana State University Bozeman",
+    "answers": [
+      {
+        "choice": "Williams",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Rosendale",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Montana",
+    "district": "1"
   },
   {
     "id": "132811",
@@ -916,6 +1121,86 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "New Hampshire"
+  },
+  {
+    "id": "132849",
+    "subgroup": "All polls",
+    "sampleSize": "2041",
+    "population": "a",
+    "grade": "",
+    "url": "https://www.elvocero.com/politica/cerrada-la-contienda-por-la-gobernaci-n/article_c1f337ca-0dd0-11eb-9d02-17ee18829b60.html",
+    "created_at": "2020-10-14",
+    "startDate": "2020-09-01",
+    "endDate": "2020-10-06",
+    "pollster": "Gaither International",
+    "answers": [
+      {
+        "choice": "Delgado Altieri",
+        "pct": "24.0",
+        "party": "Ppd"
+      },
+      {
+        "choice": "Pierluisi",
+        "pct": "27.0",
+        "party": "Npp"
+      },
+      {
+        "choice": "Lúgaro",
+        "pct": "9.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Dalmau Ramírez",
+        "pct": "8.0",
+        "party": "Pri"
+      },
+      {
+        "choice": "Vázquez",
+        "pct": "2.0",
+        "party": "Oth"
+      },
+      {
+        "choice": "Molina",
+        "pct": "2.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Puerto Rico"
+  },
+  {
+    "id": "132852",
+    "subgroup": "All polls",
+    "sampleSize": "1615",
+    "population": "lv",
+    "grade": "",
+    "url": "https://helpslab.montana.edu/documents/treasure_state_2020_election_surveys/Governor_Overview_Final_11Oct2020.pdf",
+    "created_at": "2020-10-14",
+    "startDate": "2020-09-14",
+    "endDate": "2020-10-02",
+    "pollster": "Montana State University Bozeman",
+    "answers": [
+      {
+        "choice": "Cooney",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Gianforte",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Montana"
   },
   {
     "id": "132396",
