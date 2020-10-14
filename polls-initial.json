@@ -260,6 +260,47 @@
     "state": "Florida"
   },
   {
+    "id": "132861",
+    "subgroup": "All polls",
+    "sampleSize": "627",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/nc100920-crosstabs/3bf558d7ca17e9de/full.pdf",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-13",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "132825",
     "subgroup": "All polls",
     "sampleSize": "866",
@@ -849,6 +890,46 @@
     "state": "National"
   },
   {
+    "id": "132863",
+    "subgroup": "All polls",
+    "sampleSize": "627",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/nc100920-crosstabs/3bf558d7ca17e9de/full.pdf",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-13",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "41.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "37.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Bray",
+        "pct": "4.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hayes",
+        "pct": "3.0",
+        "party": "Con"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "132828",
     "subgroup": "All polls",
     "sampleSize": "677",
@@ -1190,6 +1271,46 @@
     "cycle": "2020",
     "state": "Montana",
     "district": "1"
+  },
+  {
+    "id": "132862",
+    "subgroup": "All polls",
+    "sampleSize": "627",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/nc100920-crosstabs/3bf558d7ca17e9de/full.pdf",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-13",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "37.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "DiFiore",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Pisano",
+        "pct": "1.0",
+        "party": "Con"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "132860",
