@@ -226,7 +226,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
   },
@@ -257,7 +257,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
   },
@@ -329,7 +329,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New Hampshire"
   },
@@ -618,7 +618,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
   },
@@ -1268,6 +1268,47 @@
     "state": "National"
   },
   {
+    "id": "132440",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://politicaliq.com/2020/10/13/florida-biden-48-trump-46/",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-04",
+    "endDate": "2020-10-08",
+    "pollster": "RMG Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
     "id": "132398",
     "subgroup": "All polls",
     "sampleSize": "931",
@@ -1634,6 +1675,66 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "132437",
+    "subgroup": "All polls",
+    "sampleSize": "660",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_north_carolina_state_poll_w3_10_13_20.pdf",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-13",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "132436",
+    "subgroup": "All polls",
+    "sampleSize": "620",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_michigan_state_poll_w3_10_13_2020.pdf",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-13",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
   },
   {
     "id": "132421",
@@ -2191,6 +2292,74 @@
     "state": "Arizona"
   },
   {
+    "id": "132446",
+    "subgroup": "All polls",
+    "sampleSize": "514",
+    "population": "lv",
+    "grade": "A",
+    "url": "http://www.surveyusa.com/client/PollReport.aspx?g=79dcbfc5-5b43-4c58-886f-913006884948",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-12",
+    "pollster": "SurveyUSA",
+    "answers": [
+      {
+        "choice": "Levin",
+        "pct": "56.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Maryott",
+        "pct": "36.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 49",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "California",
+    "district": "49"
+  },
+  {
+    "id": "132442",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://drive.google.com/file/d/19N7kILH7yQKwyJHWPCljORTMsrLKe-OT/view",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "GBAO",
+    "answers": [
+      {
+        "choice": "Kulkarni",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Nehls",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "LeBlanc",
+        "pct": "4.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 22",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Texas",
+    "district": "22"
+  },
+  {
     "id": "132424",
     "subgroup": "All polls",
     "sampleSize": "400",
@@ -2221,6 +2390,74 @@
     "partisan": "DEM",
     "state": "Texas",
     "district": "10"
+  },
+  {
+    "id": "132439",
+    "subgroup": "All polls",
+    "sampleSize": "466",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.wfmz.com/news/area/lehighvalley/desales-university-wfmz-poll-shows-biden-wild-ahead-in-pa/article_e1c7dcda-0d9a-11eb-8dc6-6b87777813ec.html",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-03",
+    "endDate": "2020-10-10",
+    "pollster": "DeSales University",
+    "answers": [
+      {
+        "choice": "Wild",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Scheller",
+        "pct": "36.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 7",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Pennsylvania",
+    "district": "7"
+  },
+  {
+    "id": "132445",
+    "subgroup": "All polls",
+    "sampleSize": "301",
+    "population": "lv",
+    "grade": "",
+    "url": "https://twitter.com/AlexClearfield/status/1316102722991595520?s=20",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-09",
+    "pollster": "Clearview Research",
+    "answers": [
+      {
+        "choice": "Keith",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Mast",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Miller",
+        "pct": "4.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 18",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Florida",
+    "district": "18"
   },
   {
     "id": "132423",
@@ -2565,6 +2802,75 @@
     "cycle": "2020",
     "state": "Missouri",
     "district": "1"
+  },
+  {
+    "id": "132443",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://drive.google.com/file/d/1A1__Z3HBSrGvWpZM94bm6pJ15NC9_46N/view",
+    "created_at": "2020-10-13",
+    "startDate": "2020-09-24",
+    "endDate": "2020-09-27",
+    "pollster": "GBAO",
+    "answers": [
+      {
+        "choice": "Kulkarni",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Nehls",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "LeBlanc",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 22",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Texas",
+    "district": "22"
+  },
+  {
+    "id": "132444",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://drive.google.com/file/d/12bs1zZMRnd0xl3f6HjH5DsxKUnv2lsNZ/view",
+    "created_at": "2020-10-13",
+    "startDate": "2020-07-29",
+    "endDate": "2020-08-02",
+    "pollster": "GBAO",
+    "answers": [
+      {
+        "choice": "Kulkarni",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Nehls",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 22",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Texas",
+    "district": "22"
   },
   {
     "id": "132418",
