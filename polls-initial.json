@@ -162,6 +162,68 @@
     "state": "National"
   },
   {
+    "id": "132884",
+    "subgroup": "All polls",
+    "sampleSize": "667",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.reuters.com/article/us-usa-election-battlegrounds-poll-idUSKBN26Z30H",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-14",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
+    "id": "132883",
+    "subgroup": "All polls",
+    "sampleSize": "653",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.reuters.com/article/us-usa-election-battlegrounds-poll-idUSKBN26Z30H",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-14",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
     "id": "132844",
     "subgroup": "All polls",
     "sampleSize": "1333",
@@ -262,7 +324,7 @@
   {
     "id": "132878",
     "subgroup": "All polls",
-    "sampleSize": "220",
+    "sampleSize": "200",
     "population": "lv",
     "grade": "B/C",
     "url": "https://twitter.com/focusonrural/status/1316449310536540168?s=20",
@@ -294,7 +356,7 @@
   {
     "id": "132877",
     "subgroup": "All polls",
-    "sampleSize": "220",
+    "sampleSize": "200",
     "population": "lv",
     "grade": "B/C",
     "url": "https://twitter.com/focusonrural/status/1316449310536540168?s=20",
@@ -326,7 +388,7 @@
   {
     "id": "132876",
     "subgroup": "All polls",
-    "sampleSize": "220",
+    "sampleSize": "200",
     "population": "lv",
     "grade": "B/C",
     "url": "https://twitter.com/focusonrural/status/1316449310536540168?s=20",
@@ -704,12 +766,12 @@
       },
       {
         "choice": "Trump",
-        "pct": "41.0",
+        "pct": "40.8",
         "party": "Rep"
       },
       {
         "choice": "Jorgensen",
-        "pct": "2.0",
+        "pct": "2.4",
         "party": "Lib"
       }
     ],
@@ -789,7 +851,7 @@
     "sampleSize": "2053",
     "population": "lv",
     "grade": "",
-    "url": "https://www.brandwatch.com/qriously-data/us-election-poll-week-7-8-12-oct/",
+    "url": "https://www.brandwatch.com/email/us-election-bulletin-007/",
     "created_at": "2020-10-14",
     "startDate": "2020-10-08",
     "endDate": "2020-10-12",
@@ -797,12 +859,12 @@
     "answers": [
       {
         "choice": "Biden",
-        "pct": "51.0",
+        "pct": "52.0",
         "party": "Dem"
       },
       {
         "choice": "Trump",
-        "pct": "37.0",
+        "pct": "38.0",
         "party": "Rep"
       },
       {
@@ -930,7 +992,7 @@
   {
     "id": "132875",
     "subgroup": "All polls",
-    "sampleSize": "2000",
+    "sampleSize": "1679",
     "population": "lv",
     "grade": "",
     "url": "https://redfieldandwiltonstrategies.com/latest-usa-voting-intention-october-10/?utm_source=rss&utm_medium=rss&utm_campaign=latest-usa-voting-intention-october-10",
@@ -1289,17 +1351,17 @@
     "answers": [
       {
         "choice": "Shaheen",
-        "pct": "51.0",
+        "pct": "50.8",
         "party": "Dem"
       },
       {
         "choice": "Messner",
-        "pct": "36.0",
+        "pct": "36.4",
         "party": "Rep"
       },
       {
         "choice": "O'Donnell",
-        "pct": "2.0",
+        "pct": "2.2",
         "party": "Lib"
       }
     ],
@@ -1309,6 +1371,66 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "New Hampshire"
+  },
+  {
+    "id": "132880",
+    "subgroup": "All polls",
+    "sampleSize": "1160",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/georgia/release-detail?ReleaseID=3679",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-12",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Collins",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "132879",
+    "subgroup": "All polls",
+    "sampleSize": "1160",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/georgia/release-detail?ReleaseID=3679",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-12",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
   },
   {
     "id": "132869",
@@ -1747,7 +1869,7 @@
       },
       {
         "choice": "Sununu",
-        "pct": "55.0",
+        "pct": "55.2",
         "party": "Rep"
       },
       {
@@ -15470,7 +15592,7 @@
     "sampleSize": "400",
     "population": "lv",
     "grade": "B",
-    "url": "https://www.politico.com/news/2020/10/13/house-republicans-2020-outlook-429130",
+    "url": "https://dccc.org/dccc-polling-memo-rep-joe-cunningham-is-in-strong-position-to-win-sc-01/",
     "created_at": "2020-10-13",
     "startDate": "2020-10-05",
     "endDate": "2020-10-07",
