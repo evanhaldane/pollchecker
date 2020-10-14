@@ -188,7 +188,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -219,7 +219,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
   },
@@ -320,6 +320,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
+  },
+  {
+    "id": "132886",
+    "subgroup": "All polls",
+    "sampleSize": "2855",
+    "population": "rv",
+    "grade": "C",
+    "url": "https://thehill.com/hilltv/what-americas-thinking/521053-poll-biden-leads-trump-by-7-points-nationwide",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-10",
+    "endDate": "2020-10-13",
+    "pollster": "HarrisX",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "132878",
@@ -1221,6 +1252,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "132885",
+    "subgroup": "All polls",
+    "sampleSize": "667",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.reuters.com/article/us-usa-election-battlegrounds-poll-idUSKBN26Z30H",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-14",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "132863",
