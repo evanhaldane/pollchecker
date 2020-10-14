@@ -1,5 +1,317 @@
 [
   {
+    "id": "132806",
+    "subgroup": "All polls",
+    "sampleSize": "1003",
+    "population": "rv",
+    "grade": "",
+    "url": "https://navigatorresearch.org/wp-content/uploads/2020/10/Navigating-Coronavirus-Update-10.13.2020.pdf",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-12",
+    "pollster": "Global Strategy Group/GBAO (Navigator Research)",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "44.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "56.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "132807",
+    "subgroup": "All polls",
+    "sampleSize": "2199",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://assets.morningconsult.com/wp-uploads/2020/10/12170716/201025_crosstabs_QANON_Adults_v1.pdf",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-06",
+    "endDate": "2020-10-08",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "55.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "132818",
+    "subgroup": "All polls",
+    "sampleSize": "5257",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-14",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-13",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.88",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.41",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "132817",
+    "subgroup": "All polls",
+    "sampleSize": "5257",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-14",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-13",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.58",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.66",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "132816",
+    "subgroup": "All polls",
+    "sampleSize": "5171",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-14",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-13",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.29",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.62",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "132810",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/new-hampshire/2020/10_14_2020_tables_pdftxt.pdf?la=en&hash=A14911E2705329E0118A8C1B19ECE20CFECB35CA",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-12",
+    "pollster": "Suffolk University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "New Hampshire"
+  },
+  {
+    "id": "132815",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://www.woodtv.com/wp-content/uploads/sites/51/2020/10/2020-OCTOBER-FIRST-MEDIA-WEDNESDAY-FREQUENCY.pdf",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-12",
+    "pollster": "EPIC-MRA",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "132814",
+    "subgroup": "All polls",
+    "sampleSize": "5249",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-10-14",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-13",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "52.07"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.26"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "132812",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/new-hampshire/2020/10_14_2020_tables_pdftxt.pdf?la=en&hash=A14911E2705329E0118A8C1B19ECE20CFECB35CA",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-12",
+    "pollster": "Suffolk University",
+    "answers": [
+      {
+        "choice": "Shaheen",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Messner",
+        "pct": "36.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "O'Donnell",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
+  },
+  {
+    "id": "132811",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/new-hampshire/2020/10_14_2020_tables_pdftxt.pdf?la=en&hash=A14911E2705329E0118A8C1B19ECE20CFECB35CA",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-12",
+    "pollster": "Suffolk University",
+    "answers": [
+      {
+        "choice": "Feltes",
+        "pct": "31.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Sununu",
+        "pct": "55.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Perry",
+        "pct": "4.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
+  },
+  {
     "id": "132396",
     "subgroup": "All polls",
     "sampleSize": "1500",
@@ -3910,7 +4222,7 @@
     "sampleSize": "841",
     "population": "lv",
     "grade": "",
-    "url": "https://projects.fivethirtyeight.com/polls/20201013_US_Leger.pdf",
+    "url": "https://leger360.com/surveys/legers-weekly-survey-october-14-2020/?utm_source=newsletter-leger&utm_medium=email&utm_campaign=covid19_report&utm_content=14-october-2020&mc_cid=b770058bd9&mc_eid=4849ebe03f",
     "created_at": "2020-10-13",
     "startDate": "2020-10-09",
     "endDate": "2020-10-11",
@@ -17518,1781 +17830,6 @@
     "tracking": false,
     "headToHead": false,
     "cycle": "2020",
-    "state": "West Virginia"
-  },
-  {
-    "id": "132218",
-    "subgroup": "All polls",
-    "sampleSize": "1717",
-    "population": "rv",
-    "grade": "B/C",
-    "url": "https://assets.morningconsult.com/wp-uploads/2020/10/08174514/201036_crosstabs_POLITICO_RVs_v1.pdf#page=16",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-08",
-    "endDate": "2020-10-08",
-    "pollster": "Morning Consult",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "43.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "56.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "132165",
-    "subgroup": "All polls",
-    "sampleSize": "1500",
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-05",
-    "endDate": "2020-10-07",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "45.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "53.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "132171",
-    "subgroup": "All polls",
-    "sampleSize": "31920",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-30",
-    "endDate": "2020-10-06",
-    "pollster": "Morning Consult",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "41.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "54.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "132170",
-    "subgroup": "All polls",
-    "sampleSize": "31920",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-29",
-    "endDate": "2020-10-05",
-    "pollster": "Morning Consult",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "41.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "53.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "132156",
-    "subgroup": "All polls",
-    "sampleSize": "1003",
-    "population": "rv",
-    "grade": "",
-    "url": "https://www.franklinpierce.edu/institutes/mfcc/9-30-20_Polling-Data/a-FPU-Herald-Poll-Topline-Total-Data-Set-930-10420.pdf#page=10",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-30",
-    "endDate": "2020-10-04",
-    "pollster": "Global Marketing Research Services",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "42.8"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "53.4"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "132169",
-    "subgroup": "All polls",
-    "sampleSize": "31920",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-28",
-    "endDate": "2020-10-04",
-    "pollster": "Morning Consult",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "41.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "54.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "132168",
-    "subgroup": "All polls",
-    "sampleSize": "31920",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-27",
-    "endDate": "2020-10-03",
-    "pollster": "Morning Consult",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "41.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "54.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "132167",
-    "subgroup": "All polls",
-    "sampleSize": "31920",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-26",
-    "endDate": "2020-10-02",
-    "pollster": "Morning Consult",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "41.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "53.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "132166",
-    "subgroup": "All polls",
-    "sampleSize": "31920",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-25",
-    "endDate": "2020-10-01",
-    "pollster": "Morning Consult",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "41.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "53.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "132204",
-    "subgroup": "All polls",
-    "sampleSize": "31920",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-24",
-    "endDate": "2020-09-30",
-    "pollster": "Morning Consult",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "41.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "53.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "132202",
-    "subgroup": "All polls",
-    "sampleSize": "721",
-    "population": "v",
-    "grade": "B",
-    "url": "https://www.texasdemocrats.org/wp-content/uploads/2020/10/TexasResults1.pdf",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-07",
-    "endDate": "2020-10-08",
-    "pollster": "Public Policy Polling",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "50.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "49.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "partisan": "DEM",
-    "state": "Texas"
-  },
-  {
-    "id": "132203",
-    "subgroup": "All polls",
-    "sampleSize": "400",
-    "population": "lv",
-    "grade": "B-",
-    "url": "https://hannity.com/media-room/hannity-exclusive-pollster-who-predicted-trumps-2016-win-shows-president-up-3-points-in-florida/?utm_source=socialflow",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-06",
-    "endDate": "2020-10-07",
-    "pollster": "InsiderAdvantage",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "43.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "46.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Jorgensen",
-        "pct": "1.0",
-        "party": "Lib"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Florida"
-  },
-  {
-    "id": "132225",
-    "subgroup": "All polls",
-    "sampleSize": "716",
-    "population": "lv",
-    "grade": "A-",
-    "url": "https://emersonpolling.reportablenews.com/pr/michigan-2020-democrats-hold-10-point-leads-in-presidential-and-us-senate-races",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-06",
-    "endDate": "2020-10-07",
-    "pollster": "Emerson College",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "54.2",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "43.4",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Michigan"
-  },
-  {
-    "id": "132174",
-    "subgroup": "All polls",
-    "sampleSize": "17249",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-05",
-    "endDate": "2020-10-07",
-    "pollster": "Morning Consult",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "52.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "43.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "132151",
-    "subgroup": "All polls",
-    "sampleSize": "5114",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-07",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "53.06",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.1",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "132150",
-    "subgroup": "All polls",
-    "sampleSize": "5114",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-07",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "53.66",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "41.55",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "132149",
-    "subgroup": "All polls",
-    "sampleSize": "5019",
-    "population": "rv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-07",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "52.62",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "41.48",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "132160",
-    "subgroup": "All polls",
-    "sampleSize": "863",
-    "population": "lv",
-    "grade": "B-",
-    "url": "https://docs.google.com/spreadsheets/d/1dGGzVgmSaesL4N8JeM07YIfMsT_BJ1yflf-29y_ejcQ/edit#gid=0",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-06",
-    "endDate": "2020-10-06",
-    "pollster": "Data for Progress",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "56.2",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "40.81",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "132159",
-    "subgroup": "All polls",
-    "sampleSize": "955",
-    "population": "rv",
-    "grade": "B-",
-    "url": "https://docs.google.com/spreadsheets/d/1dGGzVgmSaesL4N8JeM07YIfMsT_BJ1yflf-29y_ejcQ/edit#gid=0",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-06",
-    "endDate": "2020-10-06",
-    "pollster": "Data for Progress",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "57.16",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "39.37",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "132158",
-    "subgroup": "All polls",
-    "sampleSize": "1011",
-    "population": "a",
-    "grade": "B-",
-    "url": "https://docs.google.com/spreadsheets/d/1dGGzVgmSaesL4N8JeM07YIfMsT_BJ1yflf-29y_ejcQ/edit#gid=0",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-06",
-    "endDate": "2020-10-06",
-    "pollster": "Data for Progress",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "54.88",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "40.42",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "132200",
-    "subgroup": "All polls",
-    "sampleSize": "1000",
-    "population": "lv",
-    "grade": "C+",
-    "url": "https://crosswindpr.com/texas-statewide-poll-shows-trump-leading-biden-7-among-likely-voters/",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-05",
-    "endDate": "2020-10-06",
-    "pollster": "Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "44.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "51.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Texas"
-  },
-  {
-    "id": "132173",
-    "subgroup": "All polls",
-    "sampleSize": "12000",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-04",
-    "endDate": "2020-10-06",
-    "pollster": "Morning Consult",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "51.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "43.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "132224",
-    "subgroup": "All polls",
-    "sampleSize": "1021",
-    "population": "lv",
-    "grade": "A",
-    "url": "https://www.9news.com/article/news/local/local-politics/election-2020-9news-colorado-politics-poll-biden-hickenlooper-gardner-trump-prop-115-ballot/73-9b4f6099-72df-4836-8d62-d81eceb981ec",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-01",
-    "endDate": "2020-10-06",
-    "pollster": "SurveyUSA",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "50.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "40.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Colorado"
-  },
-  {
-    "id": "132198",
-    "subgroup": "All polls",
-    "sampleSize": "600",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "http://dfer.org/wp-content/uploads/2020/10/ERNA-Memo-Latino-Decisions-10.8.20.pdf",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-28",
-    "endDate": "2020-10-06",
-    "pollster": "Latino Decisions",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "48.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "45.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "partisan": "DEM",
-    "state": "Arizona"
-  },
-  {
-    "id": "132172",
-    "subgroup": "All polls",
-    "sampleSize": "12000",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-03",
-    "endDate": "2020-10-05",
-    "pollster": "Morning Consult",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "52.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "43.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "132210",
-    "subgroup": "All polls",
-    "sampleSize": "1147",
-    "population": "lv",
-    "grade": "",
-    "url": "https://www.anselm.edu/sites/default/files/Documents/NHIOP/Polls/October%202020%20FullResults.pdf",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-01",
-    "endDate": "2020-10-04",
-    "pollster": "Saint Anselm College",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "53.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "41.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "New Hampshire"
-  },
-  {
-    "id": "132217",
-    "subgroup": "All polls",
-    "sampleSize": "450",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://thehill.com/homenews/campaign/520263-poll-shows-biden-leading-trump-tight-house-race-in-key-nebraska-district",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-01",
-    "endDate": "2020-10-04",
-    "pollster": "FM3 Research",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "53.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "partisan": "DEM",
-    "state": "Nebraska",
-    "district": "2"
-  },
-  {
-    "id": "132148",
-    "subgroup": "All polls",
-    "sampleSize": "776",
-    "population": "lv",
-    "grade": "",
-    "url": "https://www.goucher.edu/hughes-center/documents/Goucher-College-Poll-Oct-2020-Part-1.pdf",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-30",
-    "endDate": "2020-10-04",
-    "pollster": "Goucher College",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "61.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "30.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Hawkins",
-        "pct": "2.0",
-        "party": "Gre"
-      },
-      {
-        "choice": "Jorgensen",
-        "pct": "2.0",
-        "party": "Lib"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Maryland"
-  },
-  {
-    "id": "132197",
-    "subgroup": "All polls",
-    "sampleSize": "489",
-    "population": "lv",
-    "grade": "C/D",
-    "url": "http://polls.saintleo.edu/new-saint-leo-u-survey-results-show-biden-ahead-of-trump-by-nearly-14-percentage-points-nationally-before-trumps-covid-diagnosis/",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-27",
-    "endDate": "2020-10-02",
-    "pollster": "Saint Leo University",
-    "answers": [
-      {
-        "choice": "Harris",
-        "pct": "46.7",
-        "party": "Dem"
-      },
-      {
-        "choice": "Pence",
-        "pct": "46.8",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Florida"
-  },
-  {
-    "id": "132196",
-    "subgroup": "All polls",
-    "sampleSize": "947",
-    "population": "lv",
-    "grade": "C/D",
-    "url": "http://polls.saintleo.edu/new-saint-leo-u-survey-results-show-biden-ahead-of-trump-by-nearly-14-percentage-points-nationally-before-trumps-covid-diagnosis/",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-27",
-    "endDate": "2020-10-02",
-    "pollster": "Saint Leo University",
-    "answers": [
-      {
-        "choice": "Harris",
-        "pct": "48.3",
-        "party": "Dem"
-      },
-      {
-        "choice": "Pence",
-        "pct": "41.5",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "132163",
-    "subgroup": "All polls",
-    "sampleSize": "800",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://www.dscc.org/news/new-dscc-poll-results-find-jaime-harrison-leading-vulnerable-senator-lindsey-graham-by-1-point-in-south-carolina-senate-race/",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-24",
-    "endDate": "2020-09-28",
-    "pollster": "GBAO",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "44.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "49.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "partisan": "DEM",
-    "state": "South Carolina"
-  },
-  {
-    "id": "132162",
-    "subgroup": "All polls",
-    "sampleSize": "740",
-    "population": "rv",
-    "grade": "B-",
-    "url": "https://docs.google.com/spreadsheets/d/1dGGzVgmSaesL4N8JeM07YIfMsT_BJ1yflf-29y_ejcQ/edit#gid=0",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-22",
-    "endDate": "2020-09-22",
-    "pollster": "Data for Progress",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "55.36",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.02",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "132161",
-    "subgroup": "All polls",
-    "sampleSize": "805",
-    "population": "a",
-    "grade": "B-",
-    "url": "https://docs.google.com/spreadsheets/d/1dGGzVgmSaesL4N8JeM07YIfMsT_BJ1yflf-29y_ejcQ/edit#gid=0",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-22",
-    "endDate": "2020-09-22",
-    "pollster": "Data for Progress",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "55.65",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "41.43",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "132180",
-    "subgroup": "All polls",
-    "sampleSize": "17249",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-05",
-    "endDate": "2020-10-07",
-    "pollster": "Morning Consult",
-    "answers": [
-      {
-        "choice": "Dem",
-        "pct": "49.0"
-      },
-      {
-        "choice": "Rep",
-        "pct": "42.0"
-      }
-    ],
-    "type": "generic-ballot",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "132152",
-    "subgroup": "All polls",
-    "sampleSize": "5107",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-07",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Dem",
-        "pct": "51.96"
-      },
-      {
-        "choice": "Rep",
-        "pct": "44.26"
-      }
-    ],
-    "type": "generic-ballot",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "132179",
-    "subgroup": "All polls",
-    "sampleSize": "12000",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-04",
-    "endDate": "2020-10-06",
-    "pollster": "Morning Consult",
-    "answers": [
-      {
-        "choice": "Dem",
-        "pct": "49.0"
-      },
-      {
-        "choice": "Rep",
-        "pct": "42.0"
-      }
-    ],
-    "type": "generic-ballot",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "132178",
-    "subgroup": "All polls",
-    "sampleSize": "12000",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-03",
-    "endDate": "2020-10-05",
-    "pollster": "Morning Consult",
-    "answers": [
-      {
-        "choice": "Dem",
-        "pct": "50.0"
-      },
-      {
-        "choice": "Rep",
-        "pct": "42.0"
-      }
-    ],
-    "type": "generic-ballot",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "132228",
-    "subgroup": "All polls",
-    "sampleSize": "716",
-    "population": "lv",
-    "grade": "A-",
-    "url": "https://emersonpolling.reportablenews.com/pr/michigan-2020-democrats-hold-10-point-leads-in-presidential-and-us-senate-races",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-06",
-    "endDate": "2020-10-07",
-    "pollster": "Emerson College",
-    "answers": [
-      {
-        "choice": "Peters",
-        "pct": "50.7",
-        "party": "Dem"
-      },
-      {
-        "choice": "James",
-        "pct": "41.1",
-        "party": "Rep"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class II",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Michigan"
-  },
-  {
-    "id": "132201",
-    "subgroup": "All polls",
-    "sampleSize": "1000",
-    "population": "lv",
-    "grade": "C+",
-    "url": "https://crosswindpr.com/texas-statewide-poll-shows-trump-leading-biden-7-among-likely-voters/",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-05",
-    "endDate": "2020-10-06",
-    "pollster": "Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Hegar",
-        "pct": "39.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Cornyn",
-        "pct": "48.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class II",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Texas"
-  },
-  {
-    "id": "132227",
-    "subgroup": "All polls",
-    "sampleSize": "1021",
-    "population": "lv",
-    "grade": "A",
-    "url": "https://www.9news.com/article/news/local/local-politics/election-2020-9news-colorado-politics-poll-biden-hickenlooper-gardner-trump-prop-115-ballot/73-9b4f6099-72df-4836-8d62-d81eceb981ec",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-01",
-    "endDate": "2020-10-06",
-    "pollster": "SurveyUSA",
-    "answers": [
-      {
-        "choice": "Hickenlooper",
-        "pct": "48.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Gardner",
-        "pct": "39.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class II",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Colorado"
-  },
-  {
-    "id": "132226",
-    "subgroup": "All polls",
-    "sampleSize": "929",
-    "population": "lv",
-    "grade": "A",
-    "url": "https://www.kaaltv.com/minnesota-news/surveyusa-poll/5888415/?cat=10151",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-01",
-    "endDate": "2020-10-06",
-    "pollster": "SurveyUSA",
-    "answers": [
-      {
-        "choice": "Smith",
-        "pct": "44.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Lewis",
-        "pct": "37.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class II",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Minnesota"
-  },
-  {
-    "id": "132199",
-    "subgroup": "All polls",
-    "sampleSize": "600",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "http://dfer.org/wp-content/uploads/2020/10/ERNA-Memo-Latino-Decisions-10.8.20.pdf",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-28",
-    "endDate": "2020-10-06",
-    "pollster": "Latino Decisions",
-    "answers": [
-      {
-        "choice": "Kelly",
-        "pct": "47.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "McSally",
-        "pct": "42.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class III",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "partisan": "DEM",
-    "state": "Arizona"
-  },
-  {
-    "id": "132215",
-    "subgroup": "All polls",
-    "sampleSize": "1147",
-    "population": "lv",
-    "grade": "",
-    "url": "https://www.anselm.edu/sites/default/files/Documents/NHIOP/Polls/October%202020%20FullResults.pdf",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-01",
-    "endDate": "2020-10-04",
-    "pollster": "Saint Anselm College",
-    "answers": [
-      {
-        "choice": "Shaheen",
-        "pct": "53.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Messner",
-        "pct": "39.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "O'Donnell",
-        "pct": "3.0",
-        "party": "Lib"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class II",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "New Hampshire"
-  },
-  {
-    "id": "132205",
-    "subgroup": "All polls",
-    "sampleSize": "3104",
-    "population": "lv",
-    "grade": "",
-    "url": "https://projects.fivethirtyeight.com/polls/20201008_KS.pdf",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-29",
-    "endDate": "2020-09-30",
-    "pollster": "VCreek/AMG",
-    "answers": [
-      {
-        "choice": "Bollier",
-        "pct": "45.39",
-        "party": "Dem"
-      },
-      {
-        "choice": "Marshall",
-        "pct": "41.87",
-        "party": "Rep"
-      },
-      {
-        "choice": "Buckley",
-        "pct": "1.58",
-        "party": "Lib"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class II",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Kansas"
-  },
-  {
-    "id": "132164",
-    "subgroup": "All polls",
-    "sampleSize": "800",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://www.dscc.org/news/new-dscc-poll-results-find-jaime-harrison-leading-vulnerable-senator-lindsey-graham-by-1-point-in-south-carolina-senate-race/",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-24",
-    "endDate": "2020-09-28",
-    "pollster": "GBAO",
-    "answers": [
-      {
-        "choice": "Harrison",
-        "pct": "48.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Graham",
-        "pct": "47.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Bledsoe",
-        "pct": "3.0",
-        "party": "Con"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class II",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "partisan": "DEM",
-    "state": "South Carolina"
-  },
-  {
-    "id": "132157",
-    "subgroup": "All polls",
-    "sampleSize": "644",
-    "population": "lv",
-    "grade": "",
-    "url": "https://perma.cc/6CAV-FUEB",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-03",
-    "endDate": "2020-10-06",
-    "pollster": "Breakthrough Campaigns",
-    "answers": [
-      {
-        "choice": "Smith",
-        "pct": "49.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Garcia",
-        "pct": "47.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 25",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "partisan": "DEM",
-    "state": "California",
-    "district": "25"
-  },
-  {
-    "id": "132155",
-    "subgroup": "All polls",
-    "sampleSize": "863",
-    "population": "lv",
-    "grade": "A/B",
-    "url": "https://www.unf.edu/uploadedFiles/aa/coas/porl/2020JaxSpeaksOct.pdf",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-01",
-    "endDate": "2020-10-04",
-    "pollster": "University of North Florida",
-    "answers": [
-      {
-        "choice": "Deegan",
-        "pct": "38.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Rutherford",
-        "pct": "57.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 4",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Florida",
-    "district": "4"
-  },
-  {
-    "id": "132213",
-    "subgroup": "All polls",
-    "sampleSize": "552",
-    "population": "lv",
-    "grade": "",
-    "url": "https://www.anselm.edu/sites/default/files/Documents/NHIOP/Polls/October%202020%20FullResults.pdf",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-01",
-    "endDate": "2020-10-04",
-    "pollster": "Saint Anselm College",
-    "answers": [
-      {
-        "choice": "Kuster",
-        "pct": "52.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Negron",
-        "pct": "38.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Olding",
-        "pct": "4.0",
-        "party": "Lib"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 2",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "New Hampshire",
-    "district": "2"
-  },
-  {
-    "id": "132212",
-    "subgroup": "All polls",
-    "sampleSize": "595",
-    "population": "lv",
-    "grade": "",
-    "url": "https://www.anselm.edu/sites/default/files/Documents/NHIOP/Polls/October%202020%20FullResults.pdf",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-01",
-    "endDate": "2020-10-04",
-    "pollster": "Saint Anselm College",
-    "answers": [
-      {
-        "choice": "Pappas",
-        "pct": "49.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Mowers",
-        "pct": "41.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Dumont",
-        "pct": "2.0",
-        "party": "Lib"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 1",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "New Hampshire",
-    "district": "1"
-  },
-  {
-    "id": "132214",
-    "subgroup": "All polls",
-    "sampleSize": "450",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://thehill.com/homenews/campaign/520263-poll-shows-biden-leading-trump-tight-house-race-in-key-nebraska-district",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-01",
-    "endDate": "2020-10-04",
-    "pollster": "FM3 Research",
-    "answers": [
-      {
-        "choice": "Eastman",
-        "pct": "47.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Bacon",
-        "pct": "45.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Schaeffer",
-        "pct": "6.0",
-        "party": "Lib"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 2",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "partisan": "DEM",
-    "state": "Nebraska",
-    "district": "2"
-  },
-  {
-    "id": "132153",
-    "subgroup": "All polls",
-    "sampleSize": "383",
-    "population": "lv",
-    "grade": "A-",
-    "url": "https://www.syracuse.com/politics/cny/2020/10/brindisi-surges-ahead-of-tenney-in-house-race-siena-college-syracusecom-poll.html",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-27",
-    "endDate": "2020-10-04",
-    "pollster": "Siena College",
-    "answers": [
-      {
-        "choice": "Brindisi",
-        "pct": "48.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Tenney",
-        "pct": "39.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Price",
-        "pct": "4.0",
-        "party": "Lib"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 22",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "New York",
-    "district": "22"
-  },
-  {
-    "id": "132209",
-    "subgroup": "All polls",
-    "sampleSize": "739",
-    "population": "lv",
-    "grade": "",
-    "url": "https://projects.fivethirtyeight.com/polls/20201008_KS.pdf",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-29",
-    "endDate": "2020-09-30",
-    "pollster": "VCreek/AMG",
-    "answers": [
-      {
-        "choice": "De La Isla",
-        "pct": "36.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "LaTurner",
-        "pct": "47.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 2",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Kansas",
-    "district": "2"
-  },
-  {
-    "id": "132208",
-    "subgroup": "All polls",
-    "sampleSize": "842",
-    "population": "lv",
-    "grade": "",
-    "url": "https://projects.fivethirtyeight.com/polls/20201008_KS.pdf",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-29",
-    "endDate": "2020-09-30",
-    "pollster": "VCreek/AMG",
-    "answers": [
-      {
-        "choice": "Lombard",
-        "pct": "37.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Estes",
-        "pct": "51.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 4",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Kansas",
-    "district": "4"
-  },
-  {
-    "id": "132207",
-    "subgroup": "All polls",
-    "sampleSize": "712",
-    "population": "lv",
-    "grade": "",
-    "url": "https://projects.fivethirtyeight.com/polls/20201008_KS.pdf",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-29",
-    "endDate": "2020-09-30",
-    "pollster": "VCreek/AMG",
-    "answers": [
-      {
-        "choice": "Davids",
-        "pct": "56.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Adkins",
-        "pct": "36.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 3",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Kansas",
-    "district": "3"
-  },
-  {
-    "id": "132206",
-    "subgroup": "All polls",
-    "sampleSize": "761",
-    "population": "lv",
-    "grade": "",
-    "url": "https://projects.fivethirtyeight.com/polls/20201008_KS.pdf",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-29",
-    "endDate": "2020-09-30",
-    "pollster": "VCreek/AMG",
-    "answers": [
-      {
-        "choice": "Barnett",
-        "pct": "25.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Mann",
-        "pct": "56.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 1",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Kansas",
-    "district": "1"
-  },
-  {
-    "id": "132211",
-    "subgroup": "All polls",
-    "sampleSize": "1147",
-    "population": "lv",
-    "grade": "",
-    "url": "https://www.anselm.edu/sites/default/files/Documents/NHIOP/Polls/October%202020%20FullResults.pdf",
-    "created_at": "2020-10-08",
-    "startDate": "2020-10-01",
-    "endDate": "2020-10-04",
-    "pollster": "Saint Anselm College",
-    "answers": [
-      {
-        "choice": "Feltes",
-        "pct": "35.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Sununu",
-        "pct": "58.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Perry",
-        "pct": "2.0",
-        "party": "Lib"
-      }
-    ],
-    "type": "governor",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "New Hampshire"
-  },
-  {
-    "id": "132154",
-    "subgroup": "All polls",
-    "sampleSize": "600",
-    "population": "lv",
-    "grade": "",
-    "url": "https://www.newsandsentinel.com/news/local-news/2020/10/second-poll-shows-even-tighter-race-for-west-virginia-governor/",
-    "created_at": "2020-10-08",
-    "startDate": "2020-09-26",
-    "endDate": "2020-09-30",
-    "pollster": "Strategies Unlimited",
-    "answers": [
-      {
-        "choice": "Salango",
-        "pct": "40.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Justice",
-        "pct": "46.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Lutz",
-        "pct": "5.0",
-        "party": "Mtp"
-      }
-    ],
-    "type": "governor",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "partisan": "DEM",
     "state": "West Virginia"
   }
 ]
