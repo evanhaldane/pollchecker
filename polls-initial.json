@@ -592,6 +592,52 @@
     "state": "National"
   },
   {
+    "id": "132448",
+    "subgroup": "All polls",
+    "sampleSize": "841",
+    "population": "lv",
+    "grade": "",
+    "url": "https://projects.fivethirtyeight.com/polls/20201013_US_Leger.pdf",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-11",
+    "pollster": "Léger",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      },
+      {
+        "choice": "West",
+        "pct": "1.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "132432",
     "subgroup": "All polls",
     "sampleSize": "669",
@@ -770,6 +816,47 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Nevada"
+  },
+  {
+    "id": "132449",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://politicaliq.com/2020/10/13/north-carolina-biden-47-trump-45/",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-11",
+    "pollster": "RMG Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "132372",
@@ -1837,6 +1924,41 @@
     "state": "North Carolina"
   },
   {
+    "id": "132451",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://politicaliq.com/2020/10/13/north-carolina-biden-47-trump-45/",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-11",
+    "pollster": "RMG Research",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "36.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Bray",
+        "pct": "4.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "132382",
     "subgroup": "All polls",
     "sampleSize": "3455",
@@ -2080,6 +2202,42 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "West Virginia"
+  },
+  {
+    "id": "132441",
+    "subgroup": "All polls",
+    "sampleSize": "1011",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://lindseymustgo.com/wp-content/uploads/2020/10/SC-PUBLIC-POLL-SUMMARY-ALG.pdf",
+    "created_at": "2020-10-13",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-05",
+    "pollster": "ALG Research",
+    "answers": [
+      {
+        "choice": "Harrison",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Graham",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Bledsoe",
+        "pct": "3.0",
+        "party": "Con"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "South Carolina"
   },
   {
     "id": "132389",
@@ -2963,6 +3121,41 @@
         "choice": "Pisano",
         "pct": "0.0",
         "party": "Con"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "132450",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://politicaliq.com/2020/10/13/north-carolina-biden-47-trump-45/",
+    "created_at": "2020-10-13",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-11",
+    "pollster": "RMG Research",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "37.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "DiFiore",
+        "pct": "3.0",
+        "party": "Lib"
       }
     ],
     "type": "governor",
