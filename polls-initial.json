@@ -469,6 +469,37 @@
     "state": "National"
   },
   {
+    "id": "132881",
+    "subgroup": "All polls",
+    "sampleSize": "685",
+    "population": "lv",
+    "grade": "A",
+    "url": "http://www.surveyusa.com/client/PollReport.aspx?g=b43d4853-1fb2-40f3-9d2d-9ccee830cd99",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-13",
+    "pollster": "SurveyUSA",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Indiana"
+  },
+  {
     "id": "132857",
     "subgroup": "All polls",
     "sampleSize": "2500",
@@ -1626,6 +1657,41 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "North Carolina"
+  },
+  {
+    "id": "132882",
+    "subgroup": "All polls",
+    "sampleSize": "685",
+    "population": "lv",
+    "grade": "A",
+    "url": "http://www.surveyusa.com/client/PollReport.aspx?g=b43d4853-1fb2-40f3-9d2d-9ccee830cd99",
+    "created_at": "2020-10-14",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-13",
+    "pollster": "SurveyUSA",
+    "answers": [
+      {
+        "choice": "Myers",
+        "pct": "25.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Holcomb",
+        "pct": "55.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Rainwater",
+        "pct": "10.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Indiana"
   },
   {
     "id": "132860",
