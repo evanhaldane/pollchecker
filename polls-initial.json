@@ -189,6 +189,33 @@
     "state": "National"
   },
   {
+    "id": "133090",
+    "subgroup": "All polls",
+    "sampleSize": "1988",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://assets.morningconsult.com/wp-uploads/2020/10/15122702/201044_crosstabs_POLITICO_RVs_v1_AUTO.pdf",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-10",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "43.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "55.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "133049",
     "subgroup": "All polls",
     "sampleSize": "31920",
@@ -322,6 +349,47 @@
     "tracking": false,
     "headToHead": false,
     "state": "National"
+  },
+  {
+    "id": "133086",
+    "subgroup": "All polls",
+    "sampleSize": "605",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/sc100920-crosstabs/7b3ac01b2be42e57/full.pdf",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-15",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "41.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "South Carolina"
   },
   {
     "id": "133084",
@@ -644,7 +712,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "REP",
     "state": "Wisconsin"
@@ -849,6 +917,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
+  },
+  {
+    "id": "133093",
+    "subgroup": "All polls",
+    "sampleSize": "519",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/blairmiller/status/1316782776922722304",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-13",
+    "pollster": "Keating Research/OnSight Public Affairs/Melanson",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Colorado"
   },
   {
     "id": "133082",
@@ -1391,6 +1490,41 @@
     "state": "National"
   },
   {
+    "id": "133087",
+    "subgroup": "All polls",
+    "sampleSize": "605",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/sc100920-crosstabs/7b3ac01b2be42e57/full.pdf",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-15",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Harrison",
+        "pct": "40.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Graham",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Bledsoe",
+        "pct": "4.0",
+        "party": "Con"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "South Carolina"
+  },
+  {
     "id": "133036",
     "subgroup": "All polls",
     "sampleSize": "1211",
@@ -1594,6 +1728,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "133094",
+    "subgroup": "All polls",
+    "sampleSize": "519",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/blairmiller/status/1316782776922722304",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-13",
+    "pollster": "Keating Research/OnSight Public Affairs/Melanson",
+    "answers": [
+      {
+        "choice": "Hickenlooper",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Gardner",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Colorado"
   },
   {
     "id": "133019",
