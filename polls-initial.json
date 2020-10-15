@@ -581,7 +581,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -612,7 +612,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -720,7 +720,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
   },
@@ -752,6 +752,109 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133074",
+    "subgroup": "All polls",
+    "sampleSize": "819",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.uml.edu/docs/2020-National-Topline_tcm18-331059.pdf",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-12",
+    "pollster": "University of Massachusetts Lowell",
+    "answers": [
+      {
+        "choice": "Harris",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Pence",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133072",
+    "subgroup": "All polls",
+    "sampleSize": "819",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.uml.edu/docs/2020-National-Topline_tcm18-331059.pdf",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-12",
+    "pollster": "University of Massachusetts Lowell",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Pence",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133071",
+    "subgroup": "All polls",
+    "sampleSize": "819",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.uml.edu/docs/2020-National-Topline_tcm18-331059.pdf",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-12",
+    "pollster": "University of Massachusetts Lowell",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
     "cycle": "2020",
     "state": "National"
   },
