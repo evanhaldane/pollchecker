@@ -1093,7 +1093,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -1335,7 +1335,7 @@
     "sampleSize": "822",
     "population": "lv",
     "grade": "B-",
-    "url": "https://filesforprogress.org/memos/2020-senate-project/week-4/IA.pdf",
+    "url": "https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/dfp_psp_ia_week_4_toplines.pdf",
     "created_at": "2020-10-15",
     "startDate": "2020-10-08",
     "endDate": "2020-10-11",
@@ -1355,6 +1355,11 @@
         "choice": "Jorgensen",
         "pct": "2.0",
         "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
       }
     ],
     "type": "president-general",
@@ -1393,7 +1398,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Pennsylvania"
@@ -1425,7 +1430,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Michigan"
@@ -1457,7 +1462,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Wisconsin"
@@ -1489,7 +1494,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Ohio"
@@ -1560,6 +1565,68 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "133112",
+    "subgroup": "All polls",
+    "sampleSize": "1378",
+    "population": "rv",
+    "grade": "",
+    "url": "https://www.marketplace.org/wp-content/uploads/2020/10/Marketplace-Edison-Poll-Banner-1.pdf",
+    "created_at": "2020-10-15",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-08",
+    "pollster": "Edison Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.1",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "34.8",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133111",
+    "subgroup": "All polls",
+    "sampleSize": "1647",
+    "population": "a",
+    "grade": "",
+    "url": "https://www.marketplace.org/wp-content/uploads/2020/10/Marketplace-Edison-Poll-Banner-1.pdf",
+    "created_at": "2020-10-15",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-08",
+    "pollster": "Edison Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "43.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "33.4",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "133059",
@@ -6963,7 +7030,7 @@
     "sampleSize": "801",
     "population": "lv",
     "grade": "B-",
-    "url": "https://filesforprogress.org/memos/2020-senate-project/week-4/SC.pdf",
+    "url": "https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/dfp_psp_sc_week_4_toplines.pdf",
     "created_at": "2020-10-14",
     "startDate": "2020-10-08",
     "endDate": "2020-10-11",
@@ -6978,6 +7045,16 @@
         "choice": "Trump",
         "pct": "52.0",
         "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
       }
     ],
     "type": "president-general",
@@ -6995,7 +7072,7 @@
     "sampleSize": "782",
     "population": "lv",
     "grade": "B-",
-    "url": "https://filesforprogress.org/memos/2020-senate-project/week-4/GA.pdf",
+    "url": "https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/dfp_psp_ga_week_4_toplines.pdf",
     "created_at": "2020-10-14",
     "startDate": "2020-10-08",
     "endDate": "2020-10-11",
@@ -7010,6 +7087,16 @@
         "choice": "Trump",
         "pct": "46.0",
         "party": "Rep"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
       }
     ],
     "type": "president-general",
