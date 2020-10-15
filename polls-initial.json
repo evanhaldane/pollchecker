@@ -120,6 +120,78 @@
     "state": "Virginia"
   },
   {
+    "id": "133040",
+    "subgroup": "All polls",
+    "sampleSize": "864",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/news/biden-vs-trump-poll-joe-biden-leads-donald-trump-ibd-tipp-2020-election-poll/",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-10",
+    "endDate": "2020-10-14",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.9",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133039",
+    "subgroup": "All polls",
+    "sampleSize": "864",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/news/biden-vs-trump-poll-joe-biden-leads-donald-trump-ibd-tipp-2020-election-poll/",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-10",
+    "endDate": "2020-10-14",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.3",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.2",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.3",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "133018",
     "subgroup": "All polls",
     "sampleSize": "5433",
@@ -248,12 +320,12 @@
     "subgroup": "All polls",
     "sampleSize": "602",
     "population": "lv",
-    "grade": "B/C",
-    "url": "https://www.roanoke.edu/documents/rcpoll/RR%20RC%20VA%20election%20poll%20Oct%202020%20topline.pdf",
+    "grade": "",
+    "url": "https://www.roanoke.edu/about/news/reconnect_research_roanoke_college_va_poll",
     "created_at": "2020-10-15",
     "startDate": "2020-09-30",
     "endDate": "2020-10-12",
-    "pollster": "Roanoke College",
+    "pollster": "Reconnect Research/Roanoke College",
     "answers": [
       {
         "choice": "Biden",
@@ -275,9 +347,40 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Virginia"
+  },
+  {
+    "id": "133042",
+    "subgroup": "All polls",
+    "sampleSize": "608",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://f.hubspotusercontent40.net/hubfs/7453540/201005_AZPOP/PR_Arizona%20Public%20Opinion%20Pulse%20Toplines%20and%20Crosstabs%20(1).pdf?utm_medium=email&_hsmi=97443604&_hsenc=p2ANqtz-8YKdQGdcjhrShEJfsBc7JTFdlklT1RodoeG-nMmCGHWRDUFwNlhUCpC0Qyjh4DQGGGyPyUZaS7ikUHptXoT6cVk8q7kfO-4hRg1rAyzImJPZbVBeA&utm_content=97443604&utm_source=hs_email",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-04",
+    "endDate": "2020-10-08",
+    "pollster": "OH Predictive Insights",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "133022",
@@ -521,12 +624,12 @@
     "subgroup": "All polls",
     "sampleSize": "602",
     "population": "lv",
-    "grade": "B/C",
-    "url": "https://www.roanoke.edu/documents/rcpoll/RR%20RC%20VA%20election%20poll%20Oct%202020%20topline.pdf",
+    "grade": "",
+    "url": "https://www.roanoke.edu/about/news/reconnect_research_roanoke_college_va_poll",
     "created_at": "2020-10-15",
     "startDate": "2020-09-30",
     "endDate": "2020-10-12",
-    "pollster": "Roanoke College",
+    "pollster": "Reconnect Research/Roanoke College",
     "answers": [
       {
         "choice": "Warner",
@@ -575,6 +678,38 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "133043",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://siouxcityjournal.com/news/local/govt-and-politics/feenstra-internal-poll-shows-23-point-lead-over-scholten-in-iowa-4th-race/article_0ba1571a-28bc-5dbf-8046-53290ae3b321.html",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-06",
+    "endDate": "2020-10-08",
+    "pollster": "American Viewpoint",
+    "answers": [
+      {
+        "choice": "Scholten",
+        "pct": "31.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Feenstra",
+        "pct": "54.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 4",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Iowa",
+    "district": "4"
   },
   {
     "id": "133033",
@@ -1118,7 +1253,7 @@
   {
     "id": "132906",
     "subgroup": "All polls",
-    "sampleSize": "181620",
+    "sampleSize": "10395",
     "population": "rv",
     "grade": "D-",
     "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
