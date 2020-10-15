@@ -27,6 +27,87 @@
     "state": "National"
   },
   {
+    "id": "133101",
+    "subgroup": "All polls",
+    "sampleSize": "1397",
+    "population": "a",
+    "grade": "A+",
+    "url": "http://maristpoll.marist.edu/wp-content/uploads/2020/10/NPR_PBS-NewsHour_Marist-Poll_USA_Complete-Survey-Findings_Likely_Adults-Tables_202010150849.pdf",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-13",
+    "pollster": "Marist College",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "133100",
+    "subgroup": "All polls",
+    "sampleSize": "1199",
+    "population": "rv",
+    "grade": "A+",
+    "url": "http://maristpoll.marist.edu/wp-content/uploads/2020/10/NPR_PBS-NewsHour_Marist-Poll_USA_Complete-Survey-Findings_Likely_Adults-Tables_202010150849.pdf",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-13",
+    "pollster": "Marist College",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "42.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "54.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "133099",
+    "subgroup": "All polls",
+    "sampleSize": "896",
+    "population": "lv",
+    "grade": "A+",
+    "url": "http://maristpoll.marist.edu/wp-content/uploads/2020/10/NPR_PBS-NewsHour_Marist-Poll_USA_Complete-Survey-Findings_Likely_Adults-Tables_202010150849.pdf",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-13",
+    "pollster": "Marist College",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "43.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "54.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "133052",
     "subgroup": "All polls",
     "sampleSize": "31920",
@@ -955,6 +1036,68 @@
     "state": "Michigan"
   },
   {
+    "id": "133103",
+    "subgroup": "All polls",
+    "sampleSize": "1199",
+    "population": "rv",
+    "grade": "A+",
+    "url": "http://maristpoll.marist.edu/wp-content/uploads/2020/10/NPR_PBS-NewsHour_Marist-Poll_USA_Complete-Survey-Findings_Likely_Adults-Tables_202010150849.pdf",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-13",
+    "pollster": "Marist College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133102",
+    "subgroup": "All polls",
+    "sampleSize": "896",
+    "population": "lv",
+    "grade": "A+",
+    "url": "http://maristpoll.marist.edu/wp-content/uploads/2020/10/NPR_PBS-NewsHour_Marist-Poll_USA_Complete-Survey-Findings_Likely_Adults-Tables_202010150849.pdf",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-13",
+    "pollster": "Marist College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "133093",
     "subgroup": "All polls",
     "sampleSize": "519",
@@ -1222,6 +1365,134 @@
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Iowa"
+  },
+  {
+    "id": "133107",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://drive.google.com/file/d/1kioj7cMIsxOhN81x_i1ZPNrgbClGmy95/view",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "133106",
+    "subgroup": "All polls",
+    "sampleSize": "543",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://drive.google.com/file/d/191PrxEKwpYvRBlp0qfofqUwB9tlQvxgE/view",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Michigan"
+  },
+  {
+    "id": "133105",
+    "subgroup": "All polls",
+    "sampleSize": "560",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://drive.google.com/file/d/1dfFWrhyponUB4qf3gWklaNNlWy1OhWJR/view",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Wisconsin"
+  },
+  {
+    "id": "133104",
+    "subgroup": "All polls",
+    "sampleSize": "586",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://drive.google.com/file/d/1SiBrhpzSQ8OoNVPbI-YdVZalG4MaPVDO/view",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-11",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Ohio"
   },
   {
     "id": "133042",
