@@ -54,6 +54,33 @@
     "state": "National"
   },
   {
+    "id": "133247",
+    "subgroup": "All polls",
+    "sampleSize": "1994",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://www.ahla.com/sites/default/files/AHLA%20Survey%20Results_10.13.20.pdf",
+    "created_at": "2020-10-16",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-09",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "42.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "56.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "133243",
     "subgroup": "All polls",
     "sampleSize": "951",
@@ -255,9 +282,45 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
+  },
+  {
+    "id": "133251",
+    "subgroup": "All polls",
+    "sampleSize": "423",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/ak100920-crosstabs1/722c27f1f660cf21/full.pdf",
+    "created_at": "2020-10-16",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-14",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "39.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "8.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Alaska"
   },
   {
     "id": "133239",
@@ -502,6 +565,37 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Texas"
+  },
+  {
+    "id": "133248",
+    "subgroup": "All polls",
+    "sampleSize": "943",
+    "population": "lv",
+    "grade": "C",
+    "url": "http://stpetepolls.org/files/StPetePolls_2020_CD15GEN_October15_KDT35.pdf",
+    "created_at": "2020-10-16",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-15",
+    "pollster": "St. Pete Polls",
+    "answers": [
+      {
+        "choice": "Cohn",
+        "pct": "40.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Franklin",
+        "pct": "48.5",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 15",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Florida",
+    "district": "15"
   },
   {
     "id": "133053",
@@ -936,47 +1030,6 @@
     "state": "National"
   },
   {
-    "id": "133086",
-    "subgroup": "All polls",
-    "sampleSize": "605",
-    "population": "lv",
-    "grade": "A+",
-    "url": "https://int.nyt.com/data/documenttools/sc100920-crosstabs/7b3ac01b2be42e57/full.pdf",
-    "created_at": "2020-10-15",
-    "startDate": "2020-10-09",
-    "endDate": "2020-10-15",
-    "pollster": "Siena College/The New York Times Upshot",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "41.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "49.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Jorgensen",
-        "pct": "2.0",
-        "party": "Lib"
-      },
-      {
-        "choice": "Hawkins",
-        "pct": "1.0",
-        "party": "Gre"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "South Carolina"
-  },
-  {
     "id": "133223",
     "subgroup": "All polls",
     "sampleSize": "721",
@@ -1010,7 +1063,7 @@
   {
     "id": "133165",
     "subgroup": "All polls",
-    "sampleSize": "28991",
+    "sampleSize": "17663",
     "population": "lv",
     "grade": "D-",
     "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
@@ -1041,7 +1094,7 @@
   {
     "id": "133113",
     "subgroup": "All polls",
-    "sampleSize": "28991",
+    "sampleSize": "17663",
     "population": "rv",
     "grade": "D-",
     "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
@@ -1264,6 +1317,47 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "133086",
+    "subgroup": "All polls",
+    "sampleSize": "605",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/sc100920-crosstabs/7b3ac01b2be42e57/full.pdf",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-14",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "41.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "South Carolina"
   },
   {
     "id": "133018",
@@ -4526,7 +4620,7 @@
     "sampleSize": "400",
     "population": "lv",
     "grade": "B-",
-    "url": "https://overland.amgreatness.com/app/uploads/2020/10/Insider-Advantage_Center-for-American-Greatness-PA-POll-.pdf",
+    "url": "https://projects.fivethirtyeight.com/polls/20201016_PA_InsiderAdvantage.pdf",
     "created_at": "2020-10-15",
     "startDate": "2020-10-12",
     "endDate": "2020-10-13",
@@ -5331,7 +5425,7 @@
     "sampleSize": "1378",
     "population": "rv",
     "grade": "",
-    "url": "https://www.marketplace.org/wp-content/uploads/2020/10/Marketplace-Edison-Poll-Banner-1.pdf",
+    "url": "https://www.marketplace.org/wp-content/uploads/2020/10/Marketplace-Edison-Poll-Banner-2.pdf",
     "created_at": "2020-10-15",
     "startDate": "2020-09-25",
     "endDate": "2020-10-08",
@@ -5654,41 +5748,6 @@
     "state": "National"
   },
   {
-    "id": "133087",
-    "subgroup": "All polls",
-    "sampleSize": "605",
-    "population": "lv",
-    "grade": "A+",
-    "url": "https://int.nyt.com/data/documenttools/sc100920-crosstabs/7b3ac01b2be42e57/full.pdf",
-    "created_at": "2020-10-15",
-    "startDate": "2020-10-09",
-    "endDate": "2020-10-15",
-    "pollster": "Siena College/The New York Times Upshot",
-    "answers": [
-      {
-        "choice": "Harrison",
-        "pct": "40.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Graham",
-        "pct": "46.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Bledsoe",
-        "pct": "4.0",
-        "party": "Con"
-      }
-    ],
-    "type": "senate",
-    "seat_name": "Class II",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "South Carolina"
-  },
-  {
     "id": "133225",
     "subgroup": "All polls",
     "sampleSize": "721",
@@ -5832,6 +5891,41 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Virginia"
+  },
+  {
+    "id": "133087",
+    "subgroup": "All polls",
+    "sampleSize": "605",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/sc100920-crosstabs/7b3ac01b2be42e57/full.pdf",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-14",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Harrison",
+        "pct": "40.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Graham",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Bledsoe",
+        "pct": "4.0",
+        "party": "Con"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "South Carolina"
   },
   {
     "id": "133226",
@@ -6257,7 +6351,7 @@
     "sampleSize": "789",
     "population": "rv",
     "grade": "B",
-    "url": "https://auburnpub.com/news/local/govt-and-politics/new-democratic-poll-finds-dana-balter-with-narrow-lead-over-john-katko/article_03fd41a5-9601-5c10-b2fa-fe399ca82f41.html?utm_campaign=snd-autopilot&utm_medium=social&utm_source=twitter_The_Citizen",
+    "url": "https://nmcdn.io/e186d21f8c7946a19faed23c3da2f0da/7c9798eaafd54081881797bf9a163295/files/research/NY-24-poll.pdf",
     "created_at": "2020-10-15",
     "startDate": "2020-10-13",
     "endDate": "2020-10-14",
