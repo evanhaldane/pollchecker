@@ -473,6 +473,37 @@
     "state": "South Carolina"
   },
   {
+    "id": "133223",
+    "subgroup": "All polls",
+    "sampleSize": "721",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/north-carolina-2020-biden-and-trump-neck-and-neck-as-republicans-close-gap-in-u-s-senate-and-governor-races",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-14",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.2",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.2",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "133165",
     "subgroup": "All polls",
     "sampleSize": "28991",
@@ -4974,7 +5005,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -5152,6 +5183,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "South Carolina"
+  },
+  {
+    "id": "133225",
+    "subgroup": "All polls",
+    "sampleSize": "721",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/north-carolina-2020-biden-and-trump-neck-and-neck-as-republicans-close-gap-in-u-s-senate-and-governor-races",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-14",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "44.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "43.5",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "133036",
@@ -5657,6 +5718,37 @@
     "district": "24"
   },
   {
+    "id": "133222",
+    "subgroup": "All polls",
+    "sampleSize": "644",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://talkbusiness.net/2020/10/poll-2nd-congressional-district-race-between-hill-elliott-tied-headed-into-early-voting/",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-11",
+    "endDate": "2020-10-13",
+    "pollster": "Hendrix College",
+    "answers": [
+      {
+        "choice": "Elliott",
+        "pct": "45.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Hill",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arkansas",
+    "district": "2"
+  },
+  {
     "id": "133098",
     "subgroup": "All polls",
     "sampleSize": "410",
@@ -5821,6 +5913,36 @@
     "cycle": "2020",
     "state": "Maine",
     "district": "1"
+  },
+  {
+    "id": "133224",
+    "subgroup": "All polls",
+    "sampleSize": "721",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/north-carolina-2020-biden-and-trump-neck-and-neck-as-republicans-close-gap-in-u-s-senate-and-governor-races",
+    "created_at": "2020-10-15",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-14",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "50.3",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "45.9",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "133033",
