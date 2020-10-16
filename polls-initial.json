@@ -143,6 +143,191 @@
     "state": "National"
   },
   {
+    "id": "133378",
+    "subgroup": "All polls",
+    "sampleSize": "1133",
+    "population": "rv",
+    "grade": "B-",
+    "url": "https://www.mitchellrepublic.com/news/government-and-politics/6720928-Oct.-13-15-polling-shows-change-in-coronavirus-concerns-among-Dems",
+    "created_at": "2020-10-16",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-15",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "38.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "West",
+        "pct": "2.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133377",
+    "subgroup": "All polls",
+    "sampleSize": "1342",
+    "population": "a",
+    "grade": "B-",
+    "url": "https://www.mitchellrepublic.com/news/government-and-politics/6720928-Oct.-13-15-polling-shows-change-in-coronavirus-concerns-among-Dems",
+    "created_at": "2020-10-16",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-15",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "37.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "West",
+        "pct": "2.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133372",
+    "subgroup": "All polls",
+    "sampleSize": "920",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.mitchellrepublic.com/news/government-and-politics/6720928-Oct.-13-15-polling-shows-change-in-coronavirus-concerns-among-Dems",
+    "created_at": "2020-10-16",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-15",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133371",
+    "subgroup": "All polls",
+    "sampleSize": "1133",
+    "population": "rv",
+    "grade": "B-",
+    "url": "https://www.mitchellrepublic.com/news/government-and-politics/6720928-Oct.-13-15-polling-shows-change-in-coronavirus-concerns-among-Dems",
+    "created_at": "2020-10-16",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-15",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "38.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133370",
+    "subgroup": "All polls",
+    "sampleSize": "1342",
+    "population": "a",
+    "grade": "B-",
+    "url": "https://www.mitchellrepublic.com/news/government-and-politics/6720928-Oct.-13-15-polling-shows-change-in-coronavirus-concerns-among-Dems",
+    "created_at": "2020-10-16",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-15",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "36.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "133261",
     "subgroup": "All polls",
     "sampleSize": "992",
@@ -3883,6 +4068,42 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "133369",
+    "subgroup": "All polls",
+    "sampleSize": "525",
+    "population": "lv",
+    "grade": "",
+    "url": "https://jaimeharrison.com/wp-content/uploads/2020/10/10.16-Poll.pdf",
+    "created_at": "2020-10-16",
+    "startDate": "2020-10-11",
+    "endDate": "2020-10-16",
+    "pollster": "brilliant corners Research & Strategies",
+    "answers": [
+      {
+        "choice": "Harrison",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Graham",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Bledsoe",
+        "pct": "3.0",
+        "party": "Con"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "South Carolina"
   },
   {
     "id": "133244",
