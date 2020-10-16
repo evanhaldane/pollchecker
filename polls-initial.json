@@ -323,6 +323,37 @@
     "state": "Alaska"
   },
   {
+    "id": "133257",
+    "subgroup": "All polls",
+    "sampleSize": "721",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://stockton.edu/hughes-center/polling/documents/2020-1016-stockton-poll-biden-booker-lead-trump-stronger-in-sj.pdf",
+    "created_at": "2020-10-16",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-13",
+    "pollster": "Stockton University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "56.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "36.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "New Jersey"
+  },
+  {
     "id": "133239",
     "subgroup": "All polls",
     "sampleSize": "625",
@@ -567,6 +598,41 @@
     "state": "Texas"
   },
   {
+    "id": "133252",
+    "subgroup": "All polls",
+    "sampleSize": "423",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/ak100920-crosstabs1/722c27f1f660cf21/full.pdf",
+    "created_at": "2020-10-16",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-14",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Gross",
+        "pct": "37.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Sullivan",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Howe",
+        "pct": "10.0",
+        "party": "Aki"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Alaska"
+  },
+  {
     "id": "133248",
     "subgroup": "All polls",
     "sampleSize": "943",
@@ -596,6 +662,106 @@
     "cycle": "2020",
     "state": "Florida",
     "district": "15"
+  },
+  {
+    "id": "133255",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "",
+    "url": "https://wesleyfortexas.com/wp-content/uploads/2020/10/TX-07-October-Survey-Results.pdf",
+    "created_at": "2020-10-16",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-15",
+    "pollster": "GS Strategy Group",
+    "answers": [
+      {
+        "choice": "Fletcher",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Hunt",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Kelly",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 7",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Texas",
+    "district": "7"
+  },
+  {
+    "id": "133253",
+    "subgroup": "All polls",
+    "sampleSize": "423",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/ak100920-crosstabs1/722c27f1f660cf21/full.pdf",
+    "created_at": "2020-10-16",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-14",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Galvin",
+        "pct": "41.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Young",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Alaska",
+    "district": "1"
+  },
+  {
+    "id": "133254",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://www.congressionalleadershipfund.org/wp-content/uploads/2020/10/IL-CD-17-Key-Findings-Memo.pdf",
+    "created_at": "2020-10-16",
+    "startDate": "2020-10-04",
+    "endDate": "2020-10-06",
+    "pollster": "Public Opinion Strategies",
+    "answers": [
+      {
+        "choice": "Bustos",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "King",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 17",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Illinois",
+    "district": "17"
   },
   {
     "id": "133053",
