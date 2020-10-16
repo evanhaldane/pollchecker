@@ -81,6 +81,99 @@
     "state": "National"
   },
   {
+    "id": "133261",
+    "subgroup": "All polls",
+    "sampleSize": "992",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://thehill.com/homenews/campaign/521421-biden-holds-five-point-lead-over-trump-in-pennsylvania-poll",
+    "created_at": "2020-10-16",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-15",
+    "pollster": "HarrisX",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "133260",
+    "subgroup": "All polls",
+    "sampleSize": "1289",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://thehill.com/homenews/campaign/521415-biden-holds-9-point-lead-over-in-michigan-poll",
+    "created_at": "2020-10-16",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-15",
+    "pollster": "HarrisX",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "133259",
+    "subgroup": "All polls",
+    "sampleSize": "965",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://thehill.com/homenews/campaign/521417-exclusive-poll-trump-and-biden-deadlocked-in-florida",
+    "created_at": "2020-10-16",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-15",
+    "pollster": "HarrisX",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
     "id": "133243",
     "subgroup": "All polls",
     "sampleSize": "951",
@@ -349,7 +442,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New Jersey"
   },
@@ -631,6 +724,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Alaska"
+  },
+  {
+    "id": "133258",
+    "subgroup": "All polls",
+    "sampleSize": "721",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://stockton.edu/hughes-center/polling/documents/2020-1016-stockton-poll-biden-booker-lead-trump-stronger-in-sj.pdf",
+    "created_at": "2020-10-16",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-13",
+    "pollster": "Stockton University",
+    "answers": [
+      {
+        "choice": "Booker",
+        "pct": "57.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Mehta",
+        "pct": "32.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Jersey"
   },
   {
     "id": "133248",
@@ -26302,254 +26425,6 @@
     "cycle": "2020",
     "partisan": "DEM",
     "state": "South Carolina",
-    "district": "1"
-  },
-  {
-    "id": "132407",
-    "subgroup": "All polls",
-    "sampleSize": "91",
-    "population": "lv",
-    "grade": "B",
-    "url": "https://www.dropbox.com/s/8k0pvsrbbzcy8p6/slu-poll-october2020-toplineresults.pdf?dl=0",
-    "created_at": "2020-10-13",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-07",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Ellis",
-        "pct": "22.4",
-        "party": "Dem"
-      },
-      {
-        "choice": "Smith",
-        "pct": "70.8",
-        "party": "Rep"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 8",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Missouri",
-    "district": "8"
-  },
-  {
-    "id": "132406",
-    "subgroup": "All polls",
-    "sampleSize": "142",
-    "population": "lv",
-    "grade": "B",
-    "url": "https://www.dropbox.com/s/8k0pvsrbbzcy8p6/slu-poll-october2020-toplineresults.pdf?dl=0",
-    "created_at": "2020-10-13",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-07",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Montseny",
-        "pct": "31.5",
-        "party": "Dem"
-      },
-      {
-        "choice": "Long",
-        "pct": "56.6",
-        "party": "Rep"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 7",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Missouri",
-    "district": "7"
-  },
-  {
-    "id": "132405",
-    "subgroup": "All polls",
-    "sampleSize": "98",
-    "population": "lv",
-    "grade": "B",
-    "url": "https://www.dropbox.com/s/8k0pvsrbbzcy8p6/slu-poll-october2020-toplineresults.pdf?dl=0",
-    "created_at": "2020-10-13",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-07",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Ross",
-        "pct": "36.2",
-        "party": "Dem"
-      },
-      {
-        "choice": "Graves",
-        "pct": "57.6",
-        "party": "Rep"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 6",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Missouri",
-    "district": "6"
-  },
-  {
-    "id": "132404",
-    "subgroup": "All polls",
-    "sampleSize": "135",
-    "population": "lv",
-    "grade": "B",
-    "url": "https://www.dropbox.com/s/8k0pvsrbbzcy8p6/slu-poll-october2020-toplineresults.pdf?dl=0",
-    "created_at": "2020-10-13",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-07",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Cleaver",
-        "pct": "59.4",
-        "party": "Dem"
-      },
-      {
-        "choice": "Derks",
-        "pct": "32.8",
-        "party": "Rep"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 5",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Missouri",
-    "district": "5"
-  },
-  {
-    "id": "132403",
-    "subgroup": "All polls",
-    "sampleSize": "92",
-    "population": "lv",
-    "grade": "B",
-    "url": "https://www.dropbox.com/s/8k0pvsrbbzcy8p6/slu-poll-october2020-toplineresults.pdf?dl=0",
-    "created_at": "2020-10-13",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-07",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Simmons",
-        "pct": "36.8",
-        "party": "Dem"
-      },
-      {
-        "choice": "Hartzler",
-        "pct": "52.6",
-        "party": "Rep"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 4",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Missouri",
-    "district": "4"
-  },
-  {
-    "id": "132402",
-    "subgroup": "All polls",
-    "sampleSize": "106",
-    "population": "lv",
-    "grade": "B",
-    "url": "https://www.dropbox.com/s/8k0pvsrbbzcy8p6/slu-poll-october2020-toplineresults.pdf?dl=0",
-    "created_at": "2020-10-13",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-07",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Rezabek",
-        "pct": "29.4",
-        "party": "Dem"
-      },
-      {
-        "choice": "Luetkemeyer",
-        "pct": "63.5",
-        "party": "Rep"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 3",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Missouri",
-    "district": "3"
-  },
-  {
-    "id": "132401",
-    "subgroup": "All polls",
-    "sampleSize": "115",
-    "population": "lv",
-    "grade": "B",
-    "url": "https://www.dropbox.com/s/8k0pvsrbbzcy8p6/slu-poll-october2020-toplineresults.pdf?dl=0",
-    "created_at": "2020-10-13",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-07",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Schupp",
-        "pct": "51.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Wagner",
-        "pct": "42.2",
-        "party": "Rep"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 2",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Missouri",
-    "district": "2"
-  },
-  {
-    "id": "132400",
-    "subgroup": "All polls",
-    "sampleSize": "152",
-    "population": "lv",
-    "grade": "B",
-    "url": "https://www.dropbox.com/s/8k0pvsrbbzcy8p6/slu-poll-october2020-toplineresults.pdf?dl=0",
-    "created_at": "2020-10-13",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-07",
-    "pollster": "YouGov",
-    "answers": [
-      {
-        "choice": "Bush",
-        "pct": "60.7",
-        "party": "Dem"
-      },
-      {
-        "choice": "Rogers",
-        "pct": "25.8",
-        "party": "Rep"
-      }
-    ],
-    "type": "house",
-    "seat_name": "District 1",
-    "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "Missouri",
     "district": "1"
   },
   {
