@@ -67,7 +67,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -165,6 +165,47 @@
     "state": "National"
   },
   {
+    "id": "133388",
+    "subgroup": "All polls",
+    "sampleSize": "1010",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://moscout.com/daily-updates-1/2020/10/17/moscout-daily-update-koenigs-cavalry-poll-shows-parson-lead-cleaner-in-flames-hallway-sees-dem-gains-in-house-and-more",
+    "created_at": "2020-10-17",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-15",
+    "pollster": "Remington Research Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "51.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Missouri"
+  },
+  {
     "id": "133380",
     "subgroup": "All polls",
     "sampleSize": "5637",
@@ -191,6 +232,108 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "133386",
+    "subgroup": "All polls",
+    "sampleSize": "1018",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://www.thetrafalgargroup.org/news/mi-sen-1020/",
+    "created_at": "2020-10-17",
+    "startDate": "2020-10-11",
+    "endDate": "2020-10-15",
+    "pollster": "Trafalgar Group",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "46.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "133387",
+    "subgroup": "All polls",
+    "sampleSize": "615",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://bognetforcongress.com/uploads/bognet-memo-101520.pdf",
+    "created_at": "2020-10-17",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-14",
+    "pollster": "co/efficient",
+    "answers": [
+      {
+        "choice": "Cartwright",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Bognet",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 8",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Pennsylvania",
+    "district": "8"
+  },
+  {
+    "id": "133389",
+    "subgroup": "All polls",
+    "sampleSize": "1010",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://moscout.com/daily-updates-1/2020/10/17/moscout-daily-update-koenigs-cavalry-poll-shows-parson-lead-cleaner-in-flames-hallway-sees-dem-gains-in-house-and-more",
+    "created_at": "2020-10-17",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-15",
+    "pollster": "Remington Research Group",
+    "answers": [
+      {
+        "choice": "Galloway",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Parson",
+        "pct": "51.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Combs",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Bauer",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Missouri"
   },
   {
     "id": "133246",
@@ -4418,7 +4561,7 @@
     "sampleSize": "801",
     "population": "lv",
     "grade": "B/C",
-    "url": "https://twitter.com/benpershing/status/1317252201891434502",
+    "url": "https://dougjones.com/sites/default/files/media_uploads/220-6003C%20Alabama%20Senate%20Survey%20Memo-F.pdf",
     "created_at": "2020-10-16",
     "startDate": "2020-10-11",
     "endDate": "2020-10-14",
