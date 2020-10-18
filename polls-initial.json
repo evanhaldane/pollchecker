@@ -191,7 +191,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
   },
@@ -222,9 +222,40 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "133505",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "",
+    "url": "https://twitter.com/Nat_Herz/status/1317942531120898048?s=20",
+    "created_at": "2020-10-18",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-04",
+    "pollster": "Patinkin Research Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Alaska"
   },
   {
     "id": "133494",
@@ -257,7 +288,7 @@
   {
     "id": "133502",
     "subgroup": "All polls",
-    "sampleSize": "1074",
+    "sampleSize": "1065",
     "population": "lv",
     "grade": "B",
     "url": "https://drive.google.com/file/d/1j9uJnxfT1x8spYhW2QmAq6OkSMd06wJG/view",
@@ -283,6 +314,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "133506",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "",
+    "url": "https://twitter.com/Nat_Herz/status/1317942531120898048?s=20",
+    "created_at": "2020-10-18",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-04",
+    "pollster": "Patinkin Research Strategies",
+    "answers": [
+      {
+        "choice": "Gross",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Sullivan",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Alaska"
   },
   {
     "id": "133442",
@@ -3810,7 +3871,7 @@
     "sampleSize": "1010",
     "population": "lv",
     "grade": "C-",
-    "url": "https://moscout.com/daily-updates-1/2020/10/17/moscout-daily-update-koenigs-cavalry-poll-shows-parson-lead-cleaner-in-flames-hallway-sees-dem-gains-in-house-and-more",
+    "url": "https://projects.fivethirtyeight.com/polls/20201017_MO_Remington.pdf",
     "created_at": "2020-10-17",
     "startDate": "2020-10-14",
     "endDate": "2020-10-15",
