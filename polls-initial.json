@@ -139,6 +139,37 @@
     "state": "Michigan"
   },
   {
+    "id": "133650",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "B",
+    "url": "https://news.yahoo.com/yahoo-news-you-gov-poll-the-tide-turns-against-trump-as-biden-surges-to-his-largestever-lead-among-likely-voters-175644323.html",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-18",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "133627",
     "subgroup": "All polls",
     "sampleSize": "949",
@@ -306,10 +337,10 @@
   {
     "id": "133646",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "1265",
     "population": "lv",
     "grade": "B/C",
-    "url": "https://justthenews.com/podcasts/just-polls-scott-rasmussen/biden-continues-8-point-lead-stable-nationwide-polls",
+    "url": "https://justthenews.com/politics-policy/polling/biden-continues-8-point-lead-stable-nationwide-polls",
     "created_at": "2020-10-19",
     "startDate": "2020-10-15",
     "endDate": "2020-10-17",
@@ -340,7 +371,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -879,6 +910,37 @@
     "state": "Virginia"
   },
   {
+    "id": "133649",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.deseret.com/utah/2020/10/19/21523126/news-congress-election-republican-democrat-poll-4th-congressional-district-tossup-mcadams-owens",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-17",
+    "pollster": "RMG Research",
+    "answers": [
+      {
+        "choice": "McAdams",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Owens",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 4",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Utah",
+    "district": "4"
+  },
+  {
     "id": "133630",
     "subgroup": "All polls",
     "sampleSize": "400",
@@ -946,6 +1008,70 @@
     "partisan": "DEM",
     "state": "Minnesota",
     "district": "2"
+  },
+  {
+    "id": "133647",
+    "subgroup": "All polls",
+    "sampleSize": "958",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://brynneforcongress.com/wp-content/uploads/2020/10/KennedyPollingMemoOct2020.pdf?emci=9c557f92-1712-eb11-96f5-00155d03affc&emdi=1fb80a86-2612-eb11-96f5-00155d03affc&ceid=8734838",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-14",
+    "pollster": "Lake Research Partners",
+    "answers": [
+      {
+        "choice": "Kennedy",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McClintock",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 4",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "California",
+    "district": "4"
+  },
+  {
+    "id": "133648",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://www.youngkimforcongress.com/wp-content/uploads/2020/10/CA-CD-39-Poll-Memo-October-2020-1-1.pdf",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-11",
+    "endDate": "2020-10-14",
+    "pollster": "Public Opinion Strategies",
+    "answers": [
+      {
+        "choice": "Cisneros",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Kim",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 39",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "California",
+    "district": "39"
   },
   {
     "id": "133629",
