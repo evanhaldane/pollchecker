@@ -108,6 +108,68 @@
     "state": "National"
   },
   {
+    "id": "133665",
+    "subgroup": "All polls",
+    "sampleSize": "663",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://uk.reuters.com/article/instant-article/idUKKBN2742P1",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-19",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Wisconsin"
+  },
+  {
+    "id": "133664",
+    "subgroup": "All polls",
+    "sampleSize": "653",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://uk.reuters.com/article/instant-article/idUKKBN2742P1",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-19",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
     "id": "133642",
     "subgroup": "All polls",
     "sampleSize": "900",
@@ -206,7 +268,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -443,7 +505,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -510,7 +572,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -541,7 +603,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Washington"
   },
@@ -609,7 +671,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
