@@ -54,6 +54,33 @@
     "state": "National"
   },
   {
+    "id": "133640",
+    "subgroup": "All polls",
+    "sampleSize": "2855",
+    "population": "rv",
+    "grade": "C",
+    "url": "https://thehill.com/hilltv/what-americas-thinking/521695-what-americas-thinking-october-19-2020",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-10",
+    "endDate": "2020-10-13",
+    "pollster": "HarrisX",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "54.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "133615",
     "subgroup": "All polls",
     "sampleSize": "2538",
@@ -79,6 +106,37 @@
     "tracking": false,
     "headToHead": false,
     "state": "National"
+  },
+  {
+    "id": "133642",
+    "subgroup": "All polls",
+    "sampleSize": "900",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://projects.fivethirtyeight.com/polls/20201019_MI_Mitchell.pdf",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-18",
+    "endDate": "2020-10-18",
+    "pollster": "Mitchell Research & Communications",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Michigan"
   },
   {
     "id": "133627",
@@ -246,12 +304,53 @@
     "state": "National"
   },
   {
-    "id": "133639",
+    "id": "133646",
     "subgroup": "All polls",
     "sampleSize": null,
     "population": "lv",
+    "grade": "B/C",
+    "url": "https://justthenews.com/podcasts/just-polls-scott-rasmussen/biden-continues-8-point-lead-stable-nationwide-polls",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-17",
+    "pollster": "RMG Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133639",
+    "subgroup": "All polls",
+    "sampleSize": "1051",
+    "population": "lv",
     "grade": "C-",
-    "url": "https://twitter.com/RobertCahaly/status/1318210619049496577",
+    "url": "https://www.thetrafalgargroup.org/news/wi-pres-1020/",
     "created_at": "2020-10-19",
     "startDate": "2020-10-14",
     "endDate": "2020-10-16",
@@ -280,6 +379,43 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
+  },
+  {
+    "id": "133641",
+    "subgroup": "All polls",
+    "sampleSize": "1041",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://d3n8a8pro7vhmx.cloudfront.net/restoration/pages/991/attachments/original/1603117915/RSTP_PA_'20_Oct_Press_Report.pdf?1603117915",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-15",
+    "pollster": "Trafalgar Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.4",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.9",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Pennsylvania"
   },
   {
     "id": "133625",
@@ -374,6 +510,37 @@
     "cycle": "2020",
     "partisan": "REP",
     "state": "Virginia"
+  },
+  {
+    "id": "133643",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://www.colorado.edu/lab/aprl/sites/default/files/attached-files/2020_colorado_political_climate_report_election_topline_10-19-20_.pdf",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-09",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "38.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Colorado"
   },
   {
     "id": "133632",
@@ -560,6 +727,36 @@
     "state": "National"
   },
   {
+    "id": "133645",
+    "subgroup": "All polls",
+    "sampleSize": "900",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://projects.fivethirtyeight.com/polls/20201019_MI_Mitchell.pdf",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-18",
+    "endDate": "2020-10-18",
+    "pollster": "Mitchell Research & Communications",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
     "id": "133637",
     "subgroup": "All polls",
     "sampleSize": "800",
@@ -619,6 +816,36 @@
     "cycle": "2020",
     "partisan": "REP",
     "state": "Virginia"
+  },
+  {
+    "id": "133644",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://www.colorado.edu/lab/aprl/sites/default/files/attached-files/2020_colorado_political_climate_report_election_topline_10-19-20_.pdf",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-09",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Hickenlooper",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Gardner",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Colorado"
   },
   {
     "id": "133633",
