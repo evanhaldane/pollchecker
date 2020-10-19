@@ -94,7 +94,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -254,6 +254,70 @@
     "state": "National"
   },
   {
+    "id": "133631",
+    "subgroup": "All polls",
+    "sampleSize": "607",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://martinsvillebulletin.com/news/local/govt-and-politics/election-2020-republican-senate-candidate-daniel-gade-criticizes-mark-warner-and-the-democratic-party-during/article_62a1a626-6a8a-51cb-9c2f-562effcfa3db.html",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-11",
+    "pollster": "Cygnal",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.2",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.2",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Virginia"
+  },
+  {
+    "id": "133632",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://gadeforvirginia.com/new-poll-shows-gade-down-by-single-digits/",
+    "created_at": "2020-10-19",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-25",
+    "pollster": "Cygnal",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.4",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Virginia"
+  },
+  {
     "id": "133628",
     "subgroup": "All polls",
     "sampleSize": "2538",
@@ -404,6 +468,100 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "133634",
+    "subgroup": "All polls",
+    "sampleSize": "607",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://martinsvillebulletin.com/news/local/govt-and-politics/election-2020-republican-senate-candidate-daniel-gade-criticizes-mark-warner-and-the-democratic-party-during/article_62a1a626-6a8a-51cb-9c2f-562effcfa3db.html",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-11",
+    "pollster": "Cygnal",
+    "answers": [
+      {
+        "choice": "Warner",
+        "pct": "51.3",
+        "party": "Dem"
+      },
+      {
+        "choice": "Gade",
+        "pct": "44.2",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Virginia"
+  },
+  {
+    "id": "133633",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://gadeforvirginia.com/new-poll-shows-gade-down-by-single-digits/",
+    "created_at": "2020-10-19",
+    "startDate": "2020-09-22",
+    "endDate": "2020-09-25",
+    "pollster": "Cygnal",
+    "answers": [
+      {
+        "choice": "Warner",
+        "pct": "50.7",
+        "party": "Dem"
+      },
+      {
+        "choice": "Gade",
+        "pct": "41.3",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Virginia"
+  },
+  {
+    "id": "133630",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/TomNovelly/status/1318176978843979776",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-16",
+    "pollster": "Strategic National",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Mace",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "South Carolina",
+    "district": "1"
   },
   {
     "id": "133629",
