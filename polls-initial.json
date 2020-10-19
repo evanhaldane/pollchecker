@@ -128,6 +128,16 @@
         "choice": "Trump",
         "pct": "41.0",
         "party": "Rep"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
       }
     ],
     "type": "president-general",
@@ -166,6 +176,37 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133662",
+    "subgroup": "All polls",
+    "sampleSize": "14994",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-18",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
     "cycle": "2020",
     "state": "National"
   },
@@ -376,6 +417,37 @@
     "state": "National"
   },
   {
+    "id": "133661",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-17",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "133639",
     "subgroup": "All polls",
     "sampleSize": "1051",
@@ -410,6 +482,68 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
+  },
+  {
+    "id": "133660",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-16",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133663",
+    "subgroup": "All polls",
+    "sampleSize": "610",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://www.nwprogressive.org/weblog/2020/10/three-out-of-five-washingtonians-surveyed-are-voting-for-joe-biden-npi-poll-finds.html",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-15",
+    "pollster": "Public Policy Polling",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "60.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "37.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Washington"
   },
   {
     "id": "133641",
@@ -447,6 +581,37 @@
     "cycle": "2020",
     "partisan": "REP",
     "state": "Pennsylvania"
+  },
+  {
+    "id": "133659",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-15",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "133625",
@@ -730,6 +895,34 @@
     "state": "National"
   },
   {
+    "id": "133658",
+    "subgroup": "All polls",
+    "sampleSize": "14994",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-18",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "133620",
     "subgroup": "All polls",
     "sampleSize": "5549",
@@ -748,6 +941,90 @@
       {
         "choice": "Rep",
         "pct": "44.27"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133657",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-17",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "50.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133656",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-16",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133655",
+    "subgroup": "All polls",
+    "sampleSize": "12000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/2020-presidential-election-tracker/",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-15",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
       }
     ],
     "type": "generic-ballot",
@@ -930,6 +1207,16 @@
         "choice": "Owens",
         "pct": "46.0",
         "party": "Rep"
+      },
+      {
+        "choice": "Molnar",
+        "pct": "3.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Broderick",
+        "pct": "1.0",
+        "party": "Uni"
       }
     ],
     "type": "house",
@@ -4842,7 +5129,7 @@
     "id": "133503",
     "subgroup": "All polls",
     "sampleSize": "1200",
-    "population": "v",
+    "population": "lv",
     "grade": "B/C",
     "url": "https://www.puertorico-herald.org/issues2/2020/vol18n05/PRH%20Early%20Oct%202020%20Tracking%20Topline.pdf",
     "created_at": "2020-10-18",
