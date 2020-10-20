@@ -108,6 +108,68 @@
     "state": "National"
   },
   {
+    "id": "133846",
+    "subgroup": "All polls",
+    "sampleSize": "660",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_north_carolina_state_poll_w4_10_20_20.pdf",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-20",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "133844",
+    "subgroup": "All polls",
+    "sampleSize": "686",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_michigan_state_poll_w4_10_20_2020.pdf",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-20",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
     "id": "133838",
     "subgroup": "All polls",
     "sampleSize": "800",
@@ -134,7 +196,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -240,6 +302,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "133843",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://politicaliq.com/2020/10/20/az-biden-47-trump-46/",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-19",
+    "pollster": "RMG Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "133826",
@@ -808,7 +901,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Minnesota"
   },
@@ -962,6 +1055,106 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "133847",
+    "subgroup": "All polls",
+    "sampleSize": "660",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_north_carolina_state_poll_w4_10_20_20.pdf",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-20",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "133845",
+    "subgroup": "All polls",
+    "sampleSize": "686",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_michigan_state_poll_w4_10_20_2020.pdf",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-20",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "133839",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.cygn.al/cygnal-poll-cornyn-leads-hegar-by-eight-points/",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-18",
+    "endDate": "2020-10-19",
+    "pollster": "Cygnal",
+    "answers": [
+      {
+        "choice": "Hegar",
+        "pct": "40.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Cornyn",
+        "pct": "48.9",
+        "party": "Rep"
+      },
+      {
+        "choice": "McKennon",
+        "pct": "2.8",
+        "party": "Lib"
+      },
+      {
+        "choice": "Collins",
+        "pct": "0.6",
+        "party": "Gre"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Texas"
   },
   {
     "id": "133830",
@@ -1262,6 +1455,100 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Minnesota"
+  },
+  {
+    "id": "133840",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://politicaliq.com/2020/10/20/colorado-senate-race-hickenlooper-d-51-gardner-r-42/",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-15",
+    "pollster": "RMG Research",
+    "answers": [
+      {
+        "choice": "Hickenlooper",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Gardner",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Colorado"
+  },
+  {
+    "id": "133842",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://thehill.com/homenews/campaign/521943-internal-democratic-poll-shows-desiree-tims-making-gains-on-mike-turner-in",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-18",
+    "pollster": "Garin-Hart-Yang Research Group",
+    "answers": [
+      {
+        "choice": "Tims",
+        "pct": "40.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Turner",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 10",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Ohio",
+    "district": "10"
+  },
+  {
+    "id": "133841",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://floridapolitics.com/archives/375991-survey-shalala-rematch",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-13",
+    "pollster": "Bendixen & Amandi International",
+    "answers": [
+      {
+        "choice": "Shalala",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Salazar",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 27",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Florida",
+    "district": "27"
   },
   {
     "id": "133825",
