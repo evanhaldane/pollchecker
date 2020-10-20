@@ -134,7 +134,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Ohio"
   },
@@ -209,6 +209,47 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "133826",
+    "subgroup": "All polls",
+    "sampleSize": "759",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/ga101320-crosstabs/96723fae2a9846ed/full.pdf",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-19",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Georgia"
   },
   {
     "id": "133800",
@@ -412,7 +453,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -456,6 +497,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "133822",
+    "subgroup": "All polls",
+    "sampleSize": "1155",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-biden-leads-trump-by-three-points-among-likely-voters-in-north-carolina-senate-election-remains-a-toss-up-cooper-ahead-of-forest-by-nine-points-other-statewide-contests-show-small-leads-for-robinson-stein-and-folwell",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-18",
+    "pollster": "East Carolina University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.4",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "133795",
@@ -815,6 +887,146 @@
     "state": "National"
   },
   {
+    "id": "133830",
+    "subgroup": "All polls",
+    "sampleSize": "759",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/ga101320-crosstabs/96723fae2a9846ed/full.pdf",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-19",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "133829",
+    "subgroup": "All polls",
+    "sampleSize": "759",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/ga101320-crosstabs/96723fae2a9846ed/full.pdf",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-19",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Collins",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "133828",
+    "subgroup": "All polls",
+    "sampleSize": "759",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/ga101320-crosstabs/96723fae2a9846ed/full.pdf",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-19",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "32.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "23.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Collins",
+        "pct": "17.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Lieberman",
+        "pct": "7.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tarver",
+        "pct": "2.0",
+        "party": "Dem"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "133827",
+    "subgroup": "All polls",
+    "sampleSize": "759",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/ga101320-crosstabs/96723fae2a9846ed/full.pdf",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-19",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Ossoff",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perdue",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Hazel",
+        "pct": "4.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
     "id": "133818",
     "subgroup": "All polls",
     "sampleSize": "550",
@@ -843,6 +1055,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "133824",
+    "subgroup": "All polls",
+    "sampleSize": "1155",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-biden-leads-trump-by-three-points-among-likely-voters-in-north-carolina-senate-election-remains-a-toss-up-cooper-ahead-of-forest-by-nine-points-other-statewide-contests-show-small-leads-for-robinson-stein-and-folwell",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-18",
+    "pollster": "East Carolina University",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "48.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "47.2",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "133802",
@@ -899,6 +1141,68 @@
     ],
     "type": "senate",
     "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "133825",
+    "subgroup": "All polls",
+    "sampleSize": "449",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/kirk_bado/status/1318593896310595588",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-07",
+    "endDate": "2020-10-09",
+    "pollster": "DCCC Targeting and Analytics Department",
+    "answers": [
+      {
+        "choice": "Scholten",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Meijer",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 3",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Michigan",
+    "district": "3"
+  },
+  {
+    "id": "133823",
+    "subgroup": "All polls",
+    "sampleSize": "1155",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-biden-leads-trump-by-three-points-among-likely-voters-in-north-carolina-senate-election-remains-a-toss-up-cooper-ahead-of-forest-by-nine-points-other-statewide-contests-show-small-leads-for-robinson-stein-and-folwell",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-18",
+    "pollster": "East Carolina University",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "55.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "43.3",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
     "tracking": false,
     "headToHead": false,
     "cycle": "2020",
