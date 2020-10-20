@@ -27,6 +27,33 @@
     "state": "National"
   },
   {
+    "id": "133776",
+    "subgroup": "All polls",
+    "sampleSize": "2200",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://assets.morningconsult.com/wp-uploads/2020/10/19133545/201087_crosstabs_CORONAVIRUS_CONTENT_Adults_v2_JB.pdf",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-18",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "40.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "57.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "133635",
     "subgroup": "All polls",
     "sampleSize": "1500",
@@ -106,6 +133,37 @@
     "tracking": false,
     "headToHead": false,
     "state": "National"
+  },
+  {
+    "id": "133777",
+    "subgroup": "All polls",
+    "sampleSize": "506",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-19",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.4",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Georgia"
   },
   {
     "id": "133667",
@@ -4018,10 +4076,51 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "REP",
     "state": "Alabama"
+  },
+  {
+    "id": "133783",
+    "subgroup": "All polls",
+    "sampleSize": "647",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://talkbusiness.net/2020/10/trump-cotton-on-cruise-control-for-re-election/",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-11",
+    "endDate": "2020-10-13",
+    "pollster": "Hendrix College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "33.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "58.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Arkansas"
   },
   {
     "id": "133625",
@@ -4445,6 +4544,141 @@
     "state": "National"
   },
   {
+    "id": "133781",
+    "subgroup": "All polls",
+    "sampleSize": "506",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-19",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "46.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "41.7",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "133780",
+    "subgroup": "All polls",
+    "sampleSize": "506",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-19",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "47.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Collins",
+        "pct": "46.5",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "133779",
+    "subgroup": "All polls",
+    "sampleSize": "506",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-19",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "26.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Collins",
+        "pct": "26.5",
+        "party": "Rep"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "19.9",
+        "party": "Rep"
+      },
+      {
+        "choice": "Lieberman",
+        "pct": "12.1",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tarver",
+        "pct": "1.8",
+        "party": "Dem"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "133778",
+    "subgroup": "All polls",
+    "sampleSize": "506",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-19",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Ossoff",
+        "pct": "44.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perdue",
+        "pct": "46.1",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
     "id": "133645",
     "subgroup": "All polls",
     "sampleSize": "900",
@@ -4534,6 +4768,36 @@
     "cycle": "2020",
     "partisan": "REP",
     "state": "Alabama"
+  },
+  {
+    "id": "133784",
+    "subgroup": "All polls",
+    "sampleSize": "647",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://talkbusiness.net/2020/10/trump-cotton-on-cruise-control-for-re-election/",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-11",
+    "endDate": "2020-10-13",
+    "pollster": "Hendrix College",
+    "answers": [
+      {
+        "choice": "Cotton",
+        "pct": "62.5",
+        "party": "Rep"
+      },
+      {
+        "choice": "Harrington",
+        "pct": "27.5",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arkansas"
   },
   {
     "id": "133634",
