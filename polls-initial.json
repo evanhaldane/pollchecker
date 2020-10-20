@@ -566,6 +566,42 @@
     "state": "Kentucky"
   },
   {
+    "id": "133815",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://politicaliq.com/2020/10/20/co-biden-51-trump-43/",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-15",
+    "pollster": "RMG Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Colorado"
+  },
+  {
     "id": "133813",
     "subgroup": "All polls",
     "sampleSize": "2004",
@@ -592,7 +628,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -5235,6 +5271,7 @@
     "tracking": false,
     "headToHead": false,
     "cycle": "2020",
+    "partisan": "DEM",
     "state": "Texas"
   },
   {
