@@ -108,6 +108,37 @@
     "state": "National"
   },
   {
+    "id": "133838",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "C+",
+    "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2020/pennsylvania_biden_50_trump_45",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-18",
+    "endDate": "2020-10-19",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
     "id": "133816",
     "subgroup": "All polls",
     "sampleSize": "800",
@@ -247,7 +278,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Georgia"
   },
@@ -736,6 +767,52 @@
     "state": "Kentucky"
   },
   {
+    "id": "133835",
+    "subgroup": "All polls",
+    "sampleSize": "1021",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://www.minnpost.com/politics-policy/2020/10/minnpost-poll-finds-close-race-between-biden-and-trump-in-minnesota/",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-15",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "West",
+        "pct": "1.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Minnesota"
+  },
+  {
     "id": "133815",
     "subgroup": "All polls",
     "sampleSize": "800",
@@ -1147,6 +1224,46 @@
     "state": "North Carolina"
   },
   {
+    "id": "133836",
+    "subgroup": "All polls",
+    "sampleSize": "1021",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://www.minnpost.com/politics-policy/2020/10/minnpost-poll-finds-close-race-between-biden-and-trump-in-minnesota/",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-15",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Smith",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Lewis",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "O'Connor",
+        "pct": "3.0",
+        "party": "Oth"
+      },
+      {
+        "choice": "Steinberg",
+        "pct": "1.0",
+        "party": "Oth"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Minnesota"
+  },
+  {
     "id": "133825",
     "subgroup": "All polls",
     "sampleSize": "449",
@@ -1175,6 +1292,38 @@
     "headToHead": false,
     "cycle": "2020",
     "partisan": "DEM",
+    "state": "Michigan",
+    "district": "3"
+  },
+  {
+    "id": "133837",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://twitter.com/kirk_bado/status/1318602239888527360",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-07",
+    "pollster": "National Research Inc.",
+    "answers": [
+      {
+        "choice": "Scholten",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Meijer",
+        "pct": "50.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 3",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
     "state": "Michigan",
     "district": "3"
   },
