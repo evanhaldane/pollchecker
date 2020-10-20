@@ -108,6 +108,37 @@
     "state": "National"
   },
   {
+    "id": "133816",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "C+",
+    "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2020/ohio_biden_48_trump_46",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-18",
+    "endDate": "2020-10-19",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Ohio"
+  },
+  {
     "id": "133811",
     "subgroup": "All polls",
     "sampleSize": "1046",
@@ -273,6 +304,37 @@
     "state": "National"
   },
   {
+    "id": "133819",
+    "subgroup": "All polls",
+    "sampleSize": "1583",
+    "population": "rv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/77ukszgou2/20201019_yahoo_tabs.pdf",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-18",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "37.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "133806",
     "subgroup": "All polls",
     "sampleSize": "821",
@@ -317,6 +379,42 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "133817",
+    "subgroup": "All polls",
+    "sampleSize": "550",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.dataorbital.com/the-blog/breaking-in-arizona-presidential-and-us-races-still-tight-two-weeks-out-from-election-day",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-18",
+    "pollster": "Data Orbital",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.1",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.9",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "133797",
@@ -597,7 +695,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Colorado"
   },
@@ -659,6 +757,92 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "133821",
+    "subgroup": "All polls",
+    "sampleSize": "1583",
+    "population": "rv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/77ukszgou2/20201019_yahoo_tabs.pdf",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-18",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "47.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "36.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133820",
+    "subgroup": "All polls",
+    "sampleSize": "1465",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/77ukszgou2/20201019_yahoo_tabs.pdf",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-18",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "40.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133818",
+    "subgroup": "All polls",
+    "sampleSize": "550",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.dataorbital.com/the-blog/breaking-in-arizona-presidential-and-us-races-still-tight-two-weeks-out-from-election-day",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-18",
+    "pollster": "Data Orbital",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "48.1",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "41.9",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "133802",
@@ -1127,10 +1311,10 @@
   {
     "id": "133650",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "1465",
     "population": "lv",
     "grade": "B",
-    "url": "https://news.yahoo.com/yahoo-news-you-gov-poll-the-tide-turns-against-trump-as-biden-surges-to-his-largestever-lead-among-likely-voters-175644323.html",
+    "url": "https://docs.cdn.yougov.com/77ukszgou2/20201019_yahoo_tabs.pdf",
     "created_at": "2020-10-19",
     "startDate": "2020-10-16",
     "endDate": "2020-10-18",
