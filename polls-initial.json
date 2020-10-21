@@ -673,6 +673,99 @@
     "state": "Nevada"
   },
   {
+    "id": "134181",
+    "subgroup": "All polls",
+    "sampleSize": "949",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/2020_reuters_tracking_-_core_political_general_election_tracker_10_21_2020_.pdf",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-20",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "134180",
+    "subgroup": "All polls",
+    "sampleSize": "1158",
+    "population": "rv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/2020_reuters_tracking_-_core_political_general_election_tracker_10_21_2020_.pdf",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-20",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "38.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "134179",
+    "subgroup": "All polls",
+    "sampleSize": "1346",
+    "population": "a",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/2020_reuters_tracking_-_core_political_general_election_tracker_10_21_2020_.pdf",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-20",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "37.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "134005",
     "subgroup": "All polls",
     "sampleSize": "1016",
@@ -4670,6 +4763,47 @@
     "state": "National"
   },
   {
+    "id": "134174",
+    "subgroup": "All polls",
+    "sampleSize": "830",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/memos/2020-senate-project/week-5/toplines/dfp_psp_mi_10.21.2020.pdf",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-18",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
     "id": "134047",
     "subgroup": "All polls",
     "sampleSize": "1897",
@@ -4730,7 +4864,7 @@
     "inAvg": false,
     "cycle": "2020",
     "partisan": "DEM",
-    "state": "National"
+    "state": "Georgia"
   },
   {
     "id": "134061",
@@ -4876,6 +5010,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Iowa"
+  },
+  {
+    "id": "134175",
+    "subgroup": "All polls",
+    "sampleSize": "658",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_arizona_state_poll_w4_10_21_2020.pdf",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-21",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "134053",
@@ -5254,6 +5418,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "134182",
+    "subgroup": "All polls",
+    "sampleSize": "830",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/memos/2020-senate-project/week-5/toplines/dfp_psp_mi_10.21.2020.pdf",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-18",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
   },
   {
     "id": "133987",
