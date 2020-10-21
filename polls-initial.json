@@ -54,6 +54,33 @@
     "state": "National"
   },
   {
+    "id": "134019",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-18",
+    "endDate": "2020-10-20",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "50.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "133977",
     "subgroup": "All polls",
     "sampleSize": "1000",
@@ -135,6 +162,70 @@
     "state": "National"
   },
   {
+    "id": "134018",
+    "subgroup": "All polls",
+    "sampleSize": "1035",
+    "population": "a",
+    "grade": "B",
+    "url": "https://news.gallup.com/poll/322310/trump-job-rating-steady-mood-indicators-tick.aspx",
+    "created_at": "2020-10-21",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-15",
+    "pollster": "Gallup",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "43.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "55.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "134021",
+    "subgroup": "All polls",
+    "sampleSize": "2453",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://www.politico.com/f/?id=00000175-48a3-d987-ab7f-cef7305b0000",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-18",
+    "endDate": "2020-10-20",
+    "pollster": "co/efficient",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "39.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "56.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Kansas"
+  },
+  {
     "id": "134013",
     "subgroup": "All polls",
     "sampleSize": "1344",
@@ -161,7 +252,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -558,7 +649,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -647,6 +738,42 @@
     "state": "National"
   },
   {
+    "id": "134022",
+    "subgroup": "All polls",
+    "sampleSize": "2453",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://www.politico.com/f/?id=00000175-48a3-d987-ab7f-cef7305b0000",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-18",
+    "endDate": "2020-10-20",
+    "pollster": "co/efficient",
+    "answers": [
+      {
+        "choice": "Bollier",
+        "pct": "39.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Marshall",
+        "pct": "51.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Buckley",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Kansas"
+  },
+  {
     "id": "134000",
     "subgroup": "All polls",
     "sampleSize": "840",
@@ -685,6 +812,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Minnesota"
+  },
+  {
+    "id": "134023",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://politicaliq.com/2020/10/21/az-senate-race-kelly-d-46-mcsally-r-39/",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-19",
+    "pollster": "RMG Research",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "133987",
@@ -783,33 +940,6 @@
     "partisan": "DEM",
     "state": "Iowa",
     "district": "4"
-  },
-  {
-    "id": "133812",
-    "subgroup": "All polls",
-    "sampleSize": "1500",
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2020-10-20",
-    "startDate": "2020-10-15",
-    "endDate": "2020-10-19",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "49.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "50.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "state": "National"
   },
   {
     "id": "133788",
@@ -8537,6 +8667,33 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Missouri"
+  },
+  {
+    "id": "133246",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2020-10-16",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-15",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "50.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "state": "National"
   },
   {
     "id": "133376",
