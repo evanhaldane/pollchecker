@@ -738,7 +738,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -844,6 +844,38 @@
     "inAvg": false,
     "cycle": "2020",
     "state": "Iowa"
+  },
+  {
+    "id": "134036",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://dfer.org/press/erna-poll-of-wi-voters-shows-biden-with-slight-lead-as-voters-say-trump-mishandled-covid-19-pandemic/",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-19",
+    "pollster": "Latino Decisions",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Wisconsin"
   },
   {
     "id": "134017",
