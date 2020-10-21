@@ -616,6 +616,160 @@
     "state": "National"
   },
   {
+    "id": "134060",
+    "subgroup": "All polls",
+    "sampleSize": "906",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/21/rel2a_fl.pdf",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-20",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "2.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
+    "id": "134059",
+    "subgroup": "All polls",
+    "sampleSize": "925",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/21/rel1a_pa.pdf",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-20",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "134058",
+    "subgroup": "All polls",
+    "sampleSize": "843",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/21/rel1a_pa.pdf",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-20",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "134057",
+    "subgroup": "All polls",
+    "sampleSize": "847",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/21/rel2a_fl.pdf",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-20",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "2.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
     "id": "134033",
     "subgroup": "All polls",
     "sampleSize": "2500",
@@ -1158,7 +1312,7 @@
     "sampleSize": "1897",
     "population": "rv",
     "grade": "C",
-    "url": "https://thehill.com/hilltv/what-americas-thinking/522073-what-americas-thinking-october-21-2020",
+    "url": "https://thehill.com/hilltv/what-americas-thinking/522072-poll-bidens-lead-narrows-to-4-points-nationwide",
     "created_at": "2020-10-21",
     "startDate": "2020-10-13",
     "endDate": "2020-10-15",
