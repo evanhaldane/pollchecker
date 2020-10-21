@@ -81,6 +81,33 @@
     "state": "National"
   },
   {
+    "id": "134032",
+    "subgroup": "All polls",
+    "sampleSize": "1100",
+    "population": "a",
+    "grade": "B",
+    "url": "https://americanresearchgroup.com/economy/",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-20",
+    "pollster": "American Research Group",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "35.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "60.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "133977",
     "subgroup": "All polls",
     "sampleSize": "1000",
@@ -453,6 +480,37 @@
     "state": "National"
   },
   {
+    "id": "134033",
+    "subgroup": "All polls",
+    "sampleSize": "2500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_oct21",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-20",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "133982",
     "subgroup": "All polls",
     "sampleSize": "5406",
@@ -644,6 +702,47 @@
     "state": "Pennsylvania"
   },
   {
+    "id": "134035",
+    "subgroup": "All polls",
+    "sampleSize": "2731",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.brandwatch.com/email/us-election-bulletin-008/",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-19",
+    "pollster": "Qriously",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "134028",
     "subgroup": "All polls",
     "sampleSize": "501",
@@ -670,7 +769,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Iowa"
   },
@@ -701,7 +800,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Iowa"
   },
@@ -946,6 +1045,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Minnesota"
+  },
+  {
+    "id": "134034",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "C+",
+    "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2020/arizona_senate_kelly_d_46_mcsally_r_44",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-18",
+    "endDate": "2020-10-19",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "134031",
