@@ -81,6 +81,33 @@
     "state": "National"
   },
   {
+    "id": "133967",
+    "subgroup": "All polls",
+    "sampleSize": "2200",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://assets.morningconsult.com/wp-uploads/2020/10/20160237/201089_crosstabs_ARENACOMFORT_Adults_v1_LM.pdf",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-16",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "45.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "52.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "133814",
     "subgroup": "All polls",
     "sampleSize": "2004",
@@ -106,6 +133,98 @@
     "tracking": false,
     "headToHead": false,
     "state": "National"
+  },
+  {
+    "id": "133970",
+    "subgroup": "All polls",
+    "sampleSize": "660",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_north_carolina_state_poll_w4_10_20_20.pdf",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-20",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      },
+      {
+        "choice": "West",
+        "pct": "0.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "133969",
+    "subgroup": "All polls",
+    "sampleSize": "686",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_michigan_state_poll_w4_10_20_2020.pdf",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-20",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      },
+      {
+        "choice": "West",
+        "pct": "0.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Michigan"
   },
   {
     "id": "133846",
@@ -356,7 +475,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
   },
@@ -387,7 +506,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -418,7 +537,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
   },
@@ -449,7 +568,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
   },
@@ -480,7 +599,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
   },
@@ -511,7 +630,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -4023,7 +4142,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -4211,6 +4330,38 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
+  },
+  {
+    "id": "133972",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://benraylujan.com/wp-content/uploads/2020/10/Lujan-Poll-Memo-102020.pdf",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-17",
+    "pollster": "GBAO",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "New Mexico"
   },
   {
     "id": "133795",
@@ -4499,6 +4650,68 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Colorado"
+  },
+  {
+    "id": "133968",
+    "subgroup": "All polls",
+    "sampleSize": "844",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.independent.co.uk/news/world/americas/us-election-2020/us-2020-election-polls-latest-biden-trump-win-points-b1159816.html",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-13",
+    "pollster": "J.L. Partners",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133971",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.investorideas.com/news/2020/cannabis/10202New-Jersey-Low-Level-Marijuana-Convictions.asp",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-13",
+    "pollster": "DKC Analytics",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "56.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "34.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "New Jersey"
   },
   {
     "id": "133813",
@@ -5046,6 +5259,73 @@
     "state": "North Carolina"
   },
   {
+    "id": "133974",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://benraylujan.com/wp-content/uploads/2020/10/Lujan-Poll-Memo-102020.pdf",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-17",
+    "pollster": "GBAO",
+    "answers": [
+      {
+        "choice": "Lujan",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ronchetti",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "New Mexico"
+  },
+  {
+    "id": "133973",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://benraylujan.com/wp-content/uploads/2020/10/Lujan-Poll-Memo-102020.pdf",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-17",
+    "pollster": "GBAO",
+    "answers": [
+      {
+        "choice": "Lujan",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ronchetti",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Walsh",
+        "pct": "5.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "New Mexico"
+  },
+  {
     "id": "133802",
     "subgroup": "All polls",
     "sampleSize": "646",
@@ -5176,6 +5456,37 @@
     "state": "Colorado"
   },
   {
+    "id": "133976",
+    "subgroup": "All polls",
+    "sampleSize": "511",
+    "population": "lv",
+    "grade": "A",
+    "url": "http://www.surveyusa.com/client/PollReport.aspx?g=364c8d7c-9cd1-4a80-b144-5cd9fc2355b8",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-18",
+    "pollster": "SurveyUSA",
+    "answers": [
+      {
+        "choice": "Gómez",
+        "pct": "27.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Jacobs",
+        "pct": "40.0",
+        "party": "Dem"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 53",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "California",
+    "district": "53"
+  },
+  {
     "id": "133842",
     "subgroup": "All polls",
     "sampleSize": "400",
@@ -5205,6 +5516,38 @@
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Ohio",
+    "district": "10"
+  },
+  {
+    "id": "133975",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.politicspa.com/exclusive-perry-nrcc-poll-perry-48-depasquale-44/96279/",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-15",
+    "pollster": "Tarrance Group",
+    "answers": [
+      {
+        "choice": "DePasquale",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perry",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 10",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Pennsylvania",
     "district": "10"
   },
   {
