@@ -707,6 +707,68 @@
     "state": "National"
   },
   {
+    "id": "134043",
+    "subgroup": "All polls",
+    "sampleSize": "1145",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/pennsylvania/release-detail?ReleaseID=3680",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-19",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Texas"
+  },
+  {
+    "id": "134042",
+    "subgroup": "All polls",
+    "sampleSize": "1241",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/pennsylvania/release-detail?ReleaseID=3680",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-19",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
     "id": "133979",
     "subgroup": "All polls",
     "sampleSize": "500",
@@ -960,6 +1022,37 @@
     "state": "National"
   },
   {
+    "id": "134047",
+    "subgroup": "All polls",
+    "sampleSize": "1897",
+    "population": "rv",
+    "grade": "C",
+    "url": "https://thehill.com/hilltv/what-americas-thinking/522073-what-americas-thinking-october-21-2020",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-15",
+    "pollster": "HarrisX",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "134011",
     "subgroup": "All polls",
     "sampleSize": "1343",
@@ -1080,6 +1173,46 @@
     "state": "Kansas"
   },
   {
+    "id": "134041",
+    "subgroup": "All polls",
+    "sampleSize": "753",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/ia101820-crosstabs/1eff04c308f3dcb1/full.pdf",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-18",
+    "endDate": "2020-10-20",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Greenfield",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ernst",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Stewart",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Herzog",
+        "pct": "2.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
     "id": "134000",
     "subgroup": "All polls",
     "sampleSize": "840",
@@ -1148,6 +1281,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "134044",
+    "subgroup": "All polls",
+    "sampleSize": "1145",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/pennsylvania/release-detail?ReleaseID=3680",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-19",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Hegar",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Cornyn",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Texas"
   },
   {
     "id": "134031",
@@ -1408,6 +1571,46 @@
     "partisan": "DEM",
     "state": "Iowa",
     "district": "4"
+  },
+  {
+    "id": "134040",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.cygn.al/cygnal-poll-parson-up-6-points-in-missouri-governors-race/",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-18",
+    "endDate": "2020-10-20",
+    "pollster": "Cygnal",
+    "answers": [
+      {
+        "choice": "Galloway",
+        "pct": "41.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Parson",
+        "pct": "48.1",
+        "party": "Rep"
+      },
+      {
+        "choice": "Bauer",
+        "pct": "0.7",
+        "party": "Gre"
+      },
+      {
+        "choice": "Combs",
+        "pct": "2.4",
+        "party": "Lib"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Missouri"
   },
   {
     "id": "133788",
