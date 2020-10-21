@@ -572,7 +572,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -642,6 +642,109 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
+  },
+  {
+    "id": "134028",
+    "subgroup": "All polls",
+    "sampleSize": "501",
+    "population": "lv",
+    "grade": "A+",
+    "url": "",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-19",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
+    "id": "134027",
+    "subgroup": "All polls",
+    "sampleSize": "501",
+    "population": "lv",
+    "grade": "A+",
+    "url": "",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-19",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
+    "id": "134026",
+    "subgroup": "All polls",
+    "sampleSize": "501",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_102120.pdf/",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-19",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Iowa"
   },
   {
     "id": "134017",
@@ -845,6 +948,106 @@
     "state": "Minnesota"
   },
   {
+    "id": "134031",
+    "subgroup": "All polls",
+    "sampleSize": "501",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_102120.pdf/",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-19",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Greenfield",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ernst",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
+    "id": "134030",
+    "subgroup": "All polls",
+    "sampleSize": "501",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_102120.pdf/",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-19",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Greenfield",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ernst",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
+    "id": "134029",
+    "subgroup": "All polls",
+    "sampleSize": "501",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_102120.pdf/",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-19",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Greenfield",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ernst",
+        "pct": "47.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Stewart",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Herzog",
+        "pct": "1.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
     "id": "134023",
     "subgroup": "All polls",
     "sampleSize": "800",
@@ -939,6 +1142,38 @@
     "cycle": "2020",
     "state": "Virginia",
     "district": "2"
+  },
+  {
+    "id": "134025",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://drive.google.com/file/d/1wwUBfinoPc4ecuaKI3kYEYeAjjSVS81q/view",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-17",
+    "pollster": "GBAO",
+    "answers": [
+      {
+        "choice": "Daniel",
+        "pct": "41.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Wright",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 6",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Texas",
+    "district": "6"
   },
   {
     "id": "133983",
