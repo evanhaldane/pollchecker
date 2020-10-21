@@ -108,6 +108,60 @@
     "state": "National"
   },
   {
+    "id": "134178",
+    "subgroup": "All polls",
+    "sampleSize": "1158",
+    "population": "rv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/2020_reuters_tracking_-_core_political_general_election_tracker_10_21_2020_.pdf",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-20",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "42.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "55.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "134177",
+    "subgroup": "All polls",
+    "sampleSize": "1346",
+    "population": "a",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/2020_reuters_tracking_-_core_political_general_election_tracker_10_21_2020_.pdf",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-20",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "54.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "133977",
     "subgroup": "All polls",
     "sampleSize": "1000",
@@ -580,6 +634,130 @@
     "state": "Iowa"
   },
   {
+    "id": "134186",
+    "subgroup": "All polls",
+    "sampleSize": "1037",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://www.foxnews.com/politics/fox-news-poll-trump-gains-in-ohio-biden-ahead-in-michigan-pennsylvania-wisconsin?preview=true",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-20",
+    "pollster": "Fox News",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Wisconsin"
+  },
+  {
+    "id": "134185",
+    "subgroup": "All polls",
+    "sampleSize": "1045",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://www.foxnews.com/politics/fox-news-poll-trump-gains-in-ohio-biden-ahead-in-michigan-pennsylvania-wisconsin?preview=true",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-20",
+    "pollster": "Fox News",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "134184",
+    "subgroup": "All polls",
+    "sampleSize": "1018",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://www.foxnews.com/politics/fox-news-poll-trump-gains-in-ohio-biden-ahead-in-michigan-pennsylvania-wisconsin?preview=true",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-20",
+    "pollster": "Fox News",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Ohio"
+  },
+  {
+    "id": "134183",
+    "subgroup": "All polls",
+    "sampleSize": "1032",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://www.foxnews.com/politics/fox-news-poll-trump-gains-in-ohio-biden-ahead-in-michigan-pennsylvania-wisconsin?preview=true",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-20",
+    "pollster": "Fox News",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
     "id": "133999",
     "subgroup": "All polls",
     "sampleSize": "840",
@@ -699,7 +877,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -4799,7 +4977,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
   },
@@ -4861,7 +5039,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Georgia"
@@ -5188,6 +5366,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Iowa"
+  },
+  {
+    "id": "134187",
+    "subgroup": "All polls",
+    "sampleSize": "1032",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://www.foxnews.com/politics/fox-news-poll-trump-gains-in-ohio-biden-ahead-in-michigan-pennsylvania-wisconsin?preview=true",
+    "created_at": "2020-10-21",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-20",
+    "pollster": "Fox News",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
   },
   {
     "id": "134000",
