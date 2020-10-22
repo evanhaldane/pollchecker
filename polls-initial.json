@@ -1,5 +1,63 @@
 [
   {
+    "id": "134243",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-21",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "52.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "48.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "134249",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "C+",
+    "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2020/north_carolina_trump_48_biden_47",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-21",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "134236",
     "subgroup": "All polls",
     "sampleSize": "965",
@@ -98,7 +156,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -256,6 +314,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Minnesota"
+  },
+  {
+    "id": "134247",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://politicaliq.com/2020/10/22/wi-biden-50-trump-44/",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-20",
+    "pollster": "RMG Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Wisconsin"
   },
   {
     "id": "134220",
@@ -630,6 +719,42 @@
     "state": "Arizona"
   },
   {
+    "id": "134245",
+    "subgroup": "All polls",
+    "sampleSize": "908",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.washingtonpost.com/context/oct-13-19-2020-washington-post-schar-school-poll-of-virginia-voters/2be60bb5-dff2-4440-a7c4-af4e42a86c88/?tid=a_inl_manual",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-19",
+    "pollster": "The Washington Post/George Mason University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Virginia"
+  },
+  {
     "id": "134225",
     "subgroup": "All polls",
     "sampleSize": "1034",
@@ -739,7 +864,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -770,7 +895,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -801,7 +926,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -832,7 +957,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -863,7 +988,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -1283,33 +1408,6 @@
     "type": "trump-approval",
     "seat_name": null,
     "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "134019",
-    "subgroup": "All polls",
-    "sampleSize": "1500",
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2020-10-21",
-    "startDate": "2020-10-18",
-    "endDate": "2020-10-20",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "49.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "50.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": true,
     "headToHead": false,
     "state": "National"
   },
@@ -9841,6 +9939,33 @@
     "type": "trump-approval",
     "seat_name": null,
     "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "133635",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2020-10-19",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-18",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "50.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": true,
     "headToHead": false,
     "state": "National"
   },
