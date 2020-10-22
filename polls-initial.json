@@ -108,6 +108,70 @@
     "state": "National"
   },
   {
+    "id": "134286",
+    "subgroup": "All polls",
+    "sampleSize": "804",
+    "population": "v",
+    "grade": "B",
+    "url": "https://americanbridgepac.org/wp-content/uploads/2020/10/MichiganResults.pdf",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-22",
+    "pollster": "Public Policy Polling",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Michigan"
+  },
+  {
+    "id": "134285",
+    "subgroup": "All polls",
+    "sampleSize": "890",
+    "population": "v",
+    "grade": "B",
+    "url": "https://americanbridgepac.org/wp-content/uploads/2020/10/PennsylvaniaResults.pdf",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-22",
+    "pollster": "Public Policy Polling",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Pennsylvania"
+  },
+  {
     "id": "134249",
     "subgroup": "All polls",
     "sampleSize": "800",
