@@ -72,6 +72,37 @@
     "state": "National"
   },
   {
+    "id": "134237",
+    "subgroup": "All polls",
+    "sampleSize": "1577",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://twitter.com/dhopkins1776/status/1319246420088623104",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-21",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
     "id": "134223",
     "subgroup": "All polls",
     "sampleSize": "5314",
@@ -682,6 +713,161 @@
     "state": "California"
   },
   {
+    "id": "134238",
+    "subgroup": "All polls",
+    "sampleSize": "1221",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://twitter.com/dhopkins1776/status/1319246420088623104",
+    "created_at": "2020-10-22",
+    "startDate": "2020-06-06",
+    "endDate": "2020-06-11",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "134239",
+    "subgroup": "All polls",
+    "sampleSize": "2045",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://twitter.com/dhopkins1776/status/1319246420088623104",
+    "created_at": "2020-10-22",
+    "startDate": "2020-05-30",
+    "endDate": "2020-06-02",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "134240",
+    "subgroup": "All polls",
+    "sampleSize": "1912",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://twitter.com/dhopkins1776/status/1319246420088623104",
+    "created_at": "2020-10-22",
+    "startDate": "2020-04-04",
+    "endDate": "2020-04-08",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "134241",
+    "subgroup": "All polls",
+    "sampleSize": "1589",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://twitter.com/dhopkins1776/status/1319246420088623104",
+    "created_at": "2020-10-22",
+    "startDate": "2020-03-14",
+    "endDate": "2020-03-18",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "134242",
+    "subgroup": "All polls",
+    "sampleSize": "2462",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://twitter.com/dhopkins1776/status/1319246420088623104",
+    "created_at": "2020-10-22",
+    "startDate": "2020-02-27",
+    "endDate": "2020-03-03",
+    "pollster": "Civiqs",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
     "id": "134205",
     "subgroup": "All polls",
     "sampleSize": "5309",
@@ -1008,6 +1194,43 @@
     "cycle": "2020",
     "state": "Oklahoma",
     "district": "5"
+  },
+  {
+    "id": "134244",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://auburnpub.com/news/local/govt-and-politics/gop-poll-katko-has-8-point-lead-over-balter-in-congressional-race/article_75b6eb47-5387-5791-bb09-84301fc2513f.html?utm_campaign=snd-autopilot&utm_medium=social&utm_source=twitter_The_Citizen",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-18",
+    "pollster": "Public Opinion Strategies",
+    "answers": [
+      {
+        "choice": "Balter",
+        "pct": "39.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Katko",
+        "pct": "47.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Williams",
+        "pct": "3.0",
+        "party": "Wfp"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 24",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "New York",
+    "district": "24"
   },
   {
     "id": "134007",
