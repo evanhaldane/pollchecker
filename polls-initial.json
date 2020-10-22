@@ -27,6 +27,60 @@
     "state": "National"
   },
   {
+    "id": "134257",
+    "subgroup": "All polls",
+    "sampleSize": "31920",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-20",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "42.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "134248",
+    "subgroup": "All polls",
+    "sampleSize": "1884",
+    "population": "rv",
+    "grade": "",
+    "url": "https://climatenexus.org/wp-content/uploads/2015/09/IPL-National-Climate-Change-Poll.pdf",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-13",
+    "pollster": "Climate Nexus",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "45.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "51.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "134249",
     "subgroup": "All polls",
     "sampleSize": "800",
@@ -53,7 +107,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
   },
@@ -254,6 +308,42 @@
     "state": "National"
   },
   {
+    "id": "134271",
+    "subgroup": "All polls",
+    "sampleSize": "755",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/ks101820-crosstabs/fcc9a5346866c517/full.pdf",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-18",
+    "endDate": "2020-10-20",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "41.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "4.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Kansas"
+  },
+  {
     "id": "134208",
     "subgroup": "All polls",
     "sampleSize": "15821",
@@ -342,7 +432,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
   },
@@ -750,7 +840,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Virginia"
   },
@@ -1049,6 +1139,76 @@
     "state": "National"
   },
   {
+    "id": "134270",
+    "subgroup": "All polls",
+    "sampleSize": "640",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.cygn.al/cygnal-poll-mcconnell-up-double-digits-in-kentucky-senate-race/",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-20",
+    "pollster": "Cygnal",
+    "answers": [
+      {
+        "choice": "McGrath",
+        "pct": "39.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "McConnell",
+        "pct": "50.2",
+        "party": "Rep"
+      },
+      {
+        "choice": "Barron",
+        "pct": "5.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Kentucky"
+  },
+  {
+    "id": "134272",
+    "subgroup": "All polls",
+    "sampleSize": "755",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/ks101820-crosstabs/fcc9a5346866c517/full.pdf",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-18",
+    "endDate": "2020-10-20",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Bollier",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Marshall",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Buckley",
+        "pct": "4.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Kansas"
+  },
+  {
     "id": "134232",
     "subgroup": "All polls",
     "sampleSize": "3347",
@@ -1259,6 +1419,36 @@
     "state": "Arizona"
   },
   {
+    "id": "134246",
+    "subgroup": "All polls",
+    "sampleSize": "908",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.washingtonpost.com/context/oct-13-19-2020-washington-post-schar-school-poll-of-virginia-voters/2be60bb5-dff2-4440-a7c4-af4e42a86c88/?tid=a_inl_manual",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-19",
+    "pollster": "The Washington Post/George Mason University",
+    "answers": [
+      {
+        "choice": "Warner",
+        "pct": "57.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Gade",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Virginia"
+  },
+  {
     "id": "134234",
     "subgroup": "All polls",
     "sampleSize": "1034",
@@ -1319,6 +1509,383 @@
     "cycle": "2020",
     "state": "Oklahoma",
     "district": "5"
+  },
+  {
+    "id": "134269",
+    "subgroup": "All polls",
+    "sampleSize": "414",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_102220.pdf/",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-20",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Scholten",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Feenstra",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 4",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa",
+    "district": "4"
+  },
+  {
+    "id": "134268",
+    "subgroup": "All polls",
+    "sampleSize": "426",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_102220.pdf/",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-20",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Axne",
+        "pct": "55.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Young",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 3",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa",
+    "district": "3"
+  },
+  {
+    "id": "134267",
+    "subgroup": "All polls",
+    "sampleSize": "355",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_102220.pdf/",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-20",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Hart",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Miller-Meeks",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa",
+    "district": "2"
+  },
+  {
+    "id": "134266",
+    "subgroup": "All polls",
+    "sampleSize": "352",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_102220.pdf/",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-20",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Finkenauer",
+        "pct": "56.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Hinson",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa",
+    "district": "1"
+  },
+  {
+    "id": "134265",
+    "subgroup": "All polls",
+    "sampleSize": "414",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_102220.pdf/",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-20",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Scholten",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Feenstra",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 4",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa",
+    "district": "4"
+  },
+  {
+    "id": "134264",
+    "subgroup": "All polls",
+    "sampleSize": "426",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_102220.pdf/",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-20",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Axne",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Young",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 3",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa",
+    "district": "3"
+  },
+  {
+    "id": "134263",
+    "subgroup": "All polls",
+    "sampleSize": "355",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_102220.pdf/",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-20",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Hart",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Miller-Meeks",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa",
+    "district": "2"
+  },
+  {
+    "id": "134262",
+    "subgroup": "All polls",
+    "sampleSize": "352",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_102220.pdf/",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-20",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Finkenauer",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Hinson",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa",
+    "district": "1"
+  },
+  {
+    "id": "134261",
+    "subgroup": "All polls",
+    "sampleSize": "414",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_102220.pdf/",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-20",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Scholten",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Feenstra",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 4",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa",
+    "district": "4"
+  },
+  {
+    "id": "134260",
+    "subgroup": "All polls",
+    "sampleSize": "426",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_102220.pdf/",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-20",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Axne",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Young",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Holder",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 3",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa",
+    "district": "3"
+  },
+  {
+    "id": "134259",
+    "subgroup": "All polls",
+    "sampleSize": "355",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_102220.pdf/",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-20",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Hart",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Miller-Meeks",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa",
+    "district": "2"
+  },
+  {
+    "id": "134258",
+    "subgroup": "All polls",
+    "sampleSize": "352",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_102220.pdf/",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-20",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Finkenauer",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Hinson",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa",
+    "district": "1"
   },
   {
     "id": "134244",
