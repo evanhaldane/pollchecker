@@ -54,6 +54,33 @@
     "state": "National"
   },
   {
+    "id": "134278",
+    "subgroup": "All polls",
+    "sampleSize": "1426",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/national/release-detail?ReleaseID=3681",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-19",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "55.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "134248",
     "subgroup": "All polls",
     "sampleSize": "1884",
@@ -94,12 +121,12 @@
     "answers": [
       {
         "choice": "Biden",
-        "pct": "47.0",
+        "pct": "48.0",
         "party": "Dem"
       },
       {
         "choice": "Trump",
-        "pct": "48.0",
+        "pct": "49.0",
         "party": "Rep"
       }
     ],
@@ -339,7 +366,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Kansas"
   },
@@ -809,6 +836,37 @@
     "state": "Arizona"
   },
   {
+    "id": "134277",
+    "subgroup": "All polls",
+    "sampleSize": "1426",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/national/release-detail?ReleaseID=3681",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-19",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "134245",
     "subgroup": "All polls",
     "sampleSize": "908",
@@ -1139,6 +1197,41 @@
     "state": "National"
   },
   {
+    "id": "134276",
+    "subgroup": "All polls",
+    "sampleSize": "625",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.cygn.al/cygnal-poll-sasse-up-30-points-in-nebraska-senate-race/",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-21",
+    "pollster": "Cygnal",
+    "answers": [
+      {
+        "choice": "Janicek",
+        "pct": "17.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Sasse",
+        "pct": "47.4",
+        "party": "Rep"
+      },
+      {
+        "choice": "Siadek",
+        "pct": "6.4",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Nebraska"
+  },
+  {
     "id": "134270",
     "subgroup": "All polls",
     "sampleSize": "640",
@@ -1207,6 +1300,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Kansas"
+  },
+  {
+    "id": "134283",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://nbcmontana.com/news/beyond-the-podium/nbc-montanastrategies-360-poll-shows-extremely-tight-montana-races",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-20",
+    "pollster": "Strategies 360",
+    "answers": [
+      {
+        "choice": "Bullock",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Daines",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Montana"
   },
   {
     "id": "134232",
@@ -1478,6 +1601,38 @@
     "cycle": "2020",
     "partisan": "REP",
     "state": "Michigan"
+  },
+  {
+    "id": "134275",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.scribd.com/document/481170901/Dt-Flcd16-20g-Memo#from_embed",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-21",
+    "pollster": "Data Targeting",
+    "answers": [
+      {
+        "choice": "Good",
+        "pct": "38.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Buchanan",
+        "pct": "53.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 16",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Florida",
+    "district": "16"
   },
   {
     "id": "134233",
