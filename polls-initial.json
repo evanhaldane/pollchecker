@@ -433,6 +433,42 @@
     "state": "Minnesota"
   },
   {
+    "id": "134281",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://nbcmontana.com/news/beyond-the-podium/nbc-montanastrategies-360-poll-shows-extremely-tight-montana-races",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-20",
+    "pollster": "Strategies 360",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "51.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Montana"
+  },
+  {
     "id": "134247",
     "subgroup": "All polls",
     "sampleSize": "800",
@@ -862,7 +898,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -1635,6 +1671,37 @@
     "district": "16"
   },
   {
+    "id": "134284",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://nbcmontana.com/news/beyond-the-podium/nbc-montanastrategies-360-poll-shows-extremely-tight-montana-races",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-20",
+    "pollster": "Strategies 360",
+    "answers": [
+      {
+        "choice": "Williams",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Rosendale",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Montana",
+    "district": "1"
+  },
+  {
     "id": "134233",
     "subgroup": "All polls",
     "sampleSize": "943",
@@ -2078,6 +2145,41 @@
     "partisan": "REP",
     "state": "New York",
     "district": "24"
+  },
+  {
+    "id": "134282",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://nbcmontana.com/news/beyond-the-podium/nbc-montanastrategies-360-poll-shows-extremely-tight-montana-races",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-20",
+    "pollster": "Strategies 360",
+    "answers": [
+      {
+        "choice": "Cooney",
+        "pct": "41.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Gianforte",
+        "pct": "48.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Bishop",
+        "pct": "4.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Montana"
   },
   {
     "id": "134007",
