@@ -1,5 +1,77 @@
 [
   {
+    "id": "134236",
+    "subgroup": "All polls",
+    "sampleSize": "965",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/news/presidential-poll-joe-biden-lead-bounces-ibd-tipp-biden-vs-trump-poll/",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-21",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.6",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "134235",
+    "subgroup": "All polls",
+    "sampleSize": "965",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/news/presidential-poll-joe-biden-lead-bounces-ibd-tipp-biden-vs-trump-poll/",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-21",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.7",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.8",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.9",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "134223",
     "subgroup": "All polls",
     "sampleSize": "5314",
@@ -2099,78 +2171,6 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "134005",
-    "subgroup": "All polls",
-    "sampleSize": "1016",
-    "population": "lv",
-    "grade": "A/B",
-    "url": "https://www.investors.com/news/biden-vs-trump-poll-donald-trump-new-high-in-tight-race-ibd-tipp-presidential-poll/",
-    "created_at": "2020-10-21",
-    "startDate": "2020-10-16",
-    "endDate": "2020-10-20",
-    "pollster": "IBD/TIPP",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "48.7",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "46.9",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "134004",
-    "subgroup": "All polls",
-    "sampleSize": "1016",
-    "population": "lv",
-    "grade": "A/B",
-    "url": "https://www.investors.com/news/biden-vs-trump-poll-donald-trump-new-high-in-tight-race-ibd-tipp-presidential-poll/",
-    "created_at": "2020-10-21",
-    "startDate": "2020-10-16",
-    "endDate": "2020-10-20",
-    "pollster": "IBD/TIPP",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "48.5",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "46.0",
-        "party": "Rep"
-      },
-      {
-        "choice": "Jorgensen",
-        "pct": "2.6",
-        "party": "Lib"
-      },
-      {
-        "choice": "Hawkins",
-        "pct": "0.7",
-        "party": "Gre"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -11554,6 +11554,78 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Puerto Rico"
+  },
+  {
+    "id": "133385",
+    "subgroup": "All polls",
+    "sampleSize": "1009",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/news/2020-election-poll-joe-biden-vs-trump-two-key-groups-ibd-tipp-presidential-poll/",
+    "created_at": "2020-10-17",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-16",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.9",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133384",
+    "subgroup": "All polls",
+    "sampleSize": "1009",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/news/2020-election-poll-joe-biden-vs-trump-two-key-groups-ibd-tipp-presidential-poll/",
+    "created_at": "2020-10-17",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-16",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.3",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.2",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.3",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.2",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "133388",
