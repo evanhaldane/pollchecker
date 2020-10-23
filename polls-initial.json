@@ -703,6 +703,418 @@
     "state": "Utah"
   },
   {
+    "id": "134451",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.americanactionforum.org/insight/georgia-policy-priorities-and-the-election-october-update/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-15",
+    "pollster": "Opinion Insight, LLC",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Georgia"
+  },
+  {
+    "id": "134452",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.americanactionforum.org/insight/iowa-policy-priorities-and-the-election-october-update/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-08",
+    "pollster": "Opinion Insight, LLC",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "West",
+        "pct": "1.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Iowa"
+  },
+  {
+    "id": "134453",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.americanactionforum.org/insight/michigan-policy-priorities-and-the-election-october-update/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-03",
+    "endDate": "2020-10-06",
+    "pollster": "Opinion Insight, LLC",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Michigan"
+  },
+  {
+    "id": "134450",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.americanactionforum.org/insight/arizona-policy-priorities-and-the-election-october-update/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-03",
+    "endDate": "2020-10-05",
+    "pollster": "Basswood Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.9",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.6",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Arizona"
+  },
+  {
+    "id": "134454",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.americanactionforum.org/insight/ohio-policy-priorities-and-the-election-october-update/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-28",
+    "endDate": "2020-10-01",
+    "pollster": "OnMessage Inc.",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.5",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.9",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.7",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Ohio"
+  },
+  {
+    "id": "134449",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.americanactionforum.org/insight/ohio-policy-priorities-and-the-election/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-08-31",
+    "endDate": "2020-09-03",
+    "pollster": "OnMessage Inc.",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "44.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.5",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Ohio"
+  },
+  {
+    "id": "134448",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.americanactionforum.org/insight/michigan-policy-priorities-and-the-election/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-08-30",
+    "endDate": "2020-09-02",
+    "pollster": "Opinion Insight, LLC",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Michigan"
+  },
+  {
+    "id": "134447",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.americanactionforum.org/insight/iowa-policy-priorities-and-the-election/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-08-30",
+    "endDate": "2020-09-02",
+    "pollster": "Opinion Insight, LLC",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "4.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Iowa"
+  },
+  {
+    "id": "134446",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.americanactionforum.org/insight/georgia-policy-priorities-and-the-election/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-08-30",
+    "endDate": "2020-09-02",
+    "pollster": "Opinion Insight, LLC",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Georgia"
+  },
+  {
+    "id": "134445",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.americanactionforum.org/insight/arizona-policy-priorities-and-the-election/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-08-29",
+    "endDate": "2020-08-31",
+    "pollster": "Basswood Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.1",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.1",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Arizona"
+  },
+  {
+    "id": "134444",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.americanactionforum.org/insight/arizona-policy-priorities-and-the-election/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-08-29",
+    "endDate": "2020-08-31",
+    "pollster": "Basswood Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.8",
+        "party": "Rep"
+      },
+      {
+        "choice": "Hornberger",
+        "pct": "1.4",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.5",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Arizona"
+  },
+  {
     "id": "134426",
     "subgroup": "All polls",
     "sampleSize": "379",
@@ -1054,6 +1466,386 @@
     "cycle": "2020",
     "partisan": "DEM",
     "state": "North Carolina"
+  },
+  {
+    "id": "134462",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.americanactionforum.org/insight/georgia-policy-priorities-and-the-election-october-update/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-15",
+    "pollster": "Opinion Insight, LLC",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "31.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "19.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Johnson",
+        "pct": "2.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Johnson-Shealey",
+        "pct": "2.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Lieberman",
+        "pct": "3.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Winfield",
+        "pct": "1.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Bartell",
+        "pct": "2.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Collins",
+        "pct": "18.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Tarver",
+        "pct": "1.0",
+        "party": "Dem"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Georgia"
+  },
+  {
+    "id": "134461",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.americanactionforum.org/insight/georgia-policy-priorities-and-the-election-october-update/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-15",
+    "pollster": "Opinion Insight, LLC",
+    "answers": [
+      {
+        "choice": "Ossoff",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perdue",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Georgia"
+  },
+  {
+    "id": "134463",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.americanactionforum.org/insight/iowa-policy-priorities-and-the-election-october-update/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-05",
+    "endDate": "2020-10-08",
+    "pollster": "Opinion Insight, LLC",
+    "answers": [
+      {
+        "choice": "Greenfield",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ernst",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Iowa"
+  },
+  {
+    "id": "134464",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.americanactionforum.org/insight/michigan-policy-priorities-and-the-election-october-update/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-03",
+    "endDate": "2020-10-06",
+    "pollster": "Opinion Insight, LLC",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Michigan"
+  },
+  {
+    "id": "134460",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.americanactionforum.org/insight/arizona-policy-priorities-and-the-election-october-update/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-03",
+    "endDate": "2020-10-05",
+    "pollster": "Basswood Research",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "47.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "48.5",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Arizona"
+  },
+  {
+    "id": "134459",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.americanactionforum.org/insight/michigan-policy-priorities-and-the-election/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-08-30",
+    "endDate": "2020-09-02",
+    "pollster": "Opinion Insight, LLC",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Michigan"
+  },
+  {
+    "id": "134458",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.americanactionforum.org/insight/iowa-policy-priorities-and-the-election/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-08-30",
+    "endDate": "2020-09-02",
+    "pollster": "Opinion Insight, LLC",
+    "answers": [
+      {
+        "choice": "Greenfield",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ernst",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Iowa"
+  },
+  {
+    "id": "134457",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.americanactionforum.org/insight/georgia-policy-priorities-and-the-election/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-08-30",
+    "endDate": "2020-09-02",
+    "pollster": "Opinion Insight, LLC",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "17.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "17.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Johnson",
+        "pct": "2.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Johnson-Shealey",
+        "pct": "5.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Lieberman",
+        "pct": "4.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Winfield",
+        "pct": "2.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Bartell",
+        "pct": "2.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Collins",
+        "pct": "20.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Tarver",
+        "pct": "1.0",
+        "party": "Dem"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Georgia"
+  },
+  {
+    "id": "134456",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.americanactionforum.org/insight/georgia-policy-priorities-and-the-election/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-08-30",
+    "endDate": "2020-09-02",
+    "pollster": "Opinion Insight, LLC",
+    "answers": [
+      {
+        "choice": "Ossoff",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perdue",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Georgia"
+  },
+  {
+    "id": "134455",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.americanactionforum.org/insight/arizona-policy-priorities-and-the-election/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-08-29",
+    "endDate": "2020-08-31",
+    "pollster": "Basswood Research",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "47.5",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Arizona"
   },
   {
     "id": "134441",
