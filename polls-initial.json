@@ -347,6 +347,37 @@
     "state": "National"
   },
   {
+    "id": "134435",
+    "subgroup": "All polls",
+    "sampleSize": "544",
+    "population": "lv",
+    "grade": "",
+    "url": "https://assets.documentcloud.org/documents/20398833/201021-triton-west-virgina-survey-topline-results.pdf",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-20",
+    "pollster": "Triton Polling & Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "37.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "58.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "West Virginia"
+  },
+  {
     "id": "134429",
     "subgroup": "All polls",
     "sampleSize": "758",
@@ -378,7 +409,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Montana"
   },
@@ -388,7 +419,7 @@
     "sampleSize": "416",
     "population": "lv",
     "grade": "A+",
-    "url": "https://www.muhlenberg.edu/aboutus/polling/surveys/election/2020-octoberpapresidentialelectionsurvey/",
+    "url": "https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/pennsylvania/PA_ELEC2020_OCT_REPORT_1.pdf",
     "created_at": "2020-10-23",
     "startDate": "2020-10-13",
     "endDate": "2020-10-20",
@@ -455,7 +486,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
   },
@@ -620,7 +651,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Oklahoma"
   },
@@ -907,6 +938,46 @@
     "partisan": "DEM",
     "state": "Ohio",
     "district": "12"
+  },
+  {
+    "id": "134436",
+    "subgroup": "All polls",
+    "sampleSize": "544",
+    "population": "lv",
+    "grade": "",
+    "url": "https://assets.documentcloud.org/documents/20398833/201021-triton-west-virgina-survey-topline-results.pdf",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-20",
+    "pollster": "Triton Polling & Research",
+    "answers": [
+      {
+        "choice": "Salango",
+        "pct": "34.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Justice",
+        "pct": "53.1",
+        "party": "Rep"
+      },
+      {
+        "choice": "Kolenich",
+        "pct": "3.3",
+        "party": "Lib"
+      },
+      {
+        "choice": "Lutz",
+        "pct": "3.3",
+        "party": "Mtp"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "West Virginia"
   },
   {
     "id": "134430",
