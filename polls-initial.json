@@ -98,7 +98,7 @@
     "seat_name": null,
     "tracking": true,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -196,6 +196,99 @@
     "state": "National"
   },
   {
+    "id": "134417",
+    "subgroup": "All polls",
+    "sampleSize": "811",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://docs.google.com/spreadsheets/d/1dGGzVgmSaesL4N8JeM07YIfMsT_BJ1yflf-29y_ejcQ/edit#gid=0",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-20",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.88",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.69",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "134416",
+    "subgroup": "All polls",
+    "sampleSize": "895",
+    "population": "rv",
+    "grade": "B-",
+    "url": "https://docs.google.com/spreadsheets/d/1dGGzVgmSaesL4N8JeM07YIfMsT_BJ1yflf-29y_ejcQ/edit#gid=0",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-20",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.15",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "134415",
+    "subgroup": "All polls",
+    "sampleSize": "956",
+    "population": "a",
+    "grade": "B-",
+    "url": "https://docs.google.com/spreadsheets/d/1dGGzVgmSaesL4N8JeM07YIfMsT_BJ1yflf-29y_ejcQ/edit#gid=0",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-20",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.14",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.7",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "134408",
     "subgroup": "All polls",
     "sampleSize": "416",
@@ -287,6 +380,47 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
+  },
+  {
+    "id": "134418",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.deseret.com/utah/2020/10/22/21528825/news-poll-utahns-concerned-election-results-being-accepted-by-trump-biden-hinckley",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-12",
+    "endDate": "2020-10-17",
+    "pollster": "RMG Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "38.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Utah"
   },
   {
     "id": "134402",
