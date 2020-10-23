@@ -58,6 +58,68 @@
     "state": "Florida"
   },
   {
+    "id": "134540",
+    "subgroup": "All polls",
+    "sampleSize": "13534",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "134488",
+    "subgroup": "All polls",
+    "sampleSize": "13534",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "134439",
     "subgroup": "All polls",
     "sampleSize": "500",
@@ -71,17 +133,17 @@
     "answers": [
       {
         "choice": "Biden",
-        "pct": "46.0",
+        "pct": "46.2",
         "party": "Dem"
       },
       {
         "choice": "Trump",
-        "pct": "46.0",
+        "pct": "46.6",
         "party": "Rep"
       },
       {
         "choice": "Jorgensen",
-        "pct": "4.0",
+        "pct": "4.4",
         "party": "Lib"
       }
     ],
@@ -259,6 +321,3168 @@
     "state": "National"
   },
   {
+    "id": "134591",
+    "subgroup": "All polls",
+    "sampleSize": "989",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "53.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Alaska"
+  },
+  {
+    "id": "134590",
+    "subgroup": "All polls",
+    "sampleSize": "3038",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "38.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "61.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Alabama"
+  },
+  {
+    "id": "134589",
+    "subgroup": "All polls",
+    "sampleSize": "1951",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "39.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "59.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Arkansas"
+  },
+  {
+    "id": "134585",
+    "subgroup": "All polls",
+    "sampleSize": "3368",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "62.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "35.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Connecticut"
+  },
+  {
+    "id": "134583",
+    "subgroup": "All polls",
+    "sampleSize": "1161",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "63.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "35.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Delaware"
+  },
+  {
+    "id": "134582",
+    "subgroup": "All polls",
+    "sampleSize": "14080",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
+    "id": "134579",
+    "subgroup": "All polls",
+    "sampleSize": "2706",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
+    "id": "134576",
+    "subgroup": "All polls",
+    "sampleSize": "4308",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "54.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Indiana"
+  },
+  {
+    "id": "134575",
+    "subgroup": "All polls",
+    "sampleSize": "3041",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "51.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Kansas"
+  },
+  {
+    "id": "134574",
+    "subgroup": "All polls",
+    "sampleSize": "3252",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "57.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Kentucky"
+  },
+  {
+    "id": "134572",
+    "subgroup": "All polls",
+    "sampleSize": "5133",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "70.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "28.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Massachusetts"
+  },
+  {
+    "id": "134571",
+    "subgroup": "All polls",
+    "sampleSize": "5194",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "66.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "32.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Maryland"
+  },
+  {
+    "id": "134570",
+    "subgroup": "All polls",
+    "sampleSize": "1709",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "56.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Maine"
+  },
+  {
+    "id": "134569",
+    "subgroup": "All polls",
+    "sampleSize": "6767",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "134568",
+    "subgroup": "All polls",
+    "sampleSize": "4972",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "56.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Minnesota"
+  },
+  {
+    "id": "134567",
+    "subgroup": "All polls",
+    "sampleSize": "4257",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "53.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Missouri"
+  },
+  {
+    "id": "134566",
+    "subgroup": "All polls",
+    "sampleSize": "1612",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "37.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "61.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Mississippi"
+  },
+  {
+    "id": "134564",
+    "subgroup": "All polls",
+    "sampleSize": "7271",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "134560",
+    "subgroup": "All polls",
+    "sampleSize": "5811",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "61.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "36.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "New Jersey"
+  },
+  {
+    "id": "134559",
+    "subgroup": "All polls",
+    "sampleSize": "2431",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "New Mexico"
+  },
+  {
+    "id": "134558",
+    "subgroup": "All polls",
+    "sampleSize": "2790",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Nevada"
+  },
+  {
+    "id": "134555",
+    "subgroup": "All polls",
+    "sampleSize": "2670",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "40.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "58.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Oklahoma"
+  },
+  {
+    "id": "134553",
+    "subgroup": "All polls",
+    "sampleSize": "9615",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "134549",
+    "subgroup": "All polls",
+    "sampleSize": "4547",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "56.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Tennessee"
+  },
+  {
+    "id": "134548",
+    "subgroup": "All polls",
+    "sampleSize": "14434",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "51.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Texas"
+  },
+  {
+    "id": "134546",
+    "subgroup": "All polls",
+    "sampleSize": "6665",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "55.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Virginia"
+  },
+  {
+    "id": "134543",
+    "subgroup": "All polls",
+    "sampleSize": "4528",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "55.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Wisconsin"
+  },
+  {
+    "id": "134541",
+    "subgroup": "All polls",
+    "sampleSize": "616",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "30.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "68.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Wyoming"
+  },
+  {
+    "id": "134539",
+    "subgroup": "All polls",
+    "sampleSize": "989",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "52.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Alaska"
+  },
+  {
+    "id": "134538",
+    "subgroup": "All polls",
+    "sampleSize": "3038",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "41.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "57.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Alabama"
+  },
+  {
+    "id": "134537",
+    "subgroup": "All polls",
+    "sampleSize": "1951",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "41.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "57.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arkansas"
+  },
+  {
+    "id": "134533",
+    "subgroup": "All polls",
+    "sampleSize": "3368",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "62.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "35.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Connecticut"
+  },
+  {
+    "id": "134531",
+    "subgroup": "All polls",
+    "sampleSize": "1161",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "63.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "34.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Delaware"
+  },
+  {
+    "id": "134530",
+    "subgroup": "All polls",
+    "sampleSize": "14080",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
+    "id": "134527",
+    "subgroup": "All polls",
+    "sampleSize": "2706",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
+    "id": "134524",
+    "subgroup": "All polls",
+    "sampleSize": "4308",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "53.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Indiana"
+  },
+  {
+    "id": "134523",
+    "subgroup": "All polls",
+    "sampleSize": "3041",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "51.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Kansas"
+  },
+  {
+    "id": "134522",
+    "subgroup": "All polls",
+    "sampleSize": "3252",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "56.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Kentucky"
+  },
+  {
+    "id": "134520",
+    "subgroup": "All polls",
+    "sampleSize": "5133",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "69.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "28.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Massachusetts"
+  },
+  {
+    "id": "134519",
+    "subgroup": "All polls",
+    "sampleSize": "5194",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "67.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "30.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Maryland"
+  },
+  {
+    "id": "134518",
+    "subgroup": "All polls",
+    "sampleSize": "1709",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "56.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Maine"
+  },
+  {
+    "id": "134517",
+    "subgroup": "All polls",
+    "sampleSize": "6767",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "134516",
+    "subgroup": "All polls",
+    "sampleSize": "4972",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "55.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Minnesota"
+  },
+  {
+    "id": "134515",
+    "subgroup": "All polls",
+    "sampleSize": "4257",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "52.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Missouri"
+  },
+  {
+    "id": "134514",
+    "subgroup": "All polls",
+    "sampleSize": "1612",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "55.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Mississippi"
+  },
+  {
+    "id": "134512",
+    "subgroup": "All polls",
+    "sampleSize": "7271",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "134508",
+    "subgroup": "All polls",
+    "sampleSize": "5811",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "60.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "36.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "New Jersey"
+  },
+  {
+    "id": "134507",
+    "subgroup": "All polls",
+    "sampleSize": "2431",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "New Mexico"
+  },
+  {
+    "id": "134506",
+    "subgroup": "All polls",
+    "sampleSize": "2790",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Nevada"
+  },
+  {
+    "id": "134503",
+    "subgroup": "All polls",
+    "sampleSize": "2670",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "41.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "57.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Oklahoma"
+  },
+  {
+    "id": "134501",
+    "subgroup": "All polls",
+    "sampleSize": "9615",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "134497",
+    "subgroup": "All polls",
+    "sampleSize": "4547",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "54.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Tennessee"
+  },
+  {
+    "id": "134496",
+    "subgroup": "All polls",
+    "sampleSize": "14434",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Texas"
+  },
+  {
+    "id": "134494",
+    "subgroup": "All polls",
+    "sampleSize": "6665",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "56.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Virginia"
+  },
+  {
+    "id": "134491",
+    "subgroup": "All polls",
+    "sampleSize": "4528",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "55.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Wisconsin"
+  },
+  {
+    "id": "134489",
+    "subgroup": "All polls",
+    "sampleSize": "616",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-25",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "30.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "67.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Wyoming"
+  },
+  {
+    "id": "134588",
+    "subgroup": "All polls",
+    "sampleSize": "5836",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
+    "id": "134587",
+    "subgroup": "All polls",
+    "sampleSize": "22654",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "62.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "36.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "California"
+  },
+  {
+    "id": "134586",
+    "subgroup": "All polls",
+    "sampleSize": "5598",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "58.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Colorado"
+  },
+  {
+    "id": "134584",
+    "subgroup": "All polls",
+    "sampleSize": "874",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "89.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "9.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "District of Columbia"
+  },
+  {
+    "id": "134581",
+    "subgroup": "All polls",
+    "sampleSize": "6533",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "134580",
+    "subgroup": "All polls",
+    "sampleSize": "1137",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "65.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "33.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Hawaii"
+  },
+  {
+    "id": "134578",
+    "subgroup": "All polls",
+    "sampleSize": "1625",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "40.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "58.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Idaho"
+  },
+  {
+    "id": "134577",
+    "subgroup": "All polls",
+    "sampleSize": "7606",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "58.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Illinois"
+  },
+  {
+    "id": "134573",
+    "subgroup": "All polls",
+    "sampleSize": "2534",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "39.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "59.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Louisiana"
+  },
+  {
+    "id": "134565",
+    "subgroup": "All polls",
+    "sampleSize": "1170",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "53.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Montana"
+  },
+  {
+    "id": "134563",
+    "subgroup": "All polls",
+    "sampleSize": "548",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "39.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "60.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "North Dakota"
+  },
+  {
+    "id": "134562",
+    "subgroup": "All polls",
+    "sampleSize": "1643",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "53.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Nebraska"
+  },
+  {
+    "id": "134561",
+    "subgroup": "All polls",
+    "sampleSize": "1563",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "56.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "New Hampshire"
+  },
+  {
+    "id": "134557",
+    "subgroup": "All polls",
+    "sampleSize": "9813",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "65.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "33.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "New York"
+  },
+  {
+    "id": "134556",
+    "subgroup": "All polls",
+    "sampleSize": "7290",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Ohio"
+  },
+  {
+    "id": "134554",
+    "subgroup": "All polls",
+    "sampleSize": "4716",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "61.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "38.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Oregon"
+  },
+  {
+    "id": "134552",
+    "subgroup": "All polls",
+    "sampleSize": "786",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "68.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "31.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Rhode Island"
+  },
+  {
+    "id": "134551",
+    "subgroup": "All polls",
+    "sampleSize": "4255",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "53.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "South Carolina"
+  },
+  {
+    "id": "134550",
+    "subgroup": "All polls",
+    "sampleSize": "910",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "54.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "South Dakota"
+  },
+  {
+    "id": "134547",
+    "subgroup": "All polls",
+    "sampleSize": "2340",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "52.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Utah"
+  },
+  {
+    "id": "134545",
+    "subgroup": "All polls",
+    "sampleSize": "939",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "66.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "32.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Vermont"
+  },
+  {
+    "id": "134544",
+    "subgroup": "All polls",
+    "sampleSize": "7493",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "61.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "37.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Washington"
+  },
+  {
+    "id": "134542",
+    "subgroup": "All polls",
+    "sampleSize": "1203",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "33.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "66.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "West Virginia"
+  },
+  {
+    "id": "134536",
+    "subgroup": "All polls",
+    "sampleSize": "5836",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
+    "id": "134535",
+    "subgroup": "All polls",
+    "sampleSize": "22654",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "62.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "35.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "California"
+  },
+  {
+    "id": "134534",
+    "subgroup": "All polls",
+    "sampleSize": "5598",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "60.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "38.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Colorado"
+  },
+  {
+    "id": "134532",
+    "subgroup": "All polls",
+    "sampleSize": "874",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "87.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "10.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "District of Columbia"
+  },
+  {
+    "id": "134529",
+    "subgroup": "All polls",
+    "sampleSize": "6533",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "134528",
+    "subgroup": "All polls",
+    "sampleSize": "1137",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "63.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "34.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Hawaii"
+  },
+  {
+    "id": "134526",
+    "subgroup": "All polls",
+    "sampleSize": "1625",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "40.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "58.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Idaho"
+  },
+  {
+    "id": "134525",
+    "subgroup": "All polls",
+    "sampleSize": "7606",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "58.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "38.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Illinois"
+  },
+  {
+    "id": "134521",
+    "subgroup": "All polls",
+    "sampleSize": "2534",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "54.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Louisiana"
+  },
+  {
+    "id": "134513",
+    "subgroup": "All polls",
+    "sampleSize": "1170",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "52.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Montana"
+  },
+  {
+    "id": "134511",
+    "subgroup": "All polls",
+    "sampleSize": "548",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "39.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "60.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Dakota"
+  },
+  {
+    "id": "134510",
+    "subgroup": "All polls",
+    "sampleSize": "1643",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "52.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Nebraska"
+  },
+  {
+    "id": "134509",
+    "subgroup": "All polls",
+    "sampleSize": "1563",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "56.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
+  },
+  {
+    "id": "134505",
+    "subgroup": "All polls",
+    "sampleSize": "9813",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "65.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "32.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "New York"
+  },
+  {
+    "id": "134504",
+    "subgroup": "All polls",
+    "sampleSize": "7290",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Ohio"
+  },
+  {
+    "id": "134502",
+    "subgroup": "All polls",
+    "sampleSize": "4716",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "60.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "38.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Oregon"
+  },
+  {
+    "id": "134500",
+    "subgroup": "All polls",
+    "sampleSize": "786",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "68.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "30.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Rhode Island"
+  },
+  {
+    "id": "134499",
+    "subgroup": "All polls",
+    "sampleSize": "4255",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "51.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "South Carolina"
+  },
+  {
+    "id": "134498",
+    "subgroup": "All polls",
+    "sampleSize": "910",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "54.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "South Dakota"
+  },
+  {
+    "id": "134495",
+    "subgroup": "All polls",
+    "sampleSize": "2340",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "52.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Utah"
+  },
+  {
+    "id": "134493",
+    "subgroup": "All polls",
+    "sampleSize": "939",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "65.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "32.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Vermont"
+  },
+  {
+    "id": "134492",
+    "subgroup": "All polls",
+    "sampleSize": "7493",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "60.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "37.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Washington"
+  },
+  {
+    "id": "134490",
+    "subgroup": "All polls",
+    "sampleSize": "1203",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-23",
+    "startDate": "2020-09-24",
+    "endDate": "2020-10-22",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "33.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "65.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "West Virginia"
+  },
+  {
     "id": "134485",
     "subgroup": "All polls",
     "sampleSize": "500",
@@ -285,7 +3509,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Georgia"
   },
@@ -738,12 +3962,12 @@
     "subgroup": "All polls",
     "sampleSize": "800",
     "population": "lv",
-    "grade": "",
+    "grade": "A/B",
     "url": "https://www.americanactionforum.org/insight/georgia-policy-priorities-and-the-election-october-update/",
     "created_at": "2020-10-23",
     "startDate": "2020-10-12",
     "endDate": "2020-10-15",
-    "pollster": "Opinion Insight, LLC",
+    "pollster": "Opinion Insight",
     "answers": [
       {
         "choice": "Biden",
@@ -770,12 +3994,12 @@
     "subgroup": "All polls",
     "sampleSize": "800",
     "population": "lv",
-    "grade": "",
+    "grade": "A/B",
     "url": "https://www.americanactionforum.org/insight/iowa-policy-priorities-and-the-election-october-update/",
     "created_at": "2020-10-23",
     "startDate": "2020-10-05",
     "endDate": "2020-10-08",
-    "pollster": "Opinion Insight, LLC",
+    "pollster": "Opinion Insight",
     "answers": [
       {
         "choice": "Biden",
@@ -807,12 +4031,12 @@
     "subgroup": "All polls",
     "sampleSize": "800",
     "population": "lv",
-    "grade": "",
+    "grade": "A/B",
     "url": "https://www.americanactionforum.org/insight/michigan-policy-priorities-and-the-election-october-update/",
     "created_at": "2020-10-23",
     "startDate": "2020-10-03",
     "endDate": "2020-10-06",
-    "pollster": "Opinion Insight, LLC",
+    "pollster": "Opinion Insight",
     "answers": [
       {
         "choice": "Biden",
@@ -950,12 +4174,12 @@
     "subgroup": "All polls",
     "sampleSize": "800",
     "population": "lv",
-    "grade": "",
+    "grade": "A/B",
     "url": "https://www.americanactionforum.org/insight/michigan-policy-priorities-and-the-election/",
     "created_at": "2020-10-23",
     "startDate": "2020-08-30",
     "endDate": "2020-09-02",
-    "pollster": "Opinion Insight, LLC",
+    "pollster": "Opinion Insight",
     "answers": [
       {
         "choice": "Biden",
@@ -992,12 +4216,12 @@
     "subgroup": "All polls",
     "sampleSize": "800",
     "population": "lv",
-    "grade": "",
+    "grade": "A/B",
     "url": "https://www.americanactionforum.org/insight/iowa-policy-priorities-and-the-election/",
     "created_at": "2020-10-23",
     "startDate": "2020-08-30",
     "endDate": "2020-09-02",
-    "pollster": "Opinion Insight, LLC",
+    "pollster": "Opinion Insight",
     "answers": [
       {
         "choice": "Biden",
@@ -1034,12 +4258,12 @@
     "subgroup": "All polls",
     "sampleSize": "800",
     "population": "lv",
-    "grade": "",
+    "grade": "A/B",
     "url": "https://www.americanactionforum.org/insight/georgia-policy-priorities-and-the-election/",
     "created_at": "2020-10-23",
     "startDate": "2020-08-30",
     "endDate": "2020-09-02",
-    "pollster": "Opinion Insight, LLC",
+    "pollster": "Opinion Insight",
     "answers": [
       {
         "choice": "Biden",
@@ -1293,6 +4517,71 @@
     "state": "Arizona"
   },
   {
+    "id": "134487",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://www.wsbtv.com/news/local/atlanta/president-trump-widens-lead-over-joe-biden-latest-exclusive-channel-2-poll/7R643PFTRVDFHGNWHJFBVHKUCY/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-21",
+    "pollster": "Landmark Communications",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "32.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Collins",
+        "pct": "27.3",
+        "party": "Rep"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "23.6",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "134486",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://www.wsbtv.com/news/local/atlanta/president-trump-widens-lead-over-joe-biden-latest-exclusive-channel-2-poll/7R643PFTRVDFHGNWHJFBVHKUCY/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-21",
+    "pollster": "Landmark Communications",
+    "answers": [
+      {
+        "choice": "Ossoff",
+        "pct": "44.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perdue",
+        "pct": "50.2",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
     "id": "134422",
     "subgroup": "All polls",
     "sampleSize": "800",
@@ -1503,12 +4792,12 @@
     "subgroup": "All polls",
     "sampleSize": "800",
     "population": "lv",
-    "grade": "",
+    "grade": "A/B",
     "url": "https://www.americanactionforum.org/insight/georgia-policy-priorities-and-the-election-october-update/",
     "created_at": "2020-10-23",
     "startDate": "2020-10-12",
     "endDate": "2020-10-15",
-    "pollster": "Opinion Insight, LLC",
+    "pollster": "Opinion Insight",
     "answers": [
       {
         "choice": "Warnock",
@@ -1569,12 +4858,12 @@
     "subgroup": "All polls",
     "sampleSize": "800",
     "population": "lv",
-    "grade": "",
+    "grade": "A/B",
     "url": "https://www.americanactionforum.org/insight/georgia-policy-priorities-and-the-election-october-update/",
     "created_at": "2020-10-23",
     "startDate": "2020-10-12",
     "endDate": "2020-10-15",
-    "pollster": "Opinion Insight, LLC",
+    "pollster": "Opinion Insight",
     "answers": [
       {
         "choice": "Ossoff",
@@ -1600,12 +4889,12 @@
     "subgroup": "All polls",
     "sampleSize": "800",
     "population": "lv",
-    "grade": "",
+    "grade": "A/B",
     "url": "https://www.americanactionforum.org/insight/iowa-policy-priorities-and-the-election-october-update/",
     "created_at": "2020-10-23",
     "startDate": "2020-10-05",
     "endDate": "2020-10-08",
-    "pollster": "Opinion Insight, LLC",
+    "pollster": "Opinion Insight",
     "answers": [
       {
         "choice": "Greenfield",
@@ -1631,12 +4920,12 @@
     "subgroup": "All polls",
     "sampleSize": "800",
     "population": "lv",
-    "grade": "",
+    "grade": "A/B",
     "url": "https://www.americanactionforum.org/insight/michigan-policy-priorities-and-the-election-october-update/",
     "created_at": "2020-10-23",
     "startDate": "2020-10-03",
     "endDate": "2020-10-06",
-    "pollster": "Opinion Insight, LLC",
+    "pollster": "Opinion Insight",
     "answers": [
       {
         "choice": "Peters",
@@ -1693,12 +4982,12 @@
     "subgroup": "All polls",
     "sampleSize": "800",
     "population": "lv",
-    "grade": "",
+    "grade": "A/B",
     "url": "https://www.americanactionforum.org/insight/michigan-policy-priorities-and-the-election/",
     "created_at": "2020-10-23",
     "startDate": "2020-08-30",
     "endDate": "2020-09-02",
-    "pollster": "Opinion Insight, LLC",
+    "pollster": "Opinion Insight",
     "answers": [
       {
         "choice": "Peters",
@@ -1724,12 +5013,12 @@
     "subgroup": "All polls",
     "sampleSize": "800",
     "population": "lv",
-    "grade": "",
+    "grade": "A/B",
     "url": "https://www.americanactionforum.org/insight/iowa-policy-priorities-and-the-election/",
     "created_at": "2020-10-23",
     "startDate": "2020-08-30",
     "endDate": "2020-09-02",
-    "pollster": "Opinion Insight, LLC",
+    "pollster": "Opinion Insight",
     "answers": [
       {
         "choice": "Greenfield",
@@ -1755,12 +5044,12 @@
     "subgroup": "All polls",
     "sampleSize": "800",
     "population": "lv",
-    "grade": "",
+    "grade": "A/B",
     "url": "https://www.americanactionforum.org/insight/georgia-policy-priorities-and-the-election/",
     "created_at": "2020-10-23",
     "startDate": "2020-08-30",
     "endDate": "2020-09-02",
-    "pollster": "Opinion Insight, LLC",
+    "pollster": "Opinion Insight",
     "answers": [
       {
         "choice": "Warnock",
@@ -1821,12 +5110,12 @@
     "subgroup": "All polls",
     "sampleSize": "800",
     "population": "lv",
-    "grade": "",
+    "grade": "A/B",
     "url": "https://www.americanactionforum.org/insight/georgia-policy-priorities-and-the-election/",
     "created_at": "2020-10-23",
     "startDate": "2020-08-30",
     "endDate": "2020-09-02",
-    "pollster": "Opinion Insight, LLC",
+    "pollster": "Opinion Insight",
     "answers": [
       {
         "choice": "Ossoff",
@@ -2265,68 +5554,6 @@
     "state": "North Carolina"
   },
   {
-    "id": "134341",
-    "subgroup": "All polls",
-    "sampleSize": "13943",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-10-19",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "52.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "46.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "134289",
-    "subgroup": "All polls",
-    "sampleSize": "13943",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-10-19",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "52.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "45.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
     "id": "134237",
     "subgroup": "All polls",
     "sampleSize": "1577",
@@ -2387,3168 +5614,6 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Iowa"
-  },
-  {
-    "id": "134391",
-    "subgroup": "All polls",
-    "sampleSize": "2985",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "38.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "60.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Alabama"
-  },
-  {
-    "id": "134390",
-    "subgroup": "All polls",
-    "sampleSize": "1887",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "40.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "58.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Arkansas"
-  },
-  {
-    "id": "134389",
-    "subgroup": "All polls",
-    "sampleSize": "5852",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "53.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "46.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Arizona"
-  },
-  {
-    "id": "134388",
-    "subgroup": "All polls",
-    "sampleSize": "22980",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "62.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "36.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "California"
-  },
-  {
-    "id": "134387",
-    "subgroup": "All polls",
-    "sampleSize": "5545",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "58.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "40.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Colorado"
-  },
-  {
-    "id": "134386",
-    "subgroup": "All polls",
-    "sampleSize": "3224",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "62.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "36.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Connecticut"
-  },
-  {
-    "id": "134385",
-    "subgroup": "All polls",
-    "sampleSize": "825",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "88.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "9.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "District of Columbia"
-  },
-  {
-    "id": "134384",
-    "subgroup": "All polls",
-    "sampleSize": "1120",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "63.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "36.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Delaware"
-  },
-  {
-    "id": "134383",
-    "subgroup": "All polls",
-    "sampleSize": "14142",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "48.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "50.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Florida"
-  },
-  {
-    "id": "134382",
-    "subgroup": "All polls",
-    "sampleSize": "6420",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "49.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "49.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Georgia"
-  },
-  {
-    "id": "134381",
-    "subgroup": "All polls",
-    "sampleSize": "1088",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "66.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "32.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Hawaii"
-  },
-  {
-    "id": "134380",
-    "subgroup": "All polls",
-    "sampleSize": "2654",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "49.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "50.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Iowa"
-  },
-  {
-    "id": "134379",
-    "subgroup": "All polls",
-    "sampleSize": "1607",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "40.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "57.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Idaho"
-  },
-  {
-    "id": "134378",
-    "subgroup": "All polls",
-    "sampleSize": "7554",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "58.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "39.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Illinois"
-  },
-  {
-    "id": "134377",
-    "subgroup": "All polls",
-    "sampleSize": "4255",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "44.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "54.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Indiana"
-  },
-  {
-    "id": "134375",
-    "subgroup": "All polls",
-    "sampleSize": "3136",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "42.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "57.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Kentucky"
-  },
-  {
-    "id": "134373",
-    "subgroup": "All polls",
-    "sampleSize": "5030",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "70.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "28.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Massachusetts"
-  },
-  {
-    "id": "134372",
-    "subgroup": "All polls",
-    "sampleSize": "4892",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "67.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "32.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Maryland"
-  },
-  {
-    "id": "134371",
-    "subgroup": "All polls",
-    "sampleSize": "1649",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "56.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "43.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Maine"
-  },
-  {
-    "id": "134370",
-    "subgroup": "All polls",
-    "sampleSize": "6607",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "53.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "44.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Michigan"
-  },
-  {
-    "id": "134369",
-    "subgroup": "All polls",
-    "sampleSize": "4816",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "56.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Minnesota"
-  },
-  {
-    "id": "134367",
-    "subgroup": "All polls",
-    "sampleSize": "1541",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "37.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "61.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Mississippi"
-  },
-  {
-    "id": "134365",
-    "subgroup": "All polls",
-    "sampleSize": "7119",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "52.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "46.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "North Carolina"
-  },
-  {
-    "id": "134363",
-    "subgroup": "All polls",
-    "sampleSize": "1630",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "45.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "53.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Nebraska"
-  },
-  {
-    "id": "134362",
-    "subgroup": "All polls",
-    "sampleSize": "1508",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "56.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "New Hampshire"
-  },
-  {
-    "id": "134361",
-    "subgroup": "All polls",
-    "sampleSize": "5497",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "61.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "36.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "New Jersey"
-  },
-  {
-    "id": "134360",
-    "subgroup": "All polls",
-    "sampleSize": "2319",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "53.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "46.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "New Mexico"
-  },
-  {
-    "id": "134359",
-    "subgroup": "All polls",
-    "sampleSize": "2746",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "51.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "48.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Nevada"
-  },
-  {
-    "id": "134358",
-    "subgroup": "All polls",
-    "sampleSize": "9873",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "65.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "32.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "New York"
-  },
-  {
-    "id": "134357",
-    "subgroup": "All polls",
-    "sampleSize": "7033",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "48.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "51.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Ohio"
-  },
-  {
-    "id": "134356",
-    "subgroup": "All polls",
-    "sampleSize": "2471",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "41.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "58.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Oklahoma"
-  },
-  {
-    "id": "134355",
-    "subgroup": "All polls",
-    "sampleSize": "4512",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "61.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "38.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Oregon"
-  },
-  {
-    "id": "134354",
-    "subgroup": "All polls",
-    "sampleSize": "9301",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "52.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "46.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Pennsylvania"
-  },
-  {
-    "id": "134352",
-    "subgroup": "All polls",
-    "sampleSize": "4109",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "44.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "53.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "South Carolina"
-  },
-  {
-    "id": "134351",
-    "subgroup": "All polls",
-    "sampleSize": "847",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "45.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "53.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "South Dakota"
-  },
-  {
-    "id": "134350",
-    "subgroup": "All polls",
-    "sampleSize": "4469",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "41.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "57.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Tennessee"
-  },
-  {
-    "id": "134348",
-    "subgroup": "All polls",
-    "sampleSize": "2304",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "45.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "53.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Utah"
-  },
-  {
-    "id": "134347",
-    "subgroup": "All polls",
-    "sampleSize": "6382",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "55.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "43.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Virginia"
-  },
-  {
-    "id": "134345",
-    "subgroup": "All polls",
-    "sampleSize": "7528",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "61.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "37.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Washington"
-  },
-  {
-    "id": "134344",
-    "subgroup": "All polls",
-    "sampleSize": "4540",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "55.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "43.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Wisconsin"
-  },
-  {
-    "id": "134343",
-    "subgroup": "All polls",
-    "sampleSize": "1154",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "32.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "67.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "West Virginia"
-  },
-  {
-    "id": "134342",
-    "subgroup": "All polls",
-    "sampleSize": "605",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "31.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "67.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Wyoming"
-  },
-  {
-    "id": "134339",
-    "subgroup": "All polls",
-    "sampleSize": "2985",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "41.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "57.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Alabama"
-  },
-  {
-    "id": "134338",
-    "subgroup": "All polls",
-    "sampleSize": "1887",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "41.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "56.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Arkansas"
-  },
-  {
-    "id": "134337",
-    "subgroup": "All polls",
-    "sampleSize": "5852",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "54.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "44.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Arizona"
-  },
-  {
-    "id": "134336",
-    "subgroup": "All polls",
-    "sampleSize": "22980",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "62.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "35.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "California"
-  },
-  {
-    "id": "134335",
-    "subgroup": "All polls",
-    "sampleSize": "5545",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "59.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "38.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Colorado"
-  },
-  {
-    "id": "134334",
-    "subgroup": "All polls",
-    "sampleSize": "3224",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "61.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "35.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Connecticut"
-  },
-  {
-    "id": "134333",
-    "subgroup": "All polls",
-    "sampleSize": "825",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "87.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "10.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "District of Columbia"
-  },
-  {
-    "id": "134332",
-    "subgroup": "All polls",
-    "sampleSize": "1120",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "63.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "35.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Delaware"
-  },
-  {
-    "id": "134331",
-    "subgroup": "All polls",
-    "sampleSize": "14142",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "49.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "48.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Florida"
-  },
-  {
-    "id": "134330",
-    "subgroup": "All polls",
-    "sampleSize": "6420",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "52.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "46.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Georgia"
-  },
-  {
-    "id": "134329",
-    "subgroup": "All polls",
-    "sampleSize": "1088",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "63.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "33.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Hawaii"
-  },
-  {
-    "id": "134328",
-    "subgroup": "All polls",
-    "sampleSize": "2654",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "49.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "49.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Iowa"
-  },
-  {
-    "id": "134327",
-    "subgroup": "All polls",
-    "sampleSize": "1607",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "40.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "58.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Idaho"
-  },
-  {
-    "id": "134326",
-    "subgroup": "All polls",
-    "sampleSize": "7554",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "58.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "38.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Illinois"
-  },
-  {
-    "id": "134325",
-    "subgroup": "All polls",
-    "sampleSize": "4255",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "44.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "53.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Indiana"
-  },
-  {
-    "id": "134323",
-    "subgroup": "All polls",
-    "sampleSize": "3136",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "41.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "57.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Kentucky"
-  },
-  {
-    "id": "134321",
-    "subgroup": "All polls",
-    "sampleSize": "5030",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "69.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "28.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Massachusetts"
-  },
-  {
-    "id": "134320",
-    "subgroup": "All polls",
-    "sampleSize": "4892",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "67.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "30.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Maryland"
-  },
-  {
-    "id": "134319",
-    "subgroup": "All polls",
-    "sampleSize": "1649",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "56.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Maine"
-  },
-  {
-    "id": "134318",
-    "subgroup": "All polls",
-    "sampleSize": "6607",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "53.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "44.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Michigan"
-  },
-  {
-    "id": "134317",
-    "subgroup": "All polls",
-    "sampleSize": "4816",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "55.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Minnesota"
-  },
-  {
-    "id": "134315",
-    "subgroup": "All polls",
-    "sampleSize": "1541",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "43.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "55.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Mississippi"
-  },
-  {
-    "id": "134313",
-    "subgroup": "All polls",
-    "sampleSize": "7119",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "53.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "45.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "North Carolina"
-  },
-  {
-    "id": "134311",
-    "subgroup": "All polls",
-    "sampleSize": "1630",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "46.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "52.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Nebraska"
-  },
-  {
-    "id": "134310",
-    "subgroup": "All polls",
-    "sampleSize": "1508",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "56.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "New Hampshire"
-  },
-  {
-    "id": "134309",
-    "subgroup": "All polls",
-    "sampleSize": "5497",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "61.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "35.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "New Jersey"
-  },
-  {
-    "id": "134308",
-    "subgroup": "All polls",
-    "sampleSize": "2319",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "52.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "46.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "New Mexico"
-  },
-  {
-    "id": "134307",
-    "subgroup": "All polls",
-    "sampleSize": "2746",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "52.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "46.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Nevada"
-  },
-  {
-    "id": "134306",
-    "subgroup": "All polls",
-    "sampleSize": "9873",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "65.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "32.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "New York"
-  },
-  {
-    "id": "134305",
-    "subgroup": "All polls",
-    "sampleSize": "7033",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "48.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "50.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Ohio"
-  },
-  {
-    "id": "134304",
-    "subgroup": "All polls",
-    "sampleSize": "2471",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "42.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "57.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Oklahoma"
-  },
-  {
-    "id": "134303",
-    "subgroup": "All polls",
-    "sampleSize": "4512",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "60.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "39.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Oregon"
-  },
-  {
-    "id": "134302",
-    "subgroup": "All polls",
-    "sampleSize": "9301",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "52.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "45.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Pennsylvania"
-  },
-  {
-    "id": "134300",
-    "subgroup": "All polls",
-    "sampleSize": "4109",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "46.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "51.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "South Carolina"
-  },
-  {
-    "id": "134299",
-    "subgroup": "All polls",
-    "sampleSize": "847",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "45.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "53.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "South Dakota"
-  },
-  {
-    "id": "134298",
-    "subgroup": "All polls",
-    "sampleSize": "4469",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "43.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "55.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Tennessee"
-  },
-  {
-    "id": "134296",
-    "subgroup": "All polls",
-    "sampleSize": "2304",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "45.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "52.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Utah"
-  },
-  {
-    "id": "134295",
-    "subgroup": "All polls",
-    "sampleSize": "6382",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "56.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Virginia"
-  },
-  {
-    "id": "134293",
-    "subgroup": "All polls",
-    "sampleSize": "7528",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "60.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "37.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Washington"
-  },
-  {
-    "id": "134292",
-    "subgroup": "All polls",
-    "sampleSize": "4540",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "55.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "42.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Wisconsin"
-  },
-  {
-    "id": "134291",
-    "subgroup": "All polls",
-    "sampleSize": "1154",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "32.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "66.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "West Virginia"
-  },
-  {
-    "id": "134290",
-    "subgroup": "All polls",
-    "sampleSize": "605",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-24",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "31.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "66.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Wyoming"
-  },
-  {
-    "id": "134392",
-    "subgroup": "All polls",
-    "sampleSize": "998",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-23",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "44.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "53.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Alaska"
-  },
-  {
-    "id": "134376",
-    "subgroup": "All polls",
-    "sampleSize": "2922",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-23",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "47.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "51.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Kansas"
-  },
-  {
-    "id": "134374",
-    "subgroup": "All polls",
-    "sampleSize": "2547",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-23",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "39.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "59.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Louisiana"
-  },
-  {
-    "id": "134368",
-    "subgroup": "All polls",
-    "sampleSize": "4216",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-23",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "45.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "53.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Missouri"
-  },
-  {
-    "id": "134366",
-    "subgroup": "All polls",
-    "sampleSize": "1129",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-23",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "45.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "53.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Montana"
-  },
-  {
-    "id": "134364",
-    "subgroup": "All polls",
-    "sampleSize": "535",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-23",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "40.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "59.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "North Dakota"
-  },
-  {
-    "id": "134353",
-    "subgroup": "All polls",
-    "sampleSize": "760",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-23",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "68.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "31.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Rhode Island"
-  },
-  {
-    "id": "134349",
-    "subgroup": "All polls",
-    "sampleSize": "14395",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-23",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "47.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "51.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Texas"
-  },
-  {
-    "id": "134346",
-    "subgroup": "All polls",
-    "sampleSize": "858",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-23",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "66.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "32.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "Vermont"
-  },
-  {
-    "id": "134340",
-    "subgroup": "All polls",
-    "sampleSize": "998",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-23",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "44.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "52.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Alaska"
-  },
-  {
-    "id": "134324",
-    "subgroup": "All polls",
-    "sampleSize": "2922",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-23",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "47.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "51.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Kansas"
-  },
-  {
-    "id": "134322",
-    "subgroup": "All polls",
-    "sampleSize": "2547",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-23",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "43.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "54.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Louisiana"
-  },
-  {
-    "id": "134316",
-    "subgroup": "All polls",
-    "sampleSize": "4216",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-23",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "45.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "52.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Missouri"
-  },
-  {
-    "id": "134314",
-    "subgroup": "All polls",
-    "sampleSize": "1129",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-23",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "45.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "52.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Montana"
-  },
-  {
-    "id": "134312",
-    "subgroup": "All polls",
-    "sampleSize": "535",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-23",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "40.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "59.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "North Dakota"
-  },
-  {
-    "id": "134301",
-    "subgroup": "All polls",
-    "sampleSize": "760",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-23",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "68.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "31.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Rhode Island"
-  },
-  {
-    "id": "134297",
-    "subgroup": "All polls",
-    "sampleSize": "14395",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-23",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "49.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "48.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Texas"
-  },
-  {
-    "id": "134294",
-    "subgroup": "All polls",
-    "sampleSize": "858",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-22",
-    "startDate": "2020-09-23",
-    "endDate": "2020-10-21",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "65.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "32.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Vermont"
   },
   {
     "id": "134271",
@@ -10881,6 +10946,68 @@
     "state": "Iowa"
   },
   {
+    "id": "133904",
+    "subgroup": "All polls",
+    "sampleSize": "9447",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-19",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "133852",
+    "subgroup": "All polls",
+    "sampleSize": "9447",
+    "population": "rv",
+    "grade": "D-",
+    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
+    "created_at": "2020-10-20",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-19",
+    "pollster": "SurveyMonkey",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "133962",
     "subgroup": "All polls",
     "sampleSize": "447",
@@ -13195,68 +13322,6 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "133720",
-    "subgroup": "All polls",
-    "sampleSize": "13021",
-    "population": "lv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-19",
-    "startDate": "2020-10-16",
-    "endDate": "2020-10-18",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "53.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "46.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "133668",
-    "subgroup": "All polls",
-    "sampleSize": "13021",
-    "population": "rv",
-    "grade": "D-",
-    "url": "https://www.tableau.com/data-insights/us-election-2020/candidate-preference",
-    "created_at": "2020-10-19",
-    "startDate": "2020-10-16",
-    "endDate": "2020-10-18",
-    "pollster": "SurveyMonkey",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "53.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "45.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
     "cycle": "2020",
     "state": "National"
   },
