@@ -58,6 +58,42 @@
     "state": "Florida"
   },
   {
+    "id": "134439",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://overland.amgreatness.com/app/uploads/2020/10/Toplines-ArizonaStatewide-CFAG-Oct2020.pdf",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-22",
+    "pollster": "Susquehanna Polling & Research Inc.",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "4.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
     "id": "134413",
     "subgroup": "All polls",
     "sampleSize": "972",
@@ -373,7 +409,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "West Virginia"
   },
@@ -712,6 +748,66 @@
     "state": "National"
   },
   {
+    "id": "134437",
+    "subgroup": "All polls",
+    "sampleSize": "610",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.cygn.al/cygnal-poll-hagerty-up-20-points-in-tn-senate-race/",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-22",
+    "pollster": "Cygnal",
+    "answers": [
+      {
+        "choice": "Bradshaw",
+        "pct": "35.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Hagerty",
+        "pct": "56.3",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Tennessee"
+  },
+  {
+    "id": "134440",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://overland.amgreatness.com/app/uploads/2020/10/Toplines-ArizonaStatewide-CFAG-Oct2020.pdf",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-22",
+    "pollster": "Susquehanna Polling & Research Inc.",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "50.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
     "id": "134422",
     "subgroup": "All polls",
     "sampleSize": "800",
@@ -875,6 +971,38 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Michigan"
+  },
+  {
+    "id": "134441",
+    "subgroup": "All polls",
+    "sampleSize": "910",
+    "population": "v",
+    "grade": "B",
+    "url": "https://drive.google.com/file/d/1v4TDqHNSs9PubuHEFyzDo22lX0_sMC3b/view",
+    "created_at": "2020-10-23",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-22",
+    "pollster": "Public Policy Polling",
+    "answers": [
+      {
+        "choice": "Webb",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Good",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 5",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Virginia",
+    "district": "5"
   },
   {
     "id": "134432",
