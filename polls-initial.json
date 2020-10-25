@@ -397,6 +397,52 @@
     "state": "Florida"
   },
   {
+    "id": "134752",
+    "subgroup": "All polls",
+    "sampleSize": "1098",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://drive.google.com/file/d/1F50GhQFuthpATgxIiDqADXjmgk_iNFBm/view",
+    "created_at": "2020-10-25",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-22",
+    "pollster": "Trafalgar Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.8",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.3",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.4",
+        "party": "Gre"
+      },
+      {
+        "choice": "Blankenship",
+        "pct": "0.2",
+        "party": "Con"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "134734",
     "subgroup": "All polls",
     "sampleSize": "625",
