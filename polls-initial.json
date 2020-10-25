@@ -108,6 +108,37 @@
     "state": "Michigan"
   },
   {
+    "id": "134748",
+    "subgroup": "All polls",
+    "sampleSize": "679",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://gravismarketing.com/michigan-poll-results-2020/",
+    "created_at": "2020-10-25",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-24",
+    "pollster": "Gravis Marketing",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "55.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
     "id": "134743",
     "subgroup": "All polls",
     "sampleSize": "1006",
@@ -175,7 +206,7 @@
     "seat_name": null,
     "tracking": true,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -271,6 +302,99 @@
     "inAvg": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "134747",
+    "subgroup": "All polls",
+    "sampleSize": "1022",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://drive.google.com/file/d/120niJzXNDssyJDgqzt-EgHEqarQgnY_8/view",
+    "created_at": "2020-10-25",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-23",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "134746",
+    "subgroup": "All polls",
+    "sampleSize": "1090",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://drive.google.com/file/d/1jZ9sY9pNj52MdJPsN9MW4KHKvDsjNC9c/view",
+    "created_at": "2020-10-25",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-23",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "134745",
+    "subgroup": "All polls",
+    "sampleSize": "1228",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://drive.google.com/file/d/12YvPqiTHtWdC4CnV0zAtNtvj7_QO-mr9/view",
+    "created_at": "2020-10-25",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-23",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Florida"
   },
   {
     "id": "134734",
@@ -414,6 +538,96 @@
     "state": "National"
   },
   {
+    "id": "134749",
+    "subgroup": "All polls",
+    "sampleSize": "679",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://gravismarketing.com/michigan-poll-results-2020/",
+    "created_at": "2020-10-25",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-24",
+    "pollster": "Gravis Marketing",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "134751",
+    "subgroup": "All polls",
+    "sampleSize": "1090",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://drive.google.com/file/d/1jZ9sY9pNj52MdJPsN9MW4KHKvDsjNC9c/view",
+    "created_at": "2020-10-25",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-23",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Ossoff",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perdue",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "134750",
+    "subgroup": "All polls",
+    "sampleSize": "1022",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://drive.google.com/file/d/120niJzXNDssyJDgqzt-EgHEqarQgnY_8/view",
+    "created_at": "2020-10-25",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-23",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "134740",
     "subgroup": "All polls",
     "sampleSize": "925",
@@ -528,6 +742,36 @@
     "cycle": "2020",
     "state": "New York",
     "district": "24"
+  },
+  {
+    "id": "134744",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://politicaliq.com/2020/10/25/mt-governor-gianforter-48-cooneyd-45/",
+    "created_at": "2020-10-25",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-18",
+    "pollster": "RMG Research",
+    "answers": [
+      {
+        "choice": "Cooney",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Gianforte",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Montana"
   },
   {
     "id": "134615",
