@@ -81,6 +81,68 @@
     "state": "National"
   },
   {
+    "id": "134925",
+    "subgroup": "All polls",
+    "sampleSize": "653",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.reuters.com/article/uk-usa-election-battlegrounds-poll/biden-has-solid-lead-in-wisconsin-narrower-edge-in-pennsylvania-reuters-ipsos-poll-idUKKBN27B2FO",
+    "created_at": "2020-10-26",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-26",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "134924",
+    "subgroup": "All polls",
+    "sampleSize": "664",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.reuters.com/article/uk-usa-election-battlegrounds-poll/biden-has-solid-lead-in-wisconsin-narrower-edge-in-pennsylvania-reuters-ipsos-poll-idUKKBN27B2FO",
+    "created_at": "2020-10-26",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-26",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Wisconsin"
+  },
+  {
     "id": "134912",
     "subgroup": "All polls",
     "sampleSize": "400",
@@ -143,7 +205,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -654,7 +716,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Massachusetts"
   },
@@ -949,6 +1011,62 @@
     "state": "National"
   },
   {
+    "id": "134923",
+    "subgroup": "All polls",
+    "sampleSize": "1350",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/fsf95uprtd/20201026_yahoo_coronavirus_tabs.pdf",
+    "created_at": "2020-10-26",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-25",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "54.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "41.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "134922",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "rv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/fsf95uprtd/20201026_yahoo_coronavirus_tabs.pdf",
+    "created_at": "2020-10-26",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-25",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "38.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "134893",
     "subgroup": "All polls",
     "sampleSize": "15509",
@@ -1224,6 +1342,36 @@
     "state": "Georgia"
   },
   {
+    "id": "134921",
+    "subgroup": "All polls",
+    "sampleSize": "713",
+    "population": "rv",
+    "grade": "B",
+    "url": "https://polsci.umass.edu/sites/default/files/GeneralElectionToplines.pdf",
+    "created_at": "2020-10-26",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-21",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Markey",
+        "pct": "65.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "O'Connor",
+        "pct": "26.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Massachusetts"
+  },
+  {
     "id": "134883",
     "subgroup": "All polls",
     "sampleSize": "1000",
@@ -1269,7 +1417,7 @@
     "sampleSize": "500",
     "population": "lv",
     "grade": "",
-    "url": "https://oklahoman.com/article/5674844/bice-leads-horn-in-5th-district-race-new-poll-shows",
+    "url": "https://projects.fivethirtyeight.com/polls/20201026_OK_AmberIntegrated.pdf",
     "created_at": "2020-10-26",
     "startDate": "2020-10-22",
     "endDate": "2020-10-25",
@@ -1362,6 +1510,37 @@
     "partisan": "DEM",
     "state": "Texas",
     "district": "3"
+  },
+  {
+    "id": "134920",
+    "subgroup": "All polls",
+    "sampleSize": "650",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.nbcnewyork.com/news/politics/decision-2020/malliotakis-narrowly-leads-rose-in-tight-staten-island-race-nbc-4-marist-poll-finds/2685646/?_osource=SocialFlowTwt_NYBrand",
+    "created_at": "2020-10-26",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-21",
+    "pollster": "Marist College",
+    "answers": [
+      {
+        "choice": "Rose",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Malliotakis",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 11",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New York",
+    "district": "11"
   },
   {
     "id": "134868",
