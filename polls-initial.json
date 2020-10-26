@@ -112,7 +112,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -423,6 +423,47 @@
     "tracking": true,
     "headToHead": false,
     "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "134915",
+    "subgroup": "All polls",
+    "sampleSize": "1842",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://justthenews.com/politics-policy/polling/race-narrows-slightly-stable-nationwide-polls-following-final-presidential",
+    "created_at": "2020-10-26",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-24",
+    "pollster": "RMG Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
