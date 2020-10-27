@@ -193,6 +193,37 @@
     "state": "North Carolina"
   },
   {
+    "id": "135087",
+    "subgroup": "All polls",
+    "sampleSize": "657",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://gravismarketing.com/minnesota-poll-results/",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-26",
+    "pollster": "Gravis Marketing",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Minnesota"
+  },
+  {
     "id": "135076",
     "subgroup": "All polls",
     "sampleSize": "809",
@@ -631,6 +662,42 @@
     "state": "National"
   },
   {
+    "id": "135085",
+    "subgroup": "All polls",
+    "sampleSize": "716",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://ohpredictive.com/press-releases/poll-biden-maintains-small-lead-in-arizona/",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-22",
+    "endDate": "2020-10-25",
+    "pollster": "OH Predictive Insights",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
     "id": "135071",
     "subgroup": "All polls",
     "sampleSize": "800",
@@ -791,6 +858,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "135088",
+    "subgroup": "All polls",
+    "sampleSize": "657",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://gravismarketing.com/minnesota-poll-results/",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-26",
+    "pollster": "Gravis Marketing",
+    "answers": [
+      {
+        "choice": "Smith",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Lewis",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Minnesota"
   },
   {
     "id": "135056",
@@ -966,6 +1063,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Georgia"
+  },
+  {
+    "id": "135086",
+    "subgroup": "All polls",
+    "sampleSize": "716",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://ohpredictive.com/press-releases/poll-biden-maintains-small-lead-in-arizona/",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-22",
+    "endDate": "2020-10-25",
+    "pollster": "OH Predictive Insights",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "135064",
