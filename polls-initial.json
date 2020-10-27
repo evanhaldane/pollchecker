@@ -27,6 +27,33 @@
     "state": "National"
   },
   {
+    "id": "135081",
+    "subgroup": "All polls",
+    "sampleSize": "1990",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://assets.morningconsult.com/wp-uploads/2020/10/26164118/2010142_crosstabs_POLITICO_RVs_v2_ACB.pdf",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-25",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "45.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "135040",
     "subgroup": "All polls",
     "sampleSize": "73903",
@@ -72,6 +99,33 @@
       {
         "choice": "Disapprove",
         "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "135082",
+    "subgroup": "All polls",
+    "sampleSize": "2200",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://assets.morningconsult.com/wp-uploads/2020/10/26175305/2009155_crosstabs_JORDAN_NASCAR_Adults_v1_LM.pdf",
+    "created_at": "2020-10-27",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-01",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "56.0"
       }
     ],
     "type": "trump-approval",
@@ -495,7 +549,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
   },
@@ -616,6 +670,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Nevada"
+  },
+  {
+    "id": "135083",
+    "subgroup": "All polls",
+    "sampleSize": "755",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.uno.edu/media/23301",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-22",
+    "endDate": "2020-10-22",
+    "pollster": "University of New Orleans",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "35.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "58.8",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Louisiana"
   },
   {
     "id": "135063",
@@ -4862,7 +4947,7 @@
     "id": "134917",
     "subgroup": "All polls",
     "sampleSize": "713",
-    "population": "rv",
+    "population": "lv",
     "grade": "B",
     "url": "https://polsci.umass.edu/sites/default/files/GeneralElectionToplines.pdf",
     "created_at": "2020-10-26",
@@ -5520,10 +5605,10 @@
   {
     "id": "135039",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "1098",
     "population": "lv",
     "grade": "C-",
-    "url": "https://twitter.com/RobertCahaly/status/1320878293051166721",
+    "url": "https://drive.google.com/file/d/1KlUo8ALSBbk7BgkJ3Qqd3NXp3Hbi-4PB/view",
     "created_at": "2020-10-26",
     "startDate": "2020-10-20",
     "endDate": "2020-10-22",
@@ -5561,7 +5646,7 @@
     "id": "134921",
     "subgroup": "All polls",
     "sampleSize": "713",
-    "population": "rv",
+    "population": "lv",
     "grade": "B",
     "url": "https://polsci.umass.edu/sites/default/files/GeneralElectionToplines.pdf",
     "created_at": "2020-10-26",
