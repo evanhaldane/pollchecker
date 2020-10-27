@@ -162,6 +162,37 @@
     "state": "National"
   },
   {
+    "id": "135084",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://politicaliq.com/2020/10/27/north-carolina-biden-48-trump-47/",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-26",
+    "pollster": "RMG Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "135076",
     "subgroup": "All polls",
     "sampleSize": "809",
@@ -698,7 +729,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Louisiana"
   },
