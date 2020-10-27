@@ -188,10 +188,72 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "North Carolina"
+  },
+  {
+    "id": "135092",
+    "subgroup": "All polls",
+    "sampleSize": "647",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.devdiscourse.com/article/politics/1287074-poll-biden-lead-over-trump-grows-in-michigan-race-is-statistically-even-in-north-carolina--reutersipsos",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-27",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "135091",
+    "subgroup": "All polls",
+    "sampleSize": "652",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.devdiscourse.com/article/politics/1287074-poll-biden-lead-over-trump-grows-in-michigan-race-is-statistically-even-in-north-carolina--reutersipsos",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-27",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Michigan"
   },
   {
     "id": "135084",
@@ -864,6 +926,68 @@
     "state": "California"
   },
   {
+    "id": "135096",
+    "subgroup": "All polls",
+    "sampleSize": "306",
+    "population": "rv",
+    "grade": "C/D",
+    "url": "https://www.fhsu.edu/docking/Kansas-Speaks/2020-kansas-speaks-report-v7",
+    "created_at": "2020-10-27",
+    "startDate": "2020-09-21",
+    "endDate": "2020-10-01",
+    "pollster": "Fort Hays State University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "37.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "52.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Kansas"
+  },
+  {
+    "id": "135095",
+    "subgroup": "All polls",
+    "sampleSize": "417",
+    "population": "a",
+    "grade": "C/D",
+    "url": "https://www.fhsu.edu/docking/Kansas-Speaks/2020-kansas-speaks-report-v7",
+    "created_at": "2020-10-27",
+    "startDate": "2020-09-21",
+    "endDate": "2020-10-01",
+    "pollster": "Fort Hays State University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "35.7",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.2",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Kansas"
+  },
+  {
     "id": "135041",
     "subgroup": "All polls",
     "sampleSize": "5285",
@@ -921,6 +1045,66 @@
     "cycle": "2020",
     "partisan": "DEM",
     "state": "North Carolina"
+  },
+  {
+    "id": "135094",
+    "subgroup": "All polls",
+    "sampleSize": "647",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.devdiscourse.com/article/politics/1287074-poll-biden-lead-over-trump-grows-in-michigan-race-is-statistically-even-in-north-carolina--reutersipsos",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-27",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "135093",
+    "subgroup": "All polls",
+    "sampleSize": "652",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.devdiscourse.com/article/politics/1287074-poll-biden-lead-over-trump-grows-in-michigan-race-is-statistically-even-in-north-carolina--reutersipsos",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-27",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
   },
   {
     "id": "135088",
