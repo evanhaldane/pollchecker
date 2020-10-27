@@ -162,6 +162,38 @@
     "state": "National"
   },
   {
+    "id": "135090",
+    "subgroup": "All polls",
+    "sampleSize": "937",
+    "population": "v",
+    "grade": "B",
+    "url": "https://www.protectourcare.org/wp-content/uploads/2020/10/Protect-Our-CarePPP-North-Carolina-Poll.pdf",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-27",
+    "pollster": "Public Policy Polling",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "North Carolina"
+  },
+  {
     "id": "135084",
     "subgroup": "All polls",
     "sampleSize": "800",
@@ -219,7 +251,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Minnesota"
   },
@@ -693,7 +725,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -858,6 +890,37 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "135089",
+    "subgroup": "All polls",
+    "sampleSize": "937",
+    "population": "v",
+    "grade": "B",
+    "url": "https://www.protectourcare.org/wp-content/uploads/2020/10/Protect-Our-CarePPP-North-Carolina-Poll.pdf",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-27",
+    "pollster": "Public Policy Polling",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "North Carolina"
   },
   {
     "id": "135088",
