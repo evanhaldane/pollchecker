@@ -1,5 +1,32 @@
 [
   {
+    "id": "135067",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-22",
+    "endDate": "2020-10-26",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "51.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "48.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "135040",
     "subgroup": "All polls",
     "sampleSize": "73903",
@@ -118,6 +145,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
+  },
+  {
+    "id": "135069",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_oct27",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-22",
+    "endDate": "2020-10-26",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "135066",
@@ -658,6 +716,41 @@
     "district": "11"
   },
   {
+    "id": "135068",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.cygn.al/cygnal-poll-holcomb-up-18-points-in-re-election-bid/",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-23",
+    "pollster": "Cygnal",
+    "answers": [
+      {
+        "choice": "Myers",
+        "pct": "28.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Holcomb",
+        "pct": "46.8",
+        "party": "Rep"
+      },
+      {
+        "choice": "Rainwater",
+        "pct": "14.7",
+        "party": "Lib"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Indiana"
+  },
+  {
     "id": "135033",
     "subgroup": "All polls",
     "sampleSize": "2200",
@@ -681,33 +774,6 @@
     "type": "trump-approval",
     "seat_name": null,
     "tracking": false,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
-    "id": "134879",
-    "subgroup": "All polls",
-    "sampleSize": "1500",
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2020-10-26",
-    "startDate": "2020-10-21",
-    "endDate": "2020-10-25",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "52.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "46.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": true,
     "headToHead": false,
     "state": "National"
   },
@@ -1182,37 +1248,6 @@
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Texas"
-  },
-  {
-    "id": "134880",
-    "subgroup": "All polls",
-    "sampleSize": "1500",
-    "population": "lv",
-    "grade": "C+",
-    "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_oct26",
-    "created_at": "2020-10-26",
-    "startDate": "2020-10-21",
-    "endDate": "2020-10-25",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "47.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "48.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
   },
   {
     "id": "134907",
@@ -8919,6 +8954,33 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "North Carolina"
+  },
+  {
+    "id": "134243",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2020-10-22",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-21",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "52.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "48.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "state": "National"
   },
   {
     "id": "134257",
