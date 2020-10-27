@@ -1,5 +1,32 @@
 [
   {
+    "id": "135033",
+    "subgroup": "All polls",
+    "sampleSize": "2200",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://assets.morningconsult.com/wp-uploads/2020/10/26131953/2010127_crosstabs_CORONAVIRUS_CONTENT_Adults_v1_LM.pdf",
+    "created_at": "2020-10-26",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-25",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "39.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "58.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "134879",
     "subgroup": "All polls",
     "sampleSize": "1500",
@@ -79,6 +106,37 @@
     "tracking": false,
     "headToHead": false,
     "state": "National"
+  },
+  {
+    "id": "135036",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/walter_whetsell/status/1320870398410530817",
+    "created_at": "2020-10-26",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-26",
+    "pollster": "Starboard Communications",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "43.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "51.2",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "South Carolina"
   },
   {
     "id": "134927",
@@ -3934,7 +3992,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Maryland"
   },
@@ -4254,6 +4312,43 @@
     "state": "Michigan"
   },
   {
+    "id": "135034",
+    "subgroup": "All polls",
+    "sampleSize": "629",
+    "population": "lv",
+    "grade": "",
+    "url": "https://projects.fivethirtyeight.com/polls/20201026_IN_Ragnar.pdf",
+    "created_at": "2020-10-26",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-21",
+    "pollster": "Ragnar Research Partners",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "40.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "5.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Indiana"
+  },
+  {
     "id": "134881",
     "subgroup": "All polls",
     "sampleSize": "1000",
@@ -4496,6 +4591,41 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "135037",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/walter_whetsell/status/1320870398410530817",
+    "created_at": "2020-10-26",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-26",
+    "pollster": "Starboard Communications",
+    "answers": [
+      {
+        "choice": "Harrison",
+        "pct": "42.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Graham",
+        "pct": "51.9",
+        "party": "Rep"
+      },
+      {
+        "choice": "Bledsoe",
+        "pct": "2.5",
+        "party": "Con"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "South Carolina"
   },
   {
     "id": "134886",
@@ -4795,7 +4925,7 @@
     "sampleSize": "530",
     "population": "lv",
     "grade": "C-",
-    "url": "",
+    "url": "https://floridapolitics.com/archives/377290-alan-cohn-in-statistical-tie-with-scott-franklin-in-cd-15",
     "created_at": "2020-10-26",
     "startDate": "2020-10-22",
     "endDate": "2020-10-24",
@@ -4890,6 +5020,38 @@
     "district": "11"
   },
   {
+    "id": "135038",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.politico.com/newsletters/weekly-score/2020/10/26/why-it-may-take-a-while-to-know-who-controls-the-senate-791190",
+    "created_at": "2020-10-26",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-21",
+    "pollster": "ALG Research",
+    "answers": [
+      {
+        "choice": "Elliott",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Hill",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Arkansas",
+    "district": "2"
+  },
+  {
     "id": "134868",
     "subgroup": "All polls",
     "sampleSize": "491",
@@ -4971,6 +5133,42 @@
     "cycle": "2020",
     "state": "Puerto Rico",
     "district": "1"
+  },
+  {
+    "id": "135035",
+    "subgroup": "All polls",
+    "sampleSize": "629",
+    "population": "lv",
+    "grade": "",
+    "url": "https://projects.fivethirtyeight.com/polls/20201026_IN_Ragnar.pdf",
+    "created_at": "2020-10-26",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-21",
+    "pollster": "Ragnar Research Partners",
+    "answers": [
+      {
+        "choice": "Myers",
+        "pct": "26.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Holcomb",
+        "pct": "52.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Rainwater",
+        "pct": "14.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Indiana"
   },
   {
     "id": "134875",
