@@ -947,6 +947,37 @@
     "state": "Arizona"
   },
   {
+    "id": "135104",
+    "subgroup": "All polls",
+    "sampleSize": "693",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://who13.com/news/politics/2020-raba-research-poll/biden-extends-lead-over-trump-in-new-nexstar-iowa-2020-raba-research-poll/",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-24",
+    "pollster": "RABA Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
     "id": "135071",
     "subgroup": "All polls",
     "sampleSize": "800",
@@ -1526,6 +1557,37 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "135105",
+    "subgroup": "All polls",
+    "sampleSize": "448",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.politicspa.com/desales-university-wfmz-poll-wild-54-scheller-36-2/96404/",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-11",
+    "endDate": "2020-10-24",
+    "pollster": "DeSales University",
+    "answers": [
+      {
+        "choice": "Wild",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Scheller",
+        "pct": "36.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 7",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Pennsylvania",
+    "district": "7"
   },
   {
     "id": "135064",
