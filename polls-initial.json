@@ -318,6 +318,37 @@
     "state": "Minnesota"
   },
   {
+    "id": "135097",
+    "subgroup": "All polls",
+    "sampleSize": "627",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://wwwcache.wral.com/asset/news/state/nccapitol/2020/10/27/19356729/PollPrint-DMID1-5onuvxx1t.pdf",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-26",
+    "pollster": "SurveyUSA",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "135076",
     "subgroup": "All polls",
     "sampleSize": "809",
@@ -952,7 +983,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Kansas"
   },
