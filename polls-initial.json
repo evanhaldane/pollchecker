@@ -911,6 +911,37 @@
     "state": "National"
   },
   {
+    "id": "135106",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.detroitnews.com/story/news/politics/2020/10/27/biden-opens-8-point-lead-over-trump-michigan-detroit-news-poll/6050172002/",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-25",
+    "pollster": "Glengariff Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.3",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.6",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
     "id": "135085",
     "subgroup": "All polls",
     "sampleSize": "716",
@@ -1564,7 +1595,7 @@
     "sampleSize": "448",
     "population": "lv",
     "grade": "",
-    "url": "https://www.politicspa.com/desales-university-wfmz-poll-wild-54-scheller-36-2/96404/",
+    "url": "https://projects.fivethirtyeight.com/polls/20201027_PA_DeSales.pdf",
     "created_at": "2020-10-27",
     "startDate": "2020-10-11",
     "endDate": "2020-10-24",
@@ -6502,7 +6533,7 @@
     "sampleSize": "500",
     "population": "lv",
     "grade": "B/C",
-    "url": "https://www.politico.com/newsletters/weekly-score/2020/10/26/why-it-may-take-a-while-to-know-who-controls-the-senate-791190",
+    "url": "https://projects.fivethirtyeight.com/polls/20201027_AR_ALG.pdf",
     "created_at": "2020-10-26",
     "startDate": "2020-10-16",
     "endDate": "2020-10-21",
