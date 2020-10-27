@@ -81,6 +81,69 @@
     "state": "National"
   },
   {
+    "id": "135072",
+    "subgroup": "All polls",
+    "sampleSize": "2047",
+    "population": "rv",
+    "grade": "",
+    "url": "https://climatenexus.org/wp-content/uploads/2015/09/Public-Gas-Poll-Climate-Change.pdf",
+    "created_at": "2020-10-27",
+    "startDate": "2020-09-30",
+    "endDate": "2020-10-01",
+    "pollster": "Climate Nexus",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "47.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "50.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "135076",
+    "subgroup": "All polls",
+    "sampleSize": "809",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/nv102320-crosstabs/93966f5c3a9a556d/full.pdf",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-26",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Nevada"
+  },
+  {
     "id": "135051",
     "subgroup": "All polls",
     "sampleSize": "507",
@@ -483,7 +546,7 @@
     "sampleSize": "802",
     "population": "lv",
     "grade": "",
-    "url": "https://lasvegassun.com/news/2020/oct/27/new-poll-shows-biden-widening-lead-over-trump-in-n/#.X5gI8xZSNrM.twitter",
+    "url": "https://busr.ag/polls",
     "created_at": "2020-10-27",
     "startDate": "2020-10-16",
     "endDate": "2020-10-23",
@@ -498,6 +561,16 @@
         "choice": "Trump",
         "pct": "41.0",
         "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.1",
+        "party": "Lib"
+      },
+      {
+        "choice": "Blankenship",
+        "pct": "1.0",
+        "party": "Con"
       }
     ],
     "type": "president-general",
@@ -772,6 +845,38 @@
     "cycle": "2020",
     "state": "New York",
     "district": "11"
+  },
+  {
+    "id": "135075",
+    "subgroup": "All polls",
+    "sampleSize": "412",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://thehill.com/homenews/campaign/522945-in-partisan-slugfest-can-chip-roy-overcome-trump-troubles?rnd=1603814930",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-11",
+    "endDate": "2020-10-12",
+    "pollster": "WPA Intelligence",
+    "answers": [
+      {
+        "choice": "Davis",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Roy",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 21",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Texas",
+    "district": "21"
   },
   {
     "id": "135068",
