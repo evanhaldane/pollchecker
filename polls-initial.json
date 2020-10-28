@@ -216,6 +216,37 @@
     "state": "National"
   },
   {
+    "id": "135342",
+    "subgroup": "All polls",
+    "sampleSize": "844",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.independent.co.uk/news/world/americas/us-election-2020/polls-2020-election-us-biden-lead-trump-points-latest-b1403511.html",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-28",
+    "pollster": "J.L. Partners",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "55.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "135320",
     "subgroup": "All polls",
     "sampleSize": "704",
@@ -4699,6 +4730,42 @@
     "state": "National"
   },
   {
+    "id": "135338",
+    "subgroup": "All polls",
+    "sampleSize": "546",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://www.msubillings.edu/class/nams/polls/2020-mountain-states-poll-report.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-24",
+    "pollster": "Montana State University Billings",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "52.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Montana"
+  },
+  {
     "id": "135141",
     "subgroup": "All polls",
     "sampleSize": "3500",
@@ -5897,6 +5964,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "135343",
+    "subgroup": "All polls",
+    "sampleSize": "693",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/IAStartingLine/status/1321559468564451333/photo/1",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-24",
+    "pollster": "RABA Research",
+    "answers": [
+      {
+        "choice": "Greenfield",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ernst",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa"
   },
   {
     "id": "135340",
