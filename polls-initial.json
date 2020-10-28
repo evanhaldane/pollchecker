@@ -3818,6 +3818,47 @@
     "state": "Michigan"
   },
   {
+    "id": "135316",
+    "subgroup": "All polls",
+    "sampleSize": "2234",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.brandwatch.com/email/us-election-bulletin-009/?mkt_tok=eyJpIjoiTkRJeFkyRmxOMk16TkRrMiIsInQiOiJmSzFtdEdNK013Q0ZcL09MOFdvUHp0K0lTWDErM1wvenJKdnJtS00ranBUbUxXZ1F1UVh6cERTSm9pOHFCZU1BSXk3THpzMklBS25rWVV0bUFsWjduZ2xaT1wvV0tycnBOcmlKNmZQXC9JMk5OQ3pNYUhIemJDMkdPalNKYnhmYTFLQTkifQ%3D%3D",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-22",
+    "endDate": "2020-10-26",
+    "pollster": "Qriously",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "135268",
     "subgroup": "All polls",
     "sampleSize": "504",
@@ -3869,7 +3910,7 @@
     "sampleSize": "806",
     "population": "rv",
     "grade": "A/B",
-    "url": "https://twitter.com/MULawPoll/status/1321502339375783938?s=20",
+    "url": "https://law.marquette.edu/poll/wp-content/uploads/2020/10/MLSP65ToplinesRV.html#q23:_biden_vs_trump_vs_jorgensen",
     "created_at": "2020-10-28",
     "startDate": "2020-10-21",
     "endDate": "2020-10-25",
@@ -3884,6 +3925,11 @@
         "choice": "Trump",
         "pct": "43.0",
         "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
       }
     ],
     "type": "president-general",
@@ -3900,7 +3946,7 @@
     "sampleSize": "749",
     "population": "lv",
     "grade": "A/B",
-    "url": "https://twitter.com/MULawPoll/status/1321501374702637056?s=20",
+    "url": "https://law.marquette.edu/poll/wp-content/uploads/2020/10/MLSP65ToplinesLV.html#q23:_(combined):_biden_vs_trump_vs_jorgensen,_including_leaners",
     "created_at": "2020-10-28",
     "startDate": "2020-10-21",
     "endDate": "2020-10-25",
@@ -4454,7 +4500,38 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "135309",
+    "subgroup": "All polls",
+    "sampleSize": "1150",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://omidyar.com/wp-content/uploads/2020/09/Omidyar-Network-National-Registered-Voters-Survey-Topline-Results-091620.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-16",
+    "pollster": "GBAO",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
