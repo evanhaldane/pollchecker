@@ -937,7 +937,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
   },
@@ -1007,6 +1007,38 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Iowa"
+  },
+  {
+    "id": "135108",
+    "subgroup": "All polls",
+    "sampleSize": "729",
+    "population": "lv",
+    "grade": "",
+    "url": "https://projects.fivethirtyeight.com/polls/20201027_AZ_Patinkin.pdf",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-24",
+    "pollster": "Patinkin Research Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Arizona"
   },
   {
     "id": "135071",
@@ -1143,6 +1175,38 @@
     "state": "California"
   },
   {
+    "id": "135109",
+    "subgroup": "All polls",
+    "sampleSize": "604",
+    "population": "lv",
+    "grade": "",
+    "url": "https://projects.fivethirtyeight.com/polls/20201027_AZ_Patinkin.pdf",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-03",
+    "pollster": "Patinkin Research Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Arizona"
+  },
+  {
     "id": "135096",
     "subgroup": "All polls",
     "sampleSize": "306",
@@ -1203,6 +1267,38 @@
     "inAvg": false,
     "cycle": "2020",
     "state": "Kansas"
+  },
+  {
+    "id": "135110",
+    "subgroup": "All polls",
+    "sampleSize": "679",
+    "population": "lv",
+    "grade": "",
+    "url": "https://projects.fivethirtyeight.com/polls/20201027_AZ_Patinkin.pdf",
+    "created_at": "2020-10-27",
+    "startDate": "2020-09-10",
+    "endDate": "2020-09-13",
+    "pollster": "Patinkin Research Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Arizona"
   },
   {
     "id": "135041",
@@ -1590,6 +1686,99 @@
     "state": "Arizona"
   },
   {
+    "id": "135111",
+    "subgroup": "All polls",
+    "sampleSize": "729",
+    "population": "lv",
+    "grade": "",
+    "url": "https://projects.fivethirtyeight.com/polls/20201027_AZ_Patinkin.pdf",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-24",
+    "pollster": "Patinkin Research Strategies",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Arizona"
+  },
+  {
+    "id": "135112",
+    "subgroup": "All polls",
+    "sampleSize": "604",
+    "population": "lv",
+    "grade": "",
+    "url": "https://projects.fivethirtyeight.com/polls/20201027_AZ_Patinkin.pdf",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-03",
+    "pollster": "Patinkin Research Strategies",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Arizona"
+  },
+  {
+    "id": "135113",
+    "subgroup": "All polls",
+    "sampleSize": "679",
+    "population": "lv",
+    "grade": "",
+    "url": "https://projects.fivethirtyeight.com/polls/20201027_AZ_Patinkin.pdf",
+    "created_at": "2020-10-27",
+    "startDate": "2020-09-10",
+    "endDate": "2020-09-13",
+    "pollster": "Patinkin Research Strategies",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Arizona"
+  },
+  {
     "id": "135105",
     "subgroup": "All polls",
     "sampleSize": "448",
@@ -1650,6 +1839,38 @@
     "cycle": "2020",
     "state": "New York",
     "district": "11"
+  },
+  {
+    "id": "135107",
+    "subgroup": "All polls",
+    "sampleSize": "401",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/Politics_Polls/status/1321222866294218755/photo/1",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-10",
+    "endDate": "2020-10-13",
+    "pollster": "Strategies 360",
+    "answers": [
+      {
+        "choice": "Campa-Najjar",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Issa",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 50",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "California",
+    "district": "50"
   },
   {
     "id": "135075",
