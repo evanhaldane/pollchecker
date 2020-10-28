@@ -161,7 +161,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
   },
@@ -3813,7 +3813,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
   },
@@ -4428,6 +4428,37 @@
     "state": "National"
   },
   {
+    "id": "135308",
+    "subgroup": "All polls",
+    "sampleSize": "1150",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://omidyar.com/wp-content/uploads/2020/10/Omidyar-Network-National-Registered-Voters-Survey-Topline-Results-101920.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-19",
+    "pollster": "GBAO",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "135151",
     "subgroup": "All polls",
     "sampleSize": "1365",
@@ -4530,6 +4561,62 @@
       {
         "choice": "Rep",
         "pct": "42.4"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "135306",
+    "subgroup": "All polls",
+    "sampleSize": "1150",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://omidyar.com/wp-content/uploads/2020/10/Omidyar-Network-National-Registered-Voters-Survey-Topline-Results-101920.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-19",
+    "pollster": "GBAO",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "51.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "39.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "135307",
+    "subgroup": "All polls",
+    "sampleSize": "1150",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://omidyar.com/wp-content/uploads/2020/09/Omidyar-Network-National-Registered-Voters-Survey-Topline-Results-091620.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-09-12",
+    "endDate": "2020-09-16",
+    "pollster": "GBAO",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "40.0"
       }
     ],
     "type": "generic-ballot",
