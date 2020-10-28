@@ -1,5 +1,32 @@
 [
   {
+    "id": "135114",
+    "subgroup": "All polls",
+    "sampleSize": "1121",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/october-national-poll-biden-with-five-point-lead-one-week-out",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-26",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "44.8"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "51.2"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "135067",
     "subgroup": "All polls",
     "sampleSize": "1500",
@@ -226,6 +253,48 @@
     "state": "North Carolina"
   },
   {
+    "id": "135117",
+    "subgroup": "All polls",
+    "sampleSize": "1196",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/memos/2020-senate-project/week-6/dfp_psp_sc_10.27.pdf",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-22",
+    "endDate": "2020-10-27",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "South Carolina"
+  },
+  {
     "id": "135101",
     "subgroup": "All polls",
     "sampleSize": "647",
@@ -301,6 +370,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
+  },
+  {
+    "id": "135115",
+    "subgroup": "All polls",
+    "sampleSize": "1121",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/october-national-poll-biden-with-five-point-lead-one-week-out",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-26",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.7",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "135084",
@@ -1391,6 +1491,42 @@
     "state": "North Carolina"
   },
   {
+    "id": "135118",
+    "subgroup": "All polls",
+    "sampleSize": "1196",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/memos/2020-senate-project/week-6/dfp_psp_sc_10.27.pdf",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-22",
+    "endDate": "2020-10-27",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Harrison",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Graham",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Bledsoe",
+        "pct": "3.0",
+        "party": "Con"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "South Carolina"
+  },
+  {
     "id": "135094",
     "subgroup": "All polls",
     "sampleSize": "647",
@@ -1419,6 +1555,37 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "North Carolina"
+  },
+  {
+    "id": "135120",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.breitbart.com/2020-election/2020/10/27/exclusive-internal-memo-shows-john-james-statistical-tie-michigan-sen-gary-peters/",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-26",
+    "pollster": "Tarrance Group",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "47.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "46.2",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Michigan"
   },
   {
     "id": "135088",
@@ -1779,6 +1946,37 @@
     "state": "Arizona"
   },
   {
+    "id": "135119",
+    "subgroup": "All polls",
+    "sampleSize": "538",
+    "population": "lv",
+    "grade": "A",
+    "url": "http://www.surveyusa.com/client/PollReport.aspx?g=24006771-7dd1-47f4-933c-ad5b78061dcb",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-22",
+    "endDate": "2020-10-26",
+    "pollster": "SurveyUSA",
+    "answers": [
+      {
+        "choice": "Campa-Najjar",
+        "pct": "40.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Issa",
+        "pct": "51.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 50",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "California",
+    "district": "50"
+  },
+  {
     "id": "135105",
     "subgroup": "All polls",
     "sampleSize": "448",
@@ -1903,6 +2101,36 @@
     "partisan": "REP",
     "state": "Texas",
     "district": "21"
+  },
+  {
+    "id": "135116",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://politicaliq.com/2020/10/27/nc-governor-cooper-d-53-forest-r-41/",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-26",
+    "pollster": "RMG Research",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "135068",
