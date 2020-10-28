@@ -4005,6 +4005,68 @@
     "state": "National"
   },
   {
+    "id": "135272",
+    "subgroup": "All polls",
+    "sampleSize": "591",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://fulbright.uark.edu/departments/political-science/partners/arkpoll/2020-summary-report.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-21",
+    "pollster": "University of Arkansas",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "32.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "65.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arkansas"
+  },
+  {
+    "id": "135271",
+    "subgroup": "All polls",
+    "sampleSize": "4933",
+    "population": "lv",
+    "grade": "",
+    "url": "https://static1.squarespace.com/static/5c64375df4e5314e7985012c/t/5f998f048ef3c11dadf5ddc1/1603899141511/Biden+at+%2B9.8+support+nationally+in+Rethink+Priorities+poll%2C+Dems+%2B5.3+for+Congress.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-20",
+    "pollster": "Rethink Priorities",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.3",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.5",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "135151",
     "subgroup": "All polls",
     "sampleSize": "1365",
@@ -4084,6 +4146,34 @@
     "type": "generic-ballot",
     "seat_name": null,
     "tracking": true,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "135270",
+    "subgroup": "All polls",
+    "sampleSize": "4933",
+    "population": "lv",
+    "grade": "",
+    "url": "https://static1.squarespace.com/static/5c64375df4e5314e7985012c/t/5f998f048ef3c11dadf5ddc1/1603899141511/Biden+at+%2B9.8+support+nationally+in+Rethink+Priorities+poll%2C+Dems+%2B5.3+for+Congress.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-20",
+    "pollster": "Rethink Priorities",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "47.7"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.4"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
@@ -4317,6 +4407,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Michigan"
+  },
+  {
+    "id": "135273",
+    "subgroup": "All polls",
+    "sampleSize": "591",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://fulbright.uark.edu/departments/political-science/partners/arkpoll/2020-summary-report.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-21",
+    "pollster": "University of Arkansas",
+    "answers": [
+      {
+        "choice": "Cotton",
+        "pct": "75.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Harrington",
+        "pct": "20.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arkansas"
   },
   {
     "id": "135159",
