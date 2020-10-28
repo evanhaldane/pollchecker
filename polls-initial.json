@@ -562,6 +562,99 @@
     "state": "Georgia"
   },
   {
+    "id": "135350",
+    "subgroup": "All polls",
+    "sampleSize": "825",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/2020_reuters_tracking_-_core_political_general_election_tracker_10_28_2020.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "135349",
+    "subgroup": "All polls",
+    "sampleSize": "1110",
+    "population": "rv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/2020_reuters_tracking_-_core_political_general_election_tracker_10_28_2020.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "135348",
+    "subgroup": "All polls",
+    "sampleSize": "1302",
+    "population": "a",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/2020_reuters_tracking_-_core_political_general_election_tracker_10_28_2020.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "36.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "135143",
     "subgroup": "All polls",
     "sampleSize": "991",
@@ -6150,6 +6243,37 @@
     "district": "1"
   },
   {
+    "id": "135341",
+    "subgroup": "All polls",
+    "sampleSize": "546",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://www.msubillings.edu/class/nams/polls/2020-mountain-states-poll-report.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-24",
+    "pollster": "Montana State University Billings",
+    "answers": [
+      {
+        "choice": "Williams",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Rosendale",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Montana",
+    "district": "1"
+  },
+  {
     "id": "135303",
     "subgroup": "All polls",
     "sampleSize": "614",
@@ -6178,6 +6302,41 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "North Carolina"
+  },
+  {
+    "id": "135339",
+    "subgroup": "All polls",
+    "sampleSize": "546",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://www.msubillings.edu/class/nams/polls/2020-mountain-states-poll-report.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-24",
+    "pollster": "Montana State University Billings",
+    "answers": [
+      {
+        "choice": "Cooney",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Gianforte",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Bishop",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Montana"
   },
   {
     "id": "135114",
