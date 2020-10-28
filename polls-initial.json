@@ -290,6 +290,104 @@
     "state": "National"
   },
   {
+    "id": "135282",
+    "subgroup": "All polls",
+    "sampleSize": "504",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_ga_102820/",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "135281",
+    "subgroup": "All polls",
+    "sampleSize": "504",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_ga_102820/",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "135280",
+    "subgroup": "All polls",
+    "sampleSize": "504",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_ga_102820/",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
     "id": "135143",
     "subgroup": "All polls",
     "sampleSize": "991",
@@ -3943,6 +4041,130 @@
     "state": "Michigan"
   },
   {
+    "id": "135277",
+    "subgroup": "All polls",
+    "sampleSize": "723",
+    "population": "rv",
+    "grade": "",
+    "url": "https://st1.uvnimg.com/33/8f/ed1016da4a5fb16ec7e34cd5568a/univision-crosstabs-october-final.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-25",
+    "pollster": "Univision/University of Houston/Latino Decisions/North Star Opinion Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "135276",
+    "subgroup": "All polls",
+    "sampleSize": "758",
+    "population": "rv",
+    "grade": "",
+    "url": "https://st1.uvnimg.com/33/8f/ed1016da4a5fb16ec7e34cd5568a/univision-crosstabs-october-final.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-25",
+    "pollster": "Univision/University of Houston/Latino Decisions/North Star Opinion Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Texas"
+  },
+  {
+    "id": "135275",
+    "subgroup": "All polls",
+    "sampleSize": "743",
+    "population": "rv",
+    "grade": "",
+    "url": "https://st1.uvnimg.com/33/8f/ed1016da4a5fb16ec7e34cd5568a/univision-crosstabs-october-final.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-25",
+    "pollster": "Univision/University of Houston/Latino Decisions/North Star Opinion Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
+    "id": "135274",
+    "subgroup": "All polls",
+    "sampleSize": "725",
+    "population": "rv",
+    "grade": "",
+    "url": "https://st1.uvnimg.com/33/8f/ed1016da4a5fb16ec7e34cd5568a/univision-crosstabs-october-final.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-25",
+    "pollster": "Univision/University of Houston/Latino Decisions/North Star Opinion Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
     "id": "135158",
     "subgroup": "All polls",
     "sampleSize": "1125",
@@ -4031,7 +4253,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arkansas"
   },
@@ -4177,6 +4399,281 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "135290",
+    "subgroup": "All polls",
+    "sampleSize": "504",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_ga_102820/",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Collins",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "135289",
+    "subgroup": "All polls",
+    "sampleSize": "504",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_ga_102820/",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "135288",
+    "subgroup": "All polls",
+    "sampleSize": "504",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_ga_102820/",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "22.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Collins",
+        "pct": "20.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "135287",
+    "subgroup": "All polls",
+    "sampleSize": "504",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_ga_102820/",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "41.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "22.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Collins",
+        "pct": "19.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "135286",
+    "subgroup": "All polls",
+    "sampleSize": "504",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_ga_102820/",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "41.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "21.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Collins",
+        "pct": "18.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Lieberman",
+        "pct": "4.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tarver",
+        "pct": "3.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Slowinski",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "135285",
+    "subgroup": "All polls",
+    "sampleSize": "504",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_ga_102820/",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Ossoff",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perdue",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "135284",
+    "subgroup": "All polls",
+    "sampleSize": "504",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_ga_102820/",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Ossoff",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perdue",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "135283",
+    "subgroup": "All polls",
+    "sampleSize": "504",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.monmouth.edu/polling-institute/reports/monmouthpoll_ga_102820/",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "Monmouth University",
+    "answers": [
+      {
+        "choice": "Ossoff",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perdue",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Hazel",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
   },
   {
     "id": "135131",
@@ -4407,6 +4904,66 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Michigan"
+  },
+  {
+    "id": "135279",
+    "subgroup": "All polls",
+    "sampleSize": "758",
+    "population": "rv",
+    "grade": "",
+    "url": "https://st1.uvnimg.com/33/8f/ed1016da4a5fb16ec7e34cd5568a/univision-crosstabs-october-final.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-25",
+    "pollster": "Univision/University of Houston/Latino Decisions/North Star Opinion Research",
+    "answers": [
+      {
+        "choice": "Hegar",
+        "pct": "40.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Cornyn",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Texas"
+  },
+  {
+    "id": "135278",
+    "subgroup": "All polls",
+    "sampleSize": "725",
+    "population": "rv",
+    "grade": "",
+    "url": "https://st1.uvnimg.com/33/8f/ed1016da4a5fb16ec7e34cd5568a/univision-crosstabs-october-final.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-17",
+    "endDate": "2020-10-25",
+    "pollster": "Univision/University of Houston/Latino Decisions/North Star Opinion Research",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "135273",
