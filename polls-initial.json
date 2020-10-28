@@ -3854,9 +3854,40 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "135318",
+    "subgroup": "All polls",
+    "sampleSize": "763",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-of-south-carolina-graham-with-a-narrow-lead-over-harrison-among-likely-voters-trump-ahead-of-biden-as-election-day-nears",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-25",
+    "pollster": "East Carolina University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "44.3",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "52.03",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "South Carolina"
   },
   {
     "id": "135268",
@@ -4704,6 +4735,36 @@
     "state": "National"
   },
   {
+    "id": "135321",
+    "subgroup": "All polls",
+    "sampleSize": "704",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://gravismarketing.com/2020-arizona-poll-results/",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-28",
+    "pollster": "Gravis Marketing",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
     "id": "135305",
     "subgroup": "All polls",
     "sampleSize": "614",
@@ -5112,6 +5173,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Michigan"
+  },
+  {
+    "id": "135317",
+    "subgroup": "All polls",
+    "sampleSize": "763",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-of-south-carolina-graham-with-a-narrow-lead-over-harrison-among-likely-voters-trump-ahead-of-biden-as-election-day-nears",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-25",
+    "pollster": "East Carolina University",
+    "answers": [
+      {
+        "choice": "Harrison",
+        "pct": "47.44",
+        "party": "Dem"
+      },
+      {
+        "choice": "Graham",
+        "pct": "49.28",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "South Carolina"
   },
   {
     "id": "135139",
