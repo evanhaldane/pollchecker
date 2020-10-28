@@ -135,6 +135,37 @@
     "state": "National"
   },
   {
+    "id": "135302",
+    "subgroup": "All polls",
+    "sampleSize": "614",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://gravismarketing.com/nc-2020-poll-results/",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-27",
+    "pollster": "Gravis Marketing",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "135153",
     "subgroup": "All polls",
     "sampleSize": "1365",
@@ -3746,6 +3777,47 @@
     "state": "Texas"
   },
   {
+    "id": "135298",
+    "subgroup": "All polls",
+    "sampleSize": "856",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/mi102320-crosstabs/9308372de600fa49/full.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-26",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
     "id": "135268",
     "subgroup": "All polls",
     "sampleSize": "504",
@@ -3792,6 +3864,37 @@
     "state": "North Carolina"
   },
   {
+    "id": "135296",
+    "subgroup": "All polls",
+    "sampleSize": "806",
+    "population": "rv",
+    "grade": "A/B",
+    "url": "https://twitter.com/MULawPoll/status/1321502339375783938?s=20",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-25",
+    "pollster": "Marquette Law School",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Wisconsin"
+  },
+  {
     "id": "135295",
     "subgroup": "All polls",
     "sampleSize": "749",
@@ -3823,7 +3926,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
   },
@@ -4437,6 +4540,36 @@
     "state": "National"
   },
   {
+    "id": "135305",
+    "subgroup": "All polls",
+    "sampleSize": "614",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://gravismarketing.com/nc-2020-poll-results/",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-27",
+    "pollster": "Gravis Marketing",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "135290",
     "subgroup": "All polls",
     "sampleSize": "504",
@@ -4770,6 +4903,51 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "North Carolina"
+  },
+  {
+    "id": "135299",
+    "subgroup": "All polls",
+    "sampleSize": "856",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://int.nyt.com/data/documenttools/mi102320-crosstabs/9308372de600fa49/full.pdf",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-26",
+    "pollster": "Siena College/The New York Times Upshot",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Squier",
+        "pct": "1.0",
+        "party": "Gre"
+      },
+      {
+        "choice": "Dern",
+        "pct": "0.0",
+        "party": "Nlp"
+      },
+      {
+        "choice": "Willis",
+        "pct": "0.0",
+        "party": "Ust"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
   },
   {
     "id": "135139",
@@ -5124,6 +5302,36 @@
     "cycle": "2020",
     "state": "Maine",
     "district": "1"
+  },
+  {
+    "id": "135303",
+    "subgroup": "All polls",
+    "sampleSize": "614",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://gravismarketing.com/nc-2020-poll-results/",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-27",
+    "pollster": "Gravis Marketing",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "135114",
