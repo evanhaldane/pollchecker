@@ -815,6 +815,37 @@
     "state": "National"
   },
   {
+    "id": "135435",
+    "subgroup": "All polls",
+    "sampleSize": "1215",
+    "population": "lv",
+    "grade": "",
+    "url": "https://tischcollege.tufts.edu/tufts-students-poll-2020-election",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-25",
+    "pollster": "Tufts",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "135406",
     "subgroup": "All polls",
     "sampleSize": "709",
@@ -851,7 +882,7 @@
     "sampleSize": "1000",
     "population": "lv",
     "grade": "",
-    "url": "https://github.com/GetCitizenData/VoteByMail/blob/master/VoteByMail-Texas/Modeling/October/Texas%20VBM%20Toplines%2010_23_20.pdf",
+    "url": "https://github.com/GetCitizenData/VoteByMail/blob/master/VoteByMail-Texas/Modeling/October/Corrected%20Texas%20VBM%20Toplines%2010_29_20.pdf",
     "created_at": "2020-10-29",
     "startDate": "2020-10-17",
     "endDate": "2020-10-20",
@@ -859,12 +890,12 @@
     "answers": [
       {
         "choice": "Biden",
-        "pct": "51.06",
+        "pct": "48.91",
         "party": "Dem"
       },
       {
         "choice": "Trump",
-        "pct": "41.5",
+        "pct": "45.02",
         "party": "Rep"
       },
       {
@@ -874,7 +905,7 @@
       },
       {
         "choice": "Hawkins",
-        "pct": "1.19",
+        "pct": "0.39",
         "party": "Gre"
       }
     ],
@@ -1064,17 +1095,17 @@
     "answers": [
       {
         "choice": "Biden",
-        "pct": "48.2",
+        "pct": "48.15",
         "party": "Dem"
       },
       {
         "choice": "Trump",
-        "pct": "43.7",
+        "pct": "43.74",
         "party": "Rep"
       },
       {
         "choice": "Jorgensen",
-        "pct": "0.9",
+        "pct": "0.92",
         "party": "Lib"
       },
       {
@@ -1404,7 +1435,7 @@
     "sampleSize": "1000",
     "population": "lv",
     "grade": "",
-    "url": "https://github.com/GetCitizenData/VoteByMail/blob/master/VoteByMail-Texas/Modeling/October/Texas%20VBM%20Toplines%2010_23_20.pdf",
+    "url": "https://github.com/GetCitizenData/VoteByMail/blob/master/VoteByMail-Texas/Modeling/October/Corrected%20Texas%20VBM%20Toplines%2010_29_20.pdf",
     "created_at": "2020-10-29",
     "startDate": "2020-10-17",
     "endDate": "2020-10-20",
@@ -1412,12 +1443,12 @@
     "answers": [
       {
         "choice": "Hegar",
-        "pct": "42.62",
+        "pct": "40.62",
         "party": "Dem"
       },
       {
         "choice": "Cornyn",
-        "pct": "38.12",
+        "pct": "40.82",
         "party": "Rep"
       }
     ],
@@ -1507,22 +1538,22 @@
       },
       {
         "choice": "Loeffler",
-        "pct": "23.0",
+        "pct": "23.02",
         "party": "Rep"
       },
       {
         "choice": "Collins",
-        "pct": "19.0",
+        "pct": "19.03",
         "party": "Rep"
       },
       {
         "choice": "Tarver",
-        "pct": "0.8",
+        "pct": "0.84",
         "party": "Dem"
       },
       {
         "choice": "Warnock",
-        "pct": "40.6",
+        "pct": "40.61",
         "party": "Dem"
       }
     ],
@@ -1552,7 +1583,7 @@
       },
       {
         "choice": "Perdue",
-        "pct": "40.5",
+        "pct": "40.44",
         "party": "Rep"
       }
     ],
@@ -1562,6 +1593,37 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Georgia"
+  },
+  {
+    "id": "135434",
+    "subgroup": "All polls",
+    "sampleSize": "1280",
+    "population": "lv",
+    "grade": "C",
+    "url": "http://stpetepolls.org/files/StPetePolls_2020_CD13GEN_October28_EH39F.pdf",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-28",
+    "endDate": "2020-10-28",
+    "pollster": "St. Pete Polls",
+    "answers": [
+      {
+        "choice": "Crist",
+        "pct": "54.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Paulina Luna",
+        "pct": "38.6",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 13",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Florida",
+    "district": "13"
   },
   {
     "id": "135420",
@@ -7077,7 +7139,7 @@
     "sampleSize": "704",
     "population": "lv",
     "grade": "C",
-    "url": "https://gravismarketing.com/2020-arizona-poll-results/",
+    "url": "https://www.scribd.com/document/481978819/Arizona-October-28-2020",
     "created_at": "2020-10-28",
     "startDate": "2020-10-26",
     "endDate": "2020-10-28",
@@ -7107,7 +7169,7 @@
     "sampleSize": "614",
     "population": "lv",
     "grade": "C",
-    "url": "https://gravismarketing.com/nc-2020-poll-results/",
+    "url": "https://www.scribd.com/document/481968988/North-Carolina-October-28-2020-v3",
     "created_at": "2020-10-28",
     "startDate": "2020-10-26",
     "endDate": "2020-10-27",
@@ -8325,7 +8387,7 @@
     "sampleSize": "614",
     "population": "lv",
     "grade": "C",
-    "url": "https://gravismarketing.com/nc-2020-poll-results/",
+    "url": "https://www.scribd.com/document/481968988/North-Carolina-October-28-2020-v3",
     "created_at": "2020-10-28",
     "startDate": "2020-10-26",
     "endDate": "2020-10-27",
@@ -9727,7 +9789,7 @@
     "sampleSize": "657",
     "population": "lv",
     "grade": "C",
-    "url": "https://gravismarketing.com/minnesota-poll-results/",
+    "url": "https://www.scribd.com/document/481836479/Minnesota-October-26-2020-v2",
     "created_at": "2020-10-27",
     "startDate": "2020-10-24",
     "endDate": "2020-10-26",
@@ -12496,7 +12558,7 @@
     "sampleSize": "679",
     "population": "lv",
     "grade": "C",
-    "url": "https://gravismarketing.com/michigan-poll-results-2020/",
+    "url": "https://www.scribd.com/document/481525992/Michigan-October-24-2020",
     "created_at": "2020-10-25",
     "startDate": "2020-10-24",
     "endDate": "2020-10-24",
