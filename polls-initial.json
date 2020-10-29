@@ -54,6 +54,60 @@
     "state": "National"
   },
   {
+    "id": "135511",
+    "subgroup": "All polls",
+    "sampleSize": "2359",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://thehill.com/hilltv/what-americas-thinking/523408-poll-trump-approval-reaches-48-percent",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-28",
+    "pollster": "HarrisX",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "51.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "135510",
+    "subgroup": "All polls",
+    "sampleSize": "2824",
+    "population": "rv",
+    "grade": "C",
+    "url": "https://thehill.com/hilltv/what-americas-thinking/523408-poll-trump-approval-reaches-48-percent",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-28",
+    "pollster": "HarrisX",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "52.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "135378",
     "subgroup": "All polls",
     "sampleSize": "1000",
@@ -216,6 +270,33 @@
     "state": "National"
   },
   {
+    "id": "135512",
+    "subgroup": "All polls",
+    "sampleSize": "2199",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://assets.morningconsult.com/wp-uploads/2020/10/29153602/2010142_crosstabs_PROVIDERS_AND_FLU_Adults_v1_LM.pdf",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-25",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "43.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "51.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "135408",
     "subgroup": "All polls",
     "sampleSize": "1001",
@@ -299,6 +380,99 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "135523",
+    "subgroup": "All polls",
+    "sampleSize": "901",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://thehill.com/homenews/campaign/523477-exclusive-poll-biden-leads-in-florida-pennsylvania-and-north-carolina#.X5tNPQ_GeCQ.twitter",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-29",
+    "pollster": "Harris Poll",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "135522",
+    "subgroup": "All polls",
+    "sampleSize": "903",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://thehill.com/homenews/campaign/523477-exclusive-poll-biden-leads-in-florida-pennsylvania-and-north-carolina#.X5tNPQ_GeCQ.twitter",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-29",
+    "pollster": "Harris Poll",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "135521",
+    "subgroup": "All polls",
+    "sampleSize": "1148",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://thehill.com/homenews/campaign/523477-exclusive-poll-biden-leads-in-florida-pennsylvania-and-north-carolina#.X5tNPQ_GeCQ.twitter",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-29",
+    "pollster": "Harris Poll",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Florida"
   },
   {
     "id": "135501",
@@ -389,7 +563,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Nevada"
   },
@@ -1494,6 +1668,37 @@
     "state": "National"
   },
   {
+    "id": "135515",
+    "subgroup": "All polls",
+    "sampleSize": "50908",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://bfschaffner.shinyapps.io/CES2020/",
+    "created_at": "2020-10-29",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-27",
+    "pollster": "CCES / YouGov",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "135470",
     "subgroup": "All polls",
     "sampleSize": "1000",
@@ -1524,6 +1729,42 @@
     "cycle": "2020",
     "partisan": "REP",
     "state": "National"
+  },
+  {
+    "id": "135514",
+    "subgroup": "All polls",
+    "sampleSize": "1018",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.anselm.edu/sites/default/files/Documents/NHIOP/October%2026%202020%20FullResults.pdf",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-26",
+    "pollster": "Saint Anselm College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "New Hampshire"
   },
   {
     "id": "135447",
@@ -2672,6 +2913,41 @@
     "state": "Iowa"
   },
   {
+    "id": "135518",
+    "subgroup": "All polls",
+    "sampleSize": "1018",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.anselm.edu/sites/default/files/Documents/NHIOP/October%2026%202020%20FullResults.pdf",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-26",
+    "pollster": "Saint Anselm College",
+    "answers": [
+      {
+        "choice": "Shaheen",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Messner",
+        "pct": "39.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "O'Donnell",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
+  },
+  {
     "id": "135452",
     "subgroup": "All polls",
     "sampleSize": "911",
@@ -3183,6 +3459,78 @@
     "district": "1"
   },
   {
+    "id": "135520",
+    "subgroup": "All polls",
+    "sampleSize": "458",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.anselm.edu/sites/default/files/Documents/NHIOP/October%2026%202020%20FullResults.pdf",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-26",
+    "pollster": "Saint Anselm College",
+    "answers": [
+      {
+        "choice": "Kuster",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Negron",
+        "pct": "39.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Olding",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Hampshire",
+    "district": "2"
+  },
+  {
+    "id": "135519",
+    "subgroup": "All polls",
+    "sampleSize": "560",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.anselm.edu/sites/default/files/Documents/NHIOP/October%2026%202020%20FullResults.pdf",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-26",
+    "pollster": "Saint Anselm College",
+    "answers": [
+      {
+        "choice": "Pappas",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Mowers",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Dumont",
+        "pct": "1.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Hampshire",
+    "district": "1"
+  },
+  {
     "id": "135494",
     "subgroup": "All polls",
     "sampleSize": "600",
@@ -3291,6 +3639,71 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "North Carolina"
+  },
+  {
+    "id": "135517",
+    "subgroup": "All polls",
+    "sampleSize": "637",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://wwwcache.wral.com/asset/news/state/nccapitol/2020/10/29/19360710/PollPrint-DMID1-5oon3xggr.pdf",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-26",
+    "pollster": "SurveyUSA",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "135516",
+    "subgroup": "All polls",
+    "sampleSize": "1018",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.anselm.edu/sites/default/files/Documents/NHIOP/October%2026%202020%20FullResults.pdf",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-26",
+    "pollster": "Saint Anselm College",
+    "answers": [
+      {
+        "choice": "Feltes",
+        "pct": "35.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Sununu",
+        "pct": "60.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Perry",
+        "pct": "1.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
   },
   {
     "id": "135449",
