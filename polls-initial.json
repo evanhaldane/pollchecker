@@ -296,7 +296,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -482,7 +482,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -507,6 +507,11 @@
         "choice": "Trump",
         "pct": "46.0",
         "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
       }
     ],
     "type": "president-general",
@@ -538,6 +543,11 @@
         "choice": "Trump",
         "pct": "45.0",
         "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
       }
     ],
     "type": "president-general",
@@ -1102,6 +1112,130 @@
     "state": "North Carolina"
   },
   {
+    "id": "135487",
+    "subgroup": "All polls",
+    "sampleSize": "1324",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/florida/release-detail?ReleaseID=3682",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "135486",
+    "subgroup": "All polls",
+    "sampleSize": "1186",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/florida/release-detail?ReleaseID=3682",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Ohio"
+  },
+  {
+    "id": "135485",
+    "subgroup": "All polls",
+    "sampleSize": "1225",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/florida/release-detail?ReleaseID=3682",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
+    "id": "135484",
+    "subgroup": "All polls",
+    "sampleSize": "1324",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/florida/release-detail?ReleaseID=3682",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
     "id": "135470",
     "subgroup": "All polls",
     "sampleSize": "1000",
@@ -1433,7 +1567,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "REP",
     "state": "Vermont"
@@ -1900,6 +2034,36 @@
     "state": "National"
   },
   {
+    "id": "135483",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "C+",
+    "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2020/arizona_senate_kelly_d_48_mcsally_r_43",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-29",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
     "id": "135404",
     "subgroup": "All polls",
     "sampleSize": "661",
@@ -2118,6 +2282,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "North Carolina"
+  },
+  {
+    "id": "135488",
+    "subgroup": "All polls",
+    "sampleSize": "1225",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/florida/release-detail?ReleaseID=3682",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Greenfield",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ernst",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa"
   },
   {
     "id": "135452",
@@ -8486,6 +8680,21 @@
         "choice": "Collins",
         "pct": "20.0",
         "party": "Rep"
+      },
+      {
+        "choice": "Lieberman",
+        "pct": "3.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tarver",
+        "pct": "2.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Slowinski",
+        "pct": "1.0",
+        "party": "Lib"
       }
     ],
     "type": "senate",
@@ -8521,6 +8730,21 @@
         "choice": "Collins",
         "pct": "19.0",
         "party": "Rep"
+      },
+      {
+        "choice": "Lieberman",
+        "pct": "4.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tarver",
+        "pct": "3.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Slowinski",
+        "pct": "1.0",
+        "party": "Lib"
       }
     ],
     "type": "senate",
@@ -8601,6 +8825,11 @@
         "choice": "Perdue",
         "pct": "48.0",
         "party": "Rep"
+      },
+      {
+        "choice": "Hazel",
+        "pct": "2.0",
+        "party": "Lib"
       }
     ],
     "type": "senate",
@@ -8631,6 +8860,11 @@
         "choice": "Perdue",
         "pct": "47.0",
         "party": "Rep"
+      },
+      {
+        "choice": "Hazel",
+        "pct": "2.0",
+        "party": "Lib"
       }
     ],
     "type": "senate",
