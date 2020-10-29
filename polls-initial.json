@@ -327,7 +327,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Texas"
   },
@@ -676,6 +676,42 @@
     "inAvg": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "135502",
+    "subgroup": "All polls",
+    "sampleSize": "864",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=1624&context=survey_center_polls",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-28",
+    "pollster": "University of New Hampshire",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
   },
   {
     "id": "135473",
@@ -2462,6 +2498,41 @@
     "state": "New Hampshire"
   },
   {
+    "id": "135504",
+    "subgroup": "All polls",
+    "sampleSize": "864",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=1624&context=survey_center_polls",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-28",
+    "pollster": "University of New Hampshire",
+    "answers": [
+      {
+        "choice": "Shaheen",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Messner",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "O'Donnell",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
+  },
+  {
     "id": "135490",
     "subgroup": "All polls",
     "sampleSize": "853",
@@ -3071,6 +3142,78 @@
     "district": "1"
   },
   {
+    "id": "135506",
+    "subgroup": "All polls",
+    "sampleSize": "412",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=1624&context=survey_center_polls",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-28",
+    "pollster": "University of New Hampshire",
+    "answers": [
+      {
+        "choice": "Kuster",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Negron",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Olding",
+        "pct": "7.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Hampshire",
+    "district": "2"
+  },
+  {
+    "id": "135505",
+    "subgroup": "All polls",
+    "sampleSize": "451",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=1624&context=survey_center_polls",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-28",
+    "pollster": "University of New Hampshire",
+    "answers": [
+      {
+        "choice": "Pappas",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Mowers",
+        "pct": "50.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Dumont",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Hampshire",
+    "district": "1"
+  },
+  {
     "id": "135494",
     "subgroup": "All polls",
     "sampleSize": "600",
@@ -3095,6 +3238,41 @@
       {
         "choice": "Perry",
         "pct": "1.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Hampshire"
+  },
+  {
+    "id": "135503",
+    "subgroup": "All polls",
+    "sampleSize": "864",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=1624&context=survey_center_polls",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-28",
+    "pollster": "University of New Hampshire",
+    "answers": [
+      {
+        "choice": "Feltes",
+        "pct": "36.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Sununu",
+        "pct": "60.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Perry",
+        "pct": "2.0",
         "party": "Lib"
       }
     ],
