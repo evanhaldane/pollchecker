@@ -672,6 +672,37 @@
     "state": "National"
   },
   {
+    "id": "135489",
+    "subgroup": "All polls",
+    "sampleSize": "853",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.aum.edu/wp-content/uploads/2020/10/10.29.2020-AUM-Poll-Topline-Results.pdf",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-28",
+    "pollster": "Auburn University at Montgomery",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "38.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "58.1",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Alabama"
+  },
+  {
     "id": "135413",
     "subgroup": "All polls",
     "sampleSize": "5279",
@@ -2172,6 +2203,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Alaska"
+  },
+  {
+    "id": "135490",
+    "subgroup": "All polls",
+    "sampleSize": "853",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.aum.edu/wp-content/uploads/2020/10/10.29.2020-AUM-Poll-Topline-Results.pdf",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-28",
+    "pollster": "Auburn University at Montgomery",
+    "answers": [
+      {
+        "choice": "Jones",
+        "pct": "42.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tuberville",
+        "pct": "53.8",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Alabama"
   },
   {
     "id": "135389",
