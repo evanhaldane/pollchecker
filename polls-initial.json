@@ -678,12 +678,12 @@
     "answers": [
       {
         "choice": "Biden",
-        "pct": "49.2",
+        "pct": "48.0",
         "party": "Dem"
       },
       {
         "choice": "Trump",
-        "pct": "46.4",
+        "pct": "45.0",
         "party": "Rep"
       },
       {
@@ -841,9 +841,71 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "135437",
+    "subgroup": "All polls",
+    "sampleSize": "872",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://eagletonpoll.rutgers.edu/wp-content/uploads/2020/10/Rutgers-Eagleton-Poll-2020-Election-October-29-2020.pdf",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-18",
+    "endDate": "2020-10-24",
+    "pollster": "Rutgers University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "61.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "37.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "New Jersey"
+  },
+  {
+    "id": "135436",
+    "subgroup": "All polls",
+    "sampleSize": "972",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://eagletonpoll.rutgers.edu/wp-content/uploads/2020/10/Rutgers-Eagleton-Poll-2020-Election-October-29-2020.pdf",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-18",
+    "endDate": "2020-10-24",
+    "pollster": "Rutgers University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "59.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "37.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "New Jersey"
   },
   {
     "id": "135406",
@@ -1400,6 +1462,66 @@
     "state": "Maine"
   },
   {
+    "id": "135440",
+    "subgroup": "All polls",
+    "sampleSize": "872",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://eagletonpoll.rutgers.edu/wp-content/uploads/2020/10/Rutgers-Eagleton-Poll-2020-Election-October-29-2020.pdf",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-18",
+    "endDate": "2020-10-24",
+    "pollster": "Rutgers University",
+    "answers": [
+      {
+        "choice": "Booker",
+        "pct": "61.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Mehta",
+        "pct": "31.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Jersey"
+  },
+  {
+    "id": "135439",
+    "subgroup": "All polls",
+    "sampleSize": "972",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://eagletonpoll.rutgers.edu/wp-content/uploads/2020/10/Rutgers-Eagleton-Poll-2020-Election-October-29-2020.pdf",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-18",
+    "endDate": "2020-10-24",
+    "pollster": "Rutgers University",
+    "answers": [
+      {
+        "choice": "Booker",
+        "pct": "59.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Mehta",
+        "pct": "30.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Jersey"
+  },
+  {
     "id": "135407",
     "subgroup": "All polls",
     "sampleSize": "709",
@@ -1655,6 +1777,46 @@
     "cycle": "2020",
     "state": "Alaska",
     "district": "1"
+  },
+  {
+    "id": "135438",
+    "subgroup": "All polls",
+    "sampleSize": "504",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://mcusercontent.com/259a50ef0a1608ab2bc2cf891/files/efb909f6-0ec9-44d7-8580-82e7bd011161/20.10_Civitas_NC_Statewide_Toplines.pdf",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-22",
+    "endDate": "2020-10-25",
+    "pollster": "Harper Polling",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "42.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Pisano",
+        "pct": "0.0",
+        "party": "Con"
+      },
+      {
+        "choice": "DiFiore",
+        "pct": "1.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "135145",
