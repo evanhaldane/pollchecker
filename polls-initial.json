@@ -270,6 +270,37 @@
     "state": "National"
   },
   {
+    "id": "135481",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "C+",
+    "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2020/arizona_trump_48_biden_45",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-29",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
     "id": "135402",
     "subgroup": "All polls",
     "sampleSize": "661",
@@ -1374,6 +1405,38 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Virginia"
+  },
+  {
+    "id": "135482",
+    "subgroup": "All polls",
+    "sampleSize": "584",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://www.scottmilne.org/news/memo-new-polling-in-vermont-lg-race/",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-20",
+    "pollster": "co/efficient",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "62.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "32.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Vermont"
   },
   {
     "id": "135396",
