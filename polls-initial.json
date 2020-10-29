@@ -1,28 +1,28 @@
 [
   {
-    "id": "135414",
+    "id": "135425",
     "subgroup": "All polls",
-    "sampleSize": null,
-    "population": "a",
-    "grade": "B",
-    "url": "https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
     "created_at": "2020-10-29",
     "startDate": "2020-10-26",
-    "endDate": "2020-10-27",
-    "pollster": "Gallup",
+    "endDate": "2020-10-28",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
     "answers": [
       {
         "choice": "Approve",
-        "pct": "46.0"
+        "pct": "52.0"
       },
       {
         "choice": "Disapprove",
-        "pct": "52.0"
+        "pct": "47.0"
       }
     ],
     "type": "trump-approval",
     "seat_name": null,
-    "tracking": false,
+    "tracking": true,
     "headToHead": false,
     "state": "National"
   },
@@ -45,6 +45,114 @@
       {
         "choice": "Disapprove",
         "pct": "52.9"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "135432",
+    "subgroup": "All polls",
+    "sampleSize": "31920",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://morningconsult.com/form/global-leader-approval/#section-61",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-27",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "42.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "135424",
+    "subgroup": "All polls",
+    "sampleSize": "833",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://news.gallup.com/poll/323234/national-satisfaction-rises-election-nears.aspx",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-27",
+    "pollster": "Gallup",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "44.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "55.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "135423",
+    "subgroup": "All polls",
+    "sampleSize": "924",
+    "population": "rv",
+    "grade": "B",
+    "url": "https://news.gallup.com/poll/323234/national-satisfaction-rises-election-nears.aspx",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-27",
+    "pollster": "Gallup",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "135414",
+    "subgroup": "All polls",
+    "sampleSize": "1018",
+    "population": "a",
+    "grade": "B",
+    "url": "https://news.gallup.com/poll/323234/national-satisfaction-rises-election-nears.aspx",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-27",
+    "pollster": "Gallup",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "52.0"
       }
     ],
     "type": "trump-approval",
@@ -143,6 +251,37 @@
     "state": "Ohio"
   },
   {
+    "id": "135433",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_oct29",
+    "created_at": "2020-10-29",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-28",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "135418",
     "subgroup": "All polls",
     "sampleSize": "770",
@@ -169,7 +308,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Alaska"
   },
@@ -241,7 +380,7 @@
     "seat_name": null,
     "tracking": true,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -1510,33 +1649,6 @@
     "state": "National"
   },
   {
-    "id": "135160",
-    "subgroup": "All polls",
-    "sampleSize": "1500",
-    "population": "lv",
-    "grade": "C+",
-    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
-    "created_at": "2020-10-28",
-    "startDate": "2020-10-25",
-    "endDate": "2020-10-27",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Approve",
-        "pct": "52.0"
-      },
-      {
-        "choice": "Disapprove",
-        "pct": "47.0"
-      }
-    ],
-    "type": "trump-approval",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "state": "National"
-  },
-  {
     "id": "135345",
     "subgroup": "All polls",
     "sampleSize": "1110",
@@ -1843,7 +1955,7 @@
     "sampleSize": "704",
     "population": "lv",
     "grade": "C",
-    "url": "https://gravismarketing.com/2020-arizona-poll-results/",
+    "url": "https://www.scribd.com/document/481978819/Arizona-October-28-2020",
     "created_at": "2020-10-28",
     "startDate": "2020-10-26",
     "endDate": "2020-10-28",
@@ -1874,7 +1986,7 @@
     "sampleSize": "614",
     "population": "lv",
     "grade": "C",
-    "url": "https://gravismarketing.com/nc-2020-poll-results/",
+    "url": "https://www.scribd.com/document/481968988/North-Carolina-October-28-2020-v3",
     "created_at": "2020-10-28",
     "startDate": "2020-10-26",
     "endDate": "2020-10-27",
@@ -2020,37 +2132,6 @@
     "tracking": true,
     "headToHead": false,
     "inAvg": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "135267",
-    "subgroup": "All polls",
-    "sampleSize": "1500",
-    "population": "lv",
-    "grade": "C+",
-    "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_oct28",
-    "created_at": "2020-10-28",
-    "startDate": "2020-10-25",
-    "endDate": "2020-10-27",
-    "pollster": "Rasmussen Reports/Pulse Opinion Research",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "47.0",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "48.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -8716,7 +8797,7 @@
     "sampleSize": "657",
     "population": "lv",
     "grade": "C",
-    "url": "https://gravismarketing.com/minnesota-poll-results/",
+    "url": "https://www.scribd.com/document/481836479/Minnesota-October-26-2020-v2",
     "created_at": "2020-10-27",
     "startDate": "2020-10-24",
     "endDate": "2020-10-26",
@@ -10248,6 +10329,33 @@
     "state": "National"
   },
   {
+    "id": "134879",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history",
+    "created_at": "2020-10-26",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-25",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "52.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "46.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "134904",
     "subgroup": "All polls",
     "sampleSize": "1000",
@@ -10656,6 +10764,37 @@
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Texas"
+  },
+  {
+    "id": "134880",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "lv",
+    "grade": "C+",
+    "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_oct26",
+    "created_at": "2020-10-26",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-25",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "134907",
@@ -12012,7 +12151,7 @@
     "sampleSize": "679",
     "population": "lv",
     "grade": "C",
-    "url": "https://gravismarketing.com/michigan-poll-results-2020/",
+    "url": "https://www.scribd.com/document/481525992/Michigan-October-24-2020",
     "created_at": "2020-10-25",
     "startDate": "2020-10-24",
     "endDate": "2020-10-24",
@@ -12682,7 +12821,7 @@
     "sampleSize": "602",
     "population": "lv",
     "grade": "C",
-    "url": "https://gravismarketing.com/2020-pa-poll-results/",
+    "url": "https://www.scribd.com/document/481442490/Pennsylvania-October-23-2020",
     "created_at": "2020-10-24",
     "startDate": "2020-10-23",
     "endDate": "2020-10-23",
