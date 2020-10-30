@@ -161,7 +161,7 @@
     "seat_name": null,
     "tracking": true,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -1194,6 +1194,37 @@
     "state": "National"
   },
   {
+    "id": "135689",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://www.sacredheart.edu/media/shu-media/institute-for-public-policy/GreatBlue--Sacred-Heart-University-Pioneer-Poll-Q3-Report-October-2020.pdf",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-21",
+    "pollster": "Sacred Heart University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "26.4",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Connecticut"
+  },
+  {
     "id": "135677",
     "subgroup": "All polls",
     "sampleSize": "1502",
@@ -1338,6 +1369,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "135688",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://politicaliq.com/2020/10/30/tx-senate-cornyn-r-48-hegar-d-42/",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-28",
+    "pollster": "RMG Research",
+    "answers": [
+      {
+        "choice": "Hegar",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Cornyn",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Texas"
   },
   {
     "id": "135684",
@@ -1653,6 +1714,37 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Texas"
+  },
+  {
+    "id": "135690",
+    "subgroup": "All polls",
+    "sampleSize": "676",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://stockton.edu/hughes-center/polling/documents/2020-1030-stockton-poll-shows-dead-heat-in-2nd-congressional-district.pdf",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-22",
+    "endDate": "2020-10-27",
+    "pollster": "Stockton University",
+    "answers": [
+      {
+        "choice": "Kennedy",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Van Drew",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Jersey",
+    "district": "2"
   },
   {
     "id": "135683",
