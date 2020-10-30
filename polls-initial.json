@@ -192,7 +192,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Pennsylvania"
@@ -224,7 +224,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Florida"
@@ -530,6 +530,68 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": true,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "135702",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.documentcloud.org/documents/7279122-Xyz-NBCNews-Marist-Poll-NC-Annotated.html",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-28",
+    "pollster": "Marist College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "135701",
+    "subgroup": "All polls",
+    "sampleSize": "1049",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.documentcloud.org/documents/7279122-Xyz-NBCNews-Marist-Poll-NC-Annotated.html",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-28",
+    "pollster": "Marist College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
     "cycle": "2020",
     "state": "North Carolina"
   },
@@ -1315,7 +1377,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
   },
@@ -1497,6 +1559,36 @@
     "state": "National"
   },
   {
+    "id": "135697",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "C+",
+    "url": "https://bit.ly/3oEwIrf",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-28",
+    "endDate": "2020-10-29",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "135688",
     "subgroup": "All polls",
     "sampleSize": "800",
@@ -1557,6 +1649,66 @@
         "choice": "Hayes",
         "pct": "1.88",
         "party": "Con"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "135706",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.documentcloud.org/documents/7279122-Xyz-NBCNews-Marist-Poll-NC-Annotated.html",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-28",
+    "pollster": "Marist College",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "135705",
+    "subgroup": "All polls",
+    "sampleSize": "1049",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.documentcloud.org/documents/7279122-Xyz-NBCNews-Marist-Poll-NC-Annotated.html",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-28",
+    "pollster": "Marist College",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "43.0",
+        "party": "Rep"
       }
     ],
     "type": "senate",
