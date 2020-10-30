@@ -177,6 +177,43 @@
     "state": "Michigan"
   },
   {
+    "id": "135725",
+    "subgroup": "All polls",
+    "sampleSize": "1024",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://drive.google.com/file/d/17CBTDAU6xkJ6jrrYOaAyTW62fAUxT0VB/view",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-28",
+    "endDate": "2020-10-29",
+    "pollster": "Trafalgar Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.1",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.7",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Nevada"
+  },
+  {
     "id": "135691",
     "subgroup": "All polls",
     "sampleSize": "800",
@@ -592,7 +629,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Georgia"
   },
@@ -672,6 +709,80 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
+  },
+  {
+    "id": "135726",
+    "subgroup": "All polls",
+    "sampleSize": "1088",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://drive.google.com/file/d/1pObTwLf4tnJIa0PW9KYrQNfqdSE5GwIj/view",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-28",
+    "pollster": "Trafalgar Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.6",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.5",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Florida"
+  },
+  {
+    "id": "135724",
+    "subgroup": "All polls",
+    "sampleSize": "1058",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://drive.google.com/file/d/1ZEvKCyr9EKALfllUm9K3_xnnilz8E4OC/view",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-28",
+    "pollster": "Trafalgar Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.1",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.1",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Michigan"
   },
   {
     "id": "135702",
@@ -1556,6 +1667,122 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
+  },
+  {
+    "id": "135723",
+    "subgroup": "All polls",
+    "sampleSize": "1065",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://drive.google.com/file/d/10UpkHFp-n3flFFbe7yW9bJdBchj33E3p/view",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-25",
+    "pollster": "Trafalgar Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.8",
+        "party": "Rep"
+      },
+      {
+        "choice": "West",
+        "pct": "3.3",
+        "party": "Ind"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Minnesota"
+  },
+  {
+    "id": "135722",
+    "subgroup": "All polls",
+    "sampleSize": "1082",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://drive.google.com/file/d/1JUtEW3UCKQi33nZ8hYdItUZ2w_aIIUTk/view",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-25",
+    "pollster": "Trafalgar Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.1",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.1",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Wisconsin"
+  },
+  {
+    "id": "135721",
+    "subgroup": "All polls",
+    "sampleSize": "1076",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://drive.google.com/file/d/1OILz8BjBnlIYfPo6ln-yMm6r12cUaVfp/view",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-25",
+    "pollster": "Trafalgar Group",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.4",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.2",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "Pennsylvania"
   },
   {
     "id": "135689",
@@ -16561,6 +16788,7 @@
     "tracking": false,
     "headToHead": false,
     "cycle": "2020",
+    "partisan": "REP",
     "state": "North Carolina"
   },
   {
@@ -17205,6 +17433,7 @@
     "headToHead": false,
     "inAvg": true,
     "cycle": "2020",
+    "partisan": "REP",
     "state": "North Carolina"
   },
   {
