@@ -161,9 +161,73 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
+  },
+  {
+    "id": "135693",
+    "subgroup": "All polls",
+    "sampleSize": "1012",
+    "population": "v",
+    "grade": "B",
+    "url": "https://www.climatepower2020.org/wp-content/uploads/sites/23/2020/10/Pennsylvania-Results.pdf",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-28",
+    "endDate": "2020-10-29",
+    "pollster": "Public Policy Polling",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "135692",
+    "subgroup": "All polls",
+    "sampleSize": "941",
+    "population": "v",
+    "grade": "B",
+    "url": "https://www.climatepower2020.org/wp-content/uploads/sites/23/2020/10/Florida-Results.pdf",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-28",
+    "endDate": "2020-10-29",
+    "pollster": "Public Policy Polling",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Florida"
   },
   {
     "id": "135687",
@@ -1223,6 +1287,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "135696",
+    "subgroup": "All polls",
+    "sampleSize": "1200",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://projects.fivethirtyeight.com/polls/20201030_FL_FSU.pdf",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-26",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Florida"
   },
   {
     "id": "135689",
