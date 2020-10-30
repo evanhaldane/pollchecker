@@ -138,7 +138,7 @@
     "id": "135712",
     "subgroup": "All polls",
     "sampleSize": "745",
-    "population": "lv",
+    "population": "v",
     "grade": "B",
     "url": "https://progressmichigan.org/wp-content/uploads/2020/10/LE-Newsletter-Issue8.pdf",
     "created_at": "2020-10-30",
@@ -171,7 +171,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Michigan"
@@ -698,6 +698,42 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
+  },
+  {
+    "id": "135714",
+    "subgroup": "All polls",
+    "sampleSize": "614",
+    "population": "lv",
+    "grade": "",
+    "url": "http://www.uwyo.edu/uw/news/2020/10/uw-survey-wyoming-voters-prefer-trump-to-biden.html",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-28",
+    "pollster": "University of Wyoming",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "31.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "59.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "5.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Wyoming"
   },
   {
     "id": "135679",
@@ -1635,7 +1671,7 @@
     "id": "135713",
     "subgroup": "All polls",
     "sampleSize": "745",
-    "population": "lv",
+    "population": "v",
     "grade": "B",
     "url": "https://progressmichigan.org/wp-content/uploads/2020/10/LE-Newsletter-Issue8.pdf",
     "created_at": "2020-10-30",
@@ -1888,6 +1924,36 @@
     "state": "Michigan"
   },
   {
+    "id": "135715",
+    "subgroup": "All polls",
+    "sampleSize": "614",
+    "population": "lv",
+    "grade": "",
+    "url": "http://www.uwyo.edu/uw/news/2020/10/uw-survey-wyoming-voters-prefer-trump-to-biden.html",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-28",
+    "pollster": "University of Wyoming",
+    "answers": [
+      {
+        "choice": "Ben-David",
+        "pct": "26.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Lummis",
+        "pct": "56.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Wyoming"
+  },
+  {
     "id": "135659",
     "subgroup": "All polls",
     "sampleSize": "232",
@@ -2131,6 +2197,37 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Texas"
+  },
+  {
+    "id": "135716",
+    "subgroup": "All polls",
+    "sampleSize": "614",
+    "population": "lv",
+    "grade": "",
+    "url": "http://www.uwyo.edu/uw/news/2020/10/uw-survey-wyoming-voters-prefer-trump-to-biden.html",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-08",
+    "endDate": "2020-10-28",
+    "pollster": "University of Wyoming",
+    "answers": [
+      {
+        "choice": "Grey Bull",
+        "pct": "28.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Cheney",
+        "pct": "58.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Wyoming",
+    "district": "1"
   },
   {
     "id": "135690",
