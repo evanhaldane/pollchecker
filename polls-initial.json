@@ -329,7 +329,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
   },
@@ -559,6 +559,42 @@
     "inAvg": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "135718",
+    "subgroup": "All polls",
+    "sampleSize": "750",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://twitter.com/NilesGApol/status/1322285064370139137?s=20",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-28",
+    "endDate": "2020-10-28",
+    "pollster": "Landmark Communications",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.5",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Georgia"
   },
   {
     "id": "135709",
@@ -1763,6 +1799,81 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "North Carolina"
+  },
+  {
+    "id": "135720",
+    "subgroup": "All polls",
+    "sampleSize": "750",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://twitter.com/NilesGApol/status/1322285064370139137?s=20",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-28",
+    "endDate": "2020-10-28",
+    "pollster": "Landmark Communications",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "36.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "25.1",
+        "party": "Rep"
+      },
+      {
+        "choice": "Collins",
+        "pct": "23.1",
+        "party": "Rep"
+      },
+      {
+        "choice": "Lieberman",
+        "pct": "9.1",
+        "party": "Dem"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "135719",
+    "subgroup": "All polls",
+    "sampleSize": "750",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://twitter.com/NilesGApol/status/1322285064370139137?s=20",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-28",
+    "endDate": "2020-10-28",
+    "pollster": "Landmark Communications",
+    "answers": [
+      {
+        "choice": "Ossoff",
+        "pct": "47.3",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perdue",
+        "pct": "47.2",
+        "party": "Rep"
+      },
+      {
+        "choice": "Hazel",
+        "pct": "2.7",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
   },
   {
     "id": "135688",
