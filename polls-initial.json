@@ -27,6 +27,33 @@
     "state": "National"
   },
   {
+    "id": "135727",
+    "subgroup": "All polls",
+    "sampleSize": "1246",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://www.foxnews.com/politics/poll-biden-trump-lead-narrows-slightly",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-29",
+    "pollster": "Fox News",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "46.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "54.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "135671",
     "subgroup": "All polls",
     "sampleSize": "2009",
@@ -369,6 +396,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
+  },
+  {
+    "id": "135729",
+    "subgroup": "All polls",
+    "sampleSize": "1246",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://www.foxnews.com/politics/poll-biden-trump-lead-narrows-slightly",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-29",
+    "pollster": "Fox News",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "135670",
