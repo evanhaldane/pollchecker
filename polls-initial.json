@@ -135,6 +135,48 @@
     "state": "National"
   },
   {
+    "id": "135712",
+    "subgroup": "All polls",
+    "sampleSize": "745",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://progressmichigan.org/wp-content/uploads/2020/10/LE-Newsletter-Issue8.pdf",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-30",
+    "pollster": "Public Policy Polling",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Michigan"
+  },
+  {
     "id": "135691",
     "subgroup": "All polls",
     "sampleSize": "800",
@@ -488,6 +530,37 @@
     "state": "National"
   },
   {
+    "id": "135709",
+    "subgroup": "All polls",
+    "sampleSize": "1103",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-biden-and-cunningham-hold-slim-leads-in-north-carolina-cooper-remains-ahead-as-election-day-nears",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-28",
+    "pollster": "East Carolina University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.32",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.6",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "135682",
     "subgroup": "All polls",
     "sampleSize": "750",
@@ -560,7 +633,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
   },
@@ -1559,6 +1632,42 @@
     "state": "National"
   },
   {
+    "id": "135713",
+    "subgroup": "All polls",
+    "sampleSize": "745",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://progressmichigan.org/wp-content/uploads/2020/10/LE-Newsletter-Issue8.pdf",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-30",
+    "pollster": "Public Policy Polling",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Squier",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "DEM",
+    "state": "Michigan"
+  },
+  {
     "id": "135697",
     "subgroup": "All polls",
     "sampleSize": "800",
@@ -1617,6 +1726,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Texas"
+  },
+  {
+    "id": "135711",
+    "subgroup": "All polls",
+    "sampleSize": "1103",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-biden-and-cunningham-hold-slim-leads-in-north-carolina-cooper-remains-ahead-as-election-day-nears",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-28",
+    "pollster": "East Carolina University",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "48.14",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "46.6",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "135684",
@@ -2025,6 +2164,36 @@
     "district": "2"
   },
   {
+    "id": "135710",
+    "subgroup": "All polls",
+    "sampleSize": "1103",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-biden-and-cunningham-hold-slim-leads-in-north-carolina-cooper-remains-ahead-as-election-day-nears",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-28",
+    "pollster": "East Carolina University",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "54.31",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "43.34",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "135683",
     "subgroup": "All polls",
     "sampleSize": "750",
@@ -2055,6 +2224,66 @@
         "choice": "Pisano",
         "pct": "2.96",
         "party": "Con"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "135704",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.documentcloud.org/documents/7279122-Xyz-NBCNews-Marist-Poll-NC-Annotated.html",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-28",
+    "pollster": "Marist College",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "59.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "40.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "135703",
+    "subgroup": "All polls",
+    "sampleSize": "1049",
+    "population": "rv",
+    "grade": "A+",
+    "url": "https://www.documentcloud.org/documents/7279122-Xyz-NBCNews-Marist-Poll-NC-Annotated.html",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-28",
+    "pollster": "Marist College",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "59.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "40.0",
+        "party": "Rep"
       }
     ],
     "type": "governor",
