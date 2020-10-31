@@ -81,6 +81,42 @@
     "state": "National"
   },
   {
+    "id": "135892",
+    "subgroup": "All polls",
+    "sampleSize": "450",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://overland.amgreatness.com/app/uploads/2020/10/Toplines-Wisconsin-CFAG-Oct2020-2.pdf",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "Susquehanna Polling & Research Inc.",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Wisconsin"
+  },
+  {
     "id": "135859",
     "subgroup": "All polls",
     "sampleSize": "770",
@@ -324,7 +360,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
   },
@@ -391,7 +427,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -994,7 +1030,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -1510,6 +1546,36 @@
     "cycle": "2020",
     "state": "New Mexico",
     "district": "2"
+  },
+  {
+    "id": "135891",
+    "subgroup": "All polls",
+    "sampleSize": "901",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/31/rel2_nc.pdf",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-30",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "135858",
