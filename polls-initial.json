@@ -4024,7 +4024,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "REP",
     "state": "Arizona"
@@ -4262,6 +4262,38 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "135837",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://cprnc.org/2020/10/30/democrats-lead-court-contests-council-of-state-races-close/",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-27",
+    "pollster": "Meeting Street Insights",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "North Carolina"
   },
   {
     "id": "135650",
@@ -5652,6 +5684,37 @@
     "state": "Wyoming"
   },
   {
+    "id": "135839",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://cprnc.org/2020/10/30/democrats-lead-court-contests-council-of-state-races-close/",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-27",
+    "pollster": "Meeting Street Insights",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
+    "state": "North Carolina"
+  },
+  {
     "id": "135659",
     "subgroup": "All polls",
     "sampleSize": "232",
@@ -6086,6 +6149,37 @@
     "tracking": false,
     "headToHead": false,
     "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "135838",
+    "subgroup": "All polls",
+    "sampleSize": "600",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://cprnc.org/2020/10/30/democrats-lead-court-contests-council-of-state-races-close/",
+    "created_at": "2020-10-30",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-27",
+    "pollster": "Meeting Street Insights",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "partisan": "REP",
     "state": "North Carolina"
   },
   {
