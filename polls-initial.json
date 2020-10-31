@@ -27,6 +27,78 @@
     "state": "National"
   },
   {
+    "id": "135854",
+    "subgroup": "All polls",
+    "sampleSize": "1047",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/news/trump-vs-biden-poll-race-tightens-donald-trump-coronavirus-ibd-tipp-presidential-poll/",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-30",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.1",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "135853",
+    "subgroup": "All polls",
+    "sampleSize": "1047",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/news/trump-vs-biden-poll-race-tightens-donald-trump-coronavirus-ibd-tipp-presidential-poll/",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-30",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.7",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.4",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.4",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "135843",
     "subgroup": "All polls",
     "sampleSize": "5343",
@@ -182,6 +254,42 @@
     "state": "National"
   },
   {
+    "id": "135855",
+    "subgroup": "All polls",
+    "sampleSize": "802",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.roanoke.edu/about/news/rc_poll_politics_poll_oct31",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-29",
+    "pollster": "Roanoke College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Virginia"
+  },
+  {
     "id": "135851",
     "subgroup": "All polls",
     "sampleSize": "419",
@@ -239,6 +347,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "135856",
+    "subgroup": "All polls",
+    "sampleSize": "802",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.roanoke.edu/about/news/rc_poll_politics_poll_oct31",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-29",
+    "pollster": "Roanoke College",
+    "answers": [
+      {
+        "choice": "Warner",
+        "pct": "55.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Gade",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Virginia"
   },
   {
     "id": "135849",
@@ -881,78 +1019,6 @@
     "type": "president-general",
     "seat_name": null,
     "tracking": false,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "135681",
-    "subgroup": "All polls",
-    "sampleSize": "959",
-    "population": "lv",
-    "grade": "A/B",
-    "url": "https://www.investors.com/news/trump-vs-biden-poll-joe-biden-lead-grows-swing-states-tight-ibd-tipp-presidential-poll/",
-    "created_at": "2020-10-30",
-    "startDate": "2020-10-25",
-    "endDate": "2020-10-29",
-    "pollster": "IBD/TIPP",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "50.9",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "44.3",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "135680",
-    "subgroup": "All polls",
-    "sampleSize": "959",
-    "population": "lv",
-    "grade": "A/B",
-    "url": "https://www.investors.com/news/trump-vs-biden-poll-joe-biden-lead-grows-swing-states-tight-ibd-tipp-presidential-poll/",
-    "created_at": "2020-10-30",
-    "startDate": "2020-10-25",
-    "endDate": "2020-10-29",
-    "pollster": "IBD/TIPP",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "50.5",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "44.9",
-        "party": "Rep"
-      },
-      {
-        "choice": "Jorgensen",
-        "pct": "1.4",
-        "party": "Lib"
-      },
-      {
-        "choice": "Hawkins",
-        "pct": "0.4",
-        "party": "Gre"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
     "headToHead": false,
     "inAvg": true,
     "cycle": "2020",
@@ -16254,6 +16320,78 @@
     "cycle": "2020",
     "partisan": "DEM",
     "state": "Texas"
+  },
+  {
+    "id": "134878",
+    "subgroup": "All polls",
+    "sampleSize": "982",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/news/presidential-poll-donald-trump-loses-edge-with-men-ibd-tipp-biden-vs-trump-poll/",
+    "created_at": "2020-10-26",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-25",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.7",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "134877",
+    "subgroup": "All polls",
+    "sampleSize": "982",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/news/presidential-poll-donald-trump-loses-edge-with-men-ibd-tipp-biden-vs-trump-poll/",
+    "created_at": "2020-10-26",
+    "startDate": "2020-10-21",
+    "endDate": "2020-10-25",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.7",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.7",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.4",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.8",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "134907",
