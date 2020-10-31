@@ -54,6 +54,33 @@
     "state": "National"
   },
   {
+    "id": "135880",
+    "subgroup": "All polls",
+    "sampleSize": "3500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://d7330092-c899-4a57-99e1-9e693f9be711.filesusr.com/ugd/68c3dc_c2bdd359266744cfb25ab11cc106e6f8.pdf",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-23",
+    "pollster": "Spry Strategies",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "50.55"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "48.49"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "135859",
     "subgroup": "All polls",
     "sampleSize": "770",
@@ -111,7 +138,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Nebraska",
     "district": "2"
@@ -143,7 +170,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
   },
@@ -218,6 +245,155 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "135884",
+    "subgroup": "All polls",
+    "sampleSize": "932",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/31/rel2_nc.pdf",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-30",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "135883",
+    "subgroup": "All polls",
+    "sampleSize": "901",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/31/rel2_nc.pdf",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-30",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "135882",
+    "subgroup": "All polls",
+    "sampleSize": "892",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/31/rel2_az.pdf",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-30",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
+    "id": "135881",
+    "subgroup": "All polls",
+    "sampleSize": "865",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/31/rel2_az.pdf",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-30",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "135877",
@@ -297,7 +473,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
   },
@@ -369,7 +545,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
   },
@@ -756,7 +932,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -787,9 +963,40 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Utah"
+  },
+  {
+    "id": "135885",
+    "subgroup": "All polls",
+    "sampleSize": "3500",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://d7330092-c899-4a57-99e1-9e693f9be711.filesusr.com/ugd/68c3dc_c2bdd359266744cfb25ab11cc106e6f8.pdf",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-20",
+    "endDate": "2020-10-23",
+    "pollster": "Spry Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.34",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.78",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "135840",
@@ -848,6 +1055,146 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Minnesota"
+  },
+  {
+    "id": "135890",
+    "subgroup": "All polls",
+    "sampleSize": "932",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/31/rel2_nc.pdf",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-30",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "42.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Bray",
+        "pct": "3.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hayes",
+        "pct": "3.0",
+        "party": "Con"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "135889",
+    "subgroup": "All polls",
+    "sampleSize": "901",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/31/rel2_nc.pdf",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-30",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Bray",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hayes",
+        "pct": "2.0",
+        "party": "Con"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "135887",
+    "subgroup": "All polls",
+    "sampleSize": "892",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/31/rel2_az.pdf",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-30",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
+    "id": "135886",
+    "subgroup": "All polls",
+    "sampleSize": "865",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/31/rel2_az.pdf",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-30",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "135879",
@@ -910,6 +1257,36 @@
         "choice": "Squier",
         "pct": "3.0",
         "party": "Gre"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "135888",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://politicaliq.com/2020/10/31/michigan-senate-peters-d-50-james-r-41/",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-29",
+    "pollster": "RMG Research",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "41.0",
+        "party": "Rep"
       }
     ],
     "type": "senate",
