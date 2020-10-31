@@ -85,6 +85,69 @@
     "state": "Minnesota"
   },
   {
+    "id": "135867",
+    "subgroup": "All polls",
+    "sampleSize": "806",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/super-poll-sunday-pregame-polls-show-midwest-shift-for-biden-in-wisconsin-nebraska-s-2nd-district-and-vigo-county-indiana",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-30",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.8",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Nebraska",
+    "district": "2"
+  },
+  {
+    "id": "135866",
+    "subgroup": "All polls",
+    "sampleSize": "751",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/super-poll-sunday-pregame-polls-show-midwest-shift-for-biden-in-wisconsin-nebraska-s-2nd-district-and-vigo-county-indiana",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-30",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.7",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.3",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Wisconsin"
+  },
+  {
     "id": "135854",
     "subgroup": "All polls",
     "sampleSize": "1047",
@@ -155,6 +218,160 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "135877",
+    "subgroup": "All polls",
+    "sampleSize": "953",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/31/rel2_mi.pdf",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-30",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "135876",
+    "subgroup": "All polls",
+    "sampleSize": "907",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/31/rel2_mi.pdf",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-30",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "135875",
+    "subgroup": "All polls",
+    "sampleSize": "920",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/31/rel2_wi.pdf",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-30",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Wisconsin"
+  },
+  {
+    "id": "135874",
+    "subgroup": "All polls",
+    "sampleSize": "873",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/31/rel2_wi.pdf",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-30",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Wisconsin"
   },
   {
     "id": "135843",
@@ -508,9 +725,71 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "135869",
+    "subgroup": "All polls",
+    "sampleSize": "700",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.sltrib.com/news/politics/2020/10/31/trump-up-over-biden-new/",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-24",
+    "pollster": "Y2 Analytics",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
+    "id": "135868",
+    "subgroup": "All polls",
+    "sampleSize": "660",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.sltrib.com/news/politics/2020/10/31/trump-up-over-biden-new/",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-24",
+    "pollster": "Y2 Analytics",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "51.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Utah"
   },
   {
     "id": "135840",
@@ -571,6 +850,76 @@
     "state": "Minnesota"
   },
   {
+    "id": "135879",
+    "subgroup": "All polls",
+    "sampleSize": "953",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/31/rel2_mi.pdf",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-30",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "39.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Squier",
+        "pct": "3.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "135878",
+    "subgroup": "All polls",
+    "sampleSize": "907",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "http://cdn.cnn.com/cnn/2020/images/10/31/rel2_mi.pdf",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-30",
+    "pollster": "CNN/SSRS",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "40.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Squier",
+        "pct": "3.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
     "id": "135856",
     "subgroup": "All polls",
     "sampleSize": "802",
@@ -599,6 +948,67 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Virginia"
+  },
+  {
+    "id": "135871",
+    "subgroup": "All polls",
+    "sampleSize": "700",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.sltrib.com/news/politics/2020/10/31/trump-up-over-biden-new/",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-24",
+    "pollster": "Y2 Analytics",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
+    "id": "135872",
+    "subgroup": "All polls",
+    "sampleSize": "806",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/super-poll-sunday-pregame-polls-show-midwest-shift-for-biden-in-wisconsin-nebraska-s-2nd-district-and-vigo-county-indiana",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-30",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Eastman",
+        "pct": "47.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Bacon",
+        "pct": "50.5",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Nebraska",
+    "district": "2"
   },
   {
     "id": "135849",
@@ -694,6 +1104,37 @@
     "district": "1"
   },
   {
+    "id": "135873",
+    "subgroup": "All polls",
+    "sampleSize": "406",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://drive.google.com/file/d/1KphJViXFFz7ytW89UR0FgKFUqwol17ZL/view",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-16",
+    "endDate": "2020-10-20",
+    "pollster": "Strategies 360",
+    "answers": [
+      {
+        "choice": "Torres Small",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Herrell",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New Mexico",
+    "district": "2"
+  },
+  {
     "id": "135858",
     "subgroup": "All polls",
     "sampleSize": "1010",
@@ -732,6 +1173,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Missouri"
+  },
+  {
+    "id": "135870",
+    "subgroup": "All polls",
+    "sampleSize": "660",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://www.sltrib.com/news/politics/2020/10/31/trump-up-over-biden-new/",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-15",
+    "endDate": "2020-10-24",
+    "pollster": "Y2 Analytics",
+    "answers": [
+      {
+        "choice": "Peterson",
+        "pct": "33.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Cox",
+        "pct": "58.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Utah"
   },
   {
     "id": "135685",
