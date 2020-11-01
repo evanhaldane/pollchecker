@@ -1,5 +1,32 @@
 [
   {
+    "id": "136031",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "rv",
+    "grade": "A-",
+    "url": "https://www.documentcloud.org/documents/7280263-200986-NBCWSJ-Late-October-Poll.html",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "NBC News/The Wall Street Journal",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "45.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "52.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "136034",
     "subgroup": "All polls",
     "sampleSize": "1000",
@@ -26,7 +53,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -57,7 +84,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Iowa"
   },
@@ -88,7 +115,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Ohio"
   },
@@ -111,7 +138,7 @@
       },
       {
         "choice": "Trump",
-        "pct": "45.0",
+        "pct": "45.5",
         "party": "Rep"
       }
     ],
@@ -119,7 +146,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
   },
@@ -163,6 +190,78 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
+  },
+  {
+    "id": "136041",
+    "subgroup": "All polls",
+    "sampleSize": "1072",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/news/trump-vs-biden-poll-donald-trump-last-hopes-joe-biden-strength-ibd-tipp-presidential-poll/",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-31",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.7",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "136040",
+    "subgroup": "All polls",
+    "sampleSize": "1072",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/news/trump-vs-biden-poll-donald-trump-last-hopes-joe-biden-strength-ibd-tipp-presidential-poll/",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-31",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.2",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.1",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.5",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.5",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "136018",
@@ -642,6 +741,34 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
+  },
+  {
+    "id": "136033",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "rv",
+    "grade": "A-",
+    "url": "https://www.documentcloud.org/documents/7280263-200986-NBCWSJ-Late-October-Poll.html",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "NBC News/The Wall Street Journal",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "136027",
@@ -1127,78 +1254,6 @@
     "tracking": true,
     "headToHead": false,
     "inAvg": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "135854",
-    "subgroup": "All polls",
-    "sampleSize": "1047",
-    "population": "lv",
-    "grade": "A/B",
-    "url": "https://www.investors.com/news/trump-vs-biden-poll-race-tightens-donald-trump-coronavirus-ibd-tipp-presidential-poll/",
-    "created_at": "2020-10-31",
-    "startDate": "2020-10-26",
-    "endDate": "2020-10-30",
-    "pollster": "IBD/TIPP",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "49.8",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "44.1",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "135853",
-    "subgroup": "All polls",
-    "sampleSize": "1047",
-    "population": "lv",
-    "grade": "A/B",
-    "url": "https://www.investors.com/news/trump-vs-biden-poll-race-tightens-donald-trump-coronavirus-ibd-tipp-presidential-poll/",
-    "created_at": "2020-10-31",
-    "startDate": "2020-10-26",
-    "endDate": "2020-10-30",
-    "pollster": "IBD/TIPP",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "49.5",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "44.7",
-        "party": "Rep"
-      },
-      {
-        "choice": "Jorgensen",
-        "pct": "1.4",
-        "party": "Lib"
-      },
-      {
-        "choice": "Hawkins",
-        "pct": "0.4",
-        "party": "Gre"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -16585,6 +16640,78 @@
         "choice": "Trump",
         "pct": "47.0",
         "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "135066",
+    "subgroup": "All polls",
+    "sampleSize": "970",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/news/biden-vs-trump-poll-joe-biden-lead-shrinks-donald-trump-tops-2016-vote-share-ibd-tipp-presidential-poll/",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-22",
+    "endDate": "2020-10-26",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.8",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "135065",
+    "subgroup": "All polls",
+    "sampleSize": "970",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/news/biden-vs-trump-poll-joe-biden-lead-shrinks-donald-trump-tops-2016-vote-share-ibd-tipp-presidential-poll/",
+    "created_at": "2020-10-27",
+    "startDate": "2020-10-22",
+    "endDate": "2020-10-26",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.7",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.3",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.2",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.5",
+        "party": "Gre"
       }
     ],
     "type": "president-general",
