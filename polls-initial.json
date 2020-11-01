@@ -94,9 +94,40 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
+  },
+  {
+    "id": "136056",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "C+",
+    "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2020/florida_biden_48_trump_47",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Florida"
   },
   {
     "id": "136034",
@@ -740,10 +771,10 @@
   {
     "id": "136048",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "1082",
     "population": "lv",
     "grade": "C-",
-    "url": "https://twitter.com/PpollingNumbers/status/1322944485374992384?s=20",
+    "url": "https://drive.google.com/file/d/1d5ZSF-di5j67r28yezWLfGA23OmF9E8p/view",
     "created_at": "2020-11-01",
     "startDate": "2020-10-27",
     "endDate": "2020-10-29",
@@ -958,6 +989,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "New Mexico"
+  },
+  {
+    "id": "136055",
+    "subgroup": "All polls",
+    "sampleSize": "670",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://gravismarketing.com/texas-poll/",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-28",
+    "pollster": "Gravis Marketing",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Texas"
   },
   {
     "id": "136025",
@@ -1316,6 +1378,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "New Mexico"
+  },
+  {
+    "id": "136057",
+    "subgroup": "All polls",
+    "sampleSize": "670",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://gravismarketing.com/texas-poll/",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-28",
+    "pollster": "Gravis Marketing",
+    "answers": [
+      {
+        "choice": "Hegar",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Cornyn",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Texas"
   },
   {
     "id": "136026",
