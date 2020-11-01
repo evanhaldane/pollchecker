@@ -77,6 +77,37 @@
     "state": "Pennsylvania"
   },
   {
+    "id": "136030",
+    "subgroup": "All polls",
+    "sampleSize": "5364",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-18",
+    "endDate": "2020-10-31",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.53",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.55",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "136029",
     "subgroup": "All polls",
     "sampleSize": "5364",
