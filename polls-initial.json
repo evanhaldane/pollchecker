@@ -1084,6 +1084,37 @@
     "state": "New Mexico"
   },
   {
+    "id": "136061",
+    "subgroup": "All polls",
+    "sampleSize": "372",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://www.sctimes.com/story/news/politics/elections/2020/11/01/scsu-survey-poll-minnesota-deep-divided-issues-biden-polls-trump/6113394002/",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-10",
+    "endDate": "2020-10-29",
+    "pollster": "St. Cloud State University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Minnesota"
+  },
+  {
     "id": "136055",
     "subgroup": "All polls",
     "sampleSize": "670",
@@ -1473,6 +1504,36 @@
     "state": "New Mexico"
   },
   {
+    "id": "136064",
+    "subgroup": "All polls",
+    "sampleSize": "372",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://www.sctimes.com/story/news/politics/elections/2020/11/01/scsu-survey-poll-minnesota-deep-divided-issues-biden-polls-trump/6113394002/",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-10",
+    "endDate": "2020-10-29",
+    "pollster": "St. Cloud State University",
+    "answers": [
+      {
+        "choice": "Smith",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Lewis",
+        "pct": "36.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Minnesota"
+  },
+  {
     "id": "136057",
     "subgroup": "All polls",
     "sampleSize": "670",
@@ -1531,6 +1592,152 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Michigan"
+  },
+  {
+    "id": "136065",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "rv",
+    "grade": "",
+    "url": "https://outlook.office.com/mail/inbox/id/AAQkADg2MDVmMmNjLTRhYmUtNDA2NC04NzUzLWZlNWIxZGRkYmM3NQAQAO1Uc%2BZbJvFIsCShNRkrNvQ%3D",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-30",
+    "pollster": "El Nuevo Día/The Research Office",
+    "answers": [
+      {
+        "choice": "González",
+        "pct": "44.0",
+        "party": "Npp"
+      },
+      {
+        "choice": "Acevedo Vilá",
+        "pct": "32.0",
+        "party": "Ppd"
+      },
+      {
+        "choice": "Piñero",
+        "pct": "7.0",
+        "party": "Pri"
+      },
+      {
+        "choice": "Jordán Conde",
+        "pct": "9.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Henríquez",
+        "pct": "4.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Puerto Rico",
+    "district": "1"
+  },
+  {
+    "id": "136062",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "rv",
+    "grade": "",
+    "url": "https://www.elnuevodia.com/noticias/politica/notas/carlos-delgado-altieri-considera-que-resultados-de-la-encuesta-reflejan-que-esta-a-punto-de-ganar/",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-30",
+    "pollster": "El Nuevo Día/The Research Office",
+    "answers": [
+      {
+        "choice": "Pierluisi",
+        "pct": "35.0",
+        "party": "Npp"
+      },
+      {
+        "choice": "Delgado Altieri",
+        "pct": "34.0",
+        "party": "Ppd"
+      },
+      {
+        "choice": "Lúgaro",
+        "pct": "11.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Dalmau Ramírez",
+        "pct": "10.0",
+        "party": "Pri"
+      },
+      {
+        "choice": "Vázquez Garced",
+        "pct": "5.0",
+        "party": "Npp"
+      },
+      {
+        "choice": "Molina",
+        "pct": "1.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Puerto Rico"
+  },
+  {
+    "id": "136063",
+    "subgroup": "All polls",
+    "sampleSize": "439",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/datasets/2020/10/puerto_rico_survey/dfp_pr_2020_10_governor_toplines.pdf",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-19",
+    "endDate": "2020-10-26",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Pierluisi",
+        "pct": "39.0",
+        "party": "Npp"
+      },
+      {
+        "choice": "Delgado Altieri",
+        "pct": "35.0",
+        "party": "Ppd"
+      },
+      {
+        "choice": "Lúgaro",
+        "pct": "10.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Dalmau Ramírez",
+        "pct": "8.0",
+        "party": "Pri"
+      },
+      {
+        "choice": "Vázquez Garced",
+        "pct": "1.0",
+        "party": "Npp"
+      },
+      {
+        "choice": "Molina",
+        "pct": "0.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Puerto Rico"
   },
   {
     "id": "135862",
