@@ -120,7 +120,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Nevada"
   },
@@ -151,7 +151,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -733,7 +733,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "partisan": "REP",
     "state": "North Carolina"
@@ -953,6 +953,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
+  },
+  {
+    "id": "136052",
+    "subgroup": "All polls",
+    "sampleSize": "71789",
+    "population": "a",
+    "grade": "B",
+    "url": "https://twitter.com/b_schaffner/status/1322936611286536199",
+    "created_at": "2020-11-01",
+    "startDate": "2020-09-29",
+    "endDate": "2020-10-27",
+    "pollster": "CCES / YouGov",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "136033",
