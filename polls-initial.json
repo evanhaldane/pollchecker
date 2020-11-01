@@ -112,7 +112,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
   },
@@ -844,6 +844,37 @@
     "state": "National"
   },
   {
+    "id": "135894",
+    "subgroup": "All polls",
+    "sampleSize": "814",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.desmoinesregister.com/story/news/politics/iowa-poll/2020/10/31/election-2020-iowa-poll-president-donald-trump-leads-joe-biden/6061937002/",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-29",
+    "pollster": "Selzer & Co.",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "41.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
     "id": "135855",
     "subgroup": "All polls",
     "sampleSize": "802",
@@ -1331,6 +1362,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Michigan"
+  },
+  {
+    "id": "135893",
+    "subgroup": "All polls",
+    "sampleSize": "814",
+    "population": "lv",
+    "grade": "A+",
+    "url": "https://www.desmoinesregister.com/story/news/politics/iowa-poll/2020/10/31/election-2020-iowa-poll-greenfield-ernst-us-senate-race-voters/6055545002/",
+    "created_at": "2020-10-31",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-29",
+    "pollster": "Selzer & Co.",
+    "answers": [
+      {
+        "choice": "Greenfield",
+        "pct": "42.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ernst",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa"
   },
   {
     "id": "135856",
