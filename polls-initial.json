@@ -63,6 +63,42 @@
     "state": "Florida"
   },
   {
+    "id": "136053",
+    "subgroup": "All polls",
+    "sampleSize": "450",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://overland.amgreatness.com/app/uploads/2020/11/North-Carolina-Poll-Oct-31st.pdf",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-30",
+    "endDate": "2020-10-31",
+    "pollster": "InsiderAdvantage",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "43.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.9",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "136034",
     "subgroup": "All polls",
     "sampleSize": "1000",
