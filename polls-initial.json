@@ -248,6 +248,42 @@
     "state": "Wisconsin"
   },
   {
+    "id": "136072",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://overland.amgreatness.com/app/uploads/2020/11/MI-POll-Oct-31st-final-poll-.pdf",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-30",
+    "endDate": "2020-10-31",
+    "pollster": "InsiderAdvantage",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.7",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.7",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
     "id": "136053",
     "subgroup": "All polls",
     "sampleSize": "450",
