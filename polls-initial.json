@@ -325,7 +325,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
   },
@@ -519,6 +519,101 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "136077",
+    "subgroup": "All polls",
+    "sampleSize": "301",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/super-poll-sunday-biden-with-slight-lead-over-trump-in-pennsylvania-maine-s-second-district-competitive",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.8",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Maine",
+    "district": "2"
+  },
+  {
+    "id": "136076",
+    "subgroup": "All polls",
+    "sampleSize": "310",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/super-poll-sunday-biden-with-slight-lead-over-trump-in-pennsylvania-maine-s-second-district-competitive",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "57.7",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "38.7",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Maine",
+    "district": "1"
+  },
+  {
+    "id": "136075",
+    "subgroup": "All polls",
+    "sampleSize": "611",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/super-poll-sunday-biden-with-slight-lead-over-trump-in-pennsylvania-maine-s-second-district-competitive",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.3",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.9",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Maine"
   },
   {
     "id": "136050",
@@ -983,6 +1078,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
+  },
+  {
+    "id": "136074",
+    "subgroup": "All polls",
+    "sampleSize": "823",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/super-poll-sunday-biden-with-slight-lead-over-trump-in-pennsylvania-maine-s-second-district-competitive",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-30",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.6",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Pennsylvania"
   },
   {
     "id": "136022",
@@ -1560,6 +1686,46 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "136078",
+    "subgroup": "All polls",
+    "sampleSize": "611",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/super-poll-sunday-biden-with-slight-lead-over-trump-in-pennsylvania-maine-s-second-district-competitive",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Gideon",
+        "pct": "47.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Collins",
+        "pct": "45.8",
+        "party": "Rep"
+      },
+      {
+        "choice": "Savage",
+        "pct": "5.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Linn",
+        "pct": "1.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Maine"
   },
   {
     "id": "136051",
