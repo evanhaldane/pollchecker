@@ -27,6 +27,42 @@
     "state": "National"
   },
   {
+    "id": "136044",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://overland.amgreatness.com/app/uploads/2020/11/Toplines-Florida-CFAG-Oct2020-2.pdf",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-01",
+    "pollster": "Susquehanna Polling & Research Inc.",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
     "id": "136034",
     "subgroup": "All polls",
     "sampleSize": "1000",
@@ -71,12 +107,12 @@
     "answers": [
       {
         "choice": "Biden",
-        "pct": "46.0",
+        "pct": "47.4",
         "party": "Dem"
       },
       {
         "choice": "Trump",
-        "pct": "47.0",
+        "pct": "48.6",
         "party": "Rep"
       }
     ],
@@ -102,12 +138,12 @@
     "answers": [
       {
         "choice": "Biden",
-        "pct": "49.0",
+        "pct": "49.6",
         "party": "Dem"
       },
       {
         "choice": "Trump",
-        "pct": "48.0",
+        "pct": "48.7",
         "party": "Rep"
       }
     ],
@@ -259,7 +295,7 @@
     "seat_name": null,
     "tracking": true,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -391,6 +427,42 @@
     "inAvg": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "136043",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://overland.amgreatness.com/app/uploads/2020/10/IOWA-POLL-102020.pdf",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-30",
+    "endDate": "2020-10-30",
+    "pollster": "InsiderAdvantage",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.1",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.8",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "0.5",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Iowa"
   },
   {
     "id": "136024",
@@ -812,12 +884,12 @@
     "answers": [
       {
         "choice": "Greenfield",
-        "pct": "48.0",
+        "pct": "50.8",
         "party": "Dem"
       },
       {
         "choice": "Ernst",
-        "pct": "44.0",
+        "pct": "47.7",
         "party": "Rep"
       }
     ],
@@ -842,12 +914,12 @@
     "answers": [
       {
         "choice": "Peters",
-        "pct": "50.0",
+        "pct": "51.8",
         "party": "Dem"
       },
       {
         "choice": "James",
-        "pct": "45.0",
+        "pct": "46.0",
         "party": "Rep"
       }
     ],
@@ -857,6 +929,46 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Michigan"
+  },
+  {
+    "id": "136045",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://overland.amgreatness.com/app/uploads/2020/10/IOWA-POLL-102020.pdf",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-30",
+    "endDate": "2020-10-30",
+    "pollster": "InsiderAdvantage",
+    "answers": [
+      {
+        "choice": "Greenfield",
+        "pct": "45.1",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ernst",
+        "pct": "50.7",
+        "party": "Rep"
+      },
+      {
+        "choice": "Stewart",
+        "pct": "0.5",
+        "party": "Lib"
+      },
+      {
+        "choice": "Herzog",
+        "pct": "0.5",
+        "party": "Ind"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa"
   },
   {
     "id": "136021",
