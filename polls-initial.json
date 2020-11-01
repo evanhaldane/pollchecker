@@ -557,6 +557,99 @@
     "state": "National"
   },
   {
+    "id": "136084",
+    "subgroup": "All polls",
+    "sampleSize": "763",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/super-poll-sunday-democrats-within-striking-distance-in-key-southern-states",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.7",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.7",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Texas"
+  },
+  {
+    "id": "136083",
+    "subgroup": "All polls",
+    "sampleSize": "749",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/super-poll-sunday-democrats-within-striking-distance-in-key-southern-states",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.4",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "136081",
+    "subgroup": "All polls",
+    "sampleSize": "855",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/super-poll-sunday-democrats-within-striking-distance-in-key-southern-states",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.1",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "136077",
     "subgroup": "All polls",
     "sampleSize": "301",
@@ -1112,6 +1205,37 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": true,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
+    "id": "136082",
+    "subgroup": "All polls",
+    "sampleSize": "849",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/super-poll-sunday-democrats-within-striking-distance-in-key-southern-states",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-30",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.1",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
     "cycle": "2020",
     "state": "Florida"
   },
@@ -1752,6 +1876,141 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Michigan"
+  },
+  {
+    "id": "136088",
+    "subgroup": "All polls",
+    "sampleSize": "763",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/super-poll-sunday-democrats-within-striking-distance-in-key-southern-states",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Hegar",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Cornyn",
+        "pct": "51.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Texas"
+  },
+  {
+    "id": "136087",
+    "subgroup": "All polls",
+    "sampleSize": "749",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/super-poll-sunday-democrats-within-striking-distance-in-key-southern-states",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Lieberman",
+        "pct": "7.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Collins",
+        "pct": "26.8",
+        "party": "Rep"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "23.5",
+        "party": "Rep"
+      },
+      {
+        "choice": "Tarver",
+        "pct": "2.3",
+        "party": "Dem"
+      },
+      {
+        "choice": "Warnock",
+        "pct": "37.9",
+        "party": "Dem"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "136086",
+    "subgroup": "All polls",
+    "sampleSize": "749",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/super-poll-sunday-democrats-within-striking-distance-in-key-southern-states",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Ossoff",
+        "pct": "48.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perdue",
+        "pct": "47.6",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "136085",
+    "subgroup": "All polls",
+    "sampleSize": "855",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/super-poll-sunday-democrats-within-striking-distance-in-key-southern-states",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "50.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "47.2",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "136078",
