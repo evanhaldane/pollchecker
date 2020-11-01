@@ -63,12 +63,12 @@
     "state": "Florida"
   },
   {
-    "id": "136071",
+    "id": "136073",
     "subgroup": "All polls",
     "sampleSize": "654",
     "population": "lv",
     "grade": "B-",
-    "url": "https://www.reuters.com/article/us-usa-election-battleground-poll/days-before-u-s-election-bidens-lead-widens-in-rust-belt-reuters-ipsos-poll-idUSKBN27H1PO",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-11/topline_reuters_michigan_state_poll_w6_11_01_2020_0.pdf",
     "created_at": "2020-11-01",
     "startDate": "2020-10-27",
     "endDate": "2020-11-01",
@@ -76,12 +76,58 @@
     "answers": [
       {
         "choice": "Biden",
-        "pct": "52.0",
+        "pct": "53.0",
         "party": "Dem"
       },
       {
         "choice": "Trump",
-        "pct": "42.0",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "West",
+        "pct": "0.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "136071",
+    "subgroup": "All polls",
+    "sampleSize": "654",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-11/topline_reuters_michigan_state_poll_w6_11_01_2020_0.pdf",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
         "party": "Rep"
       }
     ],
