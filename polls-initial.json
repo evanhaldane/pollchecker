@@ -94,6 +94,68 @@
     "state": "National"
   },
   {
+    "id": "136050",
+    "subgroup": "All polls",
+    "sampleSize": "720",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/super-poll-sunday-toss-ups-in-nevada-and-arizona",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.2",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Nevada"
+  },
+  {
+    "id": "136049",
+    "subgroup": "All polls",
+    "sampleSize": "732",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/super-poll-sunday-toss-ups-in-nevada-and-arizona",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.9",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
     "id": "136037",
     "subgroup": "All polls",
     "sampleSize": "604",
@@ -635,7 +697,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
   },
@@ -947,6 +1009,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "136051",
+    "subgroup": "All polls",
+    "sampleSize": "732",
+    "population": "lv",
+    "grade": "A-",
+    "url": "https://emersonpolling.reportablenews.com/pr/super-poll-sunday-toss-ups-in-nevada-and-arizona",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "Emerson College",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "50.3",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "47.6",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "136039",
