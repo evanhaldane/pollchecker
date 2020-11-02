@@ -184,9 +184,86 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "136342",
+    "subgroup": "All polls",
+    "sampleSize": "610",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-11/topline_reuters_arizona_state_poll_w6_11_2_2020.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-02",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "West",
+        "pct": "1.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
+    "id": "136341",
+    "subgroup": "All polls",
+    "sampleSize": "610",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-11/topline_reuters_arizona_state_poll_w6_11_2_2020.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-02",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "136323",
@@ -932,6 +1009,99 @@
     "state": "National"
   },
   {
+    "id": "136346",
+    "subgroup": "All polls",
+    "sampleSize": "1657",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/florida/release-detail?ReleaseID=3683",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-28",
+    "endDate": "2020-11-01",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
+    "id": "136345",
+    "subgroup": "All polls",
+    "sampleSize": "1440",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/florida/release-detail?ReleaseID=3683",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-28",
+    "endDate": "2020-11-01",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Ohio"
+  },
+  {
+    "id": "136344",
+    "subgroup": "All polls",
+    "sampleSize": "1516",
+    "population": "lv",
+    "grade": "B+",
+    "url": "https://poll.qu.edu/florida/release-detail?ReleaseID=3683",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-28",
+    "endDate": "2020-11-01",
+    "pollster": "Quinnipiac University",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "136266",
     "subgroup": "All polls",
     "sampleSize": "502",
@@ -1128,7 +1298,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "California"
   },
@@ -1998,6 +2168,37 @@
     "state": "Arizona"
   },
   {
+    "id": "136347",
+    "subgroup": "All polls",
+    "sampleSize": "660",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://projects.fivethirtyeight.com/polls/20201102_OH_AtlasIntel.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-30",
+    "pollster": "AtlasIntel",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.4",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Ohio"
+  },
+  {
     "id": "136300",
     "subgroup": "All polls",
     "sampleSize": "550",
@@ -2177,6 +2378,62 @@
     "state": "National"
   },
   {
+    "id": "136340",
+    "subgroup": "All polls",
+    "sampleSize": "2359",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://thehill.com/hilltv/what-americas-thinking/523999-what-americas-thinking-november-2-2020",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-28",
+    "pollster": "HarrisX",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "47.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "136339",
+    "subgroup": "All polls",
+    "sampleSize": "2824",
+    "population": "rv",
+    "grade": "C",
+    "url": "https://thehill.com/hilltv/what-americas-thinking/523999-what-americas-thinking-november-2-2020",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-28",
+    "pollster": "HarrisX",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "45.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "40.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "136243",
     "subgroup": "All polls",
     "sampleSize": "2500",
@@ -2233,6 +2490,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Iowa"
+  },
+  {
+    "id": "136343",
+    "subgroup": "All polls",
+    "sampleSize": "610",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-11/topline_reuters_arizona_state_poll_w6_11_2_2020.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-02",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
   },
   {
     "id": "136298",
