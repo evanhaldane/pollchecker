@@ -500,6 +500,47 @@
     "state": "Wisconsin"
   },
   {
+    "id": "136218",
+    "subgroup": "All polls",
+    "sampleSize": "709",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_co_11.1.20.pdf",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Colorado"
+  },
+  {
     "id": "136216",
     "subgroup": "All polls",
     "sampleSize": "926",
@@ -536,7 +577,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Texas"
   },
@@ -5613,6 +5654,76 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Michigan"
+  },
+  {
+    "id": "136219",
+    "subgroup": "All polls",
+    "sampleSize": "709",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_co_11.1.20.pdf",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Hickenlooper",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Gardner",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Colorado"
+  },
+  {
+    "id": "136217",
+    "subgroup": "All polls",
+    "sampleSize": "926",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_tx_11.1.20.pdf",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Hegar",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Cornyn",
+        "pct": "50.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Turullols-Bonilla",
+        "pct": "2.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "McKennon",
+        "pct": "1.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Texas"
   },
   {
     "id": "136213",
