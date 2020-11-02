@@ -364,12 +364,43 @@
     "state": "Pennsylvania"
   },
   {
+    "id": "136317",
+    "subgroup": "All polls",
+    "sampleSize": "1501",
+    "population": "rv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/9uv1pif4fj/20201101_yahoo_coronavirus_tabs.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-30",
+    "endDate": "2020-11-01",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "136279",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "1360",
     "population": "lv",
     "grade": "B",
-    "url": "https://www.yahoo.com/now/final-yahoo-news-you-gov-poll-biden-leads-trump-by-10-as-voters-fear-a-chaotic-election-day-132235742.html",
+    "url": "https://docs.cdn.yougov.com/9uv1pif4fj/20201101_yahoo_coronavirus_tabs.pdf",
     "created_at": "2020-11-02",
     "startDate": "2020-10-30",
     "endDate": "2020-11-01",
@@ -787,7 +818,7 @@
     "sampleSize": null,
     "population": "lv",
     "grade": "C-",
-    "url": "",
+    "url": "https://twitter.com/RobertCahaly/status/1323269722939527170?s=20",
     "created_at": "2020-11-02",
     "startDate": "2020-10-30",
     "endDate": "2020-10-31",
@@ -1022,7 +1053,7 @@
     "sampleSize": null,
     "population": "lv",
     "grade": "B/C",
-    "url": "",
+    "url": "https://scottrasmussen.com/election-polls-2020/",
     "created_at": "2020-11-02",
     "startDate": "2020-10-29",
     "endDate": "2020-10-31",
@@ -1043,7 +1074,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -1576,6 +1607,62 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "136316",
+    "subgroup": "All polls",
+    "sampleSize": "1501",
+    "population": "rv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/9uv1pif4fj/20201101_yahoo_coronavirus_tabs.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-30",
+    "endDate": "2020-11-01",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "49.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "40.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "136315",
+    "subgroup": "All polls",
+    "sampleSize": "1360",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/9uv1pif4fj/20201101_yahoo_coronavirus_tabs.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-30",
+    "endDate": "2020-11-01",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "52.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "43.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
     "cycle": "2020",
     "state": "National"
   },
