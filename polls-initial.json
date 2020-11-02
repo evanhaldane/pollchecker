@@ -30,7 +30,7 @@
     "id": "136278",
     "subgroup": "All polls",
     "sampleSize": "2500",
-    "population": "rv",
+    "population": "lv",
     "grade": "B",
     "url": "https://smpa.gwu.edu/gw-politics-poll-finds-trump-elicits-negative-emotions-voters",
     "created_at": "2020-11-02",
@@ -52,6 +52,42 @@
     "tracking": false,
     "headToHead": false,
     "state": "National"
+  },
+  {
+    "id": "136322",
+    "subgroup": "All polls",
+    "sampleSize": "499",
+    "population": "lv",
+    "grade": "C",
+    "url": "https://www.realclearpolitics.com/docs/2020/SusquehannaPolling-PAStatewidePoll-Oct2020.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-11-01",
+    "endDate": "2020-11-02",
+    "pollster": "Susquehanna Polling & Research Inc.",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.2",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.4",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
   },
   {
     "id": "136283",
@@ -83,6 +119,47 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Iowa"
+  },
+  {
+    "id": "136323",
+    "subgroup": "All polls",
+    "sampleSize": "1008",
+    "population": "lv",
+    "grade": "",
+    "url": "https://johnzogbystrategies.com/town-hall/",
+    "created_at": "2020-11-02",
+    "startDate": "2020-11-01",
+    "endDate": "2020-11-01",
+    "pollster": "John Zogby Strategies/EMI Research Solutions",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "4.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "2.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "136294",
@@ -627,7 +704,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -1161,9 +1238,40 @@
     "state": "National"
   },
   {
+    "id": "136321",
+    "subgroup": "All polls",
+    "sampleSize": "1265",
+    "population": "lv",
+    "grade": "A",
+    "url": "https://twitter.com/meganpratz/status/1323319881765441547",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "SurveyUSA",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "136314",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "1200",
     "population": "lv",
     "grade": "B/C",
     "url": "https://scottrasmussen.com/election-polls-2020/",
@@ -2400,6 +2508,46 @@
     "district": "1"
   },
   {
+    "id": "136305",
+    "subgroup": "All polls",
+    "sampleSize": "676",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://competeeverywhere.com/2020/11/fresh-polling-shows-biden-poised-for-victory/",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-30",
+    "endDate": "2020-10-31",
+    "pollster": "Frederick Polls",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "DiFiore",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Pisano",
+        "pct": "0.0",
+        "party": "Con"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
     "id": "136280",
     "subgroup": "All polls",
     "sampleSize": "1010",
@@ -2409,7 +2557,7 @@
     "created_at": "2020-11-02",
     "startDate": "2020-10-23",
     "endDate": "2020-10-30",
-    "pollster": "Radio Isla/Jorge Benítez",
+    "pollster": "Jorge Benítez",
     "answers": [
       {
         "choice": "Pierluisi",
