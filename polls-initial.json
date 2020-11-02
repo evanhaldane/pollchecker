@@ -27,6 +27,33 @@
     "state": "National"
   },
   {
+    "id": "136355",
+    "subgroup": "All polls",
+    "sampleSize": "1008",
+    "population": "lv",
+    "grade": "",
+    "url": "https://johnzogbystrategies.com/wp-content/uploads/2020/11/X1-Weighted-110120.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-11-01",
+    "endDate": "2020-11-01",
+    "pollster": "John Zogby Strategies/EMI Research Solutions",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "49.6"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "49.5"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "136299",
     "subgroup": "All polls",
     "sampleSize": "1500",
@@ -264,6 +291,73 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "136358",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://www.realclearpolitics.com/docs/2020/FINAL_WSBTV_Landmark_Poll_Georgia_PresSenate_Nov_1_2020.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-11-01",
+    "endDate": "2020-11-01",
+    "pollster": "Landmark Communications",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.1",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.7",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "136357",
+    "subgroup": "All polls",
+    "sampleSize": "1008",
+    "population": "lv",
+    "grade": "",
+    "url": "https://johnzogbystrategies.com/wp-content/uploads/2020/11/X1-Weighted-110120.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-11-01",
+    "endDate": "2020-11-01",
+    "pollster": "John Zogby Strategies/EMI Research Solutions",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.1",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "136323",
@@ -1305,7 +1399,7 @@
   {
     "id": "136352",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "707",
     "population": "lv",
     "grade": "B-",
     "url": "https://graphics.reuters.com/USA-ELECTION/BATTLEGROUNDS/nmopawwakpa/index.html",
@@ -1336,7 +1430,7 @@
   {
     "id": "136351",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "670",
     "population": "lv",
     "grade": "B-",
     "url": "https://graphics.reuters.com/USA-ELECTION/BATTLEGROUNDS/nmopawwakpa/index.html",
@@ -1391,7 +1485,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Illinois"
   },
@@ -2359,6 +2453,34 @@
     "state": "National"
   },
   {
+    "id": "136356",
+    "subgroup": "All polls",
+    "sampleSize": "1008",
+    "population": "lv",
+    "grade": "",
+    "url": "https://johnzogbystrategies.com/wp-content/uploads/2020/11/X1-Weighted-110120.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-11-01",
+    "endDate": "2020-11-01",
+    "pollster": "John Zogby Strategies/EMI Research Solutions",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "46.6"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.3"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "136316",
     "subgroup": "All polls",
     "sampleSize": "1501",
@@ -2615,6 +2737,91 @@
     "state": "Arizona"
   },
   {
+    "id": "136360",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://www.realclearpolitics.com/docs/2020/FINAL_WSBTV_Landmark_Poll_Georgia_PresSenate_Nov_1_2020.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-11-01",
+    "endDate": "2020-11-01",
+    "pollster": "Landmark Communications",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "37.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "27.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Collins",
+        "pct": "24.4",
+        "party": "Rep"
+      },
+      {
+        "choice": "Slowinski",
+        "pct": "1.1",
+        "party": "Lib"
+      },
+      {
+        "choice": "Tarver",
+        "pct": "1.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Lieberman",
+        "pct": "5.3",
+        "party": "Dem"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "136359",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://www.realclearpolitics.com/docs/2020/FINAL_WSBTV_Landmark_Poll_Georgia_PresSenate_Nov_1_2020.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-11-01",
+    "endDate": "2020-11-01",
+    "pollster": "Landmark Communications",
+    "answers": [
+      {
+        "choice": "Ossoff",
+        "pct": "46.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perdue",
+        "pct": "49.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Hazel",
+        "pct": "2.7",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
     "id": "136298",
     "subgroup": "All polls",
     "sampleSize": "450",
@@ -2797,7 +3004,7 @@
   {
     "id": "136353",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "707",
     "population": "lv",
     "grade": "B-",
     "url": "https://graphics.reuters.com/USA-ELECTION/BATTLEGROUNDS/nmopawwakpa/index.html",
