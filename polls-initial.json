@@ -536,7 +536,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -4906,6 +4906,130 @@
     "state": "Arizona"
   },
   {
+    "id": "136225",
+    "subgroup": "All polls",
+    "sampleSize": "1027",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://static1.squarespace.com/static/5e28be4ccb16eb0aa6496c31/t/5f9f6df662349e59a50f895e/1604283895069/Crosstab+-+Florida+2020+PollSmart+Poll+%28Demos%29.pdf",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-30",
+    "pollster": "Targoz Market Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.1",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
+    "id": "136224",
+    "subgroup": "All polls",
+    "sampleSize": "998",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://static1.squarespace.com/static/5e28be4ccb16eb0aa6496c31/t/5f9f6d4d11f67f690ade11aa/1604283726251/Crosstab+-+Pennsylvania+2020+PollSmart+Poll+Demos.pdf",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-30",
+    "pollster": "Targoz Market Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "56.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "136223",
+    "subgroup": "All polls",
+    "sampleSize": "993",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://static1.squarespace.com/static/5e28be4ccb16eb0aa6496c31/t/5f9f6cf4622e88214e9f0514/1604283637748/Crosstab+-+Michigan+2020+PollSmart+Poll+%28Demos%29.pdf",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-30",
+    "pollster": "Targoz Market Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "39.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "136222",
+    "subgroup": "All polls",
+    "sampleSize": "1138",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://static1.squarespace.com/static/5e28be4ccb16eb0aa6496c31/t/5f9f6c49622e88214e9ef210/1604283466396/Crosstab+-+Minnesota+2020+PollSmart+Poll+%28Demos%29.pdf",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-30",
+    "pollster": "Targoz Market Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Minnesota"
+  },
+  {
     "id": "136190",
     "subgroup": "All polls",
     "sampleSize": "483",
@@ -6170,6 +6294,66 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "136227",
+    "subgroup": "All polls",
+    "sampleSize": "993",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://static1.squarespace.com/static/5e28be4ccb16eb0aa6496c31/t/5f9f6cf4622e88214e9f0514/1604283637748/Crosstab+-+Michigan+2020+PollSmart+Poll+%28Demos%29.pdf",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-30",
+    "pollster": "Targoz Market Research",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "136226",
+    "subgroup": "All polls",
+    "sampleSize": "1138",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://static1.squarespace.com/static/5e28be4ccb16eb0aa6496c31/t/5f9f6c49622e88214e9ef210/1604283466396/Crosstab+-+Minnesota+2020+PollSmart+Poll+%28Demos%29.pdf",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-25",
+    "endDate": "2020-10-30",
+    "pollster": "Targoz Market Research",
+    "answers": [
+      {
+        "choice": "Smith",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Lewis",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Minnesota"
   },
   {
     "id": "136047",
