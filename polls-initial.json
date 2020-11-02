@@ -126,7 +126,7 @@
     "sampleSize": "1008",
     "population": "lv",
     "grade": "",
-    "url": "https://johnzogbystrategies.com/town-hall/",
+    "url": "https://johnzogbystrategies.com/wp-content/uploads/2020/11/X1-Weighted-110120.pdf",
     "created_at": "2020-11-02",
     "startDate": "2020-11-01",
     "endDate": "2020-11-01",
@@ -134,17 +134,17 @@
     "answers": [
       {
         "choice": "Biden",
-        "pct": "49.0",
+        "pct": "47.8",
         "party": "Dem"
       },
       {
         "choice": "Trump",
-        "pct": "43.0",
+        "pct": "42.4",
         "party": "Rep"
       },
       {
         "choice": "Jorgensen",
-        "pct": "4.0",
+        "pct": "4.1",
         "party": "Lib"
       },
       {
@@ -157,7 +157,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -766,7 +766,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -828,7 +828,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -1032,6 +1032,37 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "136336",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://twitter.com/davidbinder/status/1323333935133302785?s=20",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-28",
+    "endDate": "2020-11-01",
+    "pollster": "David Binder Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "62.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "31.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "California"
   },
   {
     "id": "136246",
@@ -1398,7 +1429,7 @@
     "sampleSize": "1200",
     "population": "lv",
     "grade": "B/C",
-    "url": "https://scottrasmussen.com/election-polls-2020/",
+    "url": "https://justthenews.com/politics-policy/polling/one-day-election-biden-still-leads-trump-national-poll",
     "created_at": "2020-11-02",
     "startDate": "2020-10-29",
     "endDate": "2020-10-31",
@@ -1413,6 +1444,16 @@
         "choice": "Trump",
         "pct": "44.0",
         "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
       }
     ],
     "type": "president-general",
@@ -2251,7 +2292,7 @@
     "sampleSize": "988",
     "population": "rv",
     "grade": "A+",
-    "url": "https://www.nbcnews.com/politics/meet-the-press/final-nbc-marist-state-polls-show-close-races-pennsylvania-arizona-n1245775",
+    "url": "http://maristpoll.marist.edu/wp-content/uploads/2020/11/NBC-News_Marist-Poll_AZ-Adults-and-Registered-Voters_NOS-and-Tables_202011012355.pdf#page=3",
     "created_at": "2020-11-02",
     "startDate": "2020-10-29",
     "endDate": "2020-11-01",
@@ -2281,7 +2322,7 @@
     "sampleSize": "717",
     "population": "lv",
     "grade": "A+",
-    "url": "https://www.nbcnews.com/politics/meet-the-press/final-nbc-marist-state-polls-show-close-races-pennsylvania-arizona-n1245775",
+    "url": "http://maristpoll.marist.edu/wp-content/uploads/2020/11/NBC-News_Marist-Poll_AZ-Likely-Voters_NOS-and-Tables_202011012357.pdf#page=3",
     "created_at": "2020-11-02",
     "startDate": "2020-10-29",
     "endDate": "2020-11-01",
@@ -2655,7 +2696,7 @@
     "created_at": "2020-11-02",
     "startDate": "2020-10-23",
     "endDate": "2020-10-30",
-    "pollster": "Radio Isla/Jorge Benítez",
+    "pollster": "Jorge Benítez",
     "answers": [
       {
         "choice": "González",
@@ -2932,7 +2973,7 @@
     "sampleSize": "502",
     "population": "lv",
     "grade": "B/C",
-    "url": "https://coloradosun.com/2020/11/01/new-poll-colorado-biden-trump-hickenlooper-gardner/",
+    "url": "http://onsightpublicaffairs.com/web/wp-content/uploads/2020/11/KOM20Colorado20Poll20-20Nov20202020-20Topline20Results20-20For20Release20-2011-1-2020.pdf",
     "created_at": "2020-11-01",
     "startDate": "2020-10-29",
     "endDate": "2020-11-01",
@@ -8490,7 +8531,7 @@
     "sampleSize": "502",
     "population": "lv",
     "grade": "B/C",
-    "url": "https://coloradosun.com/2020/11/01/new-poll-colorado-biden-trump-hickenlooper-gardner/",
+    "url": "http://onsightpublicaffairs.com/web/wp-content/uploads/2020/11/KOM20Colorado20Poll20-20Nov20202020-20Topline20Results20-20For20Release20-2011-1-2020.pdf",
     "created_at": "2020-11-01",
     "startDate": "2020-10-29",
     "endDate": "2020-11-01",
