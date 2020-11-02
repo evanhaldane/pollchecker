@@ -1,5 +1,32 @@
 [
   {
+    "id": "136467",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "rv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/jsojry0vph/econTabReport.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-31",
+    "endDate": "2020-11-02",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "45.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "54.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "136337",
     "subgroup": "All polls",
     "sampleSize": "1100",
@@ -201,7 +228,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -274,6 +301,99 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "136487",
+    "subgroup": "All polls",
+    "sampleSize": "914",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-11/2020_reuters_tracking_-_core_political_general_election_tracker_11_02_2020.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-31",
+    "endDate": "2020-11-02",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "136486",
+    "subgroup": "All polls",
+    "sampleSize": "1146",
+    "population": "rv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-11/2020_reuters_tracking_-_core_political_general_election_tracker_11_02_2020.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-31",
+    "endDate": "2020-11-02",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "136485",
+    "subgroup": "All polls",
+    "sampleSize": "1333",
+    "population": "a",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-11/2020_reuters_tracking_-_core_political_general_election_tracker_11_02_2020.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-31",
+    "endDate": "2020-11-02",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
     "cycle": "2020",
     "state": "National"
   },
@@ -5826,7 +5946,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Massachusetts"
   },
@@ -5858,6 +5978,62 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "136473",
+    "subgroup": "All polls",
+    "sampleSize": "1363",
+    "population": "lv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/jsojry0vph/econTabReport.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-31",
+    "endDate": "2020-11-02",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "52.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "42.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "136472",
+    "subgroup": "All polls",
+    "sampleSize": "1500",
+    "population": "rv",
+    "grade": "B",
+    "url": "https://docs.cdn.yougov.com/jsojry0vph/econTabReport.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-31",
+    "endDate": "2020-11-02",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "48.0"
+      },
+      {
+        "choice": "Rep",
+        "pct": "39.0"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
     "cycle": "2020",
     "state": "National"
   },
@@ -6007,7 +6183,7 @@
     "sampleSize": "2359",
     "population": "lv",
     "grade": "C",
-    "url": "https://thehill.com/hilltv/what-americas-thinking/523999-what-americas-thinking-november-2-2020",
+    "url": "https://thehill.com/hilltv/what-americas-thinking/524036-poll-democrats-lead-republicans-in-the-generic-congressional",
     "created_at": "2020-11-02",
     "startDate": "2020-10-25",
     "endDate": "2020-10-28",
@@ -6035,7 +6211,7 @@
     "sampleSize": "2824",
     "population": "rv",
     "grade": "C",
-    "url": "https://thehill.com/hilltv/what-americas-thinking/523999-what-americas-thinking-november-2-2020",
+    "url": "https://thehill.com/hilltv/what-americas-thinking/524036-poll-democrats-lead-republicans-in-the-generic-congressional",
     "created_at": "2020-11-02",
     "startDate": "2020-10-25",
     "endDate": "2020-10-28",
@@ -6341,6 +6517,51 @@
         "choice": "Curran",
         "pct": "30.0",
         "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Illinois"
+  },
+  {
+    "id": "136479",
+    "subgroup": "All polls",
+    "sampleSize": "1208",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://projects.fivethirtyeight.com/polls/20201102_IL_Victory.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-01",
+    "pollster": "Victory Research",
+    "answers": [
+      {
+        "choice": "Durbin",
+        "pct": "50.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Curran",
+        "pct": "25.6",
+        "party": "Rep"
+      },
+      {
+        "choice": "Wilson",
+        "pct": "15.4",
+        "party": "Ind"
+      },
+      {
+        "choice": "Black",
+        "pct": "1.7",
+        "party": "Gre"
+      },
+      {
+        "choice": "Malouf",
+        "pct": "3.1",
+        "party": "Lib"
       }
     ],
     "type": "senate",
@@ -6779,6 +7000,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "136478",
+    "subgroup": "All polls",
+    "sampleSize": "929",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://static1.squarespace.com/static/5eb9fa2f8ac4df11937f6a49/t/5fa088d3ed792d738727353a/1604356307884/Crosstabs+2020+11+MA+Statewide.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-30",
+    "pollster": "MassINC Polling Group",
+    "answers": [
+      {
+        "choice": "Markey",
+        "pct": "60.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "O'Connor",
+        "pct": "29.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Massachusetts"
   },
   {
     "id": "136281",
