@@ -333,6 +333,37 @@
     "state": "Illinois"
   },
   {
+    "id": "136318",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "C+",
+    "url": "https://www.rasmussenreports.com/public_content/politics/elections/election_2020/ohio_trump_48_biden_45",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-31",
+    "endDate": "2020-11-01",
+    "pollster": "Rasmussen Reports/Pulse Opinion Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Ohio"
+  },
+  {
     "id": "136312",
     "subgroup": "All polls",
     "sampleSize": "800",
@@ -422,6 +453,47 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "136319",
+    "subgroup": "All polls",
+    "sampleSize": "8765",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/us-voting-intention-30-october-2020-1-november-2020/",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-30",
+    "endDate": "2020-11-01",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
     "cycle": "2020",
     "state": "National"
   },
@@ -815,10 +887,10 @@
   {
     "id": "136313",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "1062",
     "population": "lv",
     "grade": "C-",
-    "url": "https://twitter.com/RobertCahaly/status/1323269722939527170?s=20",
+    "url": "https://drive.google.com/file/d/131AiIsLrqR_Ysr7ZaA2LgcCYuUkzrwTs/view",
     "created_at": "2020-11-02",
     "startDate": "2020-10-30",
     "endDate": "2020-10-31",
