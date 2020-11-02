@@ -1,5 +1,36 @@
 [
   {
+    "id": "136279",
+    "subgroup": "All polls",
+    "sampleSize": "1501",
+    "population": "rv",
+    "grade": "B",
+    "url": "https://news.yahoo.com/yougov-poll-xr-pretap-nov1-031758221.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-30",
+    "endDate": "2020-11-01",
+    "pollster": "YouGov",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "136266",
     "subgroup": "All polls",
     "sampleSize": "502",
@@ -733,7 +764,7 @@
     "id": "136277",
     "subgroup": "All polls",
     "sampleSize": "2500",
-    "population": "rv",
+    "population": "lv",
     "grade": "B",
     "url": "https://smpa.gwu.edu/gw-politics-poll-finds-trump-elicits-negative-emotions-voters",
     "created_at": "2020-11-02",
@@ -757,6 +788,34 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": true,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "136282",
+    "subgroup": "All polls",
+    "sampleSize": "5372",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://election.usc.edu/",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-19",
+    "endDate": "2020-11-01",
+    "pollster": "USC Dornsife",
+    "answers": [
+      {
+        "choice": "Dem",
+        "pct": "52.34"
+      },
+      {
+        "choice": "Rep",
+        "pct": "44.77"
+      }
+    ],
+    "type": "generic-ballot",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
     "cycle": "2020",
     "state": "National"
   },
@@ -792,7 +851,7 @@
     "id": "136243",
     "subgroup": "All polls",
     "sampleSize": "2500",
-    "population": "rv",
+    "population": "lv",
     "grade": "B",
     "url": "https://smpa.gwu.edu/gw-politics-poll-finds-trump-elicits-negative-emotions-voters",
     "created_at": "2020-11-02",
@@ -1085,6 +1144,102 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Alabama"
+  },
+  {
+    "id": "136281",
+    "subgroup": "All polls",
+    "sampleSize": "1010",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.telemundopr.com/noticias/puerto-rico/https-www-telemundopr-com-noticias-puerto-rico-voto-2020-la-encuesta-final-elecciones-2020-puerto-rico-2143435-2/2143435/",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-30",
+    "pollster": "Radio Isla/Jorge Benítez",
+    "answers": [
+      {
+        "choice": "González",
+        "pct": "43.0",
+        "party": "Npp"
+      },
+      {
+        "choice": "Acevedo Vilá",
+        "pct": "39.0",
+        "party": "Ppd"
+      },
+      {
+        "choice": "Piñero",
+        "pct": "7.0",
+        "party": "Pri"
+      },
+      {
+        "choice": "Jordán Conde",
+        "pct": "4.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Henríquez",
+        "pct": "3.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Puerto Rico",
+    "district": "1"
+  },
+  {
+    "id": "136280",
+    "subgroup": "All polls",
+    "sampleSize": "1010",
+    "population": "lv",
+    "grade": "",
+    "url": "https://www.telemundopr.com/noticias/puerto-rico/https-www-telemundopr-com-noticias-puerto-rico-voto-2020-la-encuesta-final-elecciones-2020-puerto-rico-2143435-2/2143435/",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-30",
+    "pollster": "Radio Isla/Jorge Benítez",
+    "answers": [
+      {
+        "choice": "Pierluisi",
+        "pct": "32.0",
+        "party": "Npp"
+      },
+      {
+        "choice": "Delgado Altieri",
+        "pct": "35.0",
+        "party": "Ppd"
+      },
+      {
+        "choice": "Lúgaro",
+        "pct": "11.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Dalmau Ramírez",
+        "pct": "15.0",
+        "party": "Pri"
+      },
+      {
+        "choice": "Vázquez",
+        "pct": "3.0",
+        "party": "Oth"
+      },
+      {
+        "choice": "Molina",
+        "pct": "1.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Puerto Rico"
   },
   {
     "id": "136031",
@@ -6857,34 +7012,6 @@
     "type": "generic-ballot",
     "seat_name": null,
     "tracking": false,
-    "headToHead": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "136027",
-    "subgroup": "All polls",
-    "sampleSize": "5354",
-    "population": "lv",
-    "grade": "B/C",
-    "url": "https://election.usc.edu/",
-    "created_at": "2020-11-01",
-    "startDate": "2020-10-18",
-    "endDate": "2020-10-31",
-    "pollster": "USC Dornsife",
-    "answers": [
-      {
-        "choice": "Dem",
-        "pct": "52.45"
-      },
-      {
-        "choice": "Rep",
-        "pct": "44.51"
-      }
-    ],
-    "type": "generic-ballot",
-    "seat_name": null,
-    "tracking": true,
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
