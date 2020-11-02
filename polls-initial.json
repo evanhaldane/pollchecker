@@ -27,6 +27,42 @@
     "state": "National"
   },
   {
+    "id": "136208",
+    "subgroup": "All polls",
+    "sampleSize": "500",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://overland.amgreatness.com/app/uploads/2020/11/GAInsider-Advantage_Center-for-American-Greatness-Statewide-Poll.pdf",
+    "created_at": "2020-11-01",
+    "startDate": "2020-11-01",
+    "endDate": "2020-11-01",
+    "pollster": "InsiderAdvantage",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.1",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.1",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.9",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
     "id": "136044",
     "subgroup": "All polls",
     "sampleSize": "400",
@@ -63,6 +99,37 @@
     "state": "Florida"
   },
   {
+    "id": "136210",
+    "subgroup": "All polls",
+    "sampleSize": "502",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://coloradosun.com/2020/11/01/new-poll-colorado-biden-trump-hickenlooper-gardner/",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-01",
+    "pollster": "Keating Research/OnSight Public Affairs/Melanson",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Colorado"
+  },
+  {
     "id": "136207",
     "subgroup": "All polls",
     "sampleSize": "1136",
@@ -89,7 +156,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Ohio"
   },
@@ -120,7 +187,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Iowa"
   },
@@ -151,7 +218,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
   },
@@ -5264,42 +5331,6 @@
     "state": "National"
   },
   {
-    "id": "136208",
-    "subgroup": "All polls",
-    "sampleSize": "500",
-    "population": "lv",
-    "grade": "B-",
-    "url": "https://overland.amgreatness.com/app/uploads/2020/11/GAInsider-Advantage_Center-for-American-Greatness-Statewide-Poll.pdf",
-    "created_at": "2020-11-01",
-    "startDate": "2020-10-01",
-    "endDate": "2020-10-01",
-    "pollster": "InsiderAdvantage",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "46.1",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "48.1",
-        "party": "Rep"
-      },
-      {
-        "choice": "Jorgensen",
-        "pct": "3.9",
-        "party": "Lib"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": false,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "Georgia"
-  },
-  {
     "id": "136033",
     "subgroup": "All polls",
     "sampleSize": "1000",
@@ -5354,6 +5385,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "136211",
+    "subgroup": "All polls",
+    "sampleSize": "502",
+    "population": "lv",
+    "grade": "B/C",
+    "url": "https://coloradosun.com/2020/11/01/new-poll-colorado-biden-trump-hickenlooper-gardner/",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-01",
+    "pollster": "Keating Research/OnSight Public Affairs/Melanson",
+    "answers": [
+      {
+        "choice": "Hickenlooper",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Gardner",
+        "pct": "42.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Colorado"
   },
   {
     "id": "136209",
