@@ -1,5 +1,36 @@
 [
   {
+    "id": "136283",
+    "subgroup": "All polls",
+    "sampleSize": "871",
+    "population": "v",
+    "grade": "B",
+    "url": "https://www.publicpolicypolling.com/wp-content/uploads/2020/11/IowaResultsNovember2020.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-11-01",
+    "endDate": "2020-11-02",
+    "pollster": "Public Policy Polling",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
     "id": "136279",
     "subgroup": "All polls",
     "sampleSize": "1501",
@@ -26,7 +57,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -127,6 +158,78 @@
     "inAvg": false,
     "cycle": "2020",
     "state": "Pennsylvania"
+  },
+  {
+    "id": "136286",
+    "subgroup": "All polls",
+    "sampleSize": "1080",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/news/trump-vs-biden-poll-race-tight-ibd-tipp-presidential-poll/",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-28",
+    "endDate": "2020-11-01",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.4",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "136285",
+    "subgroup": "All polls",
+    "sampleSize": "1080",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/news/trump-vs-biden-poll-race-tight-ibd-tipp-presidential-poll/",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-28",
+    "endDate": "2020-11-01",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.6",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.1",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.9",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "136246",
@@ -874,6 +977,36 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "136284",
+    "subgroup": "All polls",
+    "sampleSize": "871",
+    "population": "v",
+    "grade": "B",
+    "url": "https://www.publicpolicypolling.com/wp-content/uploads/2020/11/IowaResultsNovember2020.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-11-01",
+    "endDate": "2020-11-02",
+    "pollster": "Public Policy Polling",
+    "answers": [
+      {
+        "choice": "Greenfield",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ernst",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa"
   },
   {
     "id": "136276",
@@ -2788,78 +2921,6 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
-  },
-  {
-    "id": "136041",
-    "subgroup": "All polls",
-    "sampleSize": "1072",
-    "population": "lv",
-    "grade": "A/B",
-    "url": "https://www.investors.com/news/trump-vs-biden-poll-donald-trump-last-hopes-joe-biden-strength-ibd-tipp-presidential-poll/",
-    "created_at": "2020-11-01",
-    "startDate": "2020-10-27",
-    "endDate": "2020-10-31",
-    "pollster": "IBD/TIPP",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "49.7",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "44.0",
-        "party": "Rep"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": false,
-    "cycle": "2020",
-    "state": "National"
-  },
-  {
-    "id": "136040",
-    "subgroup": "All polls",
-    "sampleSize": "1072",
-    "population": "lv",
-    "grade": "A/B",
-    "url": "https://www.investors.com/news/trump-vs-biden-poll-donald-trump-last-hopes-joe-biden-strength-ibd-tipp-presidential-poll/",
-    "created_at": "2020-11-01",
-    "startDate": "2020-10-27",
-    "endDate": "2020-10-31",
-    "pollster": "IBD/TIPP",
-    "answers": [
-      {
-        "choice": "Biden",
-        "pct": "49.2",
-        "party": "Dem"
-      },
-      {
-        "choice": "Trump",
-        "pct": "44.1",
-        "party": "Rep"
-      },
-      {
-        "choice": "Jorgensen",
-        "pct": "2.5",
-        "party": "Lib"
-      },
-      {
-        "choice": "Hawkins",
-        "pct": "0.5",
-        "party": "Gre"
-      }
-    ],
-    "type": "president-general",
-    "seat_name": null,
-    "tracking": true,
-    "headToHead": false,
-    "inAvg": true,
-    "cycle": "2020",
-    "state": "National"
   },
   {
     "id": "136018",
@@ -17038,6 +17099,78 @@
     "tracking": false,
     "headToHead": false,
     "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "135143",
+    "subgroup": "All polls",
+    "sampleSize": "991",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/news/trump-vs-biden-poll-race-stays-close-ibd-tipp-presidential-poll/",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
+    "id": "135142",
+    "subgroup": "All polls",
+    "sampleSize": "991",
+    "population": "lv",
+    "grade": "A/B",
+    "url": "https://www.investors.com/news/trump-vs-biden-poll-race-stays-close-ibd-tipp-presidential-poll/",
+    "created_at": "2020-10-28",
+    "startDate": "2020-10-23",
+    "endDate": "2020-10-27",
+    "pollster": "IBD/TIPP",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.4",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.6",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.6",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": true,
+    "headToHead": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
