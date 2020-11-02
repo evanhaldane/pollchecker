@@ -125,7 +125,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Colorado"
   },
@@ -452,6 +452,47 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
+  },
+  {
+    "id": "136212",
+    "subgroup": "All polls",
+    "sampleSize": "908",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_nc_11.1.20.pdf",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "136080",
@@ -5485,6 +5526,46 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Michigan"
+  },
+  {
+    "id": "136213",
+    "subgroup": "All polls",
+    "sampleSize": "908",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_nc_11.1.20.pdf",
+    "created_at": "2020-11-01",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Hayes",
+        "pct": "1.0",
+        "party": "Con"
+      },
+      {
+        "choice": "Bray",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
   },
   {
     "id": "136088",
