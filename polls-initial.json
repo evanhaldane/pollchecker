@@ -606,6 +606,42 @@
     "district": "2"
   },
   {
+    "id": "136544",
+    "subgroup": "All polls",
+    "sampleSize": "920",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://docs.google.com/spreadsheets/d/1MPKy3AfXEIpcB_0jKhq8y7_cxPyH_71cUY4zO2lTGfU/edit#gid=0",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-02",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Montana"
+  },
+  {
     "id": "136537",
     "subgroup": "All polls",
     "sampleSize": "547",
@@ -637,10 +673,169 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Nebraska",
     "district": "2"
+  },
+  {
+    "id": "136556",
+    "subgroup": "All polls",
+    "sampleSize": "1151",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-02",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.2",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "51.2",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.2",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.4",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Texas"
+  },
+  {
+    "id": "136555",
+    "subgroup": "All polls",
+    "sampleSize": "1107",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-02",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.4",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.7",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "136552",
+    "subgroup": "All polls",
+    "sampleSize": "690",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-02",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.3",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.4",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.3",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "136547",
+    "subgroup": "All polls",
+    "sampleSize": "1261",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-02",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.5",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "0.8",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.8",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Florida"
   },
   {
     "id": "136342",
@@ -718,6 +913,47 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "136572",
+    "subgroup": "All polls",
+    "sampleSize": "5174",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-national.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-11-01",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.1",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.7",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.4",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "136358",
@@ -1597,7 +1833,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Iowa"
   },
@@ -2142,6 +2378,386 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "California"
+  },
+  {
+    "id": "136558",
+    "subgroup": "All polls",
+    "sampleSize": "253",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.9",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "0.6",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Wisconsin"
+  },
+  {
+    "id": "136557",
+    "subgroup": "All polls",
+    "sampleSize": "467",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "56.3",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.3",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.5",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Virginia"
+  },
+  {
+    "id": "136554",
+    "subgroup": "All polls",
+    "sampleSize": "516",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.1",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "52.3",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "0.5",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.2",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Ohio"
+  },
+  {
+    "id": "136553",
+    "subgroup": "All polls",
+    "sampleSize": "324",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "58.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "0.8",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.3",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "New Jersey"
+  },
+  {
+    "id": "136551",
+    "subgroup": "All polls",
+    "sampleSize": "413",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.9",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.3",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.1",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "136550",
+    "subgroup": "All polls",
+    "sampleSize": "264",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "43.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "55.2",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.7",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Indiana"
+  },
+  {
+    "id": "136549",
+    "subgroup": "All polls",
+    "sampleSize": "485",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "55.1",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.6",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "0.9",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.3",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Illinois"
+  },
+  {
+    "id": "136548",
+    "subgroup": "All polls",
+    "sampleSize": "438",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.3",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "136546",
+    "subgroup": "All polls",
+    "sampleSize": "360",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.7",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.7",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
+    "id": "136545",
+    "subgroup": "All polls",
+    "sampleSize": "330",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "37.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "55.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "7.2",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Alabama"
   },
   {
     "id": "136362",
@@ -2696,6 +3312,447 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Illinois"
+  },
+  {
+    "id": "136569",
+    "subgroup": "All polls",
+    "sampleSize": "489",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-small.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-23",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "58.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "38.6",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.5",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Washington"
+  },
+  {
+    "id": "136568",
+    "subgroup": "All polls",
+    "sampleSize": "485",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-small.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-23",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "40.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "57.6",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.1",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.3",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Tennessee"
+  },
+  {
+    "id": "136567",
+    "subgroup": "All polls",
+    "sampleSize": "426",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-small.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-23",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.8",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.4",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "South Carolina"
+  },
+  {
+    "id": "136566",
+    "subgroup": "All polls",
+    "sampleSize": "324",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-small.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-23",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "60.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "37.2",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.2",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.2",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Oregon"
+  },
+  {
+    "id": "136565",
+    "subgroup": "All polls",
+    "sampleSize": "487",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-small.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-23",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "43.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "54.6",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.8",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.2",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Missouri"
+  },
+  {
+    "id": "136564",
+    "subgroup": "All polls",
+    "sampleSize": "466",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-small.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-23",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.7",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.4",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.5",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.4",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Minnesota"
+  },
+  {
+    "id": "136563",
+    "subgroup": "All polls",
+    "sampleSize": "503",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-small.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-23",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "67.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "31.1",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.5",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.4",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Maryland"
+  },
+  {
+    "id": "136562",
+    "subgroup": "All polls",
+    "sampleSize": "378",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-small.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-23",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "39.1",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "56.6",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.5",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Louisiana"
+  },
+  {
+    "id": "136561",
+    "subgroup": "All polls",
+    "sampleSize": "383",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-small.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-23",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "41.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "55.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.5",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Kentucky"
+  },
+  {
+    "id": "136560",
+    "subgroup": "All polls",
+    "sampleSize": "367",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-small.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-23",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "64.1",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "33.7",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.7",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.5",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Connecticut"
+  },
+  {
+    "id": "136559",
+    "subgroup": "All polls",
+    "sampleSize": "455",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-small.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-23",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "55.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.7",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.6",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.3",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Colorado"
   },
   {
     "id": "136466",
@@ -6188,6 +7245,47 @@
     "state": "National"
   },
   {
+    "id": "136571",
+    "subgroup": "All polls",
+    "sampleSize": "3115",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-national.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.3",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.5",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.3",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
+  },
+  {
     "id": "136321",
     "subgroup": "All polls",
     "sampleSize": "1265",
@@ -7016,6 +8114,47 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "136570",
+    "subgroup": "All polls",
+    "sampleSize": "2386",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-national.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-28",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.8",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.6",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.1",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.5",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "National"
   },
   {
     "id": "136507",
@@ -7882,6 +9021,96 @@
     "state": "Iowa"
   },
   {
+    "id": "136576",
+    "subgroup": "All polls",
+    "sampleSize": "920",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://docs.google.com/spreadsheets/d/1MPKy3AfXEIpcB_0jKhq8y7_cxPyH_71cUY4zO2lTGfU/edit#gid=0",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-02",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Bullock",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Daines",
+        "pct": "50.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Montana"
+  },
+  {
+    "id": "136580",
+    "subgroup": "All polls",
+    "sampleSize": "619",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-02",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "53.2",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "46.8",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "136577",
+    "subgroup": "All polls",
+    "sampleSize": "1042",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-02",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Hegar",
+        "pct": "43.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Cornyn",
+        "pct": "56.5",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Texas"
+  },
+  {
     "id": "136343",
     "subgroup": "All polls",
     "sampleSize": "610",
@@ -8352,6 +9581,156 @@
     "state": "Arizona"
   },
   {
+    "id": "136583",
+    "subgroup": "All polls",
+    "sampleSize": "283",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Warner",
+        "pct": "60.7",
+        "party": "Dem"
+      },
+      {
+        "choice": "Gade",
+        "pct": "39.3",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Virginia"
+  },
+  {
+    "id": "136582",
+    "subgroup": "All polls",
+    "sampleSize": "294",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Jones",
+        "pct": "42.3",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tuberville",
+        "pct": "57.6",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Alabama"
+  },
+  {
+    "id": "136581",
+    "subgroup": "All polls",
+    "sampleSize": "333",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "55.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "45.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
+    "id": "136579",
+    "subgroup": "All polls",
+    "sampleSize": "393",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "53.6",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "46.4",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "136578",
+    "subgroup": "All polls",
+    "sampleSize": "407",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Ossoff",
+        "pct": "47.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perdue",
+        "pct": "49.2",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
     "id": "136353",
     "subgroup": "All polls",
     "sampleSize": "707",
@@ -8635,6 +10014,166 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Kansas"
+  },
+  {
+    "id": "136588",
+    "subgroup": "All polls",
+    "sampleSize": "365",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-small.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-23",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "McGrath",
+        "pct": "46.3",
+        "party": "Dem"
+      },
+      {
+        "choice": "McConnell",
+        "pct": "49.1",
+        "party": "Rep"
+      },
+      {
+        "choice": "Barron",
+        "pct": "4.6",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Kentucky"
+  },
+  {
+    "id": "136587",
+    "subgroup": "All polls",
+    "sampleSize": "416",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-small.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-23",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Harrison",
+        "pct": "51.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Graham",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Bledsoe",
+        "pct": "2.2",
+        "party": "Con"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "South Carolina"
+  },
+  {
+    "id": "136586",
+    "subgroup": "All polls",
+    "sampleSize": "443",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-small.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-23",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Hickenlooper",
+        "pct": "56.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Gardner",
+        "pct": "43.1",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Colorado"
+  },
+  {
+    "id": "136585",
+    "subgroup": "All polls",
+    "sampleSize": "430",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-small.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-23",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Smith",
+        "pct": "54.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Lewis",
+        "pct": "45.5",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Minnesota"
+  },
+  {
+    "id": "136584",
+    "subgroup": "All polls",
+    "sampleSize": "431",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-small.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-23",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Bradshaw",
+        "pct": "39.3",
+        "party": "Dem"
+      },
+      {
+        "choice": "Hagerty",
+        "pct": "60.7",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Tennessee"
   },
   {
     "id": "136306",
@@ -9043,6 +10582,114 @@
     "district": "2"
   },
   {
+    "id": "136589",
+    "subgroup": "All polls",
+    "sampleSize": "597",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://docs.google.com/spreadsheets/d/157HttGCHSc-6qx_hAWLg_KCrggbAUCbatOXH3WipShI/edit#gid=0",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-30",
+    "endDate": "2020-11-02",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Schupp",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Wagner",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Schulte",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Missouri",
+    "district": "2"
+  },
+  {
+    "id": "136590",
+    "subgroup": "All polls",
+    "sampleSize": "596",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://docs.google.com/spreadsheets/d/1iWSrZDo1yUpPUkqXffKUsO4w-lGKqhxb5aQGG-fU1Dw/edit#gid=1692435149",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-02",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Hale",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Spartz",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Tucker",
+        "pct": "5.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 5",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Indiana",
+    "district": "5"
+  },
+  {
+    "id": "136542",
+    "subgroup": "All polls",
+    "sampleSize": "738",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://docs.google.com/spreadsheets/d/1sSzvXk5e3hpqSJiYtKN95Bm3VInlB_XtlWV8JQ57780/edit#gid=0",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-02",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Balter",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Katko",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Williams",
+        "pct": "4.0",
+        "party": "Wfp"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 24",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "New York",
+    "district": "24"
+  },
+  {
     "id": "136540",
     "subgroup": "All polls",
     "sampleSize": "547",
@@ -9077,6 +10724,42 @@
     "cycle": "2020",
     "state": "Nebraska",
     "district": "2"
+  },
+  {
+    "id": "136541",
+    "subgroup": "All polls",
+    "sampleSize": "505",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://docs.google.com/spreadsheets/d/1RLsioeQZMNIHBeH1xo3nCGherCVpenMxoUxXGKaHUqw/edit#gid=1882933718",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-01",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Schroder",
+        "pct": "45.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Chabot",
+        "pct": "47.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Kahn",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 1",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Ohio",
+    "district": "1"
   },
   {
     "id": "136539",
@@ -9154,6 +10837,111 @@
     "cycle": "2020",
     "state": "Puerto Rico",
     "district": "1"
+  },
+  {
+    "id": "136573",
+    "subgroup": "All polls",
+    "sampleSize": "920",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://docs.google.com/spreadsheets/d/1MPKy3AfXEIpcB_0jKhq8y7_cxPyH_71cUY4zO2lTGfU/edit#gid=0",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-02",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Cooney",
+        "pct": "44.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Gianforte",
+        "pct": "48.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Bishop",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Montana"
+  },
+  {
+    "id": "136574",
+    "subgroup": "All polls",
+    "sampleSize": "655",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-large.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-02",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Cooper",
+        "pct": "54.7",
+        "party": "Dem"
+      },
+      {
+        "choice": "Forest",
+        "pct": "42.2",
+        "party": "Rep"
+      },
+      {
+        "choice": "DiFiore",
+        "pct": "2.4",
+        "party": "Lib"
+      },
+      {
+        "choice": "Pisano",
+        "pct": "0.1",
+        "party": "Con"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "136575",
+    "subgroup": "All polls",
+    "sampleSize": "474",
+    "population": "lv",
+    "grade": "D-",
+    "url": "https://www.swayable.com/polls/2020-11-02-small.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-23",
+    "endDate": "2020-11-01",
+    "pollster": "Swayable",
+    "answers": [
+      {
+        "choice": "Inslee",
+        "pct": "59.1",
+        "party": "Dem"
+      },
+      {
+        "choice": "Culp",
+        "pct": "40.9",
+        "party": "Rep"
+      }
+    ],
+    "type": "governor",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Washington"
   },
   {
     "id": "136305",
