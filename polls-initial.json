@@ -600,6 +600,43 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Nebraska",
+    "district": "2"
+  },
+  {
+    "id": "136537",
+    "subgroup": "All polls",
+    "sampleSize": "547",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://docs.google.com/spreadsheets/d/1RQaEpV6kT3qV2b5P2B_AQgnS2CAJdgJaioH_10hO4qU/edit#gid=1652054673",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-02",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
     "inAvg": false,
     "cycle": "2020",
     "state": "Nebraska",
@@ -1522,6 +1559,47 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
+  },
+  {
+    "id": "136536",
+    "subgroup": "All polls",
+    "sampleSize": "1084",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://docs.google.com/spreadsheets/d/1TyQc9rcFjRf_nFJ-gcOyoOn4E1sPk5yeVfH4acKyVnw/edit#gid=2035724528",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-01",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Iowa"
   },
   {
     "id": "136502",
@@ -8144,6 +8222,46 @@
     "state": "Arizona"
   },
   {
+    "id": "136538",
+    "subgroup": "All polls",
+    "sampleSize": "1084",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://docs.google.com/spreadsheets/d/1TyQc9rcFjRf_nFJ-gcOyoOn4E1sPk5yeVfH4acKyVnw/edit#gid=2035724528",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-01",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Greenfield",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ernst",
+        "pct": "47.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Stewart",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Herzog",
+        "pct": "0.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
     "id": "136505",
     "subgroup": "All polls",
     "sampleSize": "473",
@@ -8923,6 +9041,73 @@
     "cycle": "2020",
     "state": "Nebraska",
     "district": "2"
+  },
+  {
+    "id": "136540",
+    "subgroup": "All polls",
+    "sampleSize": "547",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://docs.google.com/spreadsheets/d/1RQaEpV6kT3qV2b5P2B_AQgnS2CAJdgJaioH_10hO4qU/edit#gid=1652054673",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-02",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Eastman",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Bacon",
+        "pct": "47.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Schaeffer",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Nebraska",
+    "district": "2"
+  },
+  {
+    "id": "136539",
+    "subgroup": "All polls",
+    "sampleSize": "607",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://docs.google.com/spreadsheets/d/1C_aw1txi2S5CeUze-vC6TR28M5k0n0RcBGGRUlQEpDQ/edit#gid=2044611796",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-01",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Horn",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Bice",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 5",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Oklahoma",
+    "district": "5"
   },
   {
     "id": "136281",
