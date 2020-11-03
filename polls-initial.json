@@ -569,6 +569,43 @@
     "state": "National"
   },
   {
+    "id": "136533",
+    "subgroup": "All polls",
+    "sampleSize": "191",
+    "population": "lv",
+    "grade": "",
+    "url": "https://projects.fivethirtyeight.com/polls/20201102_NE_UNLV.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-30",
+    "endDate": "2020-11-02",
+    "pollster": "University of Nevada Las Vegas Lee Business School",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.2",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.3",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "5.4",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Nebraska",
+    "district": "2"
+  },
+  {
     "id": "136342",
     "subgroup": "All polls",
     "sampleSize": "610",
@@ -2219,7 +2256,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Iowa"
   },
@@ -2260,7 +2297,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Minnesota"
   },
@@ -2301,7 +2338,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Mississippi"
   },
@@ -6975,6 +7012,488 @@
     "state": "National"
   },
   {
+    "id": "136531",
+    "subgroup": "All polls",
+    "sampleSize": "691",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/wp-content/uploads/2020/11/Redfield__Wilton_Strategies_Eve_of_the_Election_Report_SB.pdf#page=22",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-10",
+    "endDate": "2020-10-13",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Wisconsin"
+  },
+  {
+    "id": "136529",
+    "subgroup": "All polls",
+    "sampleSize": "994",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/wp-content/uploads/2020/11/Redfield__Wilton_Strategies_Eve_of_the_Election_Report_SB.pdf#page=22",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-10",
+    "endDate": "2020-10-13",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "136527",
+    "subgroup": "All polls",
+    "sampleSize": "1289",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/wp-content/uploads/2020/11/Redfield__Wilton_Strategies_Eve_of_the_Election_Report_SB.pdf#page=22",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-10",
+    "endDate": "2020-10-13",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "136525",
+    "subgroup": "All polls",
+    "sampleSize": "1519",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/wp-content/uploads/2020/11/Redfield__Wilton_Strategies_Eve_of_the_Election_Report_SB.pdf#page=22",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-10",
+    "endDate": "2020-10-13",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
+    "id": "136523",
+    "subgroup": "All polls",
+    "sampleSize": "972",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/wp-content/uploads/2020/11/Redfield__Wilton_Strategies_Eve_of_the_Election_Report_SB.pdf#page=22",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-10",
+    "endDate": "2020-10-13",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "136521",
+    "subgroup": "All polls",
+    "sampleSize": "750",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/wp-content/uploads/2020/11/Redfield__Wilton_Strategies_Eve_of_the_Election_Report_SB.pdf#page=22",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-10",
+    "endDate": "2020-10-13",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
+    "id": "136532",
+    "subgroup": "All polls",
+    "sampleSize": "613",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/wp-content/uploads/2020/11/Redfield__Wilton_Strategies_Eve_of_the_Election_Report_SB.pdf#page=22",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-10",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Wisconsin"
+  },
+  {
+    "id": "136530",
+    "subgroup": "All polls",
+    "sampleSize": "950",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/wp-content/uploads/2020/11/Redfield__Wilton_Strategies_Eve_of_the_Election_Report_SB.pdf#page=22",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-10",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "42.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "136528",
+    "subgroup": "All polls",
+    "sampleSize": "1145",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/wp-content/uploads/2020/11/Redfield__Wilton_Strategies_Eve_of_the_Election_Report_SB.pdf#page=22",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-10",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "136526",
+    "subgroup": "All polls",
+    "sampleSize": "981",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/wp-content/uploads/2020/11/Redfield__Wilton_Strategies_Eve_of_the_Election_Report_SB.pdf#page=22",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-10",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
+    "id": "136524",
+    "subgroup": "All polls",
+    "sampleSize": "827",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/wp-content/uploads/2020/11/Redfield__Wilton_Strategies_Eve_of_the_Election_Report_SB.pdf#page=22",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-10",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "136522",
+    "subgroup": "All polls",
+    "sampleSize": "720",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/wp-content/uploads/2020/11/Redfield__Wilton_Strategies_Eve_of_the_Election_Report_SB.pdf#page=22",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-09",
+    "endDate": "2020-10-10",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
     "id": "136473",
     "subgroup": "All polls",
     "sampleSize": "1363",
@@ -8368,6 +8887,42 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Massachusetts"
+  },
+  {
+    "id": "136534",
+    "subgroup": "All polls",
+    "sampleSize": "191",
+    "population": "lv",
+    "grade": "",
+    "url": "https://projects.fivethirtyeight.com/polls/20201102_NE_UNLV.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-30",
+    "endDate": "2020-11-02",
+    "pollster": "University of Nevada Las Vegas Lee Business School",
+    "answers": [
+      {
+        "choice": "Eastman",
+        "pct": "45.7",
+        "party": "Dem"
+      },
+      {
+        "choice": "Bacon",
+        "pct": "44.8",
+        "party": "Rep"
+      },
+      {
+        "choice": "Schaeffer",
+        "pct": "5.2",
+        "party": "Lib"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Nebraska",
+    "district": "2"
   },
   {
     "id": "136281",
