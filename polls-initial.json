@@ -1513,7 +1513,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
   },
@@ -1544,7 +1544,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -1575,7 +1575,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
   },
@@ -1606,7 +1606,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
   },
@@ -1637,7 +1637,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
   },
@@ -1668,7 +1668,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -1699,7 +1699,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -2181,6 +2181,47 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
+  },
+  {
+    "id": "136512",
+    "subgroup": "All polls",
+    "sampleSize": "1036",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_ga_11.2.20.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Georgia"
   },
   {
     "id": "136494",
@@ -6544,6 +6585,242 @@
     "state": "Massachusetts"
   },
   {
+    "id": "136511",
+    "subgroup": "All polls",
+    "sampleSize": "800",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/eve-of-the-election-report-and-final-swing-states-voting-intention-26-29-october/?utm_source=rss&utm_medium=rss&utm_campaign=eve-of-the-election-report-and-final-swing-states-voting-intention-26-29-october",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-29",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Wisconsin"
+  },
+  {
+    "id": "136510",
+    "subgroup": "All polls",
+    "sampleSize": "2125",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/eve-of-the-election-report-and-final-swing-states-voting-intention-26-29-october/?utm_source=rss&utm_medium=rss&utm_campaign=eve-of-the-election-report-and-final-swing-states-voting-intention-26-29-october",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-29",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "136509",
+    "subgroup": "All polls",
+    "sampleSize": "1489",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/eve-of-the-election-report-and-final-swing-states-voting-intention-26-29-october/?utm_source=rss&utm_medium=rss&utm_campaign=eve-of-the-election-report-and-final-swing-states-voting-intention-26-29-october",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-29",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "47.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "136508",
+    "subgroup": "All polls",
+    "sampleSize": "1212",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/eve-of-the-election-report-and-final-swing-states-voting-intention-26-29-october/?utm_source=rss&utm_medium=rss&utm_campaign=eve-of-the-election-report-and-final-swing-states-voting-intention-26-29-october",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-29",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "41.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "136506",
+    "subgroup": "All polls",
+    "sampleSize": "889",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/eve-of-the-election-report-and-final-swing-states-voting-intention-26-29-october/?utm_source=rss&utm_medium=rss&utm_campaign=eve-of-the-election-report-and-final-swing-states-voting-intention-26-29-october",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-26",
+    "endDate": "2020-10-29",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
+    "id": "136507",
+    "subgroup": "All polls",
+    "sampleSize": "1587",
+    "population": "lv",
+    "grade": "",
+    "url": "https://redfieldandwiltonstrategies.com/eve-of-the-election-report-and-final-swing-states-voting-intention-26-29-october/?utm_source=rss&utm_medium=rss&utm_campaign=eve-of-the-election-report-and-final-swing-states-voting-intention-26-29-october",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-10-28",
+    "pollster": "Redfield & Wilton Strategies",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
     "id": "136277",
     "subgroup": "All polls",
     "sampleSize": "2500",
@@ -7225,6 +7502,96 @@
     "state": "Arizona"
   },
   {
+    "id": "136505",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://www.cnbc.com/2020/11/02/2020-election-polls-biden-leads-trump-in-six-swing-states.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-01",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Cunningham",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tillis",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "136504",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://www.cnbc.com/2020/11/02/2020-election-polls-biden-leads-trump-in-six-swing-states.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-01",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Peters",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "James",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "136503",
+    "subgroup": "All polls",
+    "sampleSize": null,
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://www.cnbc.com/2020/11/02/2020-election-polls-biden-leads-trump-in-six-swing-states.html",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-01",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Kelly",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "McSally",
+        "pct": "47.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arizona"
+  },
+  {
     "id": "136353",
     "subgroup": "All polls",
     "sampleSize": "707",
@@ -7253,6 +7620,86 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "North Carolina"
+  },
+  {
+    "id": "136514",
+    "subgroup": "All polls",
+    "sampleSize": "1036",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_ga_11.2.20.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Warnock",
+        "pct": "41.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Loeffler",
+        "pct": "26.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Collins",
+        "pct": "21.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Lieberman",
+        "pct": "8.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Tarver",
+        "pct": "3.0",
+        "party": "Dem"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class III",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "136513",
+    "subgroup": "All polls",
+    "sampleSize": "1036",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_ga_11.2.20.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Ossoff",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Perdue",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Hazel",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Georgia"
   },
   {
     "id": "136495",
