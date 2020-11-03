@@ -2,8 +2,8 @@
   {
     "id": "136467",
     "subgroup": "All polls",
-    "sampleSize": "1500",
-    "population": "rv",
+    "sampleSize": "1363",
+    "population": "lv",
     "grade": "B",
     "url": "https://docs.cdn.yougov.com/jsojry0vph/econTabReport.pdf",
     "created_at": "2020-11-02",
@@ -1489,7 +1489,7 @@
   {
     "id": "136502",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "553",
     "population": "lv",
     "grade": "C-",
     "url": "https://www.cnbc.com/2020/11/02/2020-election-polls-biden-leads-trump-in-six-swing-states.html",
@@ -1520,7 +1520,7 @@
   {
     "id": "136501",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "699",
     "population": "lv",
     "grade": "C-",
     "url": "https://www.cnbc.com/2020/11/02/2020-election-polls-biden-leads-trump-in-six-swing-states.html",
@@ -1551,7 +1551,7 @@
   {
     "id": "136500",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "473",
     "population": "lv",
     "grade": "C-",
     "url": "https://www.cnbc.com/2020/11/02/2020-election-polls-biden-leads-trump-in-six-swing-states.html",
@@ -1582,7 +1582,7 @@
   {
     "id": "136499",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "383",
     "population": "lv",
     "grade": "C-",
     "url": "https://www.cnbc.com/2020/11/02/2020-election-polls-biden-leads-trump-in-six-swing-states.html",
@@ -1613,7 +1613,7 @@
   {
     "id": "136498",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "806",
     "population": "lv",
     "grade": "C-",
     "url": "https://www.cnbc.com/2020/11/02/2020-election-polls-biden-leads-trump-in-six-swing-states.html",
@@ -1644,7 +1644,7 @@
   {
     "id": "136497",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "409",
     "population": "lv",
     "grade": "C-",
     "url": "https://www.cnbc.com/2020/11/02/2020-election-polls-biden-leads-trump-in-six-swing-states.html",
@@ -2183,6 +2183,129 @@
     "state": "Florida"
   },
   {
+    "id": "136519",
+    "subgroup": "All polls",
+    "sampleSize": "951",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_ia_11.2.20.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
+    "id": "136517",
+    "subgroup": "All polls",
+    "sampleSize": "1259",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_mn_11.2.20.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "43.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "4.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "2.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Minnesota"
+  },
+  {
+    "id": "136515",
+    "subgroup": "All polls",
+    "sampleSize": "562",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_ms_11.2.20.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "41.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "55.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Mississippi"
+  },
+  {
     "id": "136512",
     "subgroup": "All polls",
     "sampleSize": "1036",
@@ -2219,7 +2342,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Georgia"
   },
@@ -6616,7 +6739,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
   },
@@ -6652,7 +6775,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -6693,7 +6816,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
   },
@@ -6734,7 +6857,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
   },
@@ -6775,7 +6898,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -6816,7 +6939,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
   },
@@ -7504,7 +7627,7 @@
   {
     "id": "136505",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "473",
     "population": "lv",
     "grade": "C-",
     "url": "https://www.cnbc.com/2020/11/02/2020-election-polls-biden-leads-trump-in-six-swing-states.html",
@@ -7534,7 +7657,7 @@
   {
     "id": "136504",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "383",
     "population": "lv",
     "grade": "C-",
     "url": "https://www.cnbc.com/2020/11/02/2020-election-polls-biden-leads-trump-in-six-swing-states.html",
@@ -7564,7 +7687,7 @@
   {
     "id": "136503",
     "subgroup": "All polls",
-    "sampleSize": null,
+    "sampleSize": "409",
     "population": "lv",
     "grade": "C-",
     "url": "https://www.cnbc.com/2020/11/02/2020-election-polls-biden-leads-trump-in-six-swing-states.html",
@@ -7620,6 +7743,111 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "North Carolina"
+  },
+  {
+    "id": "136520",
+    "subgroup": "All polls",
+    "sampleSize": "951",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_ia_11.2.20.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Greenfield",
+        "pct": "49.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Ernst",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Herzog",
+        "pct": "3.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Stewart",
+        "pct": "2.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Iowa"
+  },
+  {
+    "id": "136518",
+    "subgroup": "All polls",
+    "sampleSize": "1259",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_mn_11.2.20.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Smith",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Lewis",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Minnesota"
+  },
+  {
+    "id": "136516",
+    "subgroup": "All polls",
+    "sampleSize": "562",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_ms_11.2.20.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Espy",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Hyde-Smith",
+        "pct": "50.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Edwards",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Mississippi"
   },
   {
     "id": "136514",
