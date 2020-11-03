@@ -54,6 +54,60 @@
     "state": "National"
   },
   {
+    "id": "136481",
+    "subgroup": "All polls",
+    "sampleSize": "1146",
+    "population": "rv",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-11/2020_reuters_tracking_-_core_political_general_election_tracker_11_02_2020.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-31",
+    "endDate": "2020-11-02",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "42.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "54.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "136480",
+    "subgroup": "All polls",
+    "sampleSize": "1333",
+    "population": "a",
+    "grade": "B-",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2020-11/2020_reuters_tracking_-_core_political_general_election_tracker_11_02_2020.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-31",
+    "endDate": "2020-11-02",
+    "pollster": "Ipsos",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "53.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
     "id": "136355",
     "subgroup": "All polls",
     "sampleSize": "1008",
@@ -72,6 +126,60 @@
       {
         "choice": "Disapprove",
         "pct": "49.5"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "136483",
+    "subgroup": "All polls",
+    "sampleSize": "1955",
+    "population": "rv",
+    "grade": "B/C",
+    "url": "https://www.politico.com/f/?id=00000175-8abb-d665-a1ff-8ebb76c80000",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-30",
+    "endDate": "2020-11-01",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "44.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "54.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "136482",
+    "subgroup": "All polls",
+    "sampleSize": "2200",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://assets.morningconsult.com/wp-uploads/2020/11/02161046/2010176_crosstabs_MC_SPORTS_Adults_v1_LM.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-30",
+    "endDate": "2020-11-01",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "42.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "55.0"
       }
     ],
     "type": "trump-approval",
@@ -104,6 +212,33 @@
     "type": "trump-approval",
     "seat_name": null,
     "tracking": true,
+    "headToHead": false,
+    "state": "National"
+  },
+  {
+    "id": "136484",
+    "subgroup": "All polls",
+    "sampleSize": "2200",
+    "population": "a",
+    "grade": "B/C",
+    "url": "https://assets.morningconsult.com/wp-uploads/2020/11/02141747/2010155_crosstabs_CORONAVIRUS_CONTENT_Adults_v1_LM.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-10-31",
+    "pollster": "Morning Consult",
+    "answers": [
+      {
+        "choice": "Approve",
+        "pct": "41.0"
+      },
+      {
+        "choice": "Disapprove",
+        "pct": "55.0"
+      }
+    ],
+    "type": "trump-approval",
+    "seat_name": null,
+    "tracking": false,
     "headToHead": false,
     "state": "National"
   },
@@ -200,6 +335,42 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Iowa"
+  },
+  {
+    "id": "136491",
+    "subgroup": "All polls",
+    "sampleSize": "400",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://www.realclearpolitics.com/docs/2020/Fox_35_Insider_Advantage.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-11-01",
+    "endDate": "2020-11-02",
+    "pollster": "InsiderAdvantage",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.2",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.6",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Florida"
   },
   {
     "id": "136475",
@@ -331,7 +502,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -1793,6 +1964,129 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
+  },
+  {
+    "id": "136490",
+    "subgroup": "All polls",
+    "sampleSize": "1202",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_fl_11.2.20.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "1.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Florida"
+  },
+  {
+    "id": "136489",
+    "subgroup": "All polls",
+    "sampleSize": "1442",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_nv_11.2.20.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "51.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "44.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Nevada"
+  },
+  {
+    "id": "136488",
+    "subgroup": "All polls",
+    "sampleSize": "1417",
+    "population": "lv",
+    "grade": "B-",
+    "url": "https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_pa_11.2.20.pdf",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-27",
+    "endDate": "2020-11-01",
+    "pollster": "Data for Progress",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "45.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "0.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Pennsylvania"
   },
   {
     "id": "136354",
