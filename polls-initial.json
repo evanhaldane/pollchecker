@@ -606,6 +606,163 @@
     "district": "2"
   },
   {
+    "id": "136606",
+    "subgroup": "All polls",
+    "sampleSize": "549",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://twitter.com/ChangePolls/status/1323482851837317121",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-02",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "56.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "35.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "2.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "3.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Maine",
+    "district": "1"
+  },
+  {
+    "id": "136605",
+    "subgroup": "All polls",
+    "sampleSize": "475",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://docs.google.com/spreadsheets/d/1eBWQtr-cx1ECGu-dsFcF_VdhnFfyRPd3qz3zcTmhdFY/edit#gid=1166077921",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-02",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "50.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": false,
+    "cycle": "2020",
+    "state": "Maine",
+    "district": "2"
+  },
+  {
+    "id": "136602",
+    "subgroup": "All polls",
+    "sampleSize": "1024",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://docs.google.com/spreadsheets/d/1eBWQtr-cx1ECGu-dsFcF_VdhnFfyRPd3qz3zcTmhdFY/edit#gid=1166077921",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-02",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "52.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "40.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "4.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "2.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Maine"
+  },
+  {
+    "id": "136601",
+    "subgroup": "All polls",
+    "sampleSize": "475",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://docs.google.com/spreadsheets/d/1eBWQtr-cx1ECGu-dsFcF_VdhnFfyRPd3qz3zcTmhdFY/edit#gid=1166077921",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-02",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "46.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "4.0",
+        "party": "Lib"
+      },
+      {
+        "choice": "Hawkins",
+        "pct": "1.0",
+        "party": "Gre"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Maine",
+    "district": "2"
+  },
+  {
     "id": "136544",
     "subgroup": "All polls",
     "sampleSize": "920",
@@ -637,7 +794,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Montana"
   },
@@ -715,7 +872,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Texas"
   },
@@ -751,7 +908,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Pennsylvania"
   },
@@ -792,7 +949,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "North Carolina"
   },
@@ -833,7 +990,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Florida"
   },
@@ -951,7 +1108,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -2411,7 +2568,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Wisconsin"
   },
@@ -2447,7 +2604,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Virginia"
   },
@@ -2488,7 +2645,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Ohio"
   },
@@ -2529,7 +2686,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "New Jersey"
   },
@@ -2570,7 +2727,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Michigan"
   },
@@ -2606,7 +2763,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Indiana"
   },
@@ -2647,7 +2804,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Illinois"
   },
@@ -2683,7 +2840,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Georgia"
   },
@@ -2719,7 +2876,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Arizona"
   },
@@ -2755,7 +2912,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Alabama"
   },
@@ -3350,7 +3507,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Washington"
   },
@@ -3391,7 +3548,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Tennessee"
   },
@@ -3432,7 +3589,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "South Carolina"
   },
@@ -3473,7 +3630,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Oregon"
   },
@@ -3514,7 +3671,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Missouri"
   },
@@ -3555,7 +3712,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Minnesota"
   },
@@ -3596,7 +3753,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Maryland"
   },
@@ -3632,7 +3789,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Louisiana"
   },
@@ -3668,7 +3825,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Kentucky"
   },
@@ -3709,7 +3866,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Connecticut"
   },
@@ -3750,7 +3907,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "Colorado"
   },
@@ -7281,7 +7438,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -8152,7 +8309,7 @@
     "seat_name": null,
     "tracking": false,
     "headToHead": false,
-    "inAvg": false,
+    "inAvg": true,
     "cycle": "2020",
     "state": "National"
   },
@@ -8198,6 +8355,42 @@
     "state": "Florida"
   },
   {
+    "id": "136592",
+    "subgroup": "All polls",
+    "sampleSize": "484",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://www.southdacola.com/blog/2020/11/survey-nielson-brothers-polling-nbp-statewide-survey-october-24-28-2020/",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-28",
+    "pollster": "Nielson Brothers Polling",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "40.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "55.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Jorgensen",
+        "pct": "3.0",
+        "party": "Lib"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "South Dakota"
+  },
+  {
     "id": "136277",
     "subgroup": "All polls",
     "sampleSize": "2500",
@@ -8227,6 +8420,192 @@
     "inAvg": true,
     "cycle": "2020",
     "state": "National"
+  },
+  {
+    "id": "136598",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "lv",
+    "grade": "",
+    "url": "https://medium.com/wick-research/predicting-2020-research-on-the-research-57ad9b7b3d5a",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-25",
+    "pollster": "Wick",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "48.4",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "48.1",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Michigan"
+  },
+  {
+    "id": "136597",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "lv",
+    "grade": "",
+    "url": "https://medium.com/wick-research/predicting-2020-research-on-the-research-57ad9b7b3d5a",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-25",
+    "pollster": "Wick",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": "136596",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "lv",
+    "grade": "",
+    "url": "https://medium.com/wick-research/predicting-2020-research-on-the-research-57ad9b7b3d5a",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-25",
+    "pollster": "Wick",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.9",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.4",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Georgia"
+  },
+  {
+    "id": "136595",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "lv",
+    "grade": "",
+    "url": "https://medium.com/wick-research/predicting-2020-research-on-the-research-57ad9b7b3d5a",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-25",
+    "pollster": "Wick",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "46.5",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.4",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Ohio"
+  },
+  {
+    "id": "136594",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "lv",
+    "grade": "",
+    "url": "https://medium.com/wick-research/predicting-2020-research-on-the-research-57ad9b7b3d5a",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-25",
+    "pollster": "Wick",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.2",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "49.4",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "North Carolina"
+  },
+  {
+    "id": "136593",
+    "subgroup": "All polls",
+    "sampleSize": "1000",
+    "population": "lv",
+    "grade": "",
+    "url": "https://medium.com/wick-research/predicting-2020-research-on-the-research-57ad9b7b3d5a",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-25",
+    "pollster": "Wick",
+    "answers": [
+      {
+        "choice": "Biden",
+        "pct": "47.2",
+        "party": "Dem"
+      },
+      {
+        "choice": "Trump",
+        "pct": "50.1",
+        "party": "Rep"
+      }
+    ],
+    "type": "president-general",
+    "seat_name": null,
+    "tracking": false,
+    "headToHead": false,
+    "inAvg": true,
+    "cycle": "2020",
+    "state": "Florida"
   },
   {
     "id": "136531",
@@ -9019,6 +9398,76 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Iowa"
+  },
+  {
+    "id": "136607",
+    "subgroup": "All polls",
+    "sampleSize": "1024",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://twitter.com/ChangePolls/status/1323483493968474112?s=20",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-02",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Gideon",
+        "pct": "54.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Collins",
+        "pct": "46.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Maine"
+  },
+  {
+    "id": "136603",
+    "subgroup": "All polls",
+    "sampleSize": "1024",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://docs.google.com/spreadsheets/d/1eBWQtr-cx1ECGu-dsFcF_VdhnFfyRPd3qz3zcTmhdFY/edit#gid=1166077921",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-02",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Gideon",
+        "pct": "46.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Collins",
+        "pct": "42.0",
+        "party": "Rep"
+      },
+      {
+        "choice": "Savage",
+        "pct": "7.0",
+        "party": "Ind"
+      },
+      {
+        "choice": "Linn",
+        "pct": "2.0",
+        "party": "Ind"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Maine"
   },
   {
     "id": "136576",
@@ -10546,6 +10995,36 @@
     "state": "Massachusetts"
   },
   {
+    "id": "136599",
+    "subgroup": "All polls",
+    "sampleSize": "479",
+    "population": "lv",
+    "grade": "C/D",
+    "url": "https://www.southdacola.com/blog/2020/11/survey-nielson-brothers-polling-nbp-statewide-survey-october-24-28-2020/",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-24",
+    "endDate": "2020-10-28",
+    "pollster": "Nielson Brothers Polling",
+    "answers": [
+      {
+        "choice": "Ahlers",
+        "pct": "39.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Rounds",
+        "pct": "56.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "senate",
+    "seat_name": "Class II",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "South Dakota"
+  },
+  {
     "id": "136534",
     "subgroup": "All polls",
     "sampleSize": "191",
@@ -10615,6 +11094,68 @@
     "headToHead": false,
     "cycle": "2020",
     "state": "Missouri",
+    "district": "2"
+  },
+  {
+    "id": "136604",
+    "subgroup": "All polls",
+    "sampleSize": "475",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://docs.google.com/spreadsheets/d/1eBWQtr-cx1ECGu-dsFcF_VdhnFfyRPd3qz3zcTmhdFY/edit#gid=1166077921",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-02",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Golden",
+        "pct": "53.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Crafts",
+        "pct": "44.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Maine",
+    "district": "2"
+  },
+  {
+    "id": "136591",
+    "subgroup": "All polls",
+    "sampleSize": "586",
+    "population": "lv",
+    "grade": "C-",
+    "url": "https://docs.google.com/spreadsheets/d/19LDCjGkae7_DJHp2KMN79Uq0aukFrQRibJLDjriTMqY/edit#gid=1236548106",
+    "created_at": "2020-11-02",
+    "startDate": "2020-10-29",
+    "endDate": "2020-11-02",
+    "pollster": "Change Research",
+    "answers": [
+      {
+        "choice": "Elliott",
+        "pct": "48.0",
+        "party": "Dem"
+      },
+      {
+        "choice": "Hill",
+        "pct": "48.0",
+        "party": "Rep"
+      }
+    ],
+    "type": "house",
+    "seat_name": "District 2",
+    "tracking": false,
+    "headToHead": false,
+    "cycle": "2020",
+    "state": "Arkansas",
     "district": "2"
   },
   {
